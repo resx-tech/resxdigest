@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "name": "Allegretto al Forno",
+    "date": "opens summer 2026",
+    "blurb": "Michelin-starred Francie's casual sibling: wood-fired Neapolitan pies, Williamsburg.",
+    "city": "NYC",
+    "website": "https://www.allegrettobrooklyn.com",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "cover_image_post": ""
+  },
+  {
+    "name": "Dishoom",
+    "date": "opens 2027",
+    "blurb": "London's cult Bombay caf\u00e9 finally lands in NoMad \u2014 black dal incoming.",
+    "city": "NYC",
+    "website": "https://www.dishoom.com",
+    "instagram_handle": "@dishoom",
+    "instagram_url": "https://www.instagram.com/dishoom/",
+    "cover_image_post": "https://www.instagram.com/p/DWVv7n5lbdn/"
+  },
+  {
+    "name": "Oriana",
+    "date": "May 28",
+    "blurb": "Noortwyck vets burn everything beautifully: live-fire feasts, 7,000-bottle cellar, Nolita.",
+    "city": "NYC",
+    "website": "https://www.oriananewyork.com",
+    "instagram_handle": "@oriana.nyc",
+    "instagram_url": "https://www.instagram.com/oriana.nyc/",
+    "cover_image_post": "https://www.instagram.com/p/DY53ocYG9qC/"
+  },
+  {
+    "name": "Rosina",
+    "date": "opens June 29",
+    "blurb": "Trinity's Adam Byatt goes full Italian for his most personal restaurant yet, Wandsworth Common.",
+    "city": "LDN",
+    "website": "https://rosinarestaurant.co.uk",
+    "instagram_handle": "@rosina.restaurant",
+    "instagram_url": "https://www.instagram.com/rosina.restaurant/",
+    "cover_image_post": ""
+  },
+  {
+    "name": "Roost",
+    "date": "opens June 29",
+    "blurb": "Algerian-spiced 24-hour brined rotisserie chicken in Forest Gate's railway arches \u2014 very local, very cool.",
+    "city": "LDN",
+    "website": "",
+    "instagram_handle": "@roost_e7",
+    "instagram_url": "https://www.instagram.com/roost_e7/",
+    "cover_image_post": ""
+  },
+  {
+    "name": "Langosteria",
+    "date": "opens July 2026",
+    "blurb": "Milan's fashion-world seafood haunt finally opens its long-delayed London debut at The OWO.",
+    "city": "LDN",
+    "website": "",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "cover_image_post": ""
+  }
+]
