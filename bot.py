@@ -492,10 +492,15 @@ def city_prefix(item: dict) -> str:
 
 
 def safe_link(url: str, label: str) -> str:
-    """Return a Slack mrkdwn link, stripping chars that break the <url|label> format."""
-    url = url.replace("<", "").replace(">", "").replace("|", "%7C")
-    label = label.replace("<", "").replace(">", "").replace("|", "-")
+    """Return a Slack mrkdwn link, encoding chars that break the <url|label> format."""
+    url = url.replace("&", "&amp;").replace("<", "").replace(">", "").replace("|", "%7C")
+    label = label.replace("<", "").replace(">", "").replace("|", "-").replace("&", "&amp;")
     return f"<{url}|{label}>"
+
+
+def safe_text(text: str, limit: int = 2950) -> str:
+    """Truncate block text to Slack's 3000-char section limit."""
+    return text[:limit] if len(text) > limit else text
 
 
 def format_opening_item(item: dict) -> str:
@@ -640,7 +645,7 @@ def build_slack_blocks(
     if hospitality:
         blocks.append({
             "type": "section",
-            "text": {"type": "mrkdwn", "text": f"*🌟  HOSPITALITY*\n\n{format_news_items(hospitality)}"},
+            "text": {"type": "mrkdwn", "text": safe_text(f"*🌟  HOSPITALITY*\n\n{format_news_items(hospitality)}")},
         })
         blocks.append({"type": "divider"})
 
@@ -648,7 +653,7 @@ def build_slack_blocks(
     if industry:
         blocks.append({
             "type": "section",
-            "text": {"type": "mrkdwn", "text": f"*🏢  INDUSTRY*\n\n{format_news_items(industry)}"},
+            "text": {"type": "mrkdwn", "text": safe_text(f"*🏢  INDUSTRY*\n\n{format_news_items(industry)}")},
         })
         blocks.append({"type": "divider"})
 
@@ -662,7 +667,7 @@ def build_slack_blocks(
         if landscape_text:
             blocks.append({
                 "type": "section",
-                "text": {"type": "mrkdwn", "text": f"*🗺️  LANDSCAPE*\n\n{landscape_text}"},
+                "text": {"type": "mrkdwn", "text": safe_text(f"*🗺️  LANDSCAPE*\n\n{landscape_text}")},
             })
             blocks.append({"type": "divider"})
 
@@ -670,7 +675,7 @@ def build_slack_blocks(
     if city_pulse:
         blocks.append({
             "type": "section",
-            "text": {"type": "mrkdwn", "text": f"*🏙️  CITY PULSE*\n\n{format_news_items(city_pulse)}"},
+            "text": {"type": "mrkdwn", "text": safe_text(f"*🏙️  CITY PULSE*\n\n{format_news_items(city_pulse)}")},
         })
         blocks.append({"type": "divider"})
 
@@ -678,7 +683,7 @@ def build_slack_blocks(
     if specials:
         blocks.append({
             "type": "section",
-            "text": {"type": "mrkdwn", "text": f"*✨  SPECIALS & COLLABS*\n\n{format_news_items(specials)}"},
+            "text": {"type": "mrkdwn", "text": safe_text(f"*✨  SPECIALS & COLLABS*\n\n{format_news_items(specials)}")},
         })
         blocks.append({"type": "divider"})
 
@@ -686,7 +691,7 @@ def build_slack_blocks(
     if ai_tech:
         blocks.append({
             "type": "section",
-            "text": {"type": "mrkdwn", "text": f"*🤖  AI & TECH*\n\n{format_news_items(ai_tech)}"},
+            "text": {"type": "mrkdwn", "text": safe_text(f"*🤖  AI & TECH*\n\n{format_news_items(ai_tech)}")},
         })
 
     blocks.append({"type": "divider"})
@@ -781,7 +786,11 @@ def main():
         new_competitors=new_competitors,
     )
 
-    print("Posting to Slack...")
+    print(f"Posting to Slack... ({len(blocks)} blocks)")
+    for i, b in enumerate(blocks):
+        txt = b.get("text", {}).get("text", "")
+        if txt:
+            print(f"  block[{i}] len={len(txt)}: {txt[:80]!r}")
     post_to_slack(blocks)
     print("Done ✓")
 
