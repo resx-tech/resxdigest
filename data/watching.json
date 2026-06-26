@@ -1,15 +1,5 @@
 [
   {
-    "name": "Allegretto al Forno",
-    "date": "opens summer 2026",
-    "blurb": "Michelin-starred Francie's casual sibling: wood-fired Neapolitan pies, Williamsburg.",
-    "city": "NYC",
-    "website": "https://www.allegrettobrooklyn.com",
-    "instagram_handle": "",
-    "instagram_url": "",
-    "cover_image_post": ""
-  },
-  {
     "name": "Dishoom",
     "date": "opens 2027",
     "blurb": "London's cult Bombay caf\u00e9 finally lands in NoMad \u2014 black dal incoming.",
@@ -18,16 +8,6 @@
     "instagram_handle": "@dishoom",
     "instagram_url": "https://www.instagram.com/dishoom/",
     "cover_image_post": "https://www.instagram.com/p/DWVv7n5lbdn/"
-  },
-  {
-    "name": "Oriana",
-    "date": "May 28",
-    "blurb": "Noortwyck vets burn everything beautifully: live-fire feasts, 7,000-bottle cellar, Nolita.",
-    "city": "NYC",
-    "website": "https://www.oriananewyork.com",
-    "instagram_handle": "@oriana.nyc",
-    "instagram_url": "https://www.instagram.com/oriana.nyc/",
-    "cover_image_post": "https://www.instagram.com/p/DY53ocYG9qC/"
   },
   {
     "name": "Rosina",
@@ -57,6 +37,26 @@
     "website": "",
     "instagram_handle": "",
     "instagram_url": "",
+    "cover_image_post": ""
+  },
+  {
+    "name": "Straker's NYC",
+    "date": "opens 2026",
+    "blurb": "TikTok-famous London chef Thomas Straker's butter-forward, British-by-Italy debut in Soho.",
+    "city": "NYC",
+    "website": "",
+    "instagram_handle": "@strakers_nyc",
+    "instagram_url": "https://www.instagram.com/strakers_nyc",
+    "cover_image_post": ""
+  },
+  {
+    "name": "Ugly Baby (Williamsburg)",
+    "date": "opens 2026",
+    "blurb": "NYC's most-mourned Thai spot revives at a new Williamsburg address \u2014 same face-melting heat.",
+    "city": "NYC",
+    "website": "",
+    "instagram_handle": "@uglybabybk",
+    "instagram_url": "https://www.instagram.com/uglybabybk",
     "cover_image_post": ""
   }
 ]
