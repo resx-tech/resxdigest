@@ -2,8 +2,8 @@ name: ResX News Bot
 
 on:
   schedule:
-    # Runs Mon and Fri at 8am ET (13:00 UTC)
-    - cron: "0 13 * * 1,5"
+    # Runs Mon and Fri at 8am ET (12:00 UTC during EDT, UTC-4)
+    - cron: "0 12 * * 1,5"
   workflow_dispatch: # allow manual trigger from GitHub UI
 
 jobs:

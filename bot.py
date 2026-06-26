@@ -282,9 +282,9 @@ For each restaurant in BOTH lists return:
 - blurb: 1 punchy sentence, max 12 words — vibe, concept, what makes it notable
 - city: "{city_key}"
 - website: only if you can confirm the URL resolves. Leave blank if unsure.
-- instagram_handle: e.g. @restaurantname — only if confirmed
-- instagram_url: full Instagram profile URL — only if confirmed
-- cover_image_post: URL to a specific Instagram POST with great food/vibe photo — only if confirmed
+- instagram_handle: official Instagram handle e.g. @restaurantname — search for it, required
+- instagram_url: full official Instagram profile URL — required, search for it (e.g. https://www.instagram.com/restaurantname)
+- cover_image_post: URL to a UGC post from an influencer or regular person (NOT the restaurant's own account) that showcases the food or vibe — Instagram reel, TikTok, or post. Must be a real person's account. Only include if you've confirmed the URL exists.
 
 For JUST OPENED also find 3-5 UGC posts (Instagram reels or TikToks) from food creators
 (not the restaurant's own account). For each include the URL and a short label — creator handle
@@ -519,7 +519,7 @@ def format_opening_item(item: dict) -> str:
     elif ig_handle:
         name_str += f"  ·  {ig_handle}"
     if cover:
-        name_str += f"  ·  {safe_link(cover, 'cover image')}"
+        name_str += f"  ·  {safe_link(cover, 'ugc cover')}"
 
     lines = [name_str]
     if blurb:
