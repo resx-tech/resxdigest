@@ -195,5 +195,18 @@
     "merged_from": [
       "cassette::LDN"
     ]
+  },
+  {
+    "name": "Romae",
+    "date": "June 2026",
+    "blurb": "West Village Argentine-Italian spot with house-made pasta, empanadas, and wood-fired steak.",
+    "city": "NYC",
+    "website": "https://www.romaewestvillage.com/",
+    "instagram_handle": "@romaewestvillage",
+    "instagram_url": "https://www.instagram.com/romaewestvillage/",
+    "category": "watching",
+    "id": "romae::NYC",
+    "importance_rank": 1,
+    "merged_from": []
   }
 ]
