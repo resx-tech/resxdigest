@@ -466,5 +466,75 @@
     "url": "https://www.hot-dinners.com/London-restaurants/South-London/cantinera-brockley",
     "reason": "Genuinely interesting but south London outer neighbourhood, limited audience fit for ResX's core 25-35 going-out crowd; no post permalink retrieved",
     "source_type": "researched"
+  },
+  {
+    "date": "2026-07-28",
+    "subject": "Hon's BBQ Hackney Wick",
+    "url": "https://www.instagram.com/honsbbq/",
+    "reason": "Account URL already in sent list \u2014 dedup block",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-07-28",
+    "subject": "Soraya Marylebone (Zephyr/Lagana/Nina team)",
+    "url": "https://www.instagram.com/sorayamarylebone/",
+    "reason": "Account URL already in sent list \u2014 dedup block on the verified account",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-07-28",
+    "subject": "Go Greek Yogurt Mayfair",
+    "url": "https://www.hot-dinners.com/2026060315111/Gastroblog/Latest-news/go-greek-yoghurt-opening-london",
+    "reason": "Opened July 11 \u2014 over two weeks ago, no longer catching the wave up; momentum past peak vs. today's actual breaking stories",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-07-28",
+    "subject": "Nakimushi (Dorian/Eel Sushi team Notting Hill)",
+    "url": "https://thenudge.com/nakimushi/",
+    "reason": "Autumn 2026 opening \u2014 not timely today, no hook beyond future anticipation",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-07-28",
+    "subject": "Resy NYC Hit List July adds (Socceria, Meju, Lei)",
+    "url": "https://blog.resy.com/the-hit-list/nyc-restaurants/",
+    "reason": "Roundup only \u2014 no single-subject article or post permalink retrievable within fetch budget; rules prohibit using roundup as lead link",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-07-28",
+    "subject": "Waterhouse by Gabriel Waterhouse, Hackney",
+    "url": "https://thenudge.com/london-restaurants-opening-soon/",
+    "reason": "Opens August 6 \u2014 not today-specific enough and no separate article or post permalink confirmed",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-07-28",
+    "subject": "SO|LA Notting Hill chef's counter reopening",
+    "url": "https://www.designmynight.com/london/blog/new-restaurants-london",
+    "reason": "Opened July 3 \u2014 three-week-old opening, no fresh hook today; wave already up",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-07-28",
+    "subject": "Langosteria The OWO London",
+    "url": "https://www.instagram.com/langosteria/",
+    "reason": "Account URL already in sent list \u2014 dedup block; moment also already mid-roll at nearly 4 weeks open",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-07-28",
+    "subject": "KID (Serta\u00e7 Dirik x David Carter) Soho",
+    "url": "https://thenudge.com/kid/",
+    "reason": "September 2026 opening \u2014 not timely today",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-07-28",
+    "subject": "Cassette (Levan team French bistro) Covent Garden",
+    "url": "https://thenudge.com/cassette/",
+    "reason": "September 2026 opening \u2014 not timely today",
+    "source_type": "researched"
   }
 ]
