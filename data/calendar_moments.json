@@ -49,10 +49,22 @@
       "hint": "National Beer Day is coming up — craft taprooms, brewery collabs, beer-hall moments"
     },
     {
+      "month": 4,
+      "day": 12,
+      "name": "National Grilled Cheese Day",
+      "hint": "National Grilled Cheese Day is coming up — melts, viral grilled-cheese spots, cheese-pull moments"
+    },
+    {
       "month": 5,
       "day": 5,
       "name": "Cinco de Mayo",
       "hint": "Cinco de Mayo is days away — Mexican restaurant collabs, mezcal/tequila moments worth noting"
+    },
+    {
+      "month": 5,
+      "day": 13,
+      "name": "World Cocktail Day",
+      "hint": "World Cocktail Day is coming up — signature cocktails, cocktail-bar moments, the drink everyone's ordering"
     },
     {
       "month": 5,
@@ -80,6 +92,18 @@
     },
     {
       "month": 7,
+      "day": 6,
+      "name": "National Fried Chicken Day",
+      "hint": "National Fried Chicken Day is coming up — fried-chicken sandwiches, Korean/Nashville spots, chicken collabs"
+    },
+    {
+      "month": 7,
+      "day": 14,
+      "name": "National Mac and Cheese Day",
+      "hint": "National Mac and Cheese Day is coming up — mac-and-cheese specials, comfort-food moments"
+    },
+    {
+      "month": 7,
       "day": 17,
       "name": "National Hot Dog Day",
       "hint": "National Hot Dog Day is this week — hot dog collabs, NYC cart culture moments, limited-run dogs"
@@ -89,6 +113,12 @@
       "day": 24,
       "name": "National Tequila Day",
       "hint": "National Tequila Day is coming up (Jul 24) — tequila & margarita specials, agave/mezcal cocktails, and tequila bars having a moment in NYC and London"
+    },
+    {
+      "month": 7,
+      "day": 30,
+      "name": "National Cheesecake Day",
+      "hint": "National Cheesecake Day is coming up — Basque/NY cheesecake, viral slices, dessert moments"
     },
     {
       "month": 8,
@@ -107,6 +137,12 @@
       "day": 16,
       "name": "National Rum Day",
       "hint": "National Rum Day is coming up — tiki bars, daiquiris, rum-cocktail moments"
+    },
+    {
+      "month": 9,
+      "day": 16,
+      "name": "National Guacamole Day",
+      "hint": "National Guacamole Day is coming up — tableside guac, Mexican spots, margarita-and-guac moments"
     },
     {
       "month": 9,
@@ -143,6 +179,12 @@
       "day": 23,
       "name": "National Espresso Day",
       "hint": "National Espresso Day is coming up — espresso martinis (the audience's drink), cafe culture, coffee-cocktail moments"
+    },
+    {
+      "month": 12,
+      "day": 4,
+      "name": "National Cookie Day",
+      "hint": "National Cookie Day is coming up — viral cookie shops, warm-cookie moments, cookie collabs"
     }
   ],
   "movable": [
@@ -166,6 +208,26 @@
       "nth": 3,
       "name": "National Ice Cream Day",
       "hint": "National Ice Cream Day is coming up — viral scoop shops, soft-serve moments, ice-cream collabs (peak summer)"
+    }
+  ],
+  "moments": [
+    {
+      "date": "2026-05-16",
+      "end_date": "2026-05-17",
+      "name": "EEEEEATSCON (LA)",
+      "hint": "The Infatuation's EEEEEATSCON is on in LA (May 16-17) — food-festival moments, chef collabs, the dishes everyone's posting"
+    },
+    {
+      "date": "2026-08-23",
+      "end_date": "2026-09-13",
+      "name": "US Open (NYC)",
+      "hint": "The US Open is on in NYC (Aug 23-Sep 13, Flushing Meadows) — honey deuce cocktails, watch-party spots, courtside celeb sightings, tennis-core dining"
+    },
+    {
+      "date": "2026-10-15",
+      "end_date": "2026-10-18",
+      "name": "NYC Wine & Food Festival",
+      "hint": "NYCWFF is on (Oct 15-18) — celebrity-chef events, tastings, and the parties/dishes worth posting"
     }
   ]
 }

@@ -429,8 +429,9 @@ def log_run_event(today_iso: str, trigger: str, outcome: str, detail: str = ""):
 # ---------------------------------------------------------------------------
 
 CALENDAR = [
-    # Food/drink days are NOT here — they live in the shared data/food_days.json (read by both
-    # bots). This list is holidays/observances only, where a special_header may apply.
+    # Food/drink days and one-off events are NOT here — they live in the shared
+    # data/calendar_moments.json (read by both bots). This list is holidays/observances only,
+    # where a special_header may apply.
     (1,  1,  "New Year's Day",          "🥂 New Year's Edition",    "New Year's is tomorrow — look for NYE dining, top tables for the year, and resolution menus",                       False),
     (2, 14,  "Valentine's Day",          "❤️ Valentine's Edition",   "Valentine's Day is coming — look for romantic dining, prix-fixe specials, and date-night spots",                     False),
     (7,  4,  "Fourth of July",           "🇺🇸 Special Edition",      "Fourth of July is days away — look for patriotic dining content, summer entertaining, and July 4th specials in NYC", False),
@@ -442,41 +443,58 @@ CALENDAR = [
 ]
 
 
-# Food & drink days live in a SHARED data file (data/food_days.json) read by BOTH bots, so a day
-# added once shows up in the digest AND the social bot. Deliberately shared as DATA, not code —
-# bot.py and social_bot.py stay independent modules with no cross-imports.
-# A hint only PRIMES research toward that day's specials/collabs; it never forces content, and the
-# relevance filter still gates what actually posts, so a long list doesn't create noise.
-FOOD_DAYS_FILE = Path("data/food_days.json")
+# Cultural moments live in a SHARED data file (data/calendar_moments.json) read by BOTH bots, so a
+# moment added once shows up in the digest AND the social bot. Shared as DATA, not code — bot.py and
+# social_bot.py stay independent modules with no cross-imports. Three kinds:
+#   fixed:   recurring food/drink days on a fixed month/day
+#   movable: recurring food days on the Nth weekday of a month (e.g. 1st Friday of June)
+#   moments: one-off dated events/releases (US Open, a festival, a premiere) — year-specific
+# A hint only PRIMES research toward that moment; it never forces content, and the relevance filter
+# still gates what posts. Both bots ALSO surface these prominently at the top so nobody misses them.
+CALENDAR_MOMENTS_FILE = Path("data/calendar_moments.json")
 
 
 def _nth_weekday(year: int, month: int, weekday: int, n: int) -> datetime.date:
-    """Date of the nth <weekday> in a month (weekday: Mon=0..Sun=6) — for food days that fall on
+    """Date of the nth <weekday> in a month (weekday: Mon=0..Sun=6) — for days that fall on
     e.g. the 'first Friday of June' rather than a fixed calendar date."""
     first = datetime.date(year, month, 1)
     offset = (weekday - first.weekday()) % 7
     return first + datetime.timedelta(days=offset + 7 * (n - 1))
 
 
-def active_food_day_hints(today: datetime.date, window: int = 7) -> list:
-    """Hints for every food/drink day (fixed or movable) falling within `window` days of today."""
-    data = load_json(FOOD_DAYS_FILE, {}) or {}
-    hints = []
+def upcoming_calendar_moments(today: datetime.date, window: int = 7) -> list:
+    """Every cultural moment within `window` days (or currently ongoing, for multi-day events),
+    soonest first. Returns dicts: {name, hint, days_until} (days_until clamped to 0 for
+    today/ongoing). Drives both the research hint-injection AND the top-of-message callouts."""
+    data = load_json(CALENDAR_MOMENTS_FILE, {}) or {}
+    out = []
     for e in data.get("fixed", []) or []:
         try:
             day = datetime.date(today.year, int(e["month"]), int(e["day"]))
         except (KeyError, TypeError, ValueError):
             continue
-        if 0 <= (day - today).days <= window:
-            hints.append(e.get("hint", ""))
+        du = (day - today).days
+        if 0 <= du <= window:
+            out.append({"name": e.get("name", ""), "hint": e.get("hint", ""), "days_until": du})
     for e in data.get("movable", []) or []:
         try:
             day = _nth_weekday(today.year, int(e["month"]), int(e["weekday"]), int(e["nth"]))
         except (KeyError, TypeError, ValueError):
             continue
-        if 0 <= (day - today).days <= window:
-            hints.append(e.get("hint", ""))
-    return [h for h in hints if h]
+        du = (day - today).days
+        if 0 <= du <= window:
+            out.append({"name": e.get("name", ""), "hint": e.get("hint", ""), "days_until": du})
+    for e in data.get("moments", []) or []:
+        try:
+            start = datetime.date.fromisoformat(e["date"])
+            end = datetime.date.fromisoformat(e["end_date"]) if e.get("end_date") else start
+        except (KeyError, TypeError, ValueError):
+            continue
+        du = (start - today).days
+        if du <= window and today <= end:  # upcoming within window, or ongoing
+            out.append({"name": e.get("name", ""), "hint": e.get("hint", ""), "days_until": max(du, 0)})
+    out.sort(key=lambda m: m["days_until"])
+    return [m for m in out if m["name"] or m["hint"]]
 
 
 def get_holiday_context(today: datetime.date) -> dict:
@@ -504,8 +522,8 @@ def get_holiday_context(today: datetime.date) -> dict:
                 else:
                     special_header = header_tpl
 
-    # Comprehensive food & drink days from the shared calendar — 7-day window, hint only.
-    hints.extend(active_food_day_hints(today))
+    # Cultural moments from the shared calendar (food days + events) — 7-day window, hint only.
+    hints.extend(m["hint"] for m in upcoming_calendar_moments(today) if m["hint"])
 
     # Month-long observances
     if today.month == 6:
@@ -932,6 +950,9 @@ has written it up yet.
 Look for:
 - Cultural trends: what the city is obsessed with, experiences people are seeking out
 - Social moments driving people to make plans
+- Big cultural anchors landing this week — the START of a major event (a tournament like the
+  US Open, a festival, fashion week), a hyped movie release or TV season finale — with the
+  dining / going-out angle ResX could build around it
 - Celebrity or cultural figure spotted at a restaurant — the gossip-meets-dining crossover
   (e.g. "Sabrina Carpenter caught at Emmets on Grove" — this kind of micro-moment is gold)
 - Brand × food collabs going viral on social media (e.g. a yogurt brand doing a froyo pop-up,
@@ -1532,10 +1553,26 @@ def build_slack_blocks(
         blocks.append({"type": "divider"})
 
     # ── 3. City & Culture ────────────────────────────────────────────────────
-    if culture:
+    culture_moments = upcoming_calendar_moments(datetime.date.today())
+    if culture or culture_moments:
+        parts = ["*🏙️  CITY & CULTURE*"]
+        if culture_moments:
+            today = datetime.date.today()
+
+            def _when(du):
+                if du == 0:
+                    return "today"
+                if du == 1:
+                    return "tomorrow"
+                return (today + datetime.timedelta(days=du)).strftime("%a")
+            radar = "   ·   ".join(f"{m['name']} _{_when(m['days_until'])}_"
+                                   for m in culture_moments if m["name"])
+            parts.append(f"📅 *Coming up:*  {radar}")
+        if culture:
+            parts.append(format_news_items(culture))
         blocks.append({
             "type": "section",
-            "text": {"type": "mrkdwn", "text": safe_text(f"*🏙️  CITY & CULTURE*\n\n{format_news_items(culture)}")},
+            "text": {"type": "mrkdwn", "text": safe_text("\n\n".join(parts))},
         })
         blocks.append({"type": "divider"})
 

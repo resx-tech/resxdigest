@@ -33,9 +33,9 @@ LAST_POST_FILE = Path("data/last_social_post.json")
 PINNED_LEADS_FILE = Path("data/social_pinned_leads.json")
 SKIPPED_LOG_FILE = Path("data/social_skipped_log.json")
 TRACKED_RESTAURANTS_FILE = Path("data/social_tracked_restaurants.json")
-# Shared with bot.py (the digest) — one source of truth for food/drink days, so a day added once
-# shows up in BOTH. Shared as DATA, not code; the two bots stay independent modules.
-FOOD_DAYS_FILE = Path("data/food_days.json")
+# Shared with bot.py (the digest) — one source of truth for cultural moments (food/drink days +
+# one-off events/releases), so a moment added once shows up in BOTH bots. Data, not code.
+CALENDAR_MOMENTS_FILE = Path("data/calendar_moments.json")
 
 # Scoring now drives RANK ORDER only (not an absolute cutoff). The axes are the taste
 # rubric a good social editor actually uses to decide "should ResX post this today?"
@@ -239,33 +239,47 @@ def safe_link(url: str, label: str) -> str:
 
 
 def _nth_weekday(year: int, month: int, weekday: int, n: int) -> datetime.date:
-    """Date of the nth <weekday> in a month (weekday: Mon=0..Sun=6) — for food days that fall on
+    """Date of the nth <weekday> in a month (weekday: Mon=0..Sun=6) — for days that fall on
     e.g. the 'first Friday of June' rather than a fixed calendar date."""
     first = datetime.date(year, month, 1)
     offset = (weekday - first.weekday()) % 7
     return first + datetime.timedelta(days=offset + 7 * (n - 1))
 
 
-def active_food_day_hints(today: datetime.date, window: int = 7) -> list:
-    """Food/drink days (fixed or movable) within `window` days, from the calendar shared with the
-    digest bot. These are prime social moments — a tequila day, an ice-cream day, a coffee day."""
-    data = load_json(FOOD_DAYS_FILE, {}) or {}
-    hints = []
+def upcoming_calendar_moments(today: datetime.date, window: int = 7) -> list:
+    """Cultural moments within `window` days (or ongoing, for multi-day events), soonest first,
+    from the calendar shared with the digest bot: food/drink days AND one-off events/releases
+    (US Open, a festival, a premiere). Returns {name, hint, days_until}. These are prime social
+    moments and get surfaced at the TOP of the digest so nobody misses them."""
+    data = load_json(CALENDAR_MOMENTS_FILE, {}) or {}
+    out = []
     for e in data.get("fixed", []) or []:
         try:
             day = datetime.date(today.year, int(e["month"]), int(e["day"]))
         except (KeyError, TypeError, ValueError):
             continue
-        if 0 <= (day - today).days <= window:
-            hints.append(e.get("hint", ""))
+        du = (day - today).days
+        if 0 <= du <= window:
+            out.append({"name": e.get("name", ""), "hint": e.get("hint", ""), "days_until": du})
     for e in data.get("movable", []) or []:
         try:
             day = _nth_weekday(today.year, int(e["month"]), int(e["weekday"]), int(e["nth"]))
         except (KeyError, TypeError, ValueError):
             continue
-        if 0 <= (day - today).days <= window:
-            hints.append(e.get("hint", ""))
-    return [h for h in hints if h]
+        du = (day - today).days
+        if 0 <= du <= window:
+            out.append({"name": e.get("name", ""), "hint": e.get("hint", ""), "days_until": du})
+    for e in data.get("moments", []) or []:
+        try:
+            start = datetime.date.fromisoformat(e["date"])
+            end = datetime.date.fromisoformat(e["end_date"]) if e.get("end_date") else start
+        except (KeyError, TypeError, ValueError):
+            continue
+        du = (start - today).days
+        if du <= window and today <= end:
+            out.append({"name": e.get("name", ""), "hint": e.get("hint", ""), "days_until": max(du, 0)})
+    out.sort(key=lambda m: m["days_until"])
+    return [m for m in out if m["name"] or m["hint"]]
 
 
 def _salvage_json_array(text: str, key: str) -> list:
@@ -309,7 +323,7 @@ def research_ugc(seen_urls: set, seen_moments: set, seen_songs: set,
         "\n".join(f"- {t.get('name','')} ({t.get('city','')})" for t in tracked)
         if tracked else "none"
     )
-    food_hints = active_food_day_hints(datetime.date.today())
+    food_hints = [m["hint"] for m in upcoming_calendar_moments(datetime.date.today()) if m["hint"]]
     if food_hints:
         food_day_str = (
             "\n═══════════════════════════════════════════════════════════════════════════\n"
@@ -362,6 +376,10 @@ WHAT TO HUNT FOR (wide aperture — this is a culture feed, not a trade publicat
 - POP CULTURE, even with NO restaurant tie — a big movie premiere, a show everyone's watching, a
   major NYC/London city moment (e.g. someone climbing a landmark to propose). If ResX could ride
   it in its social voice, it counts.
+- BIG CULTURAL ANCHORS worth a whole carousel: the START of a major event (a tournament like the
+  US Open, a festival, fashion week), a hyped movie release or TV season finale, a citywide
+  moment. If one is landing this week, build the going-out/dining angle around it (e.g. "US Open
+  starts — the honey-deuce + courtside-dining moment," "the [show] finale — watch-party spots").
 - Timely lifestyle hooks: heatwave treats, marathon, Pride, holiday weekends, first day of patio szn.
 - When a cultural moment or holiday is in play (Bastille Day, a premiere, a heatwave, a big match),
   surface the SPECIFIC venue doing something for it — a deal, a special, a themed menu, a collab —
@@ -884,6 +902,22 @@ def build_slack_blocks(date_str: str, items: list, audio: list, forced: bool = F
                 "type": "mrkdwn",
                 "text": "⚠️ *forced/manual re-run* — a post already went out today, this is a manual override (FORCE_POST=1)",
             }],
+        })
+
+    # Big cultural moments up top so nobody misses them (food days, events, releases).
+    today = datetime.date.today()
+    moments = upcoming_calendar_moments(today)
+    if moments:
+        def _when(du):
+            if du == 0:
+                return "today"
+            if du == 1:
+                return "tomorrow"
+            return (today + datetime.timedelta(days=du)).strftime("%a")
+        radar = "   ·   ".join(f"*{m['name']}* _{_when(m['days_until'])}_" for m in moments if m["name"])
+        blocks.append({
+            "type": "section",
+            "text": {"type": "mrkdwn", "text": f"📅  *On the radar this week*\n{radar}"},
         })
 
     if items:
