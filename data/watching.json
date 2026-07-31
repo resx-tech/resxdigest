@@ -208,5 +208,73 @@
     "id": "romae::NYC",
     "importance_rank": 1,
     "merged_from": []
+  },
+  {
+    "name": "Masani Pizza",
+    "date": "July 2026",
+    "blurb": "New York-style, grandma, and Sicilian slices from the @foodbabyny couple in Forest Hills, Queens.",
+    "city": "NYC",
+    "website": "https://masanipizza.com",
+    "instagram_handle": "@masanipizza",
+    "instagram_url": "https://www.instagram.com/masanipizza/",
+    "category": "watching",
+    "id": "masani pizza::NYC",
+    "importance_rank": 1,
+    "merged_from": []
+  },
+  {
+    "name": "Sourdough Sophia Covent Garden",
+    "date": "July 29",
+    "blurb": "Award-winning north London sourdough bakery opens first central London site.",
+    "city": "LDN",
+    "website": "",
+    "instagram_handle": "@sourdoughsophia",
+    "instagram_url": "https://www.instagram.com/sourdoughsophia/",
+    "category": "watching",
+    "id": "sourdough sophia covent garden::LDN",
+    "importance_rank": 2,
+    "merged_from": []
+  },
+  {
+    "name": "NAKIMUSHI",
+    "date": "opens September 2026",
+    "blurb": "Three-floor Notting Hill townhouse: ramen bar below, Japanese restaurant above.",
+    "city": "LDN",
+    "website": "",
+    "instagram_handle": "@nakimushirestaurant",
+    "instagram_url": "https://www.instagram.com/nakimushirestaurant/",
+    "source_url": "https://www.hot-dinners.com/2026070615197/Gastroblog/Latest-news/nakimushi-dorian-notting-hill-japanese-restaurant-opening-london",
+    "category": "watching",
+    "id": "nakimushi::LDN",
+    "importance_rank": 3,
+    "merged_from": []
+  },
+  {
+    "name": "Lunette",
+    "date": "opens September 2026",
+    "blurb": "Florence Knight's rooftop restaurant on level 11 of Nick Jones' St Clement hotel.",
+    "city": "LDN",
+    "website": "https://lunette.london",
+    "instagram_handle": "@lunette.london",
+    "instagram_url": "https://www.instagram.com/lunette.london/",
+    "source_url": "https://www.hot-dinners.com/2026060115108/Gastroblog/Latest-news/lunette-florence-knight-restaurant-london-180-thames-rooftop",
+    "category": "watching",
+    "id": "lunette::LDN",
+    "importance_rank": 4,
+    "merged_from": []
+  },
+  {
+    "name": "Saltwater",
+    "date": "opens August 13",
+    "blurb": "Milk Beach team's counter-service sushi bar: handrolls, nigiri and donburi in Soho.",
+    "city": "LDN",
+    "website": "",
+    "instagram_handle": "@saltwater.sushi",
+    "instagram_url": "https://www.instagram.com/saltwater.sushi/",
+    "source_url": "https://www.hot-dinners.com/2026052115079/Gastroblog/Latest-news/saltwater-sushi-handrolls-restaurant-soho-london",
+    "category": "watching",
+    "id": "saltwater::LDN",
+    "importance_rank": 5,
+    "merged_from": []
   }
 ]
