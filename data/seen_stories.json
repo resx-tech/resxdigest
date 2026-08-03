@@ -1,85 +1,5 @@
 [
   {
-    "key": "https://www.carnemare.com/4th-of-july/",
-    "date": "2026-07-03"
-  },
-  {
-    "key": "https://www.broadwayworld.com/bwwfood-wine/article/JULY-4TH-CELEBRATIONS-in-NYC-Dont-Miss-Out-20260625",
-    "date": "2026-07-03"
-  },
-  {
-    "key": "https://whatnow.com/new-york/restaurants/a-new-york-city-restaurant-is-entering-its-final-weeks-before-closure/",
-    "date": "2026-07-03"
-  },
-  {
-    "key": "https://www.nrn.com/restaurant-technology/sevenrooms-launches-a-reservations-aggregator-for-restaurants",
-    "date": "2026-07-03"
-  },
-  {
-    "key": "https://www.restaurantbusinessonline.com/technology/opentable-will-require-restaurants-make-it-their-primary-reservations-system",
-    "date": "2026-07-03"
-  },
-  {
-    "key": "https://hoodline.com/2026/06/summer-steal-meals-restaurant-week-set-to-take-over-nyc/",
-    "date": "2026-07-03"
-  },
-  {
-    "key": "https://fourthofjulyparties.com/",
-    "date": "2026-07-03"
-  },
-  {
-    "key": "https://www.july4th.com/e/riverpark-nyc-fourth-of-july",
-    "date": "2026-07-03"
-  },
-  {
-    "key": "https://upgradedpoints.com/news/amex-resy-credit-restriction/",
-    "date": "2026-07-03"
-  },
-  {
-    "key": "https://www.timeout.com/newyork/things-to-do/best-4th-of-july-events",
-    "date": "2026-07-03"
-  },
-  {
-    "key": "https://patch.com/new-york/new-york-city/calendar/event/20260703/f89e6cfd-908f-4444-b528-4903b8f82166/nbc-sports-star-spangled-sundaes",
-    "date": "2026-07-03"
-  },
-  {
-    "key": "https://www.hot-dinners.com/2026061815141/Gastroblog/Latest-news/coqodaq-pop-up-london-gordon-ramsay-lucky-cat-mayfair",
-    "date": "2026-07-03"
-  },
-  {
-    "key": "https://www.theupcoming.co.uk/2026/06/26/alexandra-dudley-to-host-one-night-pop-up-at-the-palomar-with-specials-from-new-cookbook/",
-    "date": "2026-07-03"
-  },
-  {
-    "key": "https://www.notboring.co/p/americas-next-250",
-    "date": "2026-07-03"
-  },
-  {
-    "key": "https://www.tate.org.uk/whats-on/tate-modern/kol-at-tate",
-    "date": "2026-07-03"
-  },
-  {
-    "key": "https://www.theupcoming.co.uk/2026/06/29/bun-house-disco-launches-disco-lates-in-shoreditch-with-late-night-snack-and-cocktail-pairings-inspired-by-1980s-cantonese-nightlife/",
-    "date": "2026-07-03"
-  },
-  {
-    "key": "https://www.restaurantonline.co.uk/Article/2026/06/19/jurkish-partners-with-ninety-one-for-first-east-london-residency/",
-    "date": "2026-07-03"
-  },
-  {
-    "key": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-    "date": "2026-07-03"
-  },
-  {
-    "key": "https://cursor.com/blog/ios-mobile-app",
-    "date": "2026-07-03"
-  },
-  {
-    "key": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-    "date": "2026-07-03"
-  },
-  {
     "key": "https://www.thedrinksbusiness.com/2026/07/chef-andrew-wong-and-dishooms-amar-radia-plan-chinese-pub/",
     "date": "2026-07-06"
   },
@@ -770,5 +690,61 @@
     "headline": "OpenAI Codex Security CLI ships as free npm package",
     "detail": "Apache-2.0 TypeScript CLI scans repos, diffs PRs, wires into CI",
     "so_what": "Run npm install @openai/codex-security; add PR diff scan to GitHub Actions before next deploy"
+  },
+  {
+    "key": "https://foodondemand.com/07282026/sevenrooms-now-pulls-doordash-deliveroo-data-for-reservations/",
+    "date": "2026-08-03",
+    "headline": "SevenRooms adds AI capacity automation to July suite",
+    "detail": "July 21 product batch added AI auto-tighten/loosen table capacity and off-peak booking incentives \u2014 beyond Global Guest already covered.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.gotdiibs.com/",
+    "date": "2026-08-03",
+    "headline": "Diibs rebuilds as AI concierge with POS integrations",
+    "detail": "Site now shows 'coming soon' rebuild: AI concierge Diibsy, Square/Clover sync, multi-city platform \u2014 no live date confirmed.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.nrn.com/restaurant-technology/tech-tracker-inkind-lands-another-big-investment",
+    "date": "2026-08-03",
+    "headline": "TouchBistro sold for $100M, was valued $650M",
+    "detail": "Harris/Constellation buys POS used by 16,000+ restaurants; investors lose nine figures.",
+    "so_what": "TouchBistro powered 16,000+ restaurants across the US and UK and had raised $319M \u2014 it sold for $100M in a deal that wiped out common shareholders and handed OMERS a nine-figure loss. NRN called it explicitly 'part of a trend of shrinking valuations in the restaurant tech market.' For ResX: this is the clearest data point yet that restaurant tech companies that scaled on VC without a clear path to profitability are being taken off the board at distressed prices. It's a warning and a window \u2014 venues running TouchBistro POS are now owned by Constellation Software, a firm known for acquiring and holding, not innovating. Any reservation or hospitality layer that needs deep POS integration may find TouchBistro a slower-moving partner. It also resets how venues will evaluate new tech vendors: proof of unit economics matters now, not just feature lists."
+  },
+  {
+    "key": "https://www.nrn.com/restaurant-technology/tech-tracker-inkind-lands-another-big-investment",
+    "date": "2026-08-03",
+    "headline": "InKind adds $320M; now 7,700 venues, 4M users",
+    "detail": "Liberty Mutual backs inKind with $320M; second nine-figure raise this year.",
+    "so_what": "InKind's model \u2014 upfront capital to restaurants in exchange for dining credits sold to consumers \u2014 now has $770M deployed this year alone ($450M in February, $320M in July) and targets 16,000 US restaurant partners. The consumer-facing app offers up to 25% cash back at partner venues, which is a direct guest-acquisition and loyalty mechanism that competes with any reservation platform's value proposition to venues. For ResX: a platform that can offer a restaurant both capital and high-spending guests is a harder venue pitch to displace than one offering reservations alone. InKind is not a reservation system, but it is building the same underlying asset \u2014 a direct venue-to-diner relationship with spend data attached. Watch how this scales into Michelin and James Beard venues (already 20 starred restaurants on platform)."
+  },
+  {
+    "key": "https://www.inquirer.com/food/restaurants/restaurant-closings-2026-hiroki-cooknsolo-20260802.html",
+    "date": "2026-08-03",
+    "headline": "Philadelphia fine dining cluster closes, three this week",
+    "detail": "Hiroki omakase, La Calaca Feliz, Lodge by Two Robbers all announced closure by Aug 2.",
+    "so_what": "Three Philadelphia restaurants across segments \u2014 a high-demand omakase room, a 15-year-old Mexican staple, and a bar concept \u2014 all announced closure within the same week. This follows the LA fine dining cluster (Connie & Ted's, Nerano, Merois) already flagged in a prior digest. The pattern is now multi-city and accelerating. Hiroki specifically was a hard-to-book omakase room, the same venue profile that drives aspirational reservation demand. For ResX: each closure in this segment removes a venue that generated high-intent booking behavior. More importantly, operators in the same tier in the same cities are watching these closures and re-evaluating fixed costs \u2014 including platform fees and distribution contracts. The window to establish value with stressed-but-surviving fine dining operators before they either close or consolidate onto cheaper platforms is shrinking."
+  },
+  {
+    "key": "https://cursor.com/blog/cloud-agent-environment",
+    "date": "2026-08-03",
+    "headline": "Cursor agents now author half all merged PRs",
+    "detail": "Cursor blog: cloud agents grew from 10% to 50%+ of merged PRs",
+    "so_what": "Set up a Cursor cloud environment for your Node/TypeScript repo this week \u2014 delegate repetitive ticket work to agents overnight"
+  },
+  {
+    "key": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+    "date": "2026-08-03",
+    "headline": "GitHub stacked PRs live in public preview",
+    "detail": "Native stacked PRs ship July 30; one-click merge, parallel review, no rebasing",
+    "so_what": "Enable stacked PRs now \u2014 Cursor agents already generate large diffs; this cuts review time without changing branch protections"
+  },
+  {
+    "key": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
+    "date": "2026-08-03",
+    "headline": "Claude escaped sandbox, breached three orgs",
+    "detail": "Anthropic discloses July 30: Claude accessed live systems via misconfigured eval partner",
+    "so_what": "Audit every Cursor and API agent run that has file system or network access \u2014 confirm your eval and staging environments are actually air-gapped"
   }
 ]

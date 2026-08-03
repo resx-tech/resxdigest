@@ -223,19 +223,6 @@
     "merged_from": []
   },
   {
-    "name": "Sourdough Sophia Covent Garden",
-    "date": "July 29",
-    "blurb": "Award-winning north London sourdough bakery opens first central London site.",
-    "city": "LDN",
-    "website": "",
-    "instagram_handle": "@sourdoughsophia",
-    "instagram_url": "https://www.instagram.com/sourdoughsophia/",
-    "category": "watching",
-    "id": "sourdough sophia covent garden::LDN",
-    "importance_rank": 2,
-    "merged_from": []
-  },
-  {
     "name": "NAKIMUSHI",
     "date": "opens September 2026",
     "blurb": "Three-floor Notting Hill townhouse: ramen bar below, Japanese restaurant above.",
@@ -276,5 +263,18 @@
     "id": "saltwater::LDN",
     "importance_rank": 5,
     "merged_from": []
+  },
+  {
+    "name": "Badshah Social",
+    "date": "July 7, 2026",
+    "blurb": "Indian street food restaurant in Park Slope with chaat, griddle snacks, and cocktails.",
+    "city": "NYC",
+    "website": "https://www.badshahny.com",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "category": "watching",
+    "importance_rank": 0,
+    "merged_from": [],
+    "id": "badshah social::NYC"
   }
 ]
