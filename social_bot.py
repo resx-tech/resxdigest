@@ -41,6 +41,10 @@ CALENDAR_MOMENTS_FILE = Path("data/calendar_moments.json")
 # rubric a good social editor actually uses to decide "should ResX post this today?"
 SCORE_AXES = ("momentum", "stop_scroll", "desire_fit", "timeliness", "source_quality")
 DAILY_TARGET_N = 5  # rank all candidates, surface the best ~this many; never zero.
+# Researched reposts/posts whose POST is older than this (or undated) are dropped — a weeks-old
+# reel is not "fresh". Real gate now, not a prompt hope: web_fetch lets the model verify dates, so
+# this no longer nukes everything like the pre-web_fetch version did. Pinned leads are exempt.
+FRESHNESS_CUTOFF_DAYS = 14
 
 # "Never repeat anything": dedup is permanent, not a rolling window. We block re-sending
 # the exact post URL or the exact song forever; a venue can only come back for a genuinely
@@ -503,6 +507,18 @@ Already-featured moments — do NOT repeat these:
 Already-featured songs — do NOT reuse:
 {songs_str}
 
+═══════════════════════════════════════════════════════════════════════════
+FRESHNESS — the POST itself must be recent, not just the article about it
+═══════════════════════════════════════════════════════════════════════════
+Georgia only wants FRESH content — roughly the last {FRESHNESS_CUTOFF_DAYS} days. Before including
+any repost or post, determine the ACTUAL date the post/Reel was published (its own timestamp, the
+"X days/weeks ago" it shows, or the date of the primary source you pulled it from). A post that
+dropped weeks ago is NOT fresh even if you found it in a recent article — a month-old dirty-martini
+soft-serve reel is exactly the stale content to reject. If it's older than ~{FRESHNESS_CUTOFF_DAYS}
+days, drop it and find a fresher one. Report "posted_days_ago" for every researched repost/post_idea:
+the real age in days of the post (for a post_idea backed by several, use the age of the OLDEST).
+Never guess — if you genuinely can't tell, report 999 (it will be dropped). Pinned leads are exempt.
+
 SCORING (researched items only; skip for pinned). Rate 1-5 on each axis — these decide RANK ORDER,
 so be honest: momentum (on the way up vs. saturated), stop_scroll (does it stop the thumb),
 desire_fit (FOMO + on-brand for ResX's audience), timeliness (a real reason it's today),
@@ -524,10 +540,12 @@ Return ONLY a valid JSON object, no markdown:
   "opportunities": [
     {{"type": "repost", "origin": "researched|pinned", "pinned_input": "...", "headline": "...",
       "subject": "...", "moment": "...", "source_account": "handle_without_@", "city": "NYC|LDN|BOTH",
+      "posted_days_ago": 0,
       "scores": {{"momentum": 1, "stop_scroll": 1, "desire_fit": 1, "timeliness": 1, "source_quality": 1}},
       "post_url": "...", "account_url": "...", "article_url": "..."}},
     {{"type": "post_idea", "origin": "researched|pinned", "pinned_input": "...", "headline": "...",
       "subject": "...", "moment": "...", "source_account": "handle_without_@", "city": "NYC|LDN|BOTH",
+      "posted_days_ago": 0,
       "scores": {{"momentum": 1, "stop_scroll": 1, "desire_fit": 1, "timeliness": 1, "source_quality": 1}},
       "posts": [{{"post_url": "...", "account_url": "...", "why": "..."}}],
       "account_url": "...", "article_url": "..."}}
@@ -544,9 +562,11 @@ Return ONLY a valid JSON object, no markdown:
 }}
 Field notes: "moment" is a short phrase naming the SPECIFIC thing (used for dedup — name the real
 event, not the idea). "subject" is the venue/creator/topic (max 4 words). "source_account" is the
-plain handle (no @) the post/repost comes from, used to avoid featuring one creator twice a day. Include only the fields
-relevant to the item's type. Omit "scores" for pinned items. Use "post_url"/"posts" when you have
-a real permalink; use "article_url" + "account_url" as the lead fallback when you don't.
+plain handle (no @) the post/repost comes from, used to avoid featuring one creator twice a day.
+"posted_days_ago" is the verified age in days of the post (researched items only; 999 if unknown →
+dropped). Include only the fields relevant to the item's type. Omit "scores"/"posted_days_ago" for
+pinned items. Use "post_url"/"posts" when you have a real permalink; use "article_url" +
+"account_url" as the lead fallback when you don't.
 """
 
     result = call_anthropic(
@@ -560,6 +580,9 @@ a real permalink; use "article_url" + "account_url" as the lead fallback when yo
             "moment, web_fetch the article, and pull the real permalink out of the page. "
             "If you truly can't get the permalink, fall back to the editorial article about the "
             "moment PLUS the account (a labeled lead) — never a marketing homepage or a listicle. "
+            "Everything must be FRESH — verify each post's actual publish date and drop anything "
+            "older than about two weeks (a weeks-old reel is stale even if the article is recent); "
+            "report posted_days_ago honestly, 999 if you can't tell. "
             "There is ALWAYS something worth posting: an empty result is a failure, not a quiet "
             "day. Return the best 3-5 every day; don't pad with junk, but don't come back empty. "
             "You never write captions, comments, or copy — you surface the opportunity and the "
@@ -783,6 +806,29 @@ def account_identity(item: dict) -> str:
         return acct
     m = re.search(r"(?:instagram\.com|tiktok\.com)/@?([\w.\-]+)", item.get("account_url") or "")
     return m.group(1).lower() if m else ""
+
+
+def validate_freshness(items: list, today_iso: str, cutoff: int = FRESHNESS_CUTOFF_DAYS) -> tuple:
+    """Drop researched reposts/post_ideas whose post is older than `cutoff` days, or whose age is
+    unknown/unparseable (an undated post is treated as not-fresh). Pinned items never reach here.
+    This is a real deterministic gate — the prompt asks the model to verify dates, this enforces it."""
+    kept, skips = [], []
+    for item in items:
+        raw = item.get("posted_days_ago")
+        try:
+            days = int(raw)
+        except (TypeError, ValueError):
+            days = None
+        if days is None or days > cutoff:
+            skips.append({
+                "date": today_iso, "subject": item.get("subject", ""),
+                "url": (urls_in_item(item) or [""])[0], "reason": "stale_content",
+                "detail": f"posted_days_ago={raw!r} — older than the {cutoff}-day freshness window (or undated)",
+                "source_type": "researched",
+            })
+            continue
+        kept.append(item)
+    return kept, skips
 
 
 def apply_diversity(ordered_items: list, today_iso: str) -> tuple:
@@ -1018,6 +1064,11 @@ def main():
     pinned_kept, pinned_link_skips = tier_and_label(pinned_kept, today_iso, source_type="pinned")
     researched, researched_link_skips = tier_and_label(researched, today_iso, source_type="researched")
 
+    # Freshness gate (researched only — pinned leads are Georgia's own picks, exempt): drop any
+    # post older than the freshness window or with an unknown date. Kills stale content like a
+    # 5-week-old reel slipping in.
+    researched, freshness_skips = validate_freshness(researched, today_iso)
+
     # Rank researched by the taste rubric (scores drive rank order only) and take the best few.
     researched.sort(key=avg_score, reverse=True)
     researched_top = researched[:DAILY_TARGET_N]
@@ -1035,7 +1086,7 @@ def main():
     final_items, diversity_skips = apply_diversity(pinned_kept + researched_top, today_iso)
 
     new_skip_entries = (
-        pinned_skips + pinned_link_skips + researched_link_skips
+        pinned_skips + pinned_link_skips + researched_link_skips + freshness_skips
         + considered_rejected_log + diversity_skips
     )
     print(
