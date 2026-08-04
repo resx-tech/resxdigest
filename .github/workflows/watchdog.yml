@@ -4,7 +4,8 @@ on:
   schedule:
     # Every 30 min, every day — GitHub deprioritizes/drops schedules that
     # only fire a couple times a week, so this checks often (cheap on a
-    # public repo) and the script below no-ops except on Mon/Fri.
+    # public repo) and the steps below no-op except on their bot's days
+    # (digest = Mon/Fri, social = Tue/Thu).
     - cron: "*/30 * * * *"
   workflow_dispatch:
 
@@ -66,3 +67,37 @@ jobs:
 
           echo "Today's run is in status '$STATUS' — retriggering"
           gh workflow run news_bot.yml --repo "$GITHUB_REPOSITORY" --ref main
+
+      # Social bot watchdog. Unlike the digest, social_bot.py has NO atomic run-claim (only a
+      # same-day guard) and its empty-guard fails the run WITHOUT writing last_social_post.json —
+      # so a failed/missed run leaves no post recorded for today, and this retriggers it. The time
+      # window (13:00–18:00 UTC) gives the 12:15-scheduled run time to finish before we consider it
+      # missed (avoids racing a live run), and stops retrying late in the day.
+      - name: Check social bot post state and re-trigger if needed
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DOW=$(date -u +%u)  # 1=Mon .. 7=Sun
+          if [ "$DOW" != "2" ] && [ "$DOW" != "4" ]; then
+            echo "Not a social day (Tue/Thu) — nothing to do"
+            exit 0
+          fi
+
+          HOUR=$(date -u +%H)
+          if [ "$HOUR" -lt 13 ] || [ "$HOUR" -ge 18 ]; then
+            echo "Outside the 13:00–18:00 UTC retrigger window — nothing to do"
+            exit 0
+          fi
+
+          TODAY=$(date -u +%Y-%m-%d)
+          STATE=$(gh api "repos/$GITHUB_REPOSITORY/contents/data/last_social_post.json?ref=main" --jq '.content' 2>/dev/null | base64 -d 2>/dev/null || echo '{}')
+          [ -z "$STATE" ] && STATE='{}'
+          STATE_DATE=$(echo "$STATE" | jq -r '.date // empty')
+
+          if [ "$STATE_DATE" = "$TODAY" ]; then
+            echo "Social bot already posted today ($(echo "$STATE" | jq -r '.posted_at // "unknown time"')) — nothing to do"
+            exit 0
+          fi
+
+          echo "No social post recorded for today ($TODAY) — retriggering social_bot.yml"
+          gh workflow run social_bot.yml --repo "$GITHUB_REPOSITORY" --ref main
