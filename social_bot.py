@@ -446,6 +446,8 @@ For each opportunity, in order:
      hot dog king is giving out 500 free hot dogs outside the Met next week"), NEVER a
      "best restaurants" / "top tables" / "where to book" roundup or a marketing homepage. Attach the
      account only if you can extract its exact real profile URL (omit rather than guess).
+     ⚠️ A roundup/guide URL as the lead is AUTOMATICALLY DROPPED — if a roundup is all you've got,
+     go find the actual post or a single-subject article, or drop the item; never ship the roundup.
 
 BETTER to return 3 items that are REAL POSTS than 6 that are just leads. Prefer fewer, realer.
 Keep leads to a small minority — if you can't get past mostly-articles, return fewer items.
@@ -671,6 +673,30 @@ def is_probably_article(url: str) -> bool:
     return len(path.strip("/")) > 1
 
 
+# A "best restaurants / new openings / top tables / where to book" ROUNDUP or guide is never a
+# valid lead source — a lead must be a SPECIFIC single-subject moment. Roundups are exactly what
+# web_search surfaces for openings, so the model keeps reaching for them; this enforces the ban.
+_ROUNDUP_RE = re.compile(
+    r"(best-(new-)?(restaurants|bars|cafes|coffee|spots|openings|places|eats)"
+    r"|new-(nyc-|ny-|london-|ldn-)?restaurants"
+    r"|new-openings|restaurant-openings|restaurants-opening"
+    r"|opening(s)?-in-|openings?-20\d\d"
+    r"|top-tables|where-to-(eat|book|go|drink)"
+    r"|things-to-do"
+    r"|/guides?/"
+    r"|round-?up"
+    r"|restaurants-to-(book|try|know|visit))",
+    re.I,
+)
+
+
+def is_roundup_url(url: str) -> bool:
+    """True for a roundup/guide URL ('best restaurants', 'new openings', 'top tables', 'where to
+    book', a /guides/ list). These are banned as lead sources — a lead must be a specific
+    single-subject editorial moment."""
+    return bool(url) and bool(_ROUNDUP_RE.search(url.lower()))
+
+
 def tier_and_label(items: list, today_iso: str, source_type: str) -> tuple:
     """The link fallback ladder, enforced deterministically. Tags each kept item with `_tier`:
       - 'post' : a real permalink (repost) or >=1 valid backing post (post_idea)
@@ -683,8 +709,10 @@ def tier_and_label(items: list, today_iso: str, source_type: str) -> tuple:
         item = dict(raw)
         # A lead needs a real editorial article. The account is a bonus, extracted-not-guessed
         # (see the prompt) — we allow an article-only lead so the model omits a shaky account
-        # rather than attach a wrong one (wrong accounts were the #1 complaint).
-        has_article_lead = is_probably_article(item.get("article_url", ""))
+        # rather than attach a wrong one (wrong accounts were the #1 complaint). But a ROUNDUP/guide
+        # URL is NOT a valid lead source (a lead must be a specific single-subject moment).
+        article = item.get("article_url", "")
+        has_article_lead = is_probably_article(article) and not is_roundup_url(article)
 
         if item.get("type") == "post_idea":
             valid_posts = [p for p in item.get("posts", []) or []
@@ -712,7 +740,7 @@ def tier_and_label(items: list, today_iso: str, source_type: str) -> tuple:
         skips.append({
             "date": today_iso, "subject": item.get("subject", ""),
             "url": (urls_in_item(item) or [""])[0], "reason": "no_usable_link",
-            "detail": "no valid post permalink and no editorial-article+account lead",
+            "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
             "source_type": source_type,
         })
     return kept, skips
