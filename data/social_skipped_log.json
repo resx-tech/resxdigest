@@ -599,5 +599,79 @@
     "url": "https://www.hot-dinners.com/2026052015073/Gastroblog/Latest-news/arcus-rooftop-bar-imperial-hotel-bloomsbury-london",
     "reason": "Opening 14 Aug \u2014 too far out for today's post; Bloomsbury rooftop less edgy than target audience skews",
     "source_type": "researched"
+  },
+  {
+    "date": "2026-08-06",
+    "subject": "Miokuru Handroll Bar",
+    "url": "https://www.instagram.com/miokurulondon",
+    "reason": "stale_content",
+    "detail": "posted_days_ago=999 \u2014 older than the 14-day freshness window (or undated)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-06",
+    "subject": "Lady of the Grapes Borough",
+    "url": "https://www.instagram.com/ladyofthegrapes_londonbridge",
+    "reason": "stale_content",
+    "detail": "posted_days_ago=999 \u2014 older than the 14-day freshness window (or undated)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-06",
+    "subject": "Prosciutto East Village",
+    "url": "https://www.theinfatuation.com/new-york/guides/best-new-new-york-restaurants-hit-list",
+    "reason": "Only source is the Infatuation Hit List roundup \u2014 no single-subject article or verified IG permalink found within search/fetch budget; roundup URL automatically dropped per rules",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-06",
+    "subject": "Graciela West Village",
+    "url": "https://www.theinfatuation.com/new-york/guides/best-new-new-york-restaurants-hit-list",
+    "reason": "Only sourced via Infatuation Hit List roundup; no single-subject review URL or Instagram permalink surfaced within fetch budget",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-06",
+    "subject": "National Prosecco Day Aug 13 \u2014 venue specials",
+    "url": "https://www.designmynight.com/london/whats-on/food-drink/national-prosecco-day",
+    "reason": "Only specific offer found was The Sun Inn Barnes (10% off Prosecco) \u2014 too generic and suburban for ResX audience; none of the tracked venues had a confirmed specific special; per instructions, skip the generic tie-in rather than force it",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-06",
+    "subject": "Waterhouse restaurant London",
+    "url": "https://www.gold-flamingo.com/2026/07/30/best-restaurants-and-bars-opening-in-london-in-august-2026/",
+    "reason": "Only sourced via roundup article; ran out of fetch budget before drilling to single-subject article or IG account",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-06",
+    "subject": "Soraya London (Zephyr/Lagana/Nina team)",
+    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-august-2026",
+    "reason": "Hot Dinners page JS-redirected and could not be fetched; already featured as a moment (sorayamarylebone IG already in sent URL list); skipped",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-06",
+    "subject": "Hungry Spicy Chelsea (Thai heat concept)",
+    "url": "https://www.theinfatuation.com/new-york/guides/best-new-new-york-restaurants-hit-list",
+    "reason": "Only sourced via roundup; no single-subject article or IG permalink confirmed; below threshold for this day's slate",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-06",
+    "subject": "Zig Zag Oyster Bar Brooklyn",
+    "url": "https://blog.resy.com/2026/07/zig-zag-oyster-bar-nyc/",
+    "reason": "Strong candidate (Cervo's team, very on-brand) but Resy article published July 2026 (~1 month ago) \u2014 the moment has been building for a few weeks; posted_days_ago on any IG post could not be confirmed (999); dropped to avoid stale content; worth revisiting if a fresh IG post surfaces",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-06",
+    "pinned_input": "",
+    "subject": "Huso x Matt Peters collab",
+    "url": "https://blog.resy.com/the-hit-list/nyc-restaurants/",
+    "reason": "diversity_cap",
+    "detail": "already have an item from account 'resy' in this digest",
+    "source_type": "researched"
   }
 ]
