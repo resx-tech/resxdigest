@@ -96,6 +96,34 @@ SEED_COMPETITORS = [
     "The Spot",
 ]
 
+# Tiered Competitor Watch. CORE = the most direct threats to ResX (a last-minute reservation
+# marketplace for NYC/London) — checked DEEPLY every run. Everything else in the full list is the
+# long tail, rotated a chunk at a time so the per-run "check each by name" pass stays realistic
+# (~30 names) instead of all 89 at once (which the model can't meaningfully cover in one call).
+CORE_COMPETITORS = [
+    "Resy", "OpenTable", "SevenRooms", "Tock", "TheFork", "Quandoo",
+    "Appointment Trader", "Dorsia", "Ambl", "Wuw Wuw", "Last Resort Reservations",
+    "Blackbird", "Beli", "SnagNYC", "Snatch'd",
+]
+TAIL_CHUNK_SIZE = 15  # long-tail competitors checked per run; rotates so all get covered over ~a few runs
+
+
+def competitor_watch_list(all_competitors: list, today: datetime.date) -> tuple:
+    """The tiered watch list for THIS run: the priority CORE (always) + a rotating chunk of the long
+    tail. The chunk advances by one each digest run (Mon/Fri) so the whole tail is covered over a few
+    runs. Returns (watch_list, chunk_label). Stateless — the rotation is derived from the date."""
+    core_lower = {c.lower() for c in CORE_COMPETITORS}
+    live = {c.lower(): c for c in all_competitors}
+    core = [live.get(c.lower(), c) for c in CORE_COMPETITORS]  # prefer the live casing if present
+    tail = [c for c in all_competitors if c.lower() not in core_lower]
+    if not tail:
+        return core, "no tail"
+    num_chunks = (len(tail) + TAIL_CHUNK_SIZE - 1) // TAIL_CHUNK_SIZE
+    run_ordinal = today.isocalendar()[1] * 2 + (0 if today.weekday() == 0 else 1)  # +1 per Mon/Fri run
+    idx = run_ordinal % num_chunks
+    chunk = tail[idx * TAIL_CHUNK_SIZE:(idx + 1) * TAIL_CHUNK_SIZE]
+    return core + chunk, f"tail chunk {idx + 1}/{num_chunks}"
+
 # ---------------------------------------------------------------------------
 # Curated source lists per section
 # ---------------------------------------------------------------------------
@@ -1713,9 +1741,10 @@ def main():
             if item["id"] not in carried_ids
         ]
 
-        print("Researching competitor watch...")
+        watch_list, chunk_label = competitor_watch_list(competitors, datetime.date.today())
+        print(f"Researching competitor watch ({len(watch_list)} names: core + {chunk_label})...")
         competitor_watch_items = research_competitor_watch(
-            competitors, seen_stories=recent_stories, holiday_hint=holiday_hint
+            watch_list, seen_stories=recent_stories, holiday_hint=holiday_hint
         )
 
         print("Researching industry & competitor watch...")
