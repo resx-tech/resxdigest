@@ -62,17 +62,38 @@ LONDON_SIGNAL_ACCOUNTS = [
 ]
 
 # ---------------------------------------------------------------------------
-# Seed competitor list — actual competitor/platform names for the dedicated Competitor Watch
-# (research_competitor_watch). Deliberately excludes pure editorial/media outlets like Eater,
-# The Infatuation, and Hot Dinners — those are sources to research FROM (see SOURCES below),
-# not competitors to track.
+# Seed competitor list — the names the dedicated Competitor Watch (research_competitor_watch)
+# checks each run. This is the seed/fallback; the live list is data/competitors.json (loaded at
+# runtime, grows via refresh_competitors, never shrinks) — keep the two in sync when editing.
+# Georgia's full competitor list was added 2026-07 and spans reservation platforms, notification
+# /alert tools, secondary-market/exchange platforms, broader dining/discovery apps (incl.
+# discovery outlets like Eater / The Infatuation / Yelp — treated as competitors here per her
+# list, not just sources), and niche/regional players.
 # ---------------------------------------------------------------------------
 SEED_COMPETITORS = [
-    "Dorsia", "Appointment Trader", "Cita Marketplace", "Access by Resy",
-    "Blackbird", "Beli", "OpenTable", "Resy", "SevenRooms", "Tock",
-    "Dojo", "Dinova", "Diibs", "Quenelle", "Table Agent",
-    "DesignMyNight", "The Spot",
-    "reservation scalper bots", "Telegram reservation groups",
+    "Appointment Trader", "Dorsia", "Diibs", "Quenelle",
+    "Table Agent", "Resy Notify", "OpenTable Notify", "Tock",
+    "Blackbird", "The Infatuation", "Eater", "reservation scalper bots",
+    "Telegram reservation groups", "DesignMyNight", "Hot Dinners", "Zest",
+    "Channel Connect by SevenRooms", "Deliveroo Reservations", "DoorDash Going Out", "SevenRooms Channel Connect",
+    "PRIMA", "DoorDash Reservations", "OpenTable Gold Tables", "Hostie",
+    "TableConnect", "OpenTable Regulars", "Aiello x TableCheck", "Resy",
+    "OpenTable", "SevenRooms", "TheFork", "Quandoo",
+    "TableOne", "Snatch'd", "SnagNYC", "Snag Reservations",
+    "ReservationFinder.io", "TablePass", "ResTracker", "TableScout",
+    "PrimeTable", "Wuw Wuw", "Cita Marketplace", "Ambl",
+    "Last Resort Reservations", "AutoRes", "The Transfer", "PrimeRes",
+    "TableWatch", "Tableswap", "Beli", "Yelp",
+    "Tripadvisor", "Eater LA", "NYC Eats", "Seamless",
+    "Uber Eats", "DoorDash", "Too Good to Go", "Google Maps",
+    "Google Reserve", "Seated", "YEATapp", "Eve",
+    "Pluto", "EatOkra", "EatWith", "Timeleft",
+    "Tabbed", "Roaming Hunger", "HappyCow", "Lovvett",
+    "Dojo", "Appetite", "EatClub", "Tastecard",
+    "BritishSt.Food", "SquareMeal", "Restaurant Hub", "PartyOf",
+    "Tably", "It's a Date", "Uncover", "Exchange Miami",
+    "Exchange LA", "Exchange", "Access by Resy", "Dinova",
+    "The Spot",
 ]
 
 # ---------------------------------------------------------------------------
