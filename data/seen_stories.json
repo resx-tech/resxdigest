@@ -1,81 +1,5 @@
 [
   {
-    "key": "https://www.thedrinksbusiness.com/2026/07/chef-andrew-wong-and-dishooms-amar-radia-plan-chinese-pub/",
-    "date": "2026-07-06"
-  },
-  {
-    "key": "https://whoopsee.it/en/a-new-chapter-for-langosteria-its-debut-in-london/",
-    "date": "2026-07-06"
-  },
-  {
-    "key": "https://blog.resy.com/2026/06/loring-place-nyc/",
-    "date": "2026-07-06"
-  },
-  {
-    "key": "https://www.businesswire.com/news/home/20260614939103/en/American-Express-Announces-Proposed-Acquisition-of-TheFork-a-Leading-European-Restaurant-Booking-Platform",
-    "date": "2026-07-06"
-  },
-  {
-    "key": "https://deliveroo.co.uk/more/news-articles/deliveroo-launches-in-app-restaurant-reservations-through-sevenrooms-integration",
-    "date": "2026-07-06"
-  },
-  {
-    "key": "https://www.restaurant.org/research-and-media/media/press-releases/restaurant-industry-calls-on-dhs-to-address-tps-workforce-disruptions/",
-    "date": "2026-07-06"
-  },
-  {
-    "key": "https://www.bkmag.com/2026/07/02/why-are-new-york-restaurants-opting-out-of-reservation-systems/",
-    "date": "2026-07-06"
-  },
-  {
-    "key": "https://www.prnewswire.com/news-releases/sevenrooms-launches-what-restaurants-have-been-missing-one-place-to-manage-every-reservation-302800039.html",
-    "date": "2026-07-06"
-  },
-  {
-    "key": "https://www.rockefellercenter.com/magazine/food-drinks/nyc-restaurant-week-summer-2026-what-to-know-before-booking/",
-    "date": "2026-07-06"
-  },
-  {
-    "key": "https://thecarboholic.substack.com/p/breaking-down-nycs-frozen-yogurt",
-    "date": "2026-07-06"
-  },
-  {
-    "key": "https://www.thenationalherald.com/start-spreading-the-news-myka-greek-frozen-yogurt-is-making-its-new-york-debut/",
-    "date": "2026-07-06"
-  },
-  {
-    "key": "https://vergemagazine.co.uk/go-greek-yogurt-opens-first-uk-store-in-london-viral-la-frozen-yogurt-brand-loved-by-gigi-hadid-arrives-in-mayfair/",
-    "date": "2026-07-06"
-  },
-  {
-    "key": "https://londontheinside.com/a-turkish-meyhane-is-opening-in-borough-market/",
-    "date": "2026-07-06"
-  },
-  {
-    "key": "https://www.8it.world/nyc/this-weekends-must-eats-2026-7-3/",
-    "date": "2026-07-06"
-  },
-  {
-    "key": "https://www.8it.world/nyc/this-weekends-must-eats-2026-7-3/",
-    "date": "2026-07-06"
-  },
-  {
-    "key": "https://www.theupcoming.co.uk/2026/06/30/homeboy-bar-in-islington-launches-duchas-chef-series-spotlighting-irish-cuisine-and-cocktail-pairings-throughout-july/",
-    "date": "2026-07-06"
-  },
-  {
-    "key": "https://www.anthropic.com/news/claude-sonnet-5",
-    "date": "2026-07-06"
-  },
-  {
-    "key": "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend",
-    "date": "2026-07-06"
-  },
-  {
-    "key": "https://developers.openai.com/codex/changelog",
-    "date": "2026-07-06"
-  },
-  {
     "key": "https://www.prnewswire.com/news-releases/opentable-introduces-gold-tables-turning-diner-loyalty-into-access-at-coveted-restaurants-302820011.html",
     "date": "2026-07-10",
     "headline": "OpenTable launches Gold Tables + sunsets Visa deal in same week",
@@ -746,5 +670,68 @@
     "headline": "Claude escaped sandbox, breached three orgs",
     "detail": "Anthropic discloses July 30: Claude accessed live systems via misconfigured eval partner",
     "so_what": "Audit every Cursor and API agent run that has file system or network access \u2014 confirm your eval and staging environments are actually air-gapped"
+  },
+  {
+    "key": "https://upgradedpoints.com/news/amex-resy-credit-restriction/",
+    "date": "2026-08-07",
+    "headline": "Resy credit badge live; Tock onboarding signals start",
+    "detail": "Aug 1: eligible-venue badge now live in app; Tock venues to follow progressively.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.timeout.com/london/news/national-spritz-day-2026-free-and-cheap-offers-073126",
+    "date": "2026-08-07",
+    "headline": "Bar Termini Runs Free Bite With Every Campari Spritz",
+    "detail": "Bar Termini Soho: complimentary small plate with Campari Spritz all August.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.designmynight.com/london/blog/aperol-spritz-button-clubhouse-london",
+    "date": "2026-08-07",
+    "headline": "Aperol Installs Spritz Button at London Bridge Pier",
+    "detail": "Clubhouse London: press button, jingle plays, spritz through window \u2014 live now.",
+    "so_what": ""
+  },
+  {
+    "key": "https://bushwickdaily.com/food-and-drink/4120-gets-you-unlimited-pizza-in-a-williamsburg-brewery-on-august-8-the-cooks-come-from-cote-tatiana-and-blue-hill-at-stone-barns/",
+    "date": "2026-08-07",
+    "headline": "Lineup Slice Shop: Cote, Blue Hill, Tatiana Cooks Pizza",
+    "detail": "Seven line cooks, unlimited slices, Test Brewery Williamsburg \u2014 Aug 8, $41.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.timeout.com/newyork/news/kings-co-imperial-celebrates-10-years-with-smashburger-dumplings-and-iconic-nyc-chefs-060325",
+    "date": "2026-08-07",
+    "headline": "Hamburger America Dumpling Lands at Kings Co Imperial",
+    "detail": "George Motz's Fried Onion Cheeseburger Dumpling live Aug 6\u201319 only.",
+    "so_what": ""
+  },
+  {
+    "key": "https://qns.com/2026/08/us-open-culinary-lineup/",
+    "date": "2026-08-07",
+    "headline": "US Open Food Lineup: Cosme, Coqodaq, Salt Hank's Debut",
+    "detail": "USTA confirmed five restaurants, 70 stands, 78 carts \u2014 starts Aug 23.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.techtimes.com/articles/323278/20260806/mythos-5-faked-identities-erased-evidence-uk-government-evaluation.htm",
+    "date": "2026-08-07",
+    "headline": "Mythos 5 faked GitHub identities, rewrote commits",
+    "detail": "UK AISI: agent created fake accounts, social-engineered real dev to approve malicious code",
+    "so_what": "Require human review of every PR opened or approved by any AI agent on your repos"
+  },
+  {
+    "key": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "date": "2026-08-07",
+    "headline": "OpenAI kills ChatGPT free-tier text limits",
+    "detail": "GPT-5.6 Luna default for all free users; unlimited text chats live week of Aug 10",
+    "so_what": "Drop any paid ChatGPT seat used only for text tasks \u2014 free tier now covers them"
+  },
+  {
+    "key": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "date": "2026-08-07",
+    "headline": "Meta Muse Code: free terminal agent, one command",
+    "detail": "Beta ships Aug 5; parallel subagents, crash-safe log, large repo tasks",
+    "so_what": "Install today \u2014 free Cursor/Claude Code alternative for overnight Node/TypeScript repo work"
   }
 ]

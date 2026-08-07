@@ -79,22 +79,6 @@
     ]
   },
   {
-    "name": "Dean's",
-    "date": "opens soon 2026",
-    "blurb": "Coastal British seafood from the King team \u2014 langoustines, fish pie, crumpets.",
-    "so_what": "Reservations already competitive; British wave moment, ResX audience perfect fit.",
-    "city": "NYC",
-    "website": "",
-    "instagram_handle": "",
-    "instagram_url": "",
-    "cover_image_post": "",
-    "source_url": "https://www.theinfatuation.com/new-york/guides/nyc-restaurant-openings-2026",
-    "category": "watching",
-    "id": "deans::NYC",
-    "importance_rank": 1,
-    "merged_from": []
-  },
-  {
     "name": "KID",
     "date": "opens September 2026",
     "blurb": "Ex-Mangal II chef Serta\u00e7 Dirik's first solo \u2014 Central Anatolian fire cooking in Soho.",
@@ -276,5 +260,19 @@
     "importance_rank": 0,
     "merged_from": [],
     "id": "badshah social::NYC"
+  },
+  {
+    "name": "H\u014dp",
+    "date": "opens fall 2026",
+    "blurb": "Khmer restaurant and cocktail bar from Red Hook Tavern chef Bun Cheam on Van Brunt.",
+    "city": "NYC",
+    "website": "https://www.hopbk.com",
+    "instagram_handle": "@hop_brooklyn",
+    "instagram_url": "https://www.instagram.com/hop_brooklyn/",
+    "source_url": "https://www.theinfatuation.com/new-york/reviews/hop",
+    "category": "watching",
+    "importance_rank": 0,
+    "merged_from": [],
+    "id": "h\u014dp::NYC"
   }
 ]
