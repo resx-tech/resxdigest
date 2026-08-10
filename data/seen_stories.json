@@ -1,96 +1,5 @@
 [
   {
-    "key": "https://www.prnewswire.com/news-releases/opentable-introduces-gold-tables-turning-diner-loyalty-into-access-at-coveted-restaurants-302820011.html",
-    "date": "2026-07-10",
-    "headline": "OpenTable launches Gold Tables + sunsets Visa deal in same week",
-    "detail": "Gold status (6 bookings/yr, no fee) now unlocks primetime seats at 500+ hard-to-book restaurants in 50+ cities, with Priority Notify Me alerts for last-minute openings \u2014 simultaneously, the Visa Dining Collection US program was sunsetted as OpenTable consolidates access entirely inside its own Gold Regulars tier.",
-    "so_what": "OpenTable is weaponizing loyalty to own the access layer \u2014 direct threat to ResX's core value prop, and the Visa exit closes a formerly neutral entry point for diners."
-  },
-  {
-    "key": "https://blog.resy.com/newsroom/the-summer-seat-by-amex-gold-resy-brings-acclaimed-local-art-to-the-table/",
-    "date": "2026-07-10",
-    "headline": "Resy launches Summer Seat with Amex Gold",
-    "detail": "Art-driven outdoor dining series at Bonnie's NYC, Lasita LA, Mi Tocaya Chicago; Gold Card early access live July 7.",
-    "so_what": "Resy deepening Amex cardholder lock-in with exclusive access \u2014 raises the bar on experiential bookings."
-  },
-  {
-    "key": "https://www.prnewswire.com/news-releases/american-express-and-resy-with-national-restaurant-association-educational-foundation-launch-new-restaurant-academy-to-develop-the-next-generation-of-restaurant-leaders-302815742.html",
-    "date": "2026-07-10",
-    "headline": "Resy and Amex launch Restaurant Academy program",
-    "detail": "Free national leadership program for 30 restaurant owners; apps open July 1\u201329, cohort Sept 2026\u2013Mar 2027.",
-    "so_what": "Resy embedding deeper into restaurant operator relationships \u2014 not just bookings, but business development."
-  },
-  {
-    "key": "https://www.instagram.com/reel/DaVsCi-KWAd/",
-    "date": "2026-07-10",
-    "headline": "Dorsia expands to Chicago",
-    "detail": "Dorsia announces Chicago as a new market, confirmed via Instagram Reel.",
-    "so_what": "another top reservation competitor adds a major US city ResX should track"
-  },
-  {
-    "key": "https://www.restaurant.org/research-and-media/media/press-releases/restaurant-industry-calls-on-dhs-to-address-tps-workforce-disruptions/",
-    "date": "2026-07-10",
-    "headline": "Supreme Court TPS ruling hits restaurant labor now",
-    "detail": "330,000 Haitian/Syrian workers lose authorization; NRA petitions DHS for transition period.",
-    "so_what": "Staffing gaps at partner restaurants mid-summer could spike no-shows and service disruptions at high-demand venues."
-  },
-  {
-    "key": "https://modernrestaurantmanagement.com/2026-mid-year-outlook-part-two/",
-    "date": "2026-07-10",
-    "headline": "Guest regulars quietly churning at record pace in H1",
-    "detail": "Only 17 of 100 H2 2025 'regulars' still visiting at same rate; 29% vanished entirely in 2026.",
-    "so_what": "Direct data point for why retention-layer features \u2014 not just acquisition \u2014 matter in the reservation product roadmap."
-  },
-  {
-    "key": "https://www.timeout.com/newyork/news/the-new-york-hot-dog-king-is-giving-out-500-free-hot-dogs-outside-of-the-met-next-week-070826",
-    "date": "2026-07-10",
-    "headline": "Glen Powell's Smash Kitchen Hits the Met Cart",
-    "detail": "Free specialty hot dogs outside The Met, July 15 only, 500 total \u2014 two limited-edition creations (Hot Honey Dog with Smash Kitchen Hot Honey Ketchup + crushed kettle chips; Caesar Dog with Caesar Dressing) plus a live hot dog calligrapher decorating franks with Smash Kitchen condiments. Joint activation with HexClad.",
-    "so_what": "Glen Powell brand activating at NYC's most iconic cart on National Hot Dog Day week \u2014 celeb-brand meets street culture, peak cultural moment for our audience."
-  },
-  {
-    "key": "https://www.hot-dinners.com/2026061815141/Gastroblog/Latest-news/coqodaq-pop-up-london-gordon-ramsay-lucky-cat-mayfair",
-    "date": "2026-07-10",
-    "headline": "Coqodaq's London Debut Ends Saturday",
-    "detail": "Caviar nuggets at Lucky Cat Mayfair close July 12 \u2014 final days.",
-    "so_what": "NYC cult restaurant testing London demand via Gordon Ramsay \u2014 watch conversion signal."
-  },
-  {
-    "key": "https://www.timeout.com/london/news/rosewood-hotel-one-hundred-summer-terrace-070626",
-    "date": "2026-07-10",
-    "headline": "Rosewood London Terrace Goes Cult Pizzeria",
-    "detail": "Dinner For One Hundred residency live in Holborn courtyard this summer.",
-    "so_what": "Hotel using cult south London operator to drive F&B bookings \u2014 hotel x local operator playbook."
-  },
-  {
-    "key": "https://www.instagram.com/reel/DaX4M-MOsKB/",
-    "date": "2026-07-10",
-    "headline": "Myka x Losers cinnamon roll froyo topping",
-    "detail": "Myka's West Village Greek froyo now tops with mini Losers cinnamon roll bites, a monthly special.",
-    "so_what": "exactly the collab-of-the-month energy the audience is already discussing"
-  },
-  {
-    "key": "https://www.bakemag.com/articles/21730-levain-bakery-debuts-cookie-milk-latte",
-    "date": "2026-07-10",
-    "headline": "Levain debuts Cookie Milk Latte",
-    "detail": "Oat milk steeped 12hrs with 3 signature cookies, espresso, salted cold foam \u2014 launched July 6, $7.50 nationwide.",
-    "so_what": "turns Levain's cookies-and-milk pairing into a coffee format for the first time"
-  },
-  {
-    "key": "https://www.anthropic.com/news/claude-sonnet-5",
-    "date": "2026-07-10",
-    "headline": "Anthropic ships Claude Sonnet 5 at intro price",
-    "detail": "Near-Opus-4.8 quality at $2/$10 per million tokens through Aug 31",
-    "so_what": "Migrate Node/TypeScript API calls from Opus to Sonnet 5 now \u2014 40\u201360% cost cut before Sept 1 price step-up"
-  },
-  {
-    "key": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-    "date": "2026-07-10",
-    "headline": "Kimi K2.7 Code lands in GitHub Copilot picker",
-    "detail": "First open-weight model in Copilot; lower-cost billing, Azure-hosted",
-    "so_what": "Enable in VS Code to test on routine TypeScript edits and cut Copilot credit spend \u2014 hold off on proprietary code until provenance is reviewed"
-  },
-  {
     "key": "https://www.gotdiibs.com/",
     "date": "2026-07-13",
     "headline": "Diibs teases full platform rebuild with AI concierge",
@@ -733,5 +642,96 @@
     "headline": "Meta Muse Code: free terminal agent, one command",
     "detail": "Beta ships Aug 5; parallel subagents, crash-safe log, large repo tasks",
     "so_what": "Install today \u2014 free Cursor/Claude Code alternative for overnight Node/TypeScript repo work"
+  },
+  {
+    "key": "https://finance.yahoo.com/markets/stocks/articles/quandoo-shut-restaurant-booking-platform-112913577.html",
+    "date": "2026-08-10",
+    "headline": "Quandoo shuts consumer bookings September 30",
+    "detail": "Platform ceases new reservations Oct 1; full infrastructure removed by Dec 31, 2026.",
+    "so_what": ""
+  },
+  {
+    "key": "https://ir.tripadvisor.com/news-releases/news-release-details/tripadvisor-enters-agreement-sell-thefork-american-express-700",
+    "date": "2026-08-10",
+    "headline": "Tripadvisor Q2 reconfirms $700M TheFork sale",
+    "detail": "Aug 6 investor slides confirm deal on track to close before end of 2026; TRIP stock fell 23%.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.travolution.com/news/travel-sectors/opentable-updates-its-ai-concierge-to-backdrop-of-new-data/",
+    "date": "2026-08-10",
+    "headline": "OpenTable AI Concierge expands to homepage",
+    "detail": "Natural-language dining assistant now live on homepage, searches 65,000+ venues with real-time availability.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.nrn.com/restaurant-technology/google-brings-restaurant-ordering-to-google-maps",
+    "date": "2026-08-10",
+    "headline": "Google Maps orders food via Ask Maps",
+    "detail": "Agentic AI builds cart via Toast/Square; reservation layer not included",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.nrn.com/independent-restaurants/doordash-invests-6m-in-flavor-week-discounts-at-local-restaurants",
+    "date": "2026-08-10",
+    "headline": "DoorDash funds $6M local restaurant discount push",
+    "detail": "2,400+ indie venues, 6 cities; restaurant covers half each discount",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.nrn.com/restaurant-labor/restaurant-industry-jobs-declined-again-last-month",
+    "date": "2026-08-10",
+    "headline": "Foodservice sheds 26,100 jobs in July",
+    "detail": "Second straight monthly decline; full-service still 183K below pre-pandemic",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.nycrumweek.com/",
+    "date": "2026-08-10",
+    "headline": "NYC Rum Week Opens Today, Culminates Aug 16",
+    "detail": "Citywide rum events Aug 10\u201316; Brooklyn Rum Festival at Bogart House closes it out Aug 15.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.timeout.com/london/news/national-spritz-day-2026-free-and-cheap-offers-073126",
+    "date": "2026-08-10",
+    "headline": "Lina Stores Runs 2-for-1 Campari Spritzes All August",
+    "detail": "Daily 3\u20135pm happy hour (Thurs to 6pm) across London sites \u2014 lands on National Prosecco Day Aug 13.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.chishuru.com/food-and-drink",
+    "date": "2026-08-10",
+    "headline": "Chishuru's Spaghetti Jollof Is Already a Cult Dish",
+    "detail": "Jok\u00e9 Bakare's Michelin-starred Fitzrovia spot runs suya \u00e0 la carte Wednesdays through Aug 26, \u00a37 plates.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.thehandbook.com/18-unmissable-pop-ups-to-add-to-your-august-itinerary/",
+    "date": "2026-08-10",
+    "headline": "Frankie Clarke's Irie Pops Up at Elsa's, Aug 17",
+    "detail": "Modern Jamaican Irie concept meets Franco-Alsatian Elsa's, Charlotte St \u2014 one night only.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.opentable.com/r/quality-wines-london",
+    "date": "2026-08-10",
+    "headline": "Quality Wines \u00d7 Jack Coghlan: Rotisserie Sunday, Aug 23",
+    "detail": "Norbert's head chef Jack Coghlan cooks 6\u20138 dishes; \u00a355, tickets via OpenTable.",
+    "so_what": ""
+  },
+  {
+    "key": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "date": "2026-08-10",
+    "headline": "Cloudflare Kitesurf: cloud browser for AI agents",
+    "detail": "Free beta; lighter than Chromium for scraping and HTML extraction tasks",
+    "so_what": "Replace Playwright/Lambda with Kitesurf for venue-data scraping \u2014 cuts compute cost now"
+  },
+  {
+    "key": "https://thehackernews.com/",
+    "date": "2026-08-10",
+    "headline": "Atlassian Rovo leaks internal data via uploaded file",
+    "detail": "Prompt injection: one uploaded file exfiltrates Jira/Confluence data externally, one path still open",
+    "so_what": "Audit Rovo access to Firebase config docs and Jira tickets \u2014 disable or scope to read-only immediately"
   }
 ]
