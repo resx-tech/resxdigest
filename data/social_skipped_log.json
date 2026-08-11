@@ -1,91 +1,5 @@
 [
   {
-    "date": "2026-07-08",
-    "pinned_input": "https://www.instagram.com/p/DafrHLSFlzl/",
-    "subject": "",
-    "url": "",
-    "reason": "no_content_found",
-    "detail": "Multiple targeted searches for this specific Curbed post (DafrHLSFlzl) returned zero results identifying the couple, address, or neighborhood featured. Without the actual subject of the post confirmed, building the predictive location carousel would require fabricating the celebrity name and specific neighborhood \u2014 which violates the accuracy requirement. Dropping rather than guessing.",
-    "source_type": "pinned"
-  },
-  {
-    "date": "2026-07-08",
-    "subject": "Chrissy's Pizza Greenpoint",
-    "url": "https://www.instagram.com/chrissys.pizza/",
-    "reason": "The 'impossible reservation' hook is outdated \u2014 a recent Substack review confirmed walk-ins are common and online ordering is easy. Positioning it as hard-to-get would be inaccurate for today's audience. Not fresh enough to surface.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-08",
-    "subject": "Rules Restaurant London CNN story",
-    "url": "https://krdo.com/news/2026/07/08/inside-the-228-year-old-london-restaurant-that-time-forgot/",
-    "reason": "Published today but the source is a local TV news relay of a CNN travel piece \u2014 a generic heritage story, not a stop-scroll social moment. No specific post behind it and no ResX booking angle.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-08",
-    "subject": "Strand / Hot Dinners best 2026 London openings roundup",
-    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-new-london-restaurants-openings-2026",
-    "reason": "A listicle roundup, not a specific social moment. No single post behind it. Fails source quality gate.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-08",
-    "subject": "Mimi's Nolita froyo",
-    "url": "https://www.edgenyc.com/news/tiktok-viral-things-to-do-in-nyc-right-now/",
-    "reason": "Sourced from a tourism editorial listicle, not a specific creator post. Nothing fresh today behind it.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-08",
-    "subject": "#foodjutsutrend TikTok audio",
-    "url": "https://www.socialpilot.co/blog/tiktok-trends",
-    "reason": "Trend confirmed real and at 36M+ posts, but named #1 for June 2026 \u2014 likely already past peak saturation entering July. No specific linkable TikTok audio URL retrieved that could be confidently cited.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-09",
-    "subject": "Brasserie Olivia official opening",
-    "url": "https://lanouvellegarde.com/en/brasserie-olivia/",
-    "reason": "Already featured in the last 7 days \u2014 on the do-not-repeat list",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-09",
-    "subject": "Langosteria London at The OWO",
-    "url": "https://www.instagram.com/langosteria/",
-    "reason": "Profile URL already in the 'already sent' exclusion list; no separate confirmed post-level URL for the London opening retrieved from search",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-09",
-    "subject": "Rockefeller Center World Cup Fan Village dining",
-    "url": "https://www.rockefellercenter.com/events/world-cup-2026",
-    "reason": "Strong real-world opportunity (active today, July 9) but no confirmed Instagram post-level URLs retrieved \u2014 cannot build a valid post_idea without 2+ verified post URLs",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-09",
-    "subject": "Johnny Boy's Stoke Newington opening",
-    "url": "https://www.instagram.com/eatatjohnnyboys/",
-    "reason": "Only the profile URL was confirmed from search results, no specific post-level URL retrieved \u2014 cannot use profile URL as post_url per the rules",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-09",
-    "subject": "Mimi's froyo NYC viral summer",
-    "url": "https://www.instagram.com/mimis.ny/",
-    "reason": "Only profile URL confirmed; no specific post-level URL retrieved from search results \u2014 cannot meet post_url requirement",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-09",
-    "subject": "NYC heatwave rooftop dining angle",
-    "url": "https://gothamist.com/news/nycs-scorching-heat-wave-continues-with-triple-digit-heat-index-values",
-    "reason": "Heatwave peaked July 2-5 and is now several days old; does not feel fresh today (July 9) and no specific viral posts from today found to back it",
-    "source_type": "researched"
-  },
-  {
     "date": "2026-07-13",
     "subject": "M\u016bje NYC tasting menu",
     "url": "https://www.instagram.com/p/DZdD4PEP789/",
@@ -672,6 +586,71 @@
     "url": "https://blog.resy.com/the-hit-list/nyc-restaurants/",
     "reason": "diversity_cap",
     "detail": "already have an item from account 'resy' in this digest",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-11",
+    "subject": "Tasca at Project 44 Shoreditch",
+    "url": "https://www.instagram.com/tasca.london/",
+    "reason": "no_usable_link",
+    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-11",
+    "subject": "Carmy's Covent Garden",
+    "url": "https://www.instagram.com/carmysldn/",
+    "reason": "no_usable_link",
+    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-11",
+    "subject": "Bancone Bloomsbury terrace",
+    "url": "https://www.timeout.com/london/news/best-new-restaurants-august-2026-072826",
+    "reason": "opens Aug 17 \u2014 not yet open today; no verified Instagram URL extracted from source, only venue name in text",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-11",
+    "subject": "Man Hon Luk Hackney Wick BBQ",
+    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/hot-right-now-london-s-hottest-restaurants",
+    "reason": "Hot Dinners page redirected and returned no content; no verified Instagram account URL or post permalink retrievable",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-11",
+    "subject": "St Clement Hotel Temple Place restaurant",
+    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/hot-right-now-london-s-hottest-restaurants",
+    "reason": "Giles Coren 'restaurant of summer' quote, very hard to book, Italian, ex-River Cafe chef \u2014 but no verified Instagram account URL or post found; source page redirected",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-11",
+    "subject": "NYC Restaurant Week last days",
+    "url": "https://www.timeout.com/newyork/restaurants/100-best-new-york-restaurants",
+    "reason": "NYC Restaurant Week ends Aug 16 \u2014 'last days' hook valid but no specific venue doing something new today; opening already featured in prior run; no single-subject article or post permalink",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-11",
+    "subject": "Rum Kitchen Camden National Rum Day",
+    "url": "https://vergemagazine.co.uk/celebrate-national-rum-day-2026-at-rum-kitchen-camden-with-caribbean-cocktails-djs-and-happy-hour-deals/",
+    "reason": "National Rum Day event is Aug 16 (Sunday), not today; article is 2 weeks old with no Instagram post permalink or verified account URL extractable",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-11",
+    "subject": "Broadway food scene roundups",
+    "url": "https://broadticket.com/curtain-up-on-culinary-delights-broadways-august-food-scene-sizzles/",
+    "reason": "AI-generated SEO content with fabricated venue names (Broadway Blend Cafe, Lumina, Verdant) \u2014 not a credible editorial source, failed taste test",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-11",
+    "subject": "Chef's Table festival Park City Aug 13\u201316",
+    "url": "https://www.oth.media/p/oth-summer-digest-2026",
+    "reason": "Park City Utah \u2014 not NYC or London; out of ResX's two-city scope",
     "source_type": "researched"
   }
 ]
