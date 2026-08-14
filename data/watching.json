@@ -274,5 +274,19 @@
     "importance_rank": 0,
     "merged_from": [],
     "id": "h\u014dp::NYC"
+  },
+  {
+    "name": "Border Town",
+    "date": "opens winter 2026",
+    "blurb": "Pop-up known for NYC-famous flour tortillas opens a Greenpoint brick-and-mortar with tacos and botanas.",
+    "city": "NYC",
+    "website": "",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "source_url": "https://www.theinfatuation.com/new-york/guides/nyc-restaurant-openings-2026",
+    "category": "watching",
+    "id": "border town::NYC",
+    "importance_rank": 0,
+    "merged_from": []
   }
 ]

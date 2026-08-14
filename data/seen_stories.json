@@ -1,82 +1,5 @@
 [
   {
-    "key": "https://www.gotdiibs.com/",
-    "date": "2026-07-13",
-    "headline": "Diibs teases full platform rebuild with AI concierge",
-    "detail": "Site now previews Diibsy AI agent, Square/Clover POS sync, and multi-city rebuild.",
-    "so_what": "Direct bid-for-table competitor openly repositioning toward AI-first, POS-native model."
-  },
-  {
-    "key": "https://townhall.com/columnists/mariolopez/2026/07/11/big-tech-vs-restaurants-n2679231",
-    "date": "2026-07-13",
-    "headline": "OpenTable mandate draws antitrust op-ed fire",
-    "detail": "July 11 op-ed calls policy anticompetitive; WA AG reviewing terms.",
-    "so_what": "Regulatory heat on OpenTable's exclusivity is a tailwind for multi-platform alternatives like ResX."
-  },
-  {
-    "key": "https://www.nrn.com/emerging-chains/wonder-looks-to-raise-600m-in-a-reported-pre-ipo-funding-round",
-    "date": "2026-07-13",
-    "headline": "Wonder files SEC docs for $600M pre-IPO round",
-    "detail": "SEC filing confirms $355M raised; ~$9B valuation, IPO likely 2027.",
-    "so_what": "Wonder going public reshapes who controls delivery + dine-in data at scale \u2014 watch its reservation play."
-  },
-  {
-    "key": "https://www.nrn.com/emerging-chains/wonder-acquires-mighty-quinn-s-bbq",
-    "date": "2026-07-13",
-    "headline": "Wonder acquires Mighty Quinn's BBQ NYC",
-    "detail": "Eight-unit NYC fast casual absorbed into Wonder's 30-brand food hall platform.",
-    "so_what": "Wonder consolidating real NYC restaurant brands pre-IPO \u2014 signals dining inventory aggregation strategy."
-  },
-  {
-    "key": "https://www.timeout.com/newyork/news/bostons-best-lobster-roll-is-popping-up-in-the-west-village-next-week-061325",
-    "date": "2026-07-13",
-    "headline": "Edith's x Wiener's Circle: Chicago Dog Hits NYC",
-    "detail": "July collab at Williamsburg + West Village, limited run only",
-    "so_what": "Named hot dog collab on National Hot Dog Day week \u2014 reservation-adjacent urgency play"
-  },
-  {
-    "key": "https://www.theinfatuation.com/new-york/reviews/bark-barbecue-bushwick",
-    "date": "2026-07-13",
-    "headline": "Bark Barbecue's 8,000 sq ft Bushwick Flagship Is Open",
-    "detail": "Dominican-Texan pitmaster, walk-ins only, no reservations",
-    "so_what": "Walk-in-only 300-seat venue signals appetite for no-rez dining without a platform"
-  },
-  {
-    "key": "https://www.timeout.com/newyork/news/ample-hills-creamery-is-launching-three-new-super-spicy-ice-cream-and-sorbet-flavors-this-weekend-062626",
-    "date": "2026-07-13",
-    "headline": "Ample Hills x Heatonist: Waiver Required for Scoop",
-    "detail": "Carolina Reaper ice cream at Wythe Ave cart, weekends through July 26",
-    "so_what": "Creator-bait collab driving physical traffic \u2014 stunt format our audience is already sharing"
-  },
-  {
-    "key": "https://ignilondon.com/menus/",
-    "date": "2026-07-13",
-    "headline": "IGNI Launches Chef Series with Interlude's Jean Delport",
-    "detail": "One night only July 27, \u00a3195, British/South African/French tasting menu",
-    "so_what": "IGNI's new 'At The Pass' collab format is the London version of what ResX should be surfacing"
-  },
-  {
-    "key": "https://www.shortlist.com/food-and-drink/peckham-weekender-returns-for-2026-with-a-huge-foodie-festival-taking-over-local-restaurants",
-    "date": "2026-07-13",
-    "headline": "Peckham Weekender: 19 Restaurants, \u00a310 Specials, One Weekend",
-    "detail": "July 24\u201326, Mr Bao to Forza Wine, \u00a31/dish to Peckham Pantry",
-    "so_what": "Community dining format drives foot traffic and social posts without a booking layer \u2014 note the model"
-  },
-  {
-    "key": "https://openai.com/index/gpt-5-6/",
-    "date": "2026-07-13",
-    "headline": "GPT-5.6 Terra: Frontier coding at half price",
-    "detail": "OpenAI launched Sol, Terra, Luna on July 9; Terra is $2.50/$15 per million tokens",
-    "so_what": "Swap Node/TypeScript API calls to gpt-5.6-terra today \u2014 GPT-5.5-class output at ~50% less cost"
-  },
-  {
-    "key": "https://cursor.com/blog/grok-4-5",
-    "date": "2026-07-13",
-    "headline": "Grok 4.5 live in Cursor, no extra charge",
-    "detail": "SpaceXAI + Cursor co-trained model, now default in Cursor on all existing plans",
-    "so_what": "Enable Grok 4.5 in Cursor this week \u2014 it's included in your subscription, test on TypeScript tasks now"
-  },
-  {
     "key": "https://appointmenttrader.com/sellers",
     "date": "2026-07-17",
     "headline": "Appointment Trader V2 now in active rollout",
@@ -733,5 +656,68 @@
     "headline": "Atlassian Rovo leaks internal data via uploaded file",
     "detail": "Prompt injection: one uploaded file exfiltrates Jira/Confluence data externally, one path still open",
     "so_what": "Audit Rovo access to Firebase config docs and Jira tickets \u2014 disable or scope to read-only immediately"
+  },
+  {
+    "key": "https://www.americanexpress.com/en-us/newsroom/articles/travel-and-dining/resy-partners-with-openai-to-launch-resy-reservations-in-chatgpt.html",
+    "date": "2026-08-14",
+    "headline": "Resy, OpenTable, and Yelp All Go Live Inside ChatGPT on Aug 10",
+    "detail": "Three of ResX's direct competitors launched ChatGPT-native reservation booking simultaneously: Resy (US diners, Aug 10), OpenTable (globally, all plans, mobile/web/desktop, Aug 10), and Yelp (US/Canada tables + waitlist, no app switch required, Aug 10). Tock venues also absorbed into Resy on Aug 11 \u2014 8,000 venues including 1,200 wineries, brand sunset confirmed underway.",
+    "so_what": "ChatGPT has become an active reservation layer for Resy, OpenTable, and Yelp simultaneously \u2014 the discovery and booking moment is now happening inside a conversational AI interface, not on a native app or web search. Resy simultaneously absorbed 8,000 Tock venues, accelerating its inventory lead. This is the most significant competitive week in restaurant tech since OpenTable went mobile. The question for ResX is whether its own ChatGPT integration is live, planned, or absent."
+  },
+  {
+    "key": "https://www.nrn.com/independent-restaurants/new-york-city-parent-of-iconic-cafe-fiorello-files-for-chapter-11-bankruptcy",
+    "date": "2026-08-14",
+    "headline": "Fireman Hospitality Files Ch. 11, 9 NYC Venues at Risk",
+    "detail": "Lincoln Center, Carnegie Hall group; under $100K cash at filing.",
+    "so_what": "Caf\u00e9 Fiorello (50+ yrs), Trattoria Dell'Arte, Brooklyn Diner \u2014 all active reservation venues in high-footfall NYC corridors \u2014 are now in bankruptcy with an uncertain operating timeline. Nine restaurants and 800 staff hang on court proceedings. These are the exact venue type (established, high-volume, theater/tourist district) where reservation platform relationships matter most. Venues in restructuring commonly re-evaluate all vendor contracts. This is both a watch item for existing platform relationships and a signal that even long-standing iconic operators are not insulated from the current cash crunch."
+  },
+  {
+    "key": "https://www.nrn.com/independent-restaurants/ark-restaurants-admits-long-battled-eviction-of-bryant-park-grill-and-sister-brands-could-be-coming",
+    "date": "2026-08-14",
+    "headline": "Ark Restaurants: Bryant Park Grill Out by Oct 16",
+    "detail": "Ark Q3 earnings confirm forced vacate date; Jean-Georges takes over.",
+    "so_what": "Bryant Park Grill is one of NYC's highest-grossing restaurants at ~$26M/year. The confirmed Oct 16 vacate date (new this week from Ark's Q3 earnings) means Jean-Georges Restaurants and Seaport Entertainment Group are now the presumptive operators. That's a venue ownership handover at a massive-volume NYC location \u2014 new operators typically re-evaluate reservation platform contracts on takeover. Jean-Georges is a white-tablecloth group with existing platform relationships; Seaport is a hospitality developer. Watch which reservation platform wins this account on transition."
+  },
+  {
+    "key": "https://modernrestaurantmanagement.com/the-shifting-restaurant-ma-landscape/",
+    "date": "2026-08-14",
+    "headline": "Restaurant M&A Volume Up 43% YoY Despite Traffic Slump",
+    "detail": "Capstone Partners: deal volume surged even as consumer traffic fell.",
+    "so_what": "Despite economic volatility and slower consumer traffic, restaurant M&A volume increased 42.9% year over year per Capstone Partners (reported Aug 3\u20136). This is the structural backdrop behind every venue partnership conversation: operators under PE or strategic ownership post-acquisition are more likely to standardize on a single reservation platform across their portfolio, and more likely to have a tech stack mandate from above. For ResX: as more indie and mid-market venues get absorbed into groups, the decision-maker for platform choice increasingly sits at the group/investor level, not the individual restaurant. Pitch strategy needs to account for this."
+  },
+  {
+    "key": "https://www.timeout.com/newyork/bars/50-best-new-york-bars",
+    "date": "2026-08-14",
+    "headline": "Bar Kabawa Is NYC's Rum Day HQ",
+    "detail": "Paul Carmichael's East Village daiquiri bar is the city's clearest rum-moment venue this Sunday.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.cambridgebeaches.com/activity-calendar/sunken-harbor-club-rum-launch/",
+    "date": "2026-08-14",
+    "headline": "Sunken Harbor Club Takes Guests to Bermuda",
+    "detail": "Brooklyn tiki bar's Oct 9\u201312 Cambridge Beaches retreat now open for bookings.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.digitalapplied.com/blog/claude-code-cross-session-messaging-2026",
+    "date": "2026-08-14",
+    "headline": "Claude Code sessions now message each other directly",
+    "detail": "v2.1.224: ListAgents + SendMessage across parallel sessions; subagent cap removed",
+    "so_what": "Run one session per service \u2014 backend agent alerts frontend agent on API changes without you relaying"
+  },
+  {
+    "key": "https://claude.com/blog/auto-mode-default-in-claude-code",
+    "date": "2026-08-14",
+    "headline": "Claude Code auto mode is default today",
+    "detail": "Classifier replaces manual prompts; 89% vs 13.6% human catch rate",
+    "so_what": "Accept the mode-switch prompt today \u2014 overnight Node tasks run uninterrupted, no extra token charge"
+  },
+  {
+    "key": "https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/",
+    "date": "2026-08-14",
+    "headline": "Meta Muse Glimmer 30B: free, local, agentic",
+    "detail": "Apache 2.0, runs on one consumer GPU, beats Gemma4-31B on agentic benchmarks",
+    "so_what": "Pull weights from Hugging Face \u2014 run LLM-as-judge eval or summarization tasks at zero API cost"
   }
 ]
