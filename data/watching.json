@@ -151,21 +151,6 @@
     "merged_from": []
   },
   {
-    "name": "Waterhouse",
-    "date": "opens August 6",
-    "blurb": "Gabriel Waterhouse's new 24-cover tasting menu restaurant in a Columbia Road Victorian warehouse.",
-    "city": "LDN",
-    "website": "",
-    "instagram_handle": "",
-    "instagram_url": "",
-    "source_url": "https://www.restaurantonline.co.uk/Article/2026/07/22/duo-behind-the-water-house-project-to-open-new-restaurant-in-east-london/",
-    "category": "watching",
-    "importance_rank": 0,
-    "merged_from": [
-      "waterhouse::LDN"
-    ]
-  },
-  {
     "name": "Cassette",
     "date": "opens Autumn 2026",
     "blurb": "Levan team's Parisian bistro on Covent Garden's Maiden Lane, led by chef Essa Fakhry.",
@@ -232,20 +217,6 @@
     "category": "watching",
     "id": "lunette::LDN",
     "importance_rank": 4,
-    "merged_from": []
-  },
-  {
-    "name": "Saltwater",
-    "date": "opens August 13",
-    "blurb": "Milk Beach team's counter-service sushi bar: handrolls, nigiri and donburi in Soho.",
-    "city": "LDN",
-    "website": "",
-    "instagram_handle": "@saltwater.sushi",
-    "instagram_url": "https://www.instagram.com/saltwater.sushi/",
-    "source_url": "https://www.hot-dinners.com/2026052115079/Gastroblog/Latest-news/saltwater-sushi-handrolls-restaurant-soho-london",
-    "category": "watching",
-    "id": "saltwater::LDN",
-    "importance_rank": 5,
     "merged_from": []
   },
   {
