@@ -1,161 +1,5 @@
 [
   {
-    "date": "2026-07-14",
-    "subject": "Soraya Marylebone opening today",
-    "url": "https://www.instagram.com/sorayamarylebone/",
-    "reason": "Account URL already in dedup sent list \u2014 cannot reuse",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-14",
-    "subject": "Bar Blondie Queen's Park opening 14 July",
-    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-july-2026",
-    "reason": "Opening today but no visual post or confirmed account found; source page JS-blocked on fetch; weaker than today's Bastille Day activations for timeliness and desire",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-14",
-    "subject": "Brasserie Z\u00e9del Bastille Day 12\u201314 July",
-    "url": "https://tonemagazineldn.com/things-to-do-for-bastille-day-2026/",
-    "reason": "Strong Bastille Day programming but Caf\u00e9 Fran\u00e7ois is the more visually arresting and shareable pick for the same moment; two LDN Bastille Day reposts is redundant \u2014 Caf\u00e9 Fran\u00e7ois wins on stop-scroll (snail race > cabaret for social)",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-14",
-    "subject": "PAUL free baguette giveaway Bastille Day",
-    "url": "https://tonemagazineldn.com/things-to-do-for-bastille-day-2026/",
-    "reason": "Fun but not on-brand for a restaurant reservation app \u2014 PAUL is a bakery chain, no reservation play, lower desire/FOMO ceiling",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-14",
-    "subject": "Nammos London Mayfair opening",
-    "url": "https://citizen-femme.com/2026/07/07/top-tables-london-restaurants-to-book-in-july-2026/",
-    "reason": "Great opening but earlier in July, not day-specific today; no confirmed post permalink retrieved",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-14",
-    "subject": "Impala Soho ex-Kiln chef opening",
-    "url": "https://www.wallpaper.com/travel/restaurants/new-restaurants-in-london",
-    "reason": "On ResX tracked list and genuinely strong (wood-fire, ex-Kiln pedigree, Wallpaper coverage) but not day-specific and no confirmed post permalink found in fetched content; held for a future day when there's a specific new post to pull",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-14",
-    "subject": "Resy NYC Hit List July 2026 new additions",
-    "url": "https://blog.resy.com/the-hit-list/nyc-restaurants/",
-    "reason": "Roundup/listicle \u2014 not an acceptable lead link per brief; individual spots (Somssi, Meju etc.) worth drilling into on a future run with dedicated permalink searches",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-15",
-    "subject": "Hon's BBQ Hackney Wick",
-    "url": "https://www.honsbbq.com",
-    "reason": "Instagram account @honsbbq already in sent-URL dedup list; opening is July 17 not today; skipped",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-15",
-    "subject": "Caf\u00e9 Clement / Strand London",
-    "url": "https://www.instagram.com/cafeclementlondon/",
-    "reason": "Account URL already sent in prior run; moment already featured",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-15",
-    "subject": "NYC Restaurant Week Summer 2026",
-    "url": "https://www.broadwayworld.com/bwwfood-wine/article/NYC-RESTAURANT-WEEK-Summer-Edition-2026-20260707",
-    "reason": "Already featured as a moment; already-sent URL",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-15",
-    "subject": "Rockefeller Center Fan Village World Cup",
-    "url": "https://www.nyctourism.com/worldcup26/world-cup-fan-zones/",
-    "reason": "Fan Village roundup URL already sent; reframed as today's specific England Final build-up moment instead",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-15",
-    "subject": "Resy NYC Hit List July 2026 \u2014 Somssi, Lei etc",
-    "url": "https://blog.resy.com/the-hit-list/nyc-restaurants/",
-    "reason": "Roundup/listicle; Somssi already sent in prior run; no single-subject post permalink found",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-15",
-    "subject": "Jackson Boxer Vesper Exmouth Market",
-    "url": "https://www.chattingfood.com/post/hot-restaurant-openings-and-news-july",
-    "reason": "Strong candidate but article is a roundup; could not fetch single-subject article or post permalink within fetch budget; dropped in favour of Impala which has cleaner editorial source",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-15",
-    "subject": "Maai by Nikita Clapham",
-    "url": "https://www.timeout.com/london/restaurants/the-best-new-restaurants-in-london",
-    "reason": "Sally Ab\u00e9 / London Fields 'restaurant of summer' already featured as a moment in prior run; Maai is similar 'critic's pick' beat and same source URL as Impala \u2014 avoided duplicate source account",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-15",
-    "subject": "Five Borough Winners Special $26 World Cup deals NYC",
-    "url": "https://www.nyctourism.com/five-borough-winners-special/",
-    "reason": "Generic tourism promo across 150+ restaurants; not craveable or stop-scroll; feels like an ad not editorial",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-15",
-    "pinned_input": "",
-    "subject": "Impala restaurant Soho",
-    "url": "https://www.timeout.com/london/restaurants/the-best-new-restaurants-in-london",
-    "reason": "diversity_cap",
-    "detail": "already have an item from account 'timeoutlondon' in this digest",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-18",
-    "subject": "Lagana Shoreditch Basque cheesecake",
-    "url": "https://www.tiktok.com/discover/london-food",
-    "reason": "Tracked venue, appearing in TikTok top-5 London eats 2026 roundup \u2014 genuinely interesting momentum, but no single-subject article or real post permalink found within fetch budget; account handle unverified. Holding for next run with a dedicated fetch.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-18",
-    "subject": "Imm-Aroy viral mango sticky rice second outpost",
-    "url": "https://www.hot-dinners.com/Features/Articles/new-and-recently-opened-london-restaurants",
-    "reason": "Hot Dinners confirms second outpost opened June 26 after Chinatown original went viral \u2014 compelling momentum, but hot-dinners.com redirected JS-only on fetch, could not extract post permalink or verified account this run.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-18",
-    "subject": "Coyo Taco London first UK opening",
-    "url": "https://www.hot-dinners.com/Features/Articles/new-and-recently-opened-london-restaurants",
-    "reason": "Miami celeb favourite opening first London restaurant is genuinely exciting \u2014 but same JS redirect issue on Hot Dinners, couldn't drill to real post. Also no specific named Instagram post found.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-18",
-    "subject": "Gordon Ramsay Bread Street Kitchen 22 Bishopsgate \u2014 100th opening",
-    "url": "https://www.tiktok.com/tag/londonrestaurants",
-    "reason": "TikTok tag page mentions it but no individual post permalink surfaced; moment feels more trade-publication than ResX audience; Dante/Claridge's is the stronger London opening story today.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-18",
-    "subject": "Central Park FIFA Arena closing day July 18",
-    "url": "https://www.governor.ny.gov/news/governor-hochul-mayor-mamdani-fifa-and-nynj-host-committee-announce-free-watch-party-central",
-    "reason": "FIFA Arena in Central Park closes TODAY (July 18) \u2014 last day to play on the free pitch. Interesting timely hook but official government press release, not a craveable visual post. Subsumed into the broader World Cup Final Eve post_idea.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-18",
-    "subject": "Watermark NYC Goal Digger Margarita in soccer-ball cup",
-    "url": "https://www.6sqft.com/where-to-watch-spain-argentina-fifa-world-cup-final-in-nyc/",
-    "reason": "The soccer-ball cup margarita is genuinely craveable and visual \u2014 but could not extract a verified Watermark Instagram permalink from the 6sqft article; account_url unverifiable, and the item would be too similar to the Queens Night Market reel / Final Eve post_idea already featured.",
-    "source_type": "researched"
-  },
-  {
     "date": "2026-07-21",
     "subject": "Mimi's Frozen Yogurt NYC",
     "url": "https://www.edgenyc.com/news/tiktok-viral-things-to-do-in-nyc-right-now/",
@@ -602,6 +446,49 @@
     "subject": "Chef's Table festival Park City Aug 13\u201316",
     "url": "https://www.oth.media/p/oth-summer-digest-2026",
     "reason": "Park City Utah \u2014 not NYC or London; out of ResX's two-city scope",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-18",
+    "subject": "Soraya London",
+    "url": "https://www.hot-dinners.com/2026042315000/Gastroblog/Latest-news/soraya-london-pachamama-group-loxton-walk-marylebone-restaurant",
+    "reason": "stale_content",
+    "detail": "posted_days_ago=999 \u2014 older than the 14-day freshness window (or undated)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-18",
+    "subject": "Hon's BBQ Hackney Wick",
+    "url": "https://www.instagram.com/honsbbq",
+    "reason": "Account URL already on sent list \u2014 deduped out",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-18",
+    "subject": "St Clement / Nick Jones hotel restaurant",
+    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/hot-right-now-london-s-hottest-restaurants",
+    "reason": "Only article URL I retrieved for this moment is already on the sent list \u2014 cannot attach a clean lead link",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-18",
+    "subject": "The Horses Clerkenwell (Pelican team)",
+    "url": "https://www.hot-dinners.com/2026081015284/Gastroblog/Latest-news/the-horses-clerkenwell-public-house-group-pub-london",
+    "reason": "September opening \u2014 too early, no post exists yet, nothing to repost today",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-18",
+    "subject": "Yo-Chi Notting Hill fro-yo",
+    "url": "https://www.hot-dinners.com/2026080315265/Gastroblog/Latest-news/yo-chi-australia-london-notting-hill-frozen-yoghurt-opening",
+    "reason": "Generic fro-yo chain opening \u2014 not distinctive enough for ResX audience, no strong visual post found",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-18",
+    "subject": "Cititour US Open honey deuce roundup",
+    "url": "https://cititour.com/NYC_News/Deuces-Wild-Spots-to-Sip-the-Honey-Deuce-in-NYC/9835",
+    "reason": "Roundup from 2025 \u2014 dates confirmed as 2025 tournament coverage, not 2026",
     "source_type": "researched"
   }
 ]
