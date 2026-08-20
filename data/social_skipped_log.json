@@ -490,5 +490,54 @@
     "url": "https://cititour.com/NYC_News/Deuces-Wild-Spots-to-Sip-the-Honey-Deuce-in-NYC/9835",
     "reason": "Roundup from 2025 \u2014 dates confirmed as 2025 tournament coverage, not 2026",
     "source_type": "researched"
+  },
+  {
+    "date": "2026-08-20",
+    "subject": "Soraya London (Persian, from Nina/Zephyr/Lagana team)",
+    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-august-2026",
+    "reason": "Only source available is a roundup ('new London restaurants opening in August 2026') \u2014 roundup leads are automatically dropped per rules; no single-subject article or post permalink found within fetch/search budget",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-20",
+    "subject": "Bancone at Imperial Hotel Bloomsbury opening August 2026",
+    "url": "https://www.restaurantonline.co.uk/Article/2026/08/03/the-key-uk-restaurant-openings-this-august/",
+    "reason": "Only source is a roundup ('Restaurant radar: August 2026') \u2014 automatically dropped; no single-subject article or post permalink available",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-20",
+    "subject": "Standard Biergarten US Open 2026 Honey Deuce watch party",
+    "url": "https://www.standardhotels.com/new-york/happenings/us-open-2025-bg",
+    "reason": "Only URL retrieved in fetch was the 2025 event page; cannot confirm a 2026 URL exists without constructing one \u2014 dropped to avoid wrong link; incorporated into the US Open post_idea above via Time Out article",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-20",
+    "subject": "COQODAQ US Open Honey Deuce Double Deuce cocktail 2026",
+    "url": "https://www.instagram.com/coqodaq/",
+    "reason": "Already in the already-sent URLs list \u2014 deduped",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-20",
+    "subject": "Chrissy's Pizza East Village (hard-to-get after-hours pizza, Superiority Burger pop-up)",
+    "url": "https://www.tiktok.com/tag/nycfoodie",
+    "reason": "Mentioned in TikTok tag page snippet but no single-subject article or post permalink available; insufficient sourcing",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-20",
+    "subject": "Top 5 New NYC Restaurants 2026 TikTok (Ambassadors Clubhouse named)",
+    "url": "https://www.tiktok.com/discover/nyc-restaurants",
+    "reason": "TikTok discover page, not a specific post permalink; no individual post or single-subject article extracted; roundup format",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-20",
+    "subject": "London Museum Smithfield opening \u2014 Ryan Chetiyawardana bar + Robin Gill bistro",
+    "url": "https://thenudge.com/london-restaurants-opening-soon/",
+    "reason": "Future opening (Autumn 2026), not imminent enough for today; source is a roundup",
+    "source_type": "researched"
   }
 ]
