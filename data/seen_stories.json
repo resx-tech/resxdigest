@@ -1,103 +1,5 @@
 [
   {
-    "key": "https://www.prnewswire.com/news-releases/hostie-raises-12m-series-a-to-power-the-future-of-restaurant-hospitality-302820521.html",
-    "date": "2026-07-20",
-    "headline": "Hostie raises $12M Series A",
-    "detail": "AI concierge for restaurants closes $12M led by Obvious Ventures; 400K covers booked to date.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.restaurantbusinessonline.com/technology/doordash-testing-restaurant-discovery-app-called-zesty",
-    "date": "2026-07-20",
-    "headline": "DoorDash expands Zesty to public beta",
-    "detail": "AI restaurant discovery app now in public beta in NYC and SF with upgraded agentic search.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.forbes.com/sites/bradjaphe/2026/06/29/meet-the-man-who-wants-to-revolutionize-the-way-you-make-reservations/",
-    "date": "2026-07-20",
-    "headline": "PRIMA launches in Ibiza, eyes London",
-    "detail": "Hospitality reservation marketplace live in NYC, London, Miami, LA, Ibiza; Ibiza stood up in 4 days.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.seroundtable.com/google-maps-opentable-reservations-gone-41700.html",
-    "date": "2026-07-20",
-    "headline": "Google Maps quietly kills OpenTable integration",
-    "detail": "Help doc removed July 17; restaurants lose direct Maps booking button.",
-    "so_what": "Google pulling OpenTable's native 'Reserve a Table' button from Maps listings is the most significant distribution shift in reservations in years. OpenTable has marketed this integration as a core value prop \u2014 its own site still promotes Gemini Spark booking as a differentiator. If the Maps channel closes, OpenTable loses a high-intent discovery entry point it doesn't control. For ResX: this is a platform vulnerability opening \u2014 venues reliant on Maps-driven OT bookings now have a reason to diversify. Any platform that can offer alternative discovery-to-booking paths (search, social, direct) has a sharper pitch this week."
-  },
-  {
-    "key": "https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/",
-    "date": "2026-07-20",
-    "headline": "Uber buys Delivery Hero for $14.8B",
-    "detail": "Deal announced July 16; expands Uber Eats to 99 markets globally.",
-    "so_what": "Uber Eats now directly rivals DoorDash (SevenRooms) at global scale \u2014 including in London via Delivery Hero's European brands. If Uber Eats follows DoorDash's playbook and builds a reservation layer on top of this delivery footprint, the competitive map for reservation-adjacent platforms changes fast. For ResX: DoorDash's urgency to integrate SevenRooms deeper and faster just increased. The window for platforms not inside the Uber or DoorDash delivery stack to establish independent positioning with venues is compressing."
-  },
-  {
-    "key": "https://www.nrn.com/independent-restaurants/thomas-keller-restaurant-group-to-pay-2-million-to-settle-sexual-harassment-case",
-    "date": "2026-07-20",
-    "headline": "Thomas Keller Group pays $2M EEOC harassment settlement",
-    "detail": "Bouchon Las Vegas case settled July 8; 4-year compliance monitor required.",
-    "so_what": "Keller's group operates Per Se (NYC) and The French Laundry \u2014 both are among the hardest reservations in the country and anchors on OpenTable and Resy. The settlement mandates a 4-year independent EEOC compliance monitor and policy overhaul across the group, while simultaneous French Laundry labor lawsuits pile on. When a marquee fine-dining operator is under sustained legal pressure, it creates operational distraction and potential brand risk at venues that drive aspirational booking demand. For ResX: high-profile operator distress at must-have venues is a signal worth tracking \u2014 it can shift how those venues manage access, staffing, and hospitality standards, all of which affect booking experience."
-  },
-  {
-    "key": "https://www.timeout.com/london/news/beloved-agave-cocktail-bar-hacha-is-opening-in-a-new-location-this-summer-061026",
-    "date": "2026-07-20",
-    "headline": "Hacha Takes Over Ixchel's Chelsea Basement All Summer",
-    "detail": "London's first agaveria relocated to Ixchel's Nocturna Lounge, King's Road, June 18\u2013Aug 31.",
-    "so_what": ""
-  },
-  {
-    "key": "https://barmagazine.co.uk/summer-pop-up-bar-cantina-libre-lands-at-mercato-metropolitano-elephant-castle/",
-    "date": "2026-07-20",
-    "headline": "Cantina Libre Hosts Agave Masterclass on Tequila Day",
-    "detail": "Mercato Metropolitano Elephant & Castle: pulque tasting + tequila/mezcal class, July 24, 6\u20138pm.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.forbes.com/sites/alywalansky/2026/07/18/10-delicious-cocktails-to-enjoy-on-national-tequila-day/",
-    "date": "2026-07-20",
-    "headline": "Musket Room's First Force-Carbonated Cocktail: Tequila Papaya",
-    "detail": "\"Light of Day\" \u2014 tequila, papaya liqueur, batavia arrack, force-carbonated \u2014 debuts for Tequila Day.",
-    "so_what": ""
-  },
-  {
-    "key": "https://blog.resy.com/2026/02/mixteca-kees-nyc/",
-    "date": "2026-07-20",
-    "headline": "Mixteca Is NYC's Agave Bar for Tequila Day Weekend",
-    "detail": "PDT team's 1 Cornelia St bar: 5 margarita variants, Tacos 1986 kitchen, open till 2am daily.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.8it.world/nyc/this-weekends-must-eats-2026-7-19/",
-    "date": "2026-07-20",
-    "headline": "Di An Di x Amenohi: Vietnam Meets Japan in Greenpoint",
-    "detail": "One-weekend onigiri collab: four fillings including one Viet-inspired, paired with chilled miso soup.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.kimi.com/blog/kimi-k3",
-    "date": "2026-07-20",
-    "headline": "Kimi K3 hits #1 frontend coding, API now live",
-    "detail": "2.8T open-weight model beats Fable 5 on Frontend Code Arena; $3/$15/M tokens, 1M context",
-    "so_what": "Test model ID kimi-k3 via OpenRouter on React Native components this week \u2014 cache hits drop input to $0.30/M, cheaper than GPT-5.6 Sol for long-context frontend tasks"
-  },
-  {
-    "key": "https://platform.claude.com/docs/en/about-claude/models/migration-guide",
-    "date": "2026-07-20",
-    "headline": "Sonnet 5 throws HTTP 400 on temperature and top_p",
-    "detail": "Non-default temperature, top_p, top_k now hard-fail; new tokenizer adds ~30% token count",
-    "so_what": "Grep your Node/TypeScript API calls for temperature or top_p before next deploy \u2014 silent 400 errors will break any Anthropic integration still passing sampling params"
-  },
-  {
-    "key": "https://x.com/claudeai/status/2078302415804379218",
-    "date": "2026-07-20",
-    "headline": "Fable 5 now permanent in Claude Max from July 20",
-    "detail": "Anthropic locks Fable 5 into Max and Team Premium at 50% weekly limits; Pro drops to credits-only",
-    "so_what": "If any team member is on Claude Pro using Fable 5 heavily, upgrade to Max 5x ($100/mo) now \u2014 the one-time $100 Pro credit will run out fast on coding sessions"
-  },
-  {
     "key": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
     "date": "2026-07-24",
     "headline": "Atoms (CloudKitchens) raises $1.7B from a16z, Uber",
@@ -726,5 +628,89 @@
     "headline": "Qwen3.8-27B: Free, Local, Beats Muse Glimmer",
     "detail": "Apache 2.0 weights live Aug 14; single GPU, 262K context",
     "so_what": "Pull weights now \u2014 replaces Muse Glimmer for overnight Node/TypeScript coding tasks at zero API cost"
+  },
+  {
+    "key": "https://www.businesswire.com/news/home/20260818790087/en/Square-and-OpenTable-Deepen-Strategic-Partnership-for-Unified-Dining-Guest-and-Payment-Insights",
+    "date": "2026-08-21",
+    "headline": "Square+OpenTable unify booking, spend, guest data",
+    "detail": "Expanded preferred partnership merges reservation and transaction data on Square hardware \u2014 Aug 18.",
+    "so_what": "The reservation-POS axis is hardening into two explicit camps this week: Square with OpenTable, Toast with Resy (Digital Chits). Both integrations were announced within 24 hours of each other. The strategic signal is that POS platforms are now the de facto distribution layer for reservation guest data \u2014 restaurants on Square get OpenTable guest intelligence baked into their handheld; restaurants on Toast get Resy data the same way. An independent platform competing for the same restaurants has to answer how it connects into the POS layer, or accept that its guest data lives in a silo. The partnership covers the US, Canada, UK, Australia, Ireland, and France \u2014 this is not a US-only play."
+  },
+  {
+    "key": "https://blog.resy.com/newsroom/resy-toast-integration-digital-chits/",
+    "date": "2026-08-21",
+    "headline": "Resy launches Toast Digital Chits integration",
+    "detail": "Guestbook data \u2014 notes, visit history, occasions \u2014 now surfaces live on Toast POS handhelds during service. First two-way integration of its kind; live Aug 13.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.headforpoints.com/2026/08/18/earn-virgin-points-at-restaurants-with-squaremeal-2/",
+    "date": "2026-08-21",
+    "headline": "SquareMeal partners with Virgin Red for dining points",
+    "detail": "Virgin Points now earnable on SquareMeal bookings and registered-card spend at selected restaurants; up to 3,000 points per meal. Partnership live Aug 18.",
+    "so_what": ""
+  },
+  {
+    "key": "https://spectrumlocalnews.com/product-pages/Remembering-Dylan-Lyons/the-rush-hour/2026/08/13/new-reservation-app-allows-guests-to-order--pay-before-being-seated",
+    "date": "2026-08-21",
+    "headline": "Ready to Dine soft-launches pre-order reservation app",
+    "detail": "App lets diners choose duration, pre-order, and prepay before arriving; soft launch confirmed Aug 13 on Spectrum News NY1.",
+    "so_what": ""
+  },
+  {
+    "key": "https://restaurantindustry.co.uk/2026/08/07/tastecard-and-gourmet-society-owner-ello-group-secures-16-5m-hscb-facility-to-further-enable-growth-plans/",
+    "date": "2026-08-21",
+    "headline": "Tastecard parent Ello Group secures \u00a316.5M facility",
+    "detail": "HSBC revolving credit facility signed Aug 7; underpins growth under new owner Dragonpass, the global travel rewards platform.",
+    "so_what": ""
+  },
+  {
+    "key": "https://sports.yahoo.com/articles/roger-federer-making-return-arthur-190822693.html",
+    "date": "2026-08-21",
+    "headline": "Federer Returns to Ashe: NYC Goes Tennis-Mad",
+    "detail": "Aug 25 exhibition with Agassi, McEnroe, Roddick \u2014 lowest resale seat $238.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.forbes.com/sites/irenelevine/2026/08/05/headed-to-the-2026-us-open-bring-your-appetite/",
+    "date": "2026-08-21",
+    "headline": "COQODAQ's Double Deuce Is the In-Restaurant US Open Cocktail",
+    "detail": "Beverage director Kasin's egg-shaped ice cube riff on Honey Deuce, Flatiron, tournament-long.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-pop-ups-food-restaurants-residencies-events-london-right-now",
+    "date": "2026-08-21",
+    "headline": "Gumbs \u00d7 Roberts Carnival Collab, Sky Garden Tonight",
+    "detail": "Six courses \u2014 crab Johnny cake, 48-hour curried goat \u2014 Fenchurch, Aug 27, \u00a385.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.hrpfestivals.com/hampton-court-palace",
+    "date": "2026-08-21",
+    "headline": "Hampton Court Food Festival: 150 Producers, Bank Holiday",
+    "detail": "Aug 29\u201331, new Regina Kitchen live-chef demos with Cyrus Todiwala added for 2026.",
+    "so_what": ""
+  },
+  {
+    "key": "https://cursor.com/changelog/08-19-26",
+    "date": "2026-08-21",
+    "headline": "Cursor agents now watch PRs and Slack solo",
+    "detail": "Aug 19 changelog: cloud agents wake on events, drive PRs to CI green",
+    "so_what": "Point a cloud agent at your Node PRs overnight \u2014 no human relay needed"
+  },
+  {
+    "key": "https://ai-tldr.dev/",
+    "date": "2026-08-21",
+    "headline": "Claude Code 50% usage boost extended Aug 31",
+    "detail": "Anthropic extends elevated weekly limits for Pro, Max, Team, Enterprise",
+    "so_what": "Run heavier Claude Code sessions through Aug 31 at no extra cost \u2014 use it now"
+  },
+  {
+    "key": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+    "date": "2026-08-21",
+    "headline": "OpenAI logs agent reasoning, not just outputs",
+    "detail": "Chain-of-thought monitoring now mandatory for all tool-enabled Sol+ model runs",
+    "so_what": "Log Claude/GPT reasoning traces in your Node agent calls \u2014 not just final responses"
   }
 ]
