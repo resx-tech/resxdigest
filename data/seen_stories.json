@@ -1,75 +1,5 @@
 [
   {
-    "key": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-    "date": "2026-07-24",
-    "headline": "Atoms (CloudKitchens) raises $1.7B from a16z, Uber",
-    "detail": "Kalanick's ghost kitchen holdco closes $1.7B; Uber re-invests alongside a16z.",
-    "so_what": "Atoms is the rebranded parent of CloudKitchens \u2014 the ghost kitchen infrastructure operator in 110+ cities \u2014 plus Lab37 food robots and a new Bowl Builder automated assembly line being tested in CloudKitchens locations. Uber's participation as an investor reconnects Kalanick's food infrastructure with the delivery giant that just acquired Delivery Hero for $14.8B. The relevant question for ResX: if Uber's delivery stack (now global via Delivery Hero), CloudKitchens' kitchen infrastructure, and Atoms' food automation all tighten into one stack, the operating environment for independent venue operators changes \u2014 and so does the leverage any reservation platform has with those venues. A world where a significant share of restaurant supply runs on Atoms infrastructure and fulfills via Uber Eats is one where the booking layer matters even more as a venue's independent customer relationship tool."
-  },
-  {
-    "key": "https://www.restaurantdive.com/news/wonder-valuation-9-billion-latest-650m-funding/825417/",
-    "date": "2026-07-24",
-    "headline": "Wonder $650M Series D officially closed",
-    "detail": "Round confirmed at $650M, $9B valuation; footprint tripled to 140 locations.",
-    "so_what": "Prior digest flagged the SEC filing for a '$600M pre-IPO round.' This week's confirmed close is materially different: the round exceeded its target, valuation is now public at $9B pre-money, and Wonder simultaneously disclosed it owns Grubhub and Blue Apron alongside its 140-location food hall footprint. Wonder is now capitalized to accelerate both physical locations and its marketplace \u2014 which aggregates hundreds of thousands of restaurant listings nationwide. That marketplace layer is the direct competitive surface for ResX: a platform controlling delivery, dine-in, and meal kit data at scale, pre-IPO, is exactly the kind of aggregator that could offer venues a 'one platform' argument before ResX can establish its own position."
-  },
-  {
-    "key": "https://www.prnewswire.com/news-releases/book-the-restaurant-then-the-room-opentable-reveals-the-2026-top-100-hotel-restaurants-in-america-302825007.html",
-    "date": "2026-07-24",
-    "headline": "OpenTable Concierge moves from profiles to homepage",
-    "detail": "AI dining assistant now live on OpenTable homepage; searches 65,000+ restaurants by natural language, confirmed July 14\u201316.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.prnewswire.com/apac/news-releases/aiello-partners-with-tablecheck-to-power-ai-driven-restaurant-reservations-302831982.html",
-    "date": "2026-07-24",
-    "headline": "Aiello x TableCheck: AI call agent books tables in 50+ languages",
-    "detail": "ACA now completes phone reservations directly inside TableCheck, 24/7, announced July 23.",
-    "so_what": ""
-  },
-  {
-    "key": "https://calmatters.digitaldemocracy.org/bills/ca_202520260ab1640",
-    "date": "2026-07-24",
-    "headline": "CA scalping bill reaches Senate Appropriations Committee",
-    "detail": "AB 1640 re-referred to Senate Appropriations June 29; floor vote still pending.",
-    "so_what": "This is a status update \u2014 not a new development \u2014 but the legislative clock matters: California's Senate Appropriations Committee cleared the bill June 29 with an 11-0 vote, re-referring it to Appropriations. The California Senate floor vote is now the last hurdle before the bill reaches the Governor. If it passes, California becomes the third major state (after NY and NJ) to ban unauthorized reservation resales, with AG enforcement powers and $1,000-per-violation penalties. The pattern \u2014 NY, NJ, Philly, now CA \u2014 is hardening into a national legislative framework that reshapes what any reservation access layer can legally offer. For ResX: the consent-required model spreading state-by-state closes off grey-market inventory angles that competitors like Appointment Trader V2 are actively trying to exploit via their AI rebuild."
-  },
-  {
-    "key": "https://www.forbes.com/sites/alywalansky/2026/07/18/10-delicious-cocktails-to-enjoy-on-national-tequila-day/",
-    "date": "2026-07-24",
-    "headline": "National Tequila Day: Bar Susanne's Uno Mas + Dynamo Room's Space Oddity",
-    "detail": "Bar Susanne (Domino Park, Williamsburg): Uno Mas \u2014 Altos Tequila, Nixta corn liqueur, Suze, grapefruit cordial, Topo-Chico, chipotle taj\u00edn rim, $22. The Dynamo Room (Penn District): Space Oddity \u2014 tequila, saffron, pandan leaf, lime, $21.95.",
-    "so_what": ""
-  },
-  {
-    "key": "https://londontheinside.com/michelin-dishes-from-7-at-chishuru-as-it-goes-a-la-carte/",
-    "date": "2026-07-24",
-    "headline": "Chishuru Runs Michelin Suya Sessions From \u00a37 Wednesdays",
-    "detail": "Jok\u00e9 Bakare's Fitzrovia tasting-menu spot goes \u00e0 la carte suya street food through Aug 26.",
-    "so_what": ""
-  },
-  {
-    "key": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
-    "date": "2026-07-24",
-    "headline": "HalluSquatting turns Cursor into botnet installer",
-    "detail": "Attackers pre-register npm packages LLMs statistically hallucinate; agents install silently",
-    "so_what": "Audit every AI-generated package.json addition this week \u2014 never let Cursor or Copilot install an unverified npm package without manual lockfile check"
-  },
-  {
-    "key": "https://ramp.com/router/",
-    "date": "2026-07-24",
-    "headline": "Ramp Router now free: 30% LLM cost cut",
-    "detail": "OpenAI-compatible endpoint routes each call to cheapest qualifying model",
-    "so_what": "Swap ResX's Node API base URL to Ramp Router \u2014 one-line change, 30% immediate cost reduction on all LLM calls"
-  },
-  {
-    "key": "https://cursor.com/blog/agent-swarm-model-economics",
-    "date": "2026-07-24",
-    "headline": "Cursor swarm: model mix cuts cost 8x",
-    "detail": "Opus 4.8 + Composer 2.5 cost $1,339 vs $10,565 for GPT-5.5 alone on same task",
-    "so_what": "For any multi-step agent task in Cursor, set GPT-5.6 Sol only for planning; route subtasks to cheaper models \u2014 saves ~87% per swarm run"
-  },
-  {
     "key": "https://www.forbes.com/sites/noelburgess/2026/07/20/pablo-rivero-resy-tock-amex-drinks-dining/",
     "date": "2026-07-27",
     "headline": "Amex proposes $700M TheFork buy, expands Resy",
@@ -712,5 +642,89 @@
     "headline": "OpenAI logs agent reasoning, not just outputs",
     "detail": "Chain-of-thought monitoring now mandatory for all tool-enabled Sol+ model runs",
     "so_what": "Log Claude/GPT reasoning traces in your Node agent calls \u2014 not just final responses"
+  },
+  {
+    "key": "https://www.nrn.com/restaurant-franchising/trending-this-week-nelson-peltz-is-reportedly-planning-an-offer-for-wendy-s",
+    "date": "2026-08-24",
+    "headline": "Wendy's Take-Private Bid Nears; COO Role Revived",
+    "detail": "Peltz/Trian consortium bid expected weeks away; US president departs Aug 31.",
+    "so_what": "Flynn Group \u2014 the world's largest restaurant franchisee, operating 309 Wendy's plus Applebee's, Pizza Hut, and Taco Bell units \u2014 is reportedly a consortium member in the take-private bid. If the deal closes, a single PE-aligned ownership group gains influence over tech vendor decisions across thousands of full-service and QSR locations simultaneously. Wendy's has already closed 289 US restaurants in H1 2026 and withdrawn its full-year outlook \u2014 operators in distress or restructuring routinely re-evaluate platform contracts. The COO role revival (vacant since 2019) signals internal restructuring is accelerating regardless of whether the bid materialises. Watch which reservation/hospitality tech vendors are embedded across the Flynn Group portfolio."
+  },
+  {
+    "key": "https://www.thestreet.com/restaurants/bloomin-brands-outback-steakhouse-restaurant-closures",
+    "date": "2026-08-24",
+    "headline": "Fleming's Shrinks to 64 US Locations; Bloomin' Restructures",
+    "detail": "Bloomin' closed 9 restaurants in Q2; Fleming's down to 64 US units.",
+    "so_what": "Fleming's Prime Steakhouse is a reservation-dependent, full-service brand \u2014 exactly the venue profile where platform relationships and cover-management tools matter most. The parent's Q2 earnings (reported Aug 5, covered in trade press this week Aug 20) show continued unit reduction concentrated at Fleming's and Outback, even as comp sales recover. A portfolio company actively pruning its footprint is re-evaluating every vendor relationship at each closure. With 64 US Fleming's locations remaining \u2014 down from a larger base \u2014 the brand is contracting into a premium-only footprint where per-cover technology spend is most justified. Worth flagging to any account team covering casual-to-upscale full-service groups under PE or corporate ownership."
+  },
+  {
+    "key": "https://www.customerexperiencedive.com/news/opentable-access-hard-to-book-tables-loyalty-program/824895/",
+    "date": "2026-08-24",
+    "headline": "OpenTable adds primetime tables to Regulars Gold tier",
+    "detail": "Gold members get priority access to 500+ hard-to-book restaurants across 50 cities.",
+    "so_what": ""
+  },
+  {
+    "key": "https://commoncentsact.com/news/congressgov-senate-passes-the-common-cents-act-by-unanimous-consent",
+    "date": "2026-08-24",
+    "headline": "Common Cents Act One House Vote From Law",
+    "detail": "Senate passed Aug 7; cash rounding to nearest nickel, opt-in for restaurants.",
+    "so_what": "Both chambers have now passed matching versions of the bill. Once enacted (one more House vote required), restaurants can legally round cash transactions to the nearest nickel when exact change is unavailable \u2014 eliminating the litigation risk that has forced operators to absorb rounding losses estimated at up to $168M annually. For any venue using ResX that takes cash at point of sale, this changes the checkout flow. The NRA explicitly called it 'a win for restaurant operators.' Operationally low-urgency for digital-reservation-first venues, but relevant for any full-service partner running hybrid cash/card payment environments."
+  },
+  {
+    "key": "https://hauteliving.com/2026/08/how-new-yorks-luxury-hotels-restaurants-are-celebrating-the-us-open-2026/793312/",
+    "date": "2026-08-24",
+    "headline": "Fasano Is the US Open's Player Dining Room",
+    "detail": "Alcaraz and Sinner named regulars; Baretto downstairs for post-dinner; Sinner now withdrew, Alcaraz still in.",
+    "so_what": ""
+  },
+  {
+    "key": "https://qns.com/2026/08/us-open-culinary-lineup/",
+    "date": "2026-08-24",
+    "headline": "Cosme's Duck Carnitas Hit Flushing Meadows",
+    "detail": "Olvera's Flatiron flagship takes the former Mojito footprint; duck carnitas on-grounds, tournament-long.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.theupcoming.co.uk/2026/08/20/jenki-whisks-up-matcha-burgers-with-supernova-ahead-of-soho-bar-launch/",
+    "date": "2026-08-24",
+    "headline": "JENKI Takes Over Supernova for Bank Holiday",
+    "detail": "200 boxes/day, Aug 28\u201329 only; matcha mayo, lemonade, soft serve \u2014 teeing up JENKI's Soho opening Sept 3.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.londonxlondon.com/cotton-beach-club-ibiza-lands-on-selfridges-rooftop-for-two-nights-of-balearic-dining-at-alto-by-san-carlo/",
+    "date": "2026-08-24",
+    "headline": "Cotton Beach Club Lands on Selfridges Roof Tonight",
+    "detail": "CBC resident DJs, caviar belt, Mediterranean menu \u2014 alto \u00d7 Cotton Beach Club, Aug 29 and Sept 26.",
+    "so_what": ""
+  },
+  {
+    "key": "https://planque.co.uk/events/zen-ong-at-planque/",
+    "date": "2026-08-24",
+    "headline": "Planque Turns Five with LA Chef Zen Ong",
+    "detail": "Wagyu rendang, tuna belly, frozen dessert bars \u2014 Haggerston, Aug 30, walk-in from 2pm, no bookings.",
+    "so_what": ""
+  },
+  {
+    "key": "https://github.com/openai/codex/releases/tag/rust-v0.149.0",
+    "date": "2026-08-24",
+    "headline": "Codex CLI adds cross-session queue and dashboard",
+    "detail": "v0.149.0: codex queue sends messages to any running local or remote session",
+    "so_what": "Route backend agent status into frontend Codex session without copy-pasting \u2014 no relay needed"
+  },
+  {
+    "key": "https://openrouter.ai",
+    "date": "2026-08-24",
+    "headline": "Ox Alpha: free 1M-context reasoning model on OpenRouter",
+    "detail": "Anonymous model appeared Aug 20; zero token charge, 1,048,576-token context",
+    "so_what": "Drop entire Node service codebase in one context window for review \u2014 zero API cost today"
+  },
+  {
+    "key": "https://learn.chatgpt.com/docs/third-party/gitlab",
+    "date": "2026-08-24",
+    "headline": "Codex cloud connects to GitLab on all plans",
+    "detail": "Aug 19 beta: @codex starts tasks from GitLab issues and MR reviews",
+    "so_what": "If ResX is on GitLab, wire Codex to MRs today \u2014 free automated code review on existing plan"
   }
 ]
