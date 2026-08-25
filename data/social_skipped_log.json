@@ -1,182 +1,5 @@
 [
   {
-    "date": "2026-07-21",
-    "subject": "Mimi's Frozen Yogurt NYC",
-    "url": "https://www.edgenyc.com/news/tiktok-viral-things-to-do-in-nyc-right-now/",
-    "reason": "Froyo queue moment already featured (Bloomberg viral froyo story, July 2026) \u2014 on dedup list",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-21",
-    "subject": "Somssi NYC (Atoboy/Atomix team)",
-    "url": "https://blog.resy.com/the-hit-list/nyc-restaurants/",
-    "reason": "Resy Hit List roundup page \u2014 not a single-subject lead; Somssi article URL already sent in prior run",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-21",
-    "subject": "RH London rooftop",
-    "url": "https://www.hot-dinners.com/London-restaurants/Mayfair-Belgravia/rh-london-gallery",
-    "reason": "Already featured as a moment (celeb-packed RH London Mayfair launch, Margot Robbie, Henry Cavill) \u2014 on dedup list",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-21",
-    "subject": "Langosteria London at The OWO",
-    "url": "https://www.instagram.com/langosteria/",
-    "reason": "Instagram profile already sent in prior run \u2014 deduped URL; and Langosteria moment not genuinely new today",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-21",
-    "subject": "Maai by Nikita Clapham (MasterChef winner)",
-    "url": "https://www.timeout.com/london/restaurants/the-best-new-restaurants-in-london",
-    "reason": "Source is a roundup page (not a single-subject article or real post permalink); could not drill to a real post within fetch budget",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-21",
-    "subject": "Tavern / Bar Etna / Ornella roundup",
-    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/hot-right-now-london-s-hottest-restaurants",
-    "reason": "Top-level URL already sent in prior run \u2014 used the individual venue pages and embedded posts instead",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-21",
-    "subject": "Zylia Greek/Cypriot Covent Garden",
-    "url": "https://www.hot-dinners.com/London-restaurants/Soho-Fitzrovia-Covent-Garden/zylia-cypriot-greek-taverna",
-    "reason": "Interesting opening but no real post permalink found within fetch budget; scored lower than Chez Rose/Czer/Vesper on desire-fit and stop-scroll for ResX audience",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-21",
-    "subject": "Ornella Hackney (Lupa sequel, Theo James)",
-    "url": "https://www.hot-dinners.com/London-restaurants/East-London/ornella-hackney",
-    "reason": "Strong opening but no real post permalink retrieved; Chez Rose and Vesper scored higher on momentum and source quality",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-21",
-    "subject": "Caf\u00e9 Clement Strand",
-    "url": "https://thenudge.com/cafe-clement/",
-    "reason": "Caf\u00e9 Clement article URL already sent in prior run \u2014 deduped",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-21",
-    "pinned_input": "",
-    "subject": "Tavern Shoreditch",
-    "url": "https://www.hot-dinners.com/London-restaurants/Shoreditch-Clerkenwell/tavern-shoreditch",
-    "reason": "diversity_cap",
-    "detail": "already have an item from account 'hotdinners' in this digest",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-22",
-    "subject": "Mimi's Froyo NYC",
-    "url": "https://www.edgenyc.com/news/tiktok-viral-things-to-do-in-nyc-right-now/",
-    "reason": "Already featured \u2014 'bloomberg viral froyo queue story' is on the already-featured moments list; same venue/moment",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-22",
-    "subject": "Soraya Marylebone",
-    "url": "https://www.instagram.com/sorayamarylebone/",
-    "reason": "Already sent \u2014 exact URL is on the already-sent URLs list",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-22",
-    "subject": "Pizza 4P's Greenpoint first US location",
-    "url": "https://www.theinfatuation.com/new-york/guides/new-nyc-restaurants-openings",
-    "reason": "Strong concept but same article URL as two other items already in today's output \u2014 would duplicate the source link and dilute; also less scroll-stopping than Foreigner/Frenchette for ResX audience",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-22",
-    "subject": "Oberon at New Museum LES",
-    "url": "https://www.theinfatuation.com/new-york/guides/new-nyc-restaurants-openings",
-    "reason": "Interesting but late-night/arts-institution angle is less on-brand for ResX's going-out-tonight desire; same source URL already used",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-22",
-    "subject": "Treinta Treinta Nolita mezcaleria",
-    "url": "https://www.theinfatuation.com/new-york/guides/new-nyc-restaurants-openings",
-    "reason": "Genuinely cool (La Esquina team, mezcal + coffee, Nolita) but same source URL already used three times today; would surface with fresh permalink on a lower-traffic day",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-22",
-    "subject": "Miokuru Soho handrolls",
-    "url": "https://www.designmynight.com/london/blog/new-restaurants-london",
-    "reason": "20-seat handroll counter is a great concept but opened July 13 \u2014 already one week old and same source as Kismet; Kismet is hotter/more connected to known creators",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-22",
-    "subject": "Bread Street Kitchen 22 Bishopsgate",
-    "url": "https://www.designmynight.com/london/blog/new-restaurants-london",
-    "reason": "Gordon Ramsay-adjacent, 59th-floor setting is visually strong but too corporate/tourist for ResX's downtown cool-girl brand; already sent Lucky Cat Ramsay item previously",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-22",
-    "subject": "Bark BBQ Bushwick Instagram account",
-    "url": "https://www.instagram.com/barkbarbecue/",
-    "reason": "Included as account_url in post_idea posts array \u2014 not rejected, listed here for transparency that it was not independently verified via fetch; omitted post_url rather than guess a permalink",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-23",
-    "subject": "Somssi NYC",
-    "url": "https://blog.resy.com/2026/06/somssi-nyc/",
-    "reason": "URL already in dedup list \u2014 previously sent, cannot reuse",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-23",
-    "subject": "TAQ Notting Hill (Taqueria x Jackson Boxer x Yishima)",
-    "url": "https://www.designmynight.com/london/blog/new-restaurants-london",
-    "reason": "Only source found is a roundup/list \u2014 not acceptable as a single-subject lead link per rules; no post permalink retrieved",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-23",
-    "subject": "Maai by Nikita, Clapham",
-    "url": "https://www.timeout.com/london/restaurants/the-best-new-restaurants-in-london",
-    "reason": "Source is a roundup list page \u2014 not a single-subject article. No post permalink retrieved. Could not drill down with remaining fetches.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-23",
-    "subject": "Adda East Village NYC (butter chicken experience)",
-    "url": "https://www.timeout.com/newyork/restaurants/100-best-new-york-restaurants",
-    "reason": "Only source is a roundup page \u2014 not acceptable as lead link; no post permalink found within search budget",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-23",
-    "subject": "Caf\u00e9 Clement, Strand (Nick Jones hotel, Giles Coren rave)",
-    "url": "https://thenudge.com/cafe-clement/",
-    "reason": "Article URL already in dedup list (thenudge.com/cafe-clement); moment previously featured",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-23",
-    "subject": "Zylia Greek/Cypriot taverna, Covent Garden",
-    "url": "https://www.hot-dinners.com/London-restaurants/Soho-Fitzrovia-Covent-Garden/zylia-cypriot-greek-taverna",
-    "reason": "Strong editorial buzz but opened earlier in summer \u2014 momentum already peaked; no fresh post permalink retrieved today to justify inclusion over stronger picks",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-07-23",
-    "subject": "Cantinera Brockley (Spanish/Mexican, BYOB walk-in)",
-    "url": "https://www.hot-dinners.com/London-restaurants/South-London/cantinera-brockley",
-    "reason": "Genuinely interesting but south London outer neighbourhood, limited audience fit for ResX's core 25-35 going-out crowd; no post permalink retrieved",
-    "source_type": "researched"
-  },
-  {
     "date": "2026-07-28",
     "subject": "Hon's BBQ Hackney Wick",
     "url": "https://www.instagram.com/honsbbq/",
@@ -538,6 +361,14 @@
     "subject": "London Museum Smithfield opening \u2014 Ryan Chetiyawardana bar + Robin Gill bistro",
     "url": "https://thenudge.com/london-restaurants-opening-soon/",
     "reason": "Future opening (Autumn 2026), not imminent enough for today; source is a roundup",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-25",
+    "subject": "Salt Hank US Open",
+    "url": "https://www.instagram.com/salt_hank/",
+    "reason": "stale_content",
+    "detail": "posted_days_ago=999 \u2014 older than the 14-day freshness window (or undated)",
     "source_type": "researched"
   }
 ]
