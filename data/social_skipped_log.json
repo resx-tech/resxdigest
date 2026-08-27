@@ -370,5 +370,91 @@
     "reason": "stale_content",
     "detail": "posted_days_ago=999 \u2014 older than the 14-day freshness window (or undated)",
     "source_type": "researched"
+  },
+  {
+    "date": "2026-08-27",
+    "subject": "Waldorf Astoria Ballroom Tennis",
+    "url": "https://www.forbes.com/sites/katiebell/2026/08/21/the-ultimate-guide-to-the-best-us-open-grand-slam-experiences/",
+    "reason": "stale_content",
+    "detail": "posted_days_ago=999 \u2014 older than the 14-day freshness window (or undated)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-27",
+    "subject": "US Open 2026 Food Village chefs",
+    "url": "https://qns.com/2026/08/us-open-culinary-lineup/",
+    "reason": "stale_content",
+    "detail": "posted_days_ago=999 \u2014 older than the 14-day freshness window (or undated)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-27",
+    "subject": "Cassette Covent Garden",
+    "url": "https://www.designmynight.com/london/blog/new-restaurants-london",
+    "reason": "Opened Aug 6 \u2014 21 days ago, outside the 14-day freshness window",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-27",
+    "subject": "Cordelia's Mayfair steakhouse",
+    "url": "https://www.designmynight.com/london/blog/new-restaurants-london",
+    "reason": "Opened Aug 26 (yesterday), compelling live-fire Mayfair opening, but only source is a roundup page \u2014 per rules cannot use as lead article_url",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-27",
+    "subject": "Keepers West Village",
+    "url": "https://www.theinfatuation.com/new-york/reviews/keepers",
+    "reason": "Also Just Added to Infatuation Hit List Aug 24 \u2014 same source/moment as Frenzie; diversity rule prevents featuring both",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-27",
+    "subject": "TAQ Notting Hill (Jackson Boxer x Taqueria rebrand)",
+    "url": "https://www.designmynight.com/london/blog/new-restaurants-london",
+    "reason": "Announced Aug 17, interesting Jackson Boxer collab, but only source is a roundup \u2014 cannot use as editorial lead",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-27",
+    "subject": "Grasso Soho viral chicken parm",
+    "url": "https://www.modash.io/find-influencers/united-kingdom/london/food",
+    "reason": "307k+ view reel mentioned in influencer directory \u2014 no verified post permalink or single-subject editorial article retrievable; source is an influencer listing tool, not editorial",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-27",
+    "subject": "Waterhouse London Fields",
+    "url": "https://www.designmynight.com/london/blog/new-restaurants-london",
+    "reason": "Opened Aug 6 \u2014 21 days ago, stale by freshness rules",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-27",
+    "subject": "20 Blocks East Village sandwiches",
+    "url": "https://www.theinfatuation.com/new-york/reviews/20-blocks",
+    "reason": "Hit List Aug 24 but less visually scroll-stopping than Frenzie; sandwich shop vs. sungold pizza \u2014 Frenzie wins the slot",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-27",
+    "subject": "Cospa Ramen $9.99 Nomad",
+    "url": "https://www.theinfatuation.com/new-york/reviews/cospa-ramen",
+    "reason": "Interesting cheap-eats story but doesn't match ResX's aspirational 25-35 going-out positioning; QR menus and self-serve water don't fit the brand vibe",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-27",
+    "subject": "Sofra Bay Ridge Egyptian",
+    "url": "https://www.theinfatuation.com/new-york/guides/new-nyc-restaurants-openings",
+    "reason": "Soft opened Aug 22 (5 days ago), pharaoh pot pie is scroll-stopping, but only source is openings roundup; Bay Ridge is off-brand for ResX's downtown/aspirational positioning",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-08-27",
+    "subject": "Hon's BBQ Hackney Wick",
+    "url": "https://www.designmynight.com/london/blog/new-restaurants-london",
+    "reason": "No confirmed opening date within 14 days; listed as 'now open' with no specific recent date in source; too uncertain to verify freshness",
+    "source_type": "researched"
   }
 ]
