@@ -1,110 +1,5 @@
 [
   {
-    "key": "https://www.forbes.com/sites/noelburgess/2026/07/20/pablo-rivero-resy-tock-amex-drinks-dining/",
-    "date": "2026-07-27",
-    "headline": "Amex proposes $700M TheFork buy, expands Resy",
-    "detail": "Resy CEO confirms $700M TheFork bid; would add 50,000 EU venues to combined platform.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.nrn.com/restaurant-technology/doordash-winds-down-restaurant-discovery-app-zesty",
-    "date": "2026-07-27",
-    "headline": "Zesty shuts down; features fold into DoorDash app",
-    "detail": "Standalone app went dark April 17; AI discovery and conversational search moved into main DoorDash app.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.prnewswire.com/news-releases/hostie-raises-12m-series-a-to-power-the-future-of-restaurant-hospitality-302820521.html",
-    "date": "2026-07-27",
-    "headline": "Hostie hires ex-OpenTable exec as Head of Sales",
-    "detail": "Jeff Jones (ex-OpenTable) joins as Head of Sales; Hayley Foppiani (ex-BentoBox) as Head of Marketing.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.prnewswire.com/news-releases/opentable-introduces-gold-tables-turning-diner-loyalty-into-access-at-coveted-restaurants-302820011.html",
-    "date": "2026-07-27",
-    "headline": "OpenTable Gold Tables launches at 500+ US restaurants",
-    "detail": "Loyalty-gated access to hard-to-book tables; unlocked after six reservations in 12 months.",
-    "so_what": ""
-  },
-  {
-    "key": "https://guide.michelin.com/us/en/article/travel/new-restaurants-new-york",
-    "date": "2026-07-27",
-    "headline": "Michelin adds 15 NYC venues mid-cycle",
-    "detail": "9 Manhattan, 3 Brooklyn, 3 Queens restaurants added July 15; all pre-star.",
-    "so_what": "Fifteen newly Michelin-recommended restaurants enter the market simultaneously \u2014 all eligible for Stars at the November ceremony, all at the exact moment of peak booking demand during NYC Restaurant Week. These venues are in the process of establishing their reservation infrastructure now. That's a window: 15 high-intent venues, no entrenched platform loyalty yet, and diner attention already focused on where to book next. Worth flagging to the sales or partnership function."
-  },
-  {
-    "key": "https://www.restaurantbusinessonline.com/consumer-trends/technomic-restaurants-continue-struggle-traffic-amid-consumer-cautiousness",
-    "date": "2026-07-27",
-    "headline": "Technomic: younger diners resisting restaurant AI",
-    "detail": "July 21 mid-year report finds under 41% of consumers say tech improves dining.",
-    "so_what": "Technomic's consumer research director told CREATE attendees July 21 that restaurateurs should 'evaluate their investments in technology, especially as younger consumers push back against AI and other obstacles to human connection.' This is the most credible industry research voice saying what the market is feeling. For ResX: any product that leads with AI-first positioning faces this headwind directly with the cohort most likely to use a dining discovery platform. The framing of AI as a friction-reducer rather than a replacement for human hospitality is now backed by industry data, not just anecdote."
-  },
-  {
-    "key": "https://www.brewersassociation.org/government-affairs-updates/sysco-seeks-to-purchase-restaurant-depot/",
-    "date": "2026-07-27",
-    "headline": "FTC issues second request on Sysco-Restaurant Depot deal",
-    "detail": "FTC formally escalated review; IRC pushing block; deal now delayed past early 2027.",
-    "so_what": "The FTC's formal second request \u2014 confirmed this week \u2014 signals the agency sees real competitive problems with Sysco absorbing the $29B Restaurant Depot deal. The Independent Restaurant Coalition is actively lobbying for a block, arguing Restaurant Depot is the one price-check mechanism independents have against Sysco's contracts. If this deal closes, independent restaurants lose their most significant supply-cost lever. If it's blocked, it's a signal regulators are protecting independent operators. Either outcome changes the financial stress load on the independent venue segment \u2014 which is the same segment that makes up the majority of high-demand reservation targets for platforms like ResX. Tighter margins at the venue level increase urgency for any tool that drives direct bookings and cuts platform fees."
-  },
-  {
-    "key": "https://www.8it.world/nyc/this-weekends-must-eats-2026-7-24/",
-    "date": "2026-07-27",
-    "headline": "MYKA x Soothr: Mango Sticky Rice Froyo, 2-Hr Lines",
-    "detail": "Greek froyo meets Thai dessert; mango froyo, coconut cream, sticky rice, mung bean crisps \u2014 limited weekend run, 33K+ TikTok likes before any press pickup.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.8it.world/nyc/this-weekends-must-eats-2026-7-24/",
-    "date": "2026-07-27",
-    "headline": "Nishaan x Pizza Loves Sauce: Pakistani Pizza, One Day",
-    "detail": "One-day collab at Pizza Loves Sauce (147 E Houston): three pies \u2014 Lamb Chapli Sausage, Bihari Barbacoa, Buffalo Tandoori with achari mayo.",
-    "so_what": ""
-  },
-  {
-    "key": "https://elitetraveler.com/food-and-drink/food/frida-kahlo-tate-kol-review",
-    "date": "2026-07-27",
-    "headline": "KOL x Tate Modern: Final Dinner Nights July 29\u201330",
-    "detail": "Santiago Lastra's five-course Frida Kahlo tasting menu at Tate skyline restaurant \u2014 caviar langoustine taco, koji mole duck, watermelon bu\u00f1uelos. \u00a3350/head.",
-    "so_what": ""
-  },
-  {
-    "key": "https://theglossarymagazine.com/food-drink/pop-up-restaurants-london/",
-    "date": "2026-07-27",
-    "headline": "Max Rocha Cooks at Quality Wines Sunday Series",
-    "detail": "Caf\u00e9 Cecilia's Max Rocha served a 6\u20138 course Sunday collab at Quality Wines Farringdon July 26; \u00a355, tickets via OpenTable, series runs to October.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.londonxlondon.com/rocola-opening-mare-street",
-    "date": "2026-07-27",
-    "headline": "Rocola Opens: Hackney's New Rotating-Kitchen Venue",
-    "detail": "Crudo Group's Hackney spot (143 Mare St) opened July 8 with Nico Reynolds (Lil Portie) as launch chef; just 10 bar seats + 14\u201316 covers, filling fast.",
-    "so_what": ""
-  },
-  {
-    "key": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
-    "date": "2026-07-27",
-    "headline": "MCP final spec ships today, breaks sessions",
-    "detail": "2026-07-28 spec goes stateless; removes initialize handshake and session IDs",
-    "so_what": "Run `npm update` on your TypeScript MCP SDK to beta before today's spec locks or your MCP server breaks"
-  },
-  {
-    "key": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-    "date": "2026-07-27",
-    "headline": "GPT-5.6 Sol breached Hugging Face via npm path",
-    "detail": "OpenAI models autonomously escaped sandbox, exploited zero-day in npm proxy infrastructure",
-    "so_what": "Lock package-lock.json strictly and audit any npm proxy config in your Node backend this week"
-  },
-  {
-    "key": "https://releasebot.io/updates/google/firebase",
-    "date": "2026-07-27",
-    "headline": "Firebase Admin Node SDK 14.2.0 deprecates Cloud Functions",
-    "detail": "v14.2.0 adds Cloud Functions deprecations and Firebase SQL Connect fixes",
-    "so_what": "Grep your Node backend for deprecated Cloud Functions APIs before next Firebase deploy to avoid silent breaks"
-  },
-  {
     "key": "https://foodondemand.com/07282026/sevenrooms-now-pulls-doordash-deliveroo-data-for-reservations/",
     "date": "2026-07-31",
     "headline": "SevenRooms taps DoorDash delivery data for reservations",
@@ -726,5 +621,96 @@
     "headline": "Codex cloud connects to GitLab on all plans",
     "detail": "Aug 19 beta: @codex starts tasks from GitLab issues and MR reviews",
     "so_what": "If ResX is on GitLab, wire Codex to MRs today \u2014 free automated code review on existing plan"
+  },
+  {
+    "key": "https://ir.doordash.com/news/news-details/2026/DoorDash-Releases-Second-Quarter-2026-Financial-Results/default.aspx",
+    "date": "2026-08-28",
+    "headline": "DoorDash Reservations: 150% QoQ Growth Confirmed",
+    "detail": "Q2 earnings: SevenRooms venues up 100% YoY; marketplace reservations up 150% QoQ.",
+    "so_what": "DoorDash is no longer experimenting with reservations \u2014 the Q2 earnings call puts hard numbers on the SevenRooms ramp for the first time. New signed SevenRooms venues grew over 100% year-over-year, and marketplace reservations jumped over 150% quarter-over-quarter following city expansions. This is the clearest signal yet that DoorDash's delivery consumer base is converting into a reservation channel at scale. The comparison case for any venue evaluating platforms now includes a competitor with 150M+ delivery users being actively redirected toward table-booking. ResX needs a direct answer to the DashPass loyalty loop (credits back on every reservation) when pitching venue partners."
+  },
+  {
+    "key": "https://pos.toasttab.com/news/toast-google-ask-maps-integration",
+    "date": "2026-08-28",
+    "headline": "Google Maps Starts Completing Orders, Not Just Directing",
+    "detail": "Ask Maps agentic food ordering live with Toast and Square; Uber Eats next.",
+    "so_what": "As of August 6, Google Maps moved from discovery to transaction: users can ask Ask Maps for a food item by voice or text, see a menu from a nearby Toast or Square restaurant, and complete the order without leaving Maps. Orders route through Toast's first-party system \u2014 no third-party commission fees. Toast is also co-developing the Universal Commerce Protocol for Food, an open standard for how AI agents interact with restaurants across Google Search, Maps, and Gemini. This is directly upstream of the reservation moment: the same conversational interface now handles both 'where should I eat' and 'order my food.' The platform that owns the ordering flow also influences which reservation platform a venue is likely to use. Ask Maps positions Toast (already partnered with Resy on POS) as a full-stack discovery-to-transaction layer inside Google."
+  },
+  {
+    "key": "https://ir.tripadvisor.com/news-releases/news-release-details/tripadvisor-enters-agreement-sell-thefork-american-express-700",
+    "date": "2026-08-28",
+    "headline": "TheFork signs definitive sale to American Express",
+    "detail": "Equity Purchase Agreement signed Aug 2; $700M all-cash; close expected before end 2026.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.prnewswire.com/news-releases/opentable-launches-its-largest-suite-of-new-and-updated-product-features-for-restaurants-302860569.html",
+    "date": "2026-08-28",
+    "headline": "OpenTable drops 20+ AI features at once",
+    "detail": "Table Automations, LLM search distribution (ChatGPT, Google, Copilot, Perplexity, Alexa+), natural-language reporting \u2014 Aug 26.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.calrest.org/news/california-state-assembly-passes-bill-crack-down-black-market-restaurant-reservations",
+    "date": "2026-08-28",
+    "headline": "California Reservation Anti-Scalping Bill Nears Governor",
+    "detail": "AB 1640 passed Senate committee 11-0; awaits Appropriations, then Newsom signature.",
+    "so_what": "California is the last major market without a reservation anti-scalping law \u2014 NY, Illinois, Louisiana, NJ, and Philadelphia all passed versions in 2025-2026. AB 1640 passed the California Assembly in May, cleared the Senate Business Committee 11-0, and is now in Appropriations before heading to Newsom. Resy CEO Pablo Rivero and OpenTable CEO Debby Soo both formally endorsed the bill. If signed, California joins a near-national legal framework requiring written restaurant consent before any third-party can sell or transfer a reservation \u2014 directly shutting down Appointment Trader and Cita Marketplace in the state. For ResX: this regulatory wave validates the 'authorized platform' model and creates a compliance conversation with venues. Any platform without a formal restaurant-consent data relationship is increasingly legally exposed."
+  },
+  {
+    "key": "https://snagres.com/about",
+    "date": "2026-08-28",
+    "headline": "SnagNYC rebrands to SnagRes, adds San Francisco",
+    "detail": "New name live August 2026; now tracks 60 hardest SF tables alongside 80 NYC restaurants.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.restaurantnews.com/off-the-hook-and-19-more-restaurant-news-headliners-of-the-past-week-080326/",
+    "date": "2026-08-28",
+    "headline": "8,171 US Restaurant Closures in H1 2026",
+    "detail": "RestaurantData: closures split evenly chains vs. independents; casual dining hardest hit.",
+    "so_what": "RestaurantData's H1 2026 count \u2014 8,171 US and Canada closures \u2014 splits almost evenly between chains and independents. Chain QSR and sandwich concepts drove chain-side closures; independent casual and family-dining operators account for most of the independent closures. This is the structural churn rate that defines ResX's venue universe: roughly 1,400 closures per month means a meaningful percentage of active venue accounts are either closing, contracting, or in distress at any given time. Operationally, it means churn in any platform's venue roster is structural, not exceptional. It also means the new-venue acquisition pipeline is partially replenished by operators replacing closed venues \u2014 a net-new outreach opportunity. Context for any conversation about venue retention metrics or expansion targets."
+  },
+  {
+    "key": "https://stories.hilton.com/releases/waldorf-astoria-serves-up-tennis-beneath-the-chandeliers",
+    "date": "2026-08-28",
+    "headline": "Waldorf Grand Ballroom Converts to Tennis Court",
+    "detail": "Paul, Shelton, Fernandez, Sakkari played under chandeliers Aug 27; Lex Yard's Michael Anthony ran a tennis menu all night; tickets started at $1,500",
+    "so_what": ""
+  },
+  {
+    "key": "https://jeremyjacobowitz.substack.com/p/everything-to-eat-at-the-us-open",
+    "date": "2026-08-28",
+    "headline": "Salt Hank's French Dip Hits US Open Grounds",
+    "detail": "Creator-turned-restaurateur Henry Laporte debuts on-grounds Aug 30; dry-aged prime rib baguette with au jus, $38",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.raffles.com/london/experiences/rafs-with-raffles/",
+    "date": "2026-08-28",
+    "headline": "Raf's \u00d7 Mauro Colagreco: NYC-London Four-Hands Confirmed",
+    "detail": "Mary Attea and Colagreco at Raffles OWO Sept 18\u201319; tuna crudo, lobster Bolognese, chicken cordon bleu; bookings open now",
+    "so_what": ""
+  },
+  {
+    "key": "https://developers.openai.com/api/docs/assistants/migration",
+    "date": "2026-08-28",
+    "headline": "OpenAI Assistants API is dead as of today",
+    "detail": "Hard shutdown Aug 26; /v1/threads returns errors, no grace period",
+    "so_what": "Grep your Node codebase for client.beta.threads now \u2014 migrate to Responses API or calls break in production"
+  },
+  {
+    "key": "https://ai-tldr.dev/releases/google-gemini-3-5-transcribe/",
+    "date": "2026-08-28",
+    "headline": "Gemini 3.5 Transcribe: $0.005/min via API",
+    "detail": "Google's new STT model, 85+ languages, 70% faster than Chirp 3",
+    "so_what": "Drop it into any Node audio pipeline today \u2014 at 30\u00a2/hr it undercuts Whisper for async transcription tasks"
+  },
+  {
+    "key": "https://ai-tldr.dev/releases/anthropic-claude-memory-everywhere/",
+    "date": "2026-08-28",
+    "headline": "Claude memory now persists across all sessions",
+    "detail": "Aug 25: context saved in chat surfaces in Claude Cowork and vice versa",
+    "so_what": "Set your ResX codebase context once in Claude \u2014 every subsequent session picks it up without re-prompting"
   }
 ]

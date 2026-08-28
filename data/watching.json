@@ -259,5 +259,19 @@
     "id": "border town::NYC",
     "importance_rank": 0,
     "merged_from": []
+  },
+  {
+    "name": "Kirbee's",
+    "date": "opens September 4, 2026",
+    "blurb": "Texas BBQ joint from Goldee's and Barbs B Q pitmasters, brisket and green spaghetti.",
+    "city": "NYC",
+    "website": "",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "source_url": "https://www.yahoo.com/lifestyle/articles/kirbee-two-acclaimed-texas-pitmasters-155131044.html",
+    "category": "watching",
+    "importance_rank": 0,
+    "merged_from": [],
+    "id": "kirbees::NYC"
   }
 ]
