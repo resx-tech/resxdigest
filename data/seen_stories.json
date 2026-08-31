@@ -1,90 +1,6 @@
 [
   {
     "key": "https://foodondemand.com/07282026/sevenrooms-now-pulls-doordash-deliveroo-data-for-reservations/",
-    "date": "2026-07-31",
-    "headline": "SevenRooms taps DoorDash delivery data for reservations",
-    "detail": "Global Guest feature: restaurants now search DoorDash/Deliveroo's hundreds of millions of delivery customers at check-in, announced July 21.",
-    "so_what": ""
-  },
-  {
-    "key": "https://spectrumlocalnews.com/ca/california/business/2026/07/14/opentable-new-terms",
-    "date": "2026-07-31",
-    "headline": "OpenTable T&Cs force primary-platform status",
-    "detail": "New terms require restaurants make OpenTable primary TMS, share all guest data",
-    "so_what": "OpenTable is using contract language to close off multi-platform venue strategies \u2014 requiring that any guest data collected via other booking platforms be shared with OpenTable, and that OpenTable be the booking system linked from restaurant websites. This is a direct competitive move against any reservation layer that relies on venue multi-homing. For ResX: venues that sign these terms lose flexibility to experiment with alternative platforms or give partners preferential access. The competitive window for ResX to establish venue relationships before they're contractually locked narrows. LA restaurateurs are already pushing back publicly \u2014 that friction is an opening."
-  },
-  {
-    "key": "https://restaurantnews.com/restaurantdata-estimates-8171-restaurant-closures-in-first-half-of-2026/",
-    "date": "2026-07-31",
-    "headline": "8,171 US restaurant closures logged H1 2026",
-    "detail": "RestaurantData verified figure across 49 states; independent operators 68% of total",
-    "so_what": "The closure rate signals sustained operator stress \u2014 particularly among independent operators, which are the primary target venue segment for premium reservation platforms. High closure volume compresses the addressable market and increases competition among surviving venues for diner attention and platform distribution deals. For ResX: this is context for any venue partnership or sales conversation \u2014 operators under margin pressure are more open to tools that drive direct bookings and reduce platform fees, but they're also more likely to consolidate onto fewer, proven platforms."
-  },
-  {
-    "key": "https://www.yahoo.com/lifestyle/articles/saddest-restaurant-closures-know-los-203000420.html",
-    "date": "2026-07-31",
-    "headline": "LA fine dining closures cluster in July",
-    "detail": "Connie & Ted's (13 yrs), Nerano (10 yrs), Merois (Puck) all closed by July 26",
-    "so_what": "..."
-  },
-  {
-    "key": "https://www.forbes.com/sites/alywalansky/2026/07/30/25-delicious-ways-to-enjoy-oysters-while-celebrating-national-oyster-day/",
-    "date": "2026-07-31",
-    "headline": "Cath\u00e9drale's Oyster \u00d7 Caviar Martini Leads Aug 5 Push",
-    "detail": "Beau Soleil oyster, Belvedere vodka, white sturgeon caviar \u2014 named dish live for National Oyster Day Aug 5; Legal Sea Foods running $1 oysters same day at NYC locations.",
-    "so_what": ""
-  },
-  {
-    "key": "https://finance.yahoo.com/media-advertising/articles/best-york-now-boarding-jetblue-130000887.html",
-    "date": "2026-07-31",
-    "headline": "Crown Shy \u00d7 Birdee Now Aboard JetBlue Mint",
-    "detail": "Kent Hospitality Group collab live July 31: Crown Shy lunch/dinner, Birdee breakfast across domestic and transatlantic Mint routes.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.thecaterer.com/news/a-wong-moves-to-mandarin-oriental-mayfair-for-summer-pop-up",
-    "date": "2026-07-31",
-    "headline": "A.Wong Closes Pimlico Today, Mayfair Residency Aug 18",
-    "detail": "Last Pimlico service Aug 1; Collections of China dinner-only menu at Mandarin Oriental Mayfair private dining, Aug 18\u2013Sept 26.",
-    "so_what": ""
-  },
-  {
-    "key": "https://londontheinside.com/tasca-is-taking-over-project-44-for-the-summer/",
-    "date": "2026-07-31",
-    "headline": "Tasca Is Back: Iberian Pintxos Hit Shoreditch Now",
-    "detail": "Josh Dallaway and Sinead Murdoch at Project 44, Rivington St \u2014 Cornish crab, beef tartare, mussel-chorizo rice; Weds\u2013Sat, open-ended run.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.timeout.com/london/news/plated-west-london-food-festival-exclusive-menus-072026",
-    "date": "2026-07-31",
-    "headline": "Plated Festival: 30+ Venues, King's Road, All August",
-    "detail": "Now live Aug 1\u201331: Hawksmoor at \u00a325, Cadogan Arms \u00d7 The Lost Explorer limited dish, SETTE at Bulgari festival-only menu.",
-    "so_what": ""
-  },
-  {
-    "key": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-    "date": "2026-07-31",
-    "headline": "GPT-5.6 Luna drops to $0.20/M input today",
-    "detail": "OpenAI cuts Luna 80%, Terra 20%; live in API July 30",
-    "so_what": "Swap high-volume Node summarisation calls to Luna now \u2014 previous $1/M input becomes $0.20"
-  },
-  {
-    "key": "https://coursiv.io/blog/claude-opus-5",
-    "date": "2026-07-31",
-    "headline": "Claude Opus 5 live: near-Fable 5 at half price",
-    "detail": "Shipped July 24 at $5/$25/M; beats Fable 5 on OSWorld at 1/3 cost",
-    "so_what": "Pin claude-opus-5 in Cursor for multi-step agent runs \u2014 same spend, meaningfully stronger than Opus 4.8"
-  },
-  {
-    "key": "https://github.com/openai/codex-security",
-    "date": "2026-07-31",
-    "headline": "OpenAI Codex Security CLI ships as free npm package",
-    "detail": "Apache-2.0 TypeScript CLI scans repos, diffs PRs, wires into CI",
-    "so_what": "Run npm install @openai/codex-security; add PR diff scan to GitHub Actions before next deploy"
-  },
-  {
-    "key": "https://foodondemand.com/07282026/sevenrooms-now-pulls-doordash-deliveroo-data-for-reservations/",
     "date": "2026-08-03",
     "headline": "SevenRooms adds AI capacity automation to July suite",
     "detail": "July 21 product batch added AI auto-tighten/loosen table capacity and off-peak booking incentives \u2014 beyond Global Guest already covered.",
@@ -712,5 +628,54 @@
     "headline": "Claude memory now persists across all sessions",
     "detail": "Aug 25: context saved in chat surfaces in Claude Cowork and vice versa",
     "so_what": "Set your ResX codebase context once in Claude \u2014 every subsequent session picks it up without re-prompting"
+  },
+  {
+    "key": "https://about.wonder.com/news/details/2026/Salt-Hanks-Joins-Wonder-Bringing-its-Iconic-French-Dip-Sandwich-to-More-Diners-2026-39nzCNPADd/default.aspx",
+    "date": "2026-08-31",
+    "headline": "Wonder Acquires Salt Hank's, Third NYC Brand",
+    "detail": "Deal closed Aug 14; storefront, menu, brand transfer complete; app rollout this fall.",
+    "so_what": "Wonder \u2014 Grubhub parent, $9B valuation, pre-IPO \u2014 is systematically acquiring NYC's highest-demand walk-in concepts (Blue Ribbon Fried Chicken, Mighty Quinn's, now Salt Hank's) and converting them into delivery/pickup plays on its own app. Salt Hank's had no reservation system by design; it operated on pure walk-in demand and lines. Wonder's model removes those brands from the reservation ecosystem entirely. This is a direct drain on the pool of high-demand NYC venues that reservation platforms compete to onboard. As Wonder approaches IPO and scales this acquisition strategy, it becomes a structural competitor to reservation-first discovery \u2014 not by building a booking product, but by absorbing the venues before they ever need one."
+  },
+  {
+    "key": "https://www.globenewswire.com/news-release/2026/08/11/3342785/0/en/marginedge-secures-80-million-in-series-d-funding-to-power-the-next-generation-of-restaurant-operations.html",
+    "date": "2026-08-31",
+    "headline": "MarginEdge Raises $80M Series D",
+    "detail": "Back-office ops platform, 13,000 restaurants; funding targets AI and commercial expansion.",
+    "so_what": "MarginEdge now has $162M total and sits inside 13,000+ restaurant back offices \u2014 processing invoices, forecasting, and building AI on top of 40M+ invoices worth $28B in purchasing volume. That back-office data layer is increasingly where platform integration decisions get made: a restaurant deeply embedded in MarginEdge's accounting stack tends to standardize on whatever front-of-house tools integrate cleanly with it. As POS and reservation platforms fight to own the guest data layer, a well-funded back-office platform with AI ambitions is quietly shaping which front-of-house vendors get embedded alongside it. Worth understanding which reservation platforms already integrate with MarginEdge \u2014 and which don't."
+  },
+  {
+    "key": "https://sapro.senate.ca.gov/system/files/2026-08/hearing_results-8-3-26.pdf",
+    "date": "2026-08-31",
+    "headline": "CA AB 1640 Hits Senate Suspense File",
+    "detail": "Bill stalled in Senate Appropriations on Aug 3; timeline to Newsom now uncertain.",
+    "so_what": "The prior digest flagged AB 1640 as one committee vote from Newsom's desk. The Aug 3 Senate Appropriations hearing placed it on the suspense file \u2014 a procedural hold used for bills with significant fiscal impact. That stops the clock. California remains the last major market without a reservation anti-scalping law, and the suspense file means it may not reach Newsom before the legislative year closes. Any venue pitch or compliance narrative the team is building around a near-national legal framework should note this gap \u2014 California's 39M-person market, and Cita/Appointment Trader, are not yet covered."
+  },
+  {
+    "key": "https://coolhunting.com/culture/club-de-tennis-moet-chandon-rebuilds-its-us-open-welcome/",
+    "date": "2026-08-31",
+    "headline": "Mo\u00ebt Serve Hits 5 NYC Bars, Challenging Honey Deuce",
+    "detail": "Mo\u00ebt Ice Imp\u00e9rial in tennis-ball can, $20, at Dante West Village, Electric Lemon, Gansevoort, Hard Rock, St. Regis through Sept 13.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.thebiglead.com/taylor-fritz-olivia-jade-dating-rumors-us-open-nyc-photos/",
+    "date": "2026-08-31",
+    "headline": "Taylor Fritz + Olivia Jade Shut Down Manhattan Pre-Open",
+    "detail": "Deuxmoi posted photos of US Open No. 10 seed and Lori Loughlin's daughter out in NYC Aug 24, confirming months of dating rumors.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.8it.world/nyc/must-eats/pop-ups-drops/this-weeks-must-eat-food-popups-and-drops/",
+    "date": "2026-08-31",
+    "headline": "Lana Lagomarsini's 8-Course Tasting Menu at Fulgurances",
+    "detail": "French-technique meets Alabama roots \u2014 6 or 8 courses, Greenpoint, through Sept 4; tamarind BBQ lamb belly is the standout.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
+    "date": "2026-08-31",
+    "headline": "OpenAI Jalape\u00f1o chip beats Blackwell on inference",
+    "detail": "1.9x throughput/watt, 3.6x lower latency vs GB200; small deploy late 2026",
+    "so_what": "No action yet \u2014 but watch GPT-5.6 API pricing drop in early 2027 as Jalape\u00f1o rolls out; lock in any annual AI spend commitments before that repricing cycle hits"
   }
 ]
