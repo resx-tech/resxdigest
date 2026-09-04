@@ -79,22 +79,6 @@
     ]
   },
   {
-    "name": "KID",
-    "date": "opens September 2026",
-    "blurb": "Ex-Mangal II chef Serta\u00e7 Dirik's first solo \u2014 Central Anatolian fire cooking in Soho.",
-    "so_what": "Biggest anticipated London opening of the year, reservations will be impossible.",
-    "city": "LDN",
-    "website": "https://kid.london",
-    "instagram_handle": "",
-    "instagram_url": "",
-    "cover_image_post": "",
-    "source_url": "https://www.timeout.com/london/news/acclaimed-chef-sertac-dirik-first-restaurant-soho-kid-061626",
-    "category": "watching",
-    "id": "kid::LDN",
-    "importance_rank": 2,
-    "merged_from": []
-  },
-  {
     "name": "Bubala Covent Garden",
     "date": "opens September 2026",
     "blurb": "London's cult vegetarian Middle Eastern restaurant opens biggest site yet in Theatreland.",
@@ -273,5 +257,36 @@
     "importance_rank": 0,
     "merged_from": [],
     "id": "kirbees::NYC"
+  },
+  {
+    "name": "Marrion's Bar",
+    "date": "opens September 10",
+    "blurb": "Hackney neighbourhood bar from Norman's co-founder: devilled crab rarebit and pork schnitzel.",
+    "city": "LDN",
+    "website": "",
+    "instagram_handle": "@marrionslondon",
+    "instagram_url": "https://www.instagram.com/marrionslondon/",
+    "source_url": "https://www.hot-dinners.com/2026082115311/Gastroblog/Latest-news/marrions-bar-opening-hackney-morning-lane",
+    "category": "watching",
+    "importance_rank": 0,
+    "merged_from": [
+      "marrions bar::LDN"
+    ]
+  },
+  {
+    "name": "Jeju Noodle Bar Nolita",
+    "date": "opens TBD 2026",
+    "blurb": "Michelin-starred Korean ramyun bar opens a second Nolita outpost with new-only dishes.",
+    "city": "NYC",
+    "website": "https://jejunoodlebar.com",
+    "instagram_handle": "@jejunoodlebar",
+    "instagram_url": "https://www.instagram.com/jejunoodlebar/",
+    "cover_image_post": "",
+    "source_url": "https://www.theinfatuation.com/new-york/reviews/jeju-noodle-bar-nolita",
+    "category": "watching",
+    "importance_rank": 0,
+    "merged_from": [
+      "jeju noodle bar nolita::NYC"
+    ]
   }
 ]
