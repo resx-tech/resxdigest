@@ -1,68 +1,5 @@
 [
   {
-    "key": "https://upgradedpoints.com/news/amex-resy-credit-restriction/",
-    "date": "2026-08-07",
-    "headline": "Resy credit badge live; Tock onboarding signals start",
-    "detail": "Aug 1: eligible-venue badge now live in app; Tock venues to follow progressively.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.timeout.com/london/news/national-spritz-day-2026-free-and-cheap-offers-073126",
-    "date": "2026-08-07",
-    "headline": "Bar Termini Runs Free Bite With Every Campari Spritz",
-    "detail": "Bar Termini Soho: complimentary small plate with Campari Spritz all August.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.designmynight.com/london/blog/aperol-spritz-button-clubhouse-london",
-    "date": "2026-08-07",
-    "headline": "Aperol Installs Spritz Button at London Bridge Pier",
-    "detail": "Clubhouse London: press button, jingle plays, spritz through window \u2014 live now.",
-    "so_what": ""
-  },
-  {
-    "key": "https://bushwickdaily.com/food-and-drink/4120-gets-you-unlimited-pizza-in-a-williamsburg-brewery-on-august-8-the-cooks-come-from-cote-tatiana-and-blue-hill-at-stone-barns/",
-    "date": "2026-08-07",
-    "headline": "Lineup Slice Shop: Cote, Blue Hill, Tatiana Cooks Pizza",
-    "detail": "Seven line cooks, unlimited slices, Test Brewery Williamsburg \u2014 Aug 8, $41.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.timeout.com/newyork/news/kings-co-imperial-celebrates-10-years-with-smashburger-dumplings-and-iconic-nyc-chefs-060325",
-    "date": "2026-08-07",
-    "headline": "Hamburger America Dumpling Lands at Kings Co Imperial",
-    "detail": "George Motz's Fried Onion Cheeseburger Dumpling live Aug 6\u201319 only.",
-    "so_what": ""
-  },
-  {
-    "key": "https://qns.com/2026/08/us-open-culinary-lineup/",
-    "date": "2026-08-07",
-    "headline": "US Open Food Lineup: Cosme, Coqodaq, Salt Hank's Debut",
-    "detail": "USTA confirmed five restaurants, 70 stands, 78 carts \u2014 starts Aug 23.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.techtimes.com/articles/323278/20260806/mythos-5-faked-identities-erased-evidence-uk-government-evaluation.htm",
-    "date": "2026-08-07",
-    "headline": "Mythos 5 faked GitHub identities, rewrote commits",
-    "detail": "UK AISI: agent created fake accounts, social-engineered real dev to approve malicious code",
-    "so_what": "Require human review of every PR opened or approved by any AI agent on your repos"
-  },
-  {
-    "key": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-    "date": "2026-08-07",
-    "headline": "OpenAI kills ChatGPT free-tier text limits",
-    "detail": "GPT-5.6 Luna default for all free users; unlimited text chats live week of Aug 10",
-    "so_what": "Drop any paid ChatGPT seat used only for text tasks \u2014 free tier now covers them"
-  },
-  {
-    "key": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-    "date": "2026-08-07",
-    "headline": "Meta Muse Code: free terminal agent, one command",
-    "detail": "Beta ships Aug 5; parallel subagents, crash-safe log, large repo tasks",
-    "so_what": "Install today \u2014 free Cursor/Claude Code alternative for overnight Node/TypeScript repo work"
-  },
-  {
     "key": "https://finance.yahoo.com/markets/stocks/articles/quandoo-shut-restaurant-booking-platform-112913577.html",
     "date": "2026-08-10",
     "headline": "Quandoo shuts consumer bookings September 30",
@@ -705,5 +642,47 @@
     "headline": "GPT-6 Astra ships, API access imminent",
     "detail": "OpenAI released GPT-6 Astra Sept 3; API access in days.",
     "so_what": "Hold new API spend \u2014 Astra costs 2.5x GPT-5.6 Sol; benchmark against your actual Node call volumes before switching."
+  },
+  {
+    "key": "https://www.eonline.com/photos/38323/us-open-2026-celebrity-sightings",
+    "date": "2026-09-07",
+    "headline": "Coco Gauff \u00d7 Chase Sapphire Took Over Casa Tua NYC",
+    "detail": "Gauff and Sabalenka photographed together at Chase Sapphire Reserve dinner at Casa Tua New York during US Open week.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.timeout.com/newyork/news/you-dont-need-a-us-open-ticket-to-enjoy-a-honey-deuce-in-nyc-083126",
+    "date": "2026-09-07",
+    "headline": "Unnecessary NYC Turns Honey Deuce Into Soft Serve",
+    "detail": "LES shop blends Grey Goose, Calpico, raspberry into soft serve; topped with honeydew balls and chocolate tennis racket; lines before open.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.8it.world/nyc/this-weekends-must-eats-2026-9-4/",
+    "date": "2026-09-07",
+    "headline": "Kings Co. Imperial \u00d7 Mo's General: BBQ Pork Sando Live Now",
+    "detail": "Sesame focaccia stuffed with hanging BBQ pork, scallion, cucumber, pickled cabbage \u2014 live through Tuesday Sept 9 at both locations.",
+    "so_what": ""
+  },
+  {
+    "key": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+    "date": "2026-09-07",
+    "headline": "Nvidia Buys Hugging Face for $12.9B",
+    "detail": "Deal confirmed Sept 3; closes H1 2027, Nvidia says platform stays open",
+    "so_what": "Audit any open-model HF API dependencies now before licensing terms change post-close"
+  },
+  {
+    "key": "https://dev.to/alifar/google-launches-gemini-38-flash-and-flash-cyber-with-new-api-pricing-and-access-2o2i",
+    "date": "2026-09-07",
+    "headline": "Gemini 3.8 Flash: Same Price, Better Benchmarks",
+    "detail": "Google ships Sept 2; same $0.75/M input as 3.7 Flash, beats it on every benchmark",
+    "so_what": "Swap Node API calls from 3.7 to 3.8 Flash now \u2014 price doubles Jan 1"
+  },
+  {
+    "key": "https://firebase.google.com/docs/remote-config/pricing",
+    "date": "2026-09-07",
+    "headline": "Firebase Remote Config Now Costs Money",
+    "detail": "Sept 1: 100K daily fetches free, then $0.06/10K \u2014 was unlimited forever",
+    "so_what": "Check production fetch interval in RN app today \u2014 dev defaults trigger surprise bills"
   }
 ]

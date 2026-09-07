@@ -108,20 +108,6 @@
     "merged_from": []
   },
   {
-    "name": "Ugly Baby",
-    "date": "opens TBD 2026",
-    "blurb": "Chef Sirichai Sreparplarn's boundary-pushing Thai restaurant returns in a larger Williamsburg space.",
-    "city": "NYC",
-    "website": "",
-    "instagram_handle": "",
-    "instagram_url": "",
-    "source_url": "https://www.timeout.com/newyork/news/beloved-thai-restaurant-ugly-baby-is-coming-back-120225",
-    "category": "watching",
-    "id": "ugly baby::NYC",
-    "importance_rank": 1,
-    "merged_from": []
-  },
-  {
     "name": "Vesper",
     "date": "June 2026",
     "blurb": "Jackson Boxer's 70-cover Exmouth Market bistro with an off-menu burger selling out in seconds.",
@@ -173,20 +159,6 @@
     "category": "watching",
     "id": "masani pizza::NYC",
     "importance_rank": 1,
-    "merged_from": []
-  },
-  {
-    "name": "NAKIMUSHI",
-    "date": "opens September 2026",
-    "blurb": "Three-floor Notting Hill townhouse: ramen bar below, Japanese restaurant above.",
-    "city": "LDN",
-    "website": "",
-    "instagram_handle": "@nakimushirestaurant",
-    "instagram_url": "https://www.instagram.com/nakimushirestaurant/",
-    "source_url": "https://www.hot-dinners.com/2026070615197/Gastroblog/Latest-news/nakimushi-dorian-notting-hill-japanese-restaurant-opening-london",
-    "category": "watching",
-    "id": "nakimushi::LDN",
-    "importance_rank": 3,
     "merged_from": []
   },
   {
@@ -245,20 +217,6 @@
     "merged_from": []
   },
   {
-    "name": "Kirbee's",
-    "date": "opens September 4, 2026",
-    "blurb": "Texas BBQ joint from Goldee's and Barbs B Q pitmasters, brisket and green spaghetti.",
-    "city": "NYC",
-    "website": "",
-    "instagram_handle": "",
-    "instagram_url": "",
-    "source_url": "https://www.yahoo.com/lifestyle/articles/kirbee-two-acclaimed-texas-pitmasters-155131044.html",
-    "category": "watching",
-    "importance_rank": 0,
-    "merged_from": [],
-    "id": "kirbees::NYC"
-  },
-  {
     "name": "Marrion's Bar",
     "date": "opens September 10",
     "blurb": "Hackney neighbourhood bar from Norman's co-founder: devilled crab rarebit and pork schnitzel.",
@@ -287,6 +245,21 @@
     "importance_rank": 0,
     "merged_from": [
       "jeju noodle bar nolita::NYC"
+    ]
+  },
+  {
+    "name": "Cordelia's Mayfair",
+    "date": "opens Autumn 2026",
+    "blurb": "Open-fire Mayfair steakhouse: in-house dry-aged British beef, charcoal grill, agave cocktails.",
+    "city": "LDN",
+    "website": "",
+    "instagram_handle": "@cordeliasmayfair",
+    "instagram_url": "https://www.instagram.com/cordeliasmayfair/",
+    "source_url": "https://thenudge.com/cordelias/",
+    "category": "watching",
+    "importance_rank": 0,
+    "merged_from": [
+      "cordelias mayfair::LDN"
     ]
   }
 ]
