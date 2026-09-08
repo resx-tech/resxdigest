@@ -1,142 +1,5 @@
 [
   {
-    "date": "2026-08-04",
-    "subject": "Whippies Big Kid soft-serve Seven Dials",
-    "url": "https://www.hot-dinners.com/2026071515227/Gastroblog/Latest-news/whippies-big-kid-ice-cream-seven-dials-market-covent-garden",
-    "reason": "Already featured as a moment in prior run ('whippies \u2014 big kid ice cream launches soft-serve sundae concept at seven dials market, opening august 8 with 99p 99 flake 99s, announced during london heatwave')",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-04",
-    "subject": "STK London \u00a31 oysters National Oyster Day",
-    "url": "https://www.thehandbook.com/londons-best-oyster-bars/",
-    "reason": "Already featured as a moment ('stk london \u00a31 oysters national oyster day august 5 2026 confirmed deal') AND already-sent URL",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-04",
-    "subject": "Soraya Marylebone Persian opening Pachamama group",
-    "url": "https://www.hot-dinners.com/2026042315000/Gastroblog/Latest-news/soraya-london-pachamama-group-loxton-walk-marylebone-restaurant",
-    "reason": "Account URL (instagram.com/sorayamarylebone) is in already-sent URLs list; no post permalink retrieved; opening date still TBC; insufficient new post content to build around today",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-04",
-    "subject": "Waterhouse Project relaunch Hackney 6 Aug",
-    "url": "https://www.hot-dinners.com/2026072215244/Gastroblog/Latest-news/waterhouse-project-reopening-columbia-road-london",
-    "reason": "Tasting menu, 24 seats, very niche \u2014 doesn't have broad FOMO/stop-scroll appeal for ResX's 25-35 audience; no post permalink; outscored by Marrone and Hawksmoor",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-04",
-    "subject": "Saltwater sushi handrolls Soho opening 13 Aug",
-    "url": "https://www.hot-dinners.com/2026052115079/Gastroblog/Latest-news/saltwater-sushi-handrolls-restaurant-soho-london",
-    "reason": "Opening not until 13 Aug \u2014 too early to post today; no post permalink; handroll bars somewhat saturated in LDN feed",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-04",
-    "subject": "Cassette French bistro Covent Garden Levan team",
-    "url": "https://thenudge.com/london-restaurants-opening-soon/",
-    "reason": "Opening date August TBC \u2014 not a today hook; roundup source only, no single-subject article retrieved; already-sent URL for The Nudge openings guide",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-04",
-    "subject": "Legal Sea Foods $1 oysters National Oyster Day",
-    "url": "https://www.legalseafoods.com/whats-on/oyster-day-2026/",
-    "reason": "Chain restaurant promotion \u2014 not on-brand for ResX's downtown cool 25-35 audience",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-04",
-    "subject": "FKA East Village $1 oysters and dirty shirley",
-    "url": "https://www.theinfatuation.com/new-york/guides/new-nyc-restaurants-openings",
-    "reason": "Article URL is in already-sent URLs list; cannot use as source",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-04",
-    "subject": "Arcus rooftop bar Imperial Hotel Bloomsbury",
-    "url": "https://www.hot-dinners.com/2026052015073/Gastroblog/Latest-news/arcus-rooftop-bar-imperial-hotel-bloomsbury-london",
-    "reason": "Opening 14 Aug \u2014 too far out for today's post; Bloomsbury rooftop less edgy than target audience skews",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-06",
-    "subject": "Miokuru Handroll Bar",
-    "url": "https://www.instagram.com/miokurulondon",
-    "reason": "stale_content",
-    "detail": "posted_days_ago=999 \u2014 older than the 14-day freshness window (or undated)",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-06",
-    "subject": "Lady of the Grapes Borough",
-    "url": "https://www.instagram.com/ladyofthegrapes_londonbridge",
-    "reason": "stale_content",
-    "detail": "posted_days_ago=999 \u2014 older than the 14-day freshness window (or undated)",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-06",
-    "subject": "Prosciutto East Village",
-    "url": "https://www.theinfatuation.com/new-york/guides/best-new-new-york-restaurants-hit-list",
-    "reason": "Only source is the Infatuation Hit List roundup \u2014 no single-subject article or verified IG permalink found within search/fetch budget; roundup URL automatically dropped per rules",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-06",
-    "subject": "Graciela West Village",
-    "url": "https://www.theinfatuation.com/new-york/guides/best-new-new-york-restaurants-hit-list",
-    "reason": "Only sourced via Infatuation Hit List roundup; no single-subject review URL or Instagram permalink surfaced within fetch budget",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-06",
-    "subject": "National Prosecco Day Aug 13 \u2014 venue specials",
-    "url": "https://www.designmynight.com/london/whats-on/food-drink/national-prosecco-day",
-    "reason": "Only specific offer found was The Sun Inn Barnes (10% off Prosecco) \u2014 too generic and suburban for ResX audience; none of the tracked venues had a confirmed specific special; per instructions, skip the generic tie-in rather than force it",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-06",
-    "subject": "Waterhouse restaurant London",
-    "url": "https://www.gold-flamingo.com/2026/07/30/best-restaurants-and-bars-opening-in-london-in-august-2026/",
-    "reason": "Only sourced via roundup article; ran out of fetch budget before drilling to single-subject article or IG account",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-06",
-    "subject": "Soraya London (Zephyr/Lagana/Nina team)",
-    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-august-2026",
-    "reason": "Hot Dinners page JS-redirected and could not be fetched; already featured as a moment (sorayamarylebone IG already in sent URL list); skipped",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-06",
-    "subject": "Hungry Spicy Chelsea (Thai heat concept)",
-    "url": "https://www.theinfatuation.com/new-york/guides/best-new-new-york-restaurants-hit-list",
-    "reason": "Only sourced via roundup; no single-subject article or IG permalink confirmed; below threshold for this day's slate",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-06",
-    "subject": "Zig Zag Oyster Bar Brooklyn",
-    "url": "https://blog.resy.com/2026/07/zig-zag-oyster-bar-nyc/",
-    "reason": "Strong candidate (Cervo's team, very on-brand) but Resy article published July 2026 (~1 month ago) \u2014 the moment has been building for a few weeks; posted_days_ago on any IG post could not be confirmed (999); dropped to avoid stale content; worth revisiting if a fresh IG post surfaces",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-06",
-    "pinned_input": "",
-    "subject": "Huso x Matt Peters collab",
-    "url": "https://blog.resy.com/the-hit-list/nyc-restaurants/",
-    "reason": "diversity_cap",
-    "detail": "already have an item from account 'resy' in this digest",
-    "source_type": "researched"
-  },
-  {
     "date": "2026-08-11",
     "subject": "Tasca at Project 44 Shoreditch",
     "url": "https://www.instagram.com/tasca.london/",
@@ -450,6 +313,63 @@
     "subject": "Honey Deuce US Open cocktail generic",
     "url": "",
     "reason": "Already featured in a prior send (Wall Street Hotel Honey Deuce moment, Aug 23 wave). Generic Honey Deuce angle now saturated; specific new-vendor food angle is the fresher take.",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-08",
+    "subject": "Bar Etienne West Village",
+    "url": "https://www.instagram.com/baretienne",
+    "reason": "no_usable_link",
+    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-08",
+    "subject": "Cafe Lacoste at The Plaza",
+    "url": "https://diningout.com/new-york/nyc-bar-restaurant-openings-september2-2026/",
+    "reason": "US Open tennis afternoon tea pop-up at Plaza through Sept 15 is timely but the content is brand/hotel marketing-driven \u2014 no verified IG handle from source, no real post retrieved, and the 'tennis-themed sandwiches' angle is generic rather than craveable or FOMO-worthy enough to beat the other US Open item already in the slate",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-08",
+    "subject": "Kirbee's Greenpoint BBQ",
+    "url": "https://diningout.com/new-york/nyc-bar-restaurant-openings-september2-2026/",
+    "reason": "Texas BBQ in Greenpoint is very fresh (Labor Day weekend opening, handle confirmed @kirbees_greenpoint_brooklyn) but smoked brisket and charro beans skews slightly off-brand for ResX's downtown 25-35 vibe and doesn't beat the West Village / London items on desire fit",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-08",
+    "subject": "Monkey Thief Hell's Kitchen reopening",
+    "url": "https://diningout.com/new-york/nyc-bar-restaurant-openings-september2-2026/",
+    "reason": "Pan-Asian cocktail den reopened mid-August \u2014 reopening of a closed venue is lower momentum than a new debut, and mid-August date puts it at ~3 weeks old which is borderline stale",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-08",
+    "subject": "Cassette (Levan team Covent Garden)",
+    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-september-2026",
+    "reason": "Opening date is 23 September \u2014 too far out to post today, no actual content to repost yet",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-08",
+    "subject": "Le Caf\u00e9 LPM at The Lanesborough",
+    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-september-2026",
+    "reason": "Opens 9 September \u2014 not open yet as of today, and the 'LPM in a hotel' angle is less momentum-driving than Nakimushi for the target audience",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-08",
+    "subject": "The Albatross City seafood pub",
+    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-september-2026",
+    "reason": "Opened Sept 7 \u2014 fresh, but a City of London seafood pub aimed at work lunches is off-brand for the creative/downtown ResX 25-35 vibe; no verified IG handle retrieved",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-08",
+    "subject": "Bubala Covent Garden flagship",
+    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-september-2026",
+    "reason": "Opening date not yet confirmed for this week \u2014 listed as 'September' with no specific date; no real post to surface today",
     "source_type": "researched"
   }
 ]
