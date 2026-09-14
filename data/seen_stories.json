@@ -1,68 +1,5 @@
 [
   {
-    "key": "https://www.americanexpress.com/en-us/newsroom/articles/travel-and-dining/resy-partners-with-openai-to-launch-resy-reservations-in-chatgpt.html",
-    "date": "2026-08-14",
-    "headline": "Resy, OpenTable, and Yelp All Go Live Inside ChatGPT on Aug 10",
-    "detail": "Three of ResX's direct competitors launched ChatGPT-native reservation booking simultaneously: Resy (US diners, Aug 10), OpenTable (globally, all plans, mobile/web/desktop, Aug 10), and Yelp (US/Canada tables + waitlist, no app switch required, Aug 10). Tock venues also absorbed into Resy on Aug 11 \u2014 8,000 venues including 1,200 wineries, brand sunset confirmed underway.",
-    "so_what": "ChatGPT has become an active reservation layer for Resy, OpenTable, and Yelp simultaneously \u2014 the discovery and booking moment is now happening inside a conversational AI interface, not on a native app or web search. Resy simultaneously absorbed 8,000 Tock venues, accelerating its inventory lead. This is the most significant competitive week in restaurant tech since OpenTable went mobile. The question for ResX is whether its own ChatGPT integration is live, planned, or absent."
-  },
-  {
-    "key": "https://www.nrn.com/independent-restaurants/new-york-city-parent-of-iconic-cafe-fiorello-files-for-chapter-11-bankruptcy",
-    "date": "2026-08-14",
-    "headline": "Fireman Hospitality Files Ch. 11, 9 NYC Venues at Risk",
-    "detail": "Lincoln Center, Carnegie Hall group; under $100K cash at filing.",
-    "so_what": "Caf\u00e9 Fiorello (50+ yrs), Trattoria Dell'Arte, Brooklyn Diner \u2014 all active reservation venues in high-footfall NYC corridors \u2014 are now in bankruptcy with an uncertain operating timeline. Nine restaurants and 800 staff hang on court proceedings. These are the exact venue type (established, high-volume, theater/tourist district) where reservation platform relationships matter most. Venues in restructuring commonly re-evaluate all vendor contracts. This is both a watch item for existing platform relationships and a signal that even long-standing iconic operators are not insulated from the current cash crunch."
-  },
-  {
-    "key": "https://www.nrn.com/independent-restaurants/ark-restaurants-admits-long-battled-eviction-of-bryant-park-grill-and-sister-brands-could-be-coming",
-    "date": "2026-08-14",
-    "headline": "Ark Restaurants: Bryant Park Grill Out by Oct 16",
-    "detail": "Ark Q3 earnings confirm forced vacate date; Jean-Georges takes over.",
-    "so_what": "Bryant Park Grill is one of NYC's highest-grossing restaurants at ~$26M/year. The confirmed Oct 16 vacate date (new this week from Ark's Q3 earnings) means Jean-Georges Restaurants and Seaport Entertainment Group are now the presumptive operators. That's a venue ownership handover at a massive-volume NYC location \u2014 new operators typically re-evaluate reservation platform contracts on takeover. Jean-Georges is a white-tablecloth group with existing platform relationships; Seaport is a hospitality developer. Watch which reservation platform wins this account on transition."
-  },
-  {
-    "key": "https://modernrestaurantmanagement.com/the-shifting-restaurant-ma-landscape/",
-    "date": "2026-08-14",
-    "headline": "Restaurant M&A Volume Up 43% YoY Despite Traffic Slump",
-    "detail": "Capstone Partners: deal volume surged even as consumer traffic fell.",
-    "so_what": "Despite economic volatility and slower consumer traffic, restaurant M&A volume increased 42.9% year over year per Capstone Partners (reported Aug 3\u20136). This is the structural backdrop behind every venue partnership conversation: operators under PE or strategic ownership post-acquisition are more likely to standardize on a single reservation platform across their portfolio, and more likely to have a tech stack mandate from above. For ResX: as more indie and mid-market venues get absorbed into groups, the decision-maker for platform choice increasingly sits at the group/investor level, not the individual restaurant. Pitch strategy needs to account for this."
-  },
-  {
-    "key": "https://www.timeout.com/newyork/bars/50-best-new-york-bars",
-    "date": "2026-08-14",
-    "headline": "Bar Kabawa Is NYC's Rum Day HQ",
-    "detail": "Paul Carmichael's East Village daiquiri bar is the city's clearest rum-moment venue this Sunday.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.cambridgebeaches.com/activity-calendar/sunken-harbor-club-rum-launch/",
-    "date": "2026-08-14",
-    "headline": "Sunken Harbor Club Takes Guests to Bermuda",
-    "detail": "Brooklyn tiki bar's Oct 9\u201312 Cambridge Beaches retreat now open for bookings.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.digitalapplied.com/blog/claude-code-cross-session-messaging-2026",
-    "date": "2026-08-14",
-    "headline": "Claude Code sessions now message each other directly",
-    "detail": "v2.1.224: ListAgents + SendMessage across parallel sessions; subagent cap removed",
-    "so_what": "Run one session per service \u2014 backend agent alerts frontend agent on API changes without you relaying"
-  },
-  {
-    "key": "https://claude.com/blog/auto-mode-default-in-claude-code",
-    "date": "2026-08-14",
-    "headline": "Claude Code auto mode is default today",
-    "detail": "Classifier replaces manual prompts; 89% vs 13.6% human catch rate",
-    "so_what": "Accept the mode-switch prompt today \u2014 overnight Node tasks run uninterrupted, no extra token charge"
-  },
-  {
-    "key": "https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/",
-    "date": "2026-08-14",
-    "headline": "Meta Muse Glimmer 30B: free, local, agentic",
-    "detail": "Apache 2.0, runs on one consumer GPU, beats Gemma4-31B on agentic benchmarks",
-    "so_what": "Pull weights from Hugging Face \u2014 run LLM-as-judge eval or summarization tasks at zero API cost"
-  },
-  {
     "key": "https://www.entrepreneur.com/business-news/finding-it-hard-and-harder-to-get-a-restaurant-reservation-some-diners-are-paying-for-priority-access",
     "date": "2026-08-17",
     "headline": "WSJ: Reservation Apps Fragment Table Access",
@@ -670,5 +607,89 @@
     "headline": "OpenAI Hits 'Automated Research Intern' Milestone",
     "detail": "Sept 6 report: 3.1 agent-workdays per human workday at OpenAI by mid-August",
     "so_what": "Delegate bounded 4\u20138 hour Node/TS tasks to Codex today \u2014 spec clearly, review output, don't supervise live"
+  },
+  {
+    "key": "https://www.restaurantbusinessonline.com/technology/ai-agents-can-help-diners-book-table-it-can-also-get-them-banned",
+    "date": "2026-09-14",
+    "headline": "Resy Bot War Now Public, Policy Still Forming",
+    "detail": "Instinct agent sent 200 API requests/hour; two NYC accounts suspended, reinstated.",
+    "so_what": "The prior digest flagged this as an emerging issue. This week it went fully public: Restaurant Business Online covered it on Sept 10, Resy issued an official on-record statement, and the story got enough viral reach on X that it is now a consumer-awareness issue, not just a platform policy question. The material development is Resy's public ToS declaration \u2014 'Resy does not currently permit unapproved third-party bots or agents to independently access or interact with the Resy platform' \u2014 combined with the specific behavior documented (200 requests/hour, 0.4-second sweeps at reservation drop time). The 'currently' in that statement is doing a lot of work: it signals the policy is live but not finalized. Consumer AI agents (Instinct, custom Claude/OpenAI builds) are now mainstream enough to trigger enforcement at scale. ResX needs a stated, defensible position on sanctioned vs. unsanctioned AI access before venues start asking \u2014 and before a competitor formalizes a sanctioned-agent partnership first."
+  },
+  {
+    "key": "https://www.californiaemploymentlawreport.com/2026/09/2027s-potential-new-employment-laws-are-sitting-on-governor-newsoms-desk-here-are-the-key-measures/",
+    "date": "2026-09-14",
+    "headline": "CA AB 1640 on Newsom's Desk, Sept 30 Deadline",
+    "detail": "Legislature adjourned Aug 31; Newsom must sign or veto by Sept 30.",
+    "so_what": "The prior digest correctly flagged the bill hitting Senate Appropriations suspense file on Aug 3. The material update this week: the California Legislature adjourned August 31, and AB 1640 \u2014 the Restaurant Reservation Anti-Piracy Act \u2014 cleared the suspense file and is now confirmed on Newsom's desk with a hard September 30 sign-or-veto deadline. If signed, it takes effect January 1, 2027, and California becomes the last major market to close the reservation scalping loophole. That directly affects Cita and Appointment Trader operations in a 39M-person market. Resy, OpenTable, and the California Restaurant Association are all on-record supporters. ResX should know: (1) whether its own ToS is CA-compliant under the bill's framework, and (2) whether a signed law before Oct 1 changes any venue pitch or compliance narrative for Q4."
+  },
+  {
+    "key": "https://www.prnewswire.com/news-releases/hawksmoor-boston-londons-famous-steakhouse-opens-in-fort-point-on-september-8-302867194.html",
+    "date": "2026-09-14",
+    "headline": "Hawksmoor Opens Boston Sept 8, 280 Seats",
+    "detail": "London steakhouse's 15th global location now open; Fort Point, full reservations.",
+    "so_what": "Hawksmoor was previously flagged as 'coming soon.' It is now confirmed open as of September 8 \u2014 the material new fact. The business angle: Hawksmoor (London-founded, Michelin-adjacent, dry-aged beef, serious cocktail program) is executing a systematic US expansion \u2014 NYC and Chicago are already established, Boston is the newest node. Each new US location is a high-demand, full-service reservation venue that needs a booking platform. Hawksmoor UK operates on Resy in London; the US locations are an active acquisition target for any reservation platform. ResX should know which platform Hawksmoor Boston opened on, and whether a US-wide relationship with the group is in play or already locked."
+  },
+  {
+    "key": "https://www.marketscale.com/industries/food-beverage/restaurants-are-buying-more-customer-tech-even-as-visits-stay-7-below-2019",
+    "date": "2026-09-14",
+    "headline": "Consumer Dining Visits Still 7% Below 2019",
+    "detail": "NRA data: 60% of operators investing in CX tech despite flat traffic.",
+    "so_what": "Restaurant Business reported this week that consumer dining visits remain 7% below 2019 levels even as operators accelerate tech spending \u2014 60% plan customer-experience tech investment in 2026, nearly matching front-of-house tech at 54%. The gap matters for ResX: operators buying tech against a flat or declining cover count are buying tools that need to show clear revenue impact, not just efficiency. Reservation platforms that can demonstrate measurable cover recovery \u2014 waitlist conversion, no-show reduction, last-minute slot capture \u2014 have a structurally stronger pitch than platforms selling discovery or brand. If ResX's sales narrative leans on discoverability, this data argues for reframing around yield."
+  },
+  {
+    "key": "https://www.westsiderag.com/2026/09/08/openings-szechuan-gourmet-wednesday-health-gracies-laundry-velvet-cowboy",
+    "date": "2026-09-14",
+    "headline": "Boulud Opens 10K-Sq-Ft Brasserie at Lincoln Center",
+    "detail": "Brasserie Boulud, 1900 Broadway: Sept 17, 170 seats, DB Burger with foie gras returns.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.opentable.com/r/manhatta-new-york",
+    "date": "2026-09-14",
+    "headline": "Semma \u00d7 Manhatta: South Indian Meets American, Sept 23",
+    "detail": "Vijay Kumar \u00d7 Michele Brogioni; five-course benefit dinner for City Harvest, one night only.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.1hotels.com/brooklyn-bridge/do/events/barbuto-birthday-dinner-with-jonathan-waxman",
+    "date": "2026-09-14",
+    "headline": "Barbuto Brooklyn Turns One: Waxman's Open-Air Dinner Sept 17",
+    "detail": "Family-style five courses, vinyl DJ, terrace at 1 Hotel Brooklyn Bridge, one night only.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.bigchillbar.com/chicknsours",
+    "date": "2026-09-14",
+    "headline": "Chick 'n' Sours Returns: Big Chill Residency Opens Sept 17",
+    "detail": "Post-closure comeback at King's Cross; 50% off food first week; \u00a320 unlimited wings Wednesdays.",
+    "so_what": ""
+  },
+  {
+    "key": "https://broadsheet.com/london/articles/lunette-florence-knight-180-quarter",
+    "date": "2026-09-14",
+    "headline": "Florence Knight's Lunette Opens: 30 Seats, 11th Floor, LFW Week",
+    "detail": "First solo restaurant; \u00a3120 eight-course dinner; St Clement Hotel rooftop, Thames views.",
+    "so_what": ""
+  },
+  {
+    "key": "https://openai.com/index/introducing-the-agents-api/",
+    "date": "2026-09-14",
+    "headline": "OpenAI Agents API Opens to All Developers",
+    "detail": "Managed Codex harness \u2014 sessions, compaction, subagents \u2014 one API call.",
+    "so_what": "Drop custom Node orchestration code; use managed harness for any 4-hour async task."
+  },
+  {
+    "key": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
+    "date": "2026-09-14",
+    "headline": "Claude Code Usage Drops 17% Starting Today",
+    "detail": "50% promo ends Sept 13; permanent 25% raise lands below current limits.",
+    "so_what": "Heavy Claude Code users lose capacity today \u2014 front-load sprint work early each week."
+  },
+  {
+    "key": "https://releasebot.io/updates/google/firebase",
+    "date": "2026-09-14",
+    "headline": "Firebase AI Logic Ships Gemini 3.8 Flash",
+    "detail": "Native SDK support added this week; no Blaze plan required on Gemini Developer API.",
+    "so_what": "Swap firebase-ai calls from 3.7 to 3.8 Flash now \u2014 same cost, better benchmark, no plan upgrade."
   }
 ]

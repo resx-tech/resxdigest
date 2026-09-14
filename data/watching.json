@@ -302,5 +302,72 @@
     "id": "five feet::LDN",
     "importance_rank": 4,
     "merged_from": []
+  },
+  {
+    "name": "Ferguson's Country",
+    "date": "September 2026",
+    "blurb": "Southern spot in Williamsburg serving chicken biscuit, blackened catfish, and peach cobbler.",
+    "city": "NYC",
+    "website": "",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "category": "watching",
+    "id": "fergusons country::NYC",
+    "importance_rank": 1,
+    "merged_from": []
+  },
+  {
+    "name": "Rye by Martin Auer",
+    "date": "September 2026",
+    "blurb": "Soho Austrian-style bakery selling $60 rye loaves, tartines, and rotating toasts.",
+    "city": "NYC",
+    "website": "",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "category": "watching",
+    "id": "rye by martin auer::NYC",
+    "importance_rank": 2,
+    "merged_from": []
+  },
+  {
+    "name": "Bar Leone",
+    "date": "September 2026",
+    "blurb": "Soho two-floor cocktail bar focused on martinis, Italo Disco, and small plates.",
+    "city": "NYC",
+    "website": "",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "category": "watching",
+    "id": "bar leone::NYC",
+    "importance_rank": 3,
+    "merged_from": []
+  },
+  {
+    "name": "Galo",
+    "date": "opens September 15",
+    "blurb": "West Village Portuguese restaurant from Leitao chef, serving whole stuffed rooster and razor clam rice.",
+    "city": "NYC",
+    "website": "https://galonyc.com",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "source_url": "",
+    "category": "watching",
+    "id": "galo::NYC",
+    "importance_rank": 4,
+    "merged_from": []
+  },
+  {
+    "name": "Dante Elizabeth Street",
+    "date": "opens mid-September",
+    "blurb": "Dante's fourth NYC location: Negronis, martinis, and wood-fired Italian food in Nolita.",
+    "city": "NYC",
+    "website": "",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "source_url": "https://www.theinfatuation.com/new-york/guides/nyc-fall-restaurant-openings-2026",
+    "category": "watching",
+    "id": "dante elizabeth street::NYC",
+    "importance_rank": 5,
+    "merged_from": []
   }
 ]
