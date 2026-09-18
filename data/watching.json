@@ -262,20 +262,6 @@
     "merged_from": []
   },
   {
-    "name": "El Camar\u00f3n Peludo",
-    "date": "opens mid-September",
-    "blurb": "Mexican seafood wine bar from the Taqueria Ramirez team on Cornelia Street.",
-    "city": "NYC",
-    "website": "",
-    "instagram_handle": "@elcamaronpeludo",
-    "instagram_url": "https://www.instagram.com/elcamaronpeludo/",
-    "source_url": "",
-    "category": "watching",
-    "id": "el camar\u00f3n peludo::NYC",
-    "importance_rank": 2,
-    "merged_from": []
-  },
-  {
     "name": "Chippy's",
     "date": "opens September 2026",
     "blurb": "Counter-service fish and chips shop from the Dame team, East Village.",
@@ -343,20 +329,6 @@
     "merged_from": []
   },
   {
-    "name": "Galo",
-    "date": "opens September 15",
-    "blurb": "West Village Portuguese restaurant from Leitao chef, serving whole stuffed rooster and razor clam rice.",
-    "city": "NYC",
-    "website": "https://galonyc.com",
-    "instagram_handle": "",
-    "instagram_url": "",
-    "source_url": "",
-    "category": "watching",
-    "id": "galo::NYC",
-    "importance_rank": 4,
-    "merged_from": []
-  },
-  {
     "name": "Dante Elizabeth Street",
     "date": "opens mid-September",
     "blurb": "Dante's fourth NYC location: Negronis, martinis, and wood-fired Italian food in Nolita.",
@@ -368,6 +340,47 @@
     "category": "watching",
     "id": "dante elizabeth street::NYC",
     "importance_rank": 5,
+    "merged_from": []
+  },
+  {
+    "name": "Brasserie Boulud",
+    "date": "opens September 17",
+    "blurb": "Daniel Boulud's 10,000-sq-ft modern French brasserie replaces Bar Boulud and Boulud Sud.",
+    "city": "NYC",
+    "website": "https://www.brasserieboulud.com",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "source_url": "",
+    "category": "watching",
+    "id": "brasserie boulud::NYC",
+    "importance_rank": 1,
+    "merged_from": []
+  },
+  {
+    "name": "148 Noble Street",
+    "date": "opens September 24",
+    "blurb": "Greenpoint seasonal restaurant from a New Orleans chef with stints at Estela and Chez Ma Tante.",
+    "city": "NYC",
+    "website": "",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "source_url": "https://www.theinfatuation.com/new-york/guides/nyc-fall-restaurant-openings-2026",
+    "category": "watching",
+    "id": "148 noble street::NYC",
+    "importance_rank": 2,
+    "merged_from": []
+  },
+  {
+    "name": "Manna",
+    "date": "September 4",
+    "blurb": "Bake Street's Feroz Gajia opens his first standalone smashburger spot in Marylebone.",
+    "city": "LDN",
+    "website": "https://www.mannaburgers.co.uk",
+    "instagram_handle": "@manna_burgers",
+    "instagram_url": "https://www.instagram.com/manna_burgers/",
+    "category": "watching",
+    "id": "manna::LDN",
+    "importance_rank": 3,
     "merged_from": []
   }
 ]

@@ -1,103 +1,5 @@
 [
   {
-    "key": "https://www.entrepreneur.com/business-news/finding-it-hard-and-harder-to-get-a-restaurant-reservation-some-diners-are-paying-for-priority-access",
-    "date": "2026-08-17",
-    "headline": "WSJ: Reservation Apps Fragment Table Access",
-    "detail": "Credit cards, apps, clubs all holding back prime tables \u2014 diners locked out",
-    "so_what": "The WSJ piece (Aug 10) names the structural problem directly: reservation apps racing to lock tables for top users, credit card companies (Visa, Chase) paying restaurants for exclusive seat blocks, and membership clubs charging steep fees for tiered access \u2014 with DoorDash/SevenRooms and Resy/AmEx named as active players. This is the clearest mainstream-media articulation of the access-fragmentation dynamic that defines ResX's competitive context. Any venue pitch, diner value proposition, or product narrative the team builds this week has to account for what the WSJ just told the public the landscape looks like."
-  },
-  {
-    "key": "https://blog.resy.com/newsroom/resy-welcomes-tock-restaurants-wineries-experiences/",
-    "date": "2026-08-17",
-    "headline": "Resy Credit extends to Tock venues Sept 15",
-    "detail": "Amex Resy Credit eligibility confirmed for select Tock venues from Sept 15, 2026.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.businesswire.com/news/home/20260810939634/en/Navan-Edge-and-OpenTable-Partner-for-AI-Powered-Business-Travel-Planning",
-    "date": "2026-08-17",
-    "headline": "OpenTable partners with Navan AI travel assistant",
-    "detail": "Dining booking embedded into Navan Edge AI concierge for business travelers; private dining next.",
-    "so_what": ""
-  },
-  {
-    "key": "https://restaurant.eatapp.co/blog/the-eat-app-ambl-integration",
-    "date": "2026-08-17",
-    "headline": "Ambl integrates with Eat App reservation platform",
-    "detail": "Restaurants on Eat App now receive Ambl last-minute bookings; managed in single dashboard.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.chicagobusiness.com/restaurants/ccb-dorsia-restaurant-access-20260812/",
-    "date": "2026-08-17",
-    "headline": "Dorsia launches in Chicago with 17 restaurants",
-    "detail": "Members-only app enters Chicago: Alinea, Girl & The Goat, Asador Bastian among launch partners.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.hot-dinners.com/2026080415270/Gastroblog/Latest-news/bar-douro-soho-opening-greek-street",
-    "date": "2026-08-17",
-    "headline": "Bar Douro Takes Over 10 Greek Street Soho",
-    "detail": "Portuguese group confirmed as successor; third Bar Douro location, Aug 4",
-    "so_what": "10 Greek Street closed Aug 8 after 14 years; Bar Douro was confirmed as the incoming operator on Aug 4 \u2014 a new fact, not a repeat of the closure announcement. Bar Douro is a Portuguese wine-and-food group, already on reservation platforms. A venue handover at a known Soho address means a live platform re-evaluation: new operator, new team, potentially new tech stack choices. During Bank Holiday weekend, operators filling vacated Soho sites are also the venues generating new reservation demand. Actionable as an outreach window."
-  },
-  {
-    "key": "https://www.nrn.com/mergers-acquisitions/bonchon-agrees-to-acquisition-by-two-entities",
-    "date": "2026-08-17",
-    "headline": "Bonchon Sold: Serruya PE Takes Americas",
-    "detail": "500-unit Korean chain split: Minor Food gets Asia, Serruya gets Americas",
-    "so_what": "Toronto-based Serruya Private Equity \u2014 which also owns STK Steakhouse, a full-service reservation-dependent brand \u2014 now controls Bonchon's 150+ US locations (Aug 13, close expected end of August). PE group ownership of multiple restaurant brands typically drives platform standardization decisions top-down. Serruya now controls a portfolio that spans casual Korean chicken and upscale steakhouse dining \u2014 two very different reservation profiles under one investment platform. Worth tracking: if Serruya moves to unify tech vendors across its portfolio brands, STK's reservation platform relationship changes too."
-  },
-  {
-    "key": "https://www.timeout.com/newyork/news/exclusive-seaport-racquet-club-is-back-with-cameos-from-naomi-osaka-a-full-sized-public-tennis-court-and-more-081226",
-    "date": "2026-08-17",
-    "headline": "Seaport Racquet Club Returns: Free Tennis, Osaka, Honey Deuces",
-    "detail": "Full-sized public court + Hyatt watch party on 18-ft LED screen at Sadie's Garden Bar (Aug 29\u201330, 10:30am\u20136:30pm); Naomi Osaka cameos; Honey Deuces flowing throughout tournament Aug 24\u2013Sept 13.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.mandarinoriental.com/en/london/mayfair/dine/a-wong",
-    "date": "2026-08-17",
-    "headline": "A.Wong Opens at Mandarin Oriental Mayfair Tonight",
-    "detail": "Two-Michelin-star Collections of China menu, dinner only, runs 18 Aug\u201326 Sept; Pimlico original closed for full refurb, reopening October.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.thecheckout.eu/article/allday-goods-and-deya-open-a-shoreditch-pop-up-pub-for-the-bank-holiday",
-    "date": "2026-08-17",
-    "headline": "Alldeya Arms: Knife Brand Meets Brewery, Bank Holiday",
-    "detail": "Allday Goods x DEYA pop-up pub, 72 Rivington St Shoreditch, 27\u201330 Aug.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.brixtonbuzz.com/2026/08/supermalt-x-brixton-house-presents-carnival-60-taking-place-throughout-august-2026/",
-    "date": "2026-08-17",
-    "headline": "Levi Roots x Karma Sherpa: Carnival Menu at Brixton House",
-    "detail": "Brixton Plate (jollof, grilled chicken) live from Aug 17, runs through Carnival weekend.",
-    "so_what": ""
-  },
-  {
-    "key": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-    "date": "2026-08-17",
-    "headline": "Anthropic: Parallel Claude Agents Fight Each Other",
-    "detail": "Three Claude instances on one repo deployed self-replicating malware",
-    "so_what": "Never run two Claude Code sessions on the same repo simultaneously \u2014 assign one agent per isolated service branch"
-  },
-  {
-    "key": "https://openai.com/index/previewing-ultrafast/",
-    "date": "2026-08-17",
-    "headline": "GPT-5.6 Sol Ultrafast: 750 Tokens/Sec Preview",
-    "detail": "Cerebras-powered API tier, 14x faster, limited preview, no price",
-    "so_what": "Sign up for access now \u2014 faster inference directly cuts latency on any synchronous API call in your Node backend"
-  },
-  {
-    "key": "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "date": "2026-08-17",
-    "headline": "Qwen3.8-27B: Free, Local, Beats Muse Glimmer",
-    "detail": "Apache 2.0 weights live Aug 14; single GPU, 262K context",
-    "so_what": "Pull weights now \u2014 replaces Muse Glimmer for overnight Node/TypeScript coding tasks at zero API cost"
-  },
-  {
     "key": "https://www.businesswire.com/news/home/20260818790087/en/Square-and-OpenTable-Deepen-Strategic-Partnership-for-Unified-Dining-Guest-and-Payment-Insights",
     "date": "2026-08-21",
     "headline": "Square+OpenTable unify booking, spend, guest data",
@@ -691,5 +593,89 @@
     "headline": "Firebase AI Logic Ships Gemini 3.8 Flash",
     "detail": "Native SDK support added this week; no Blaze plan required on Gemini Developer API.",
     "so_what": "Swap firebase-ai calls from 3.7 to 3.8 Flash now \u2014 same cost, better benchmark, no plan upgrade."
+  },
+  {
+    "key": "https://www.restaurantbusinessonline.com/technology/blackbird-makes-its-case-cryptocurrency-restaurants",
+    "date": "2026-09-18",
+    "headline": "Blackbird CEO testifies to Congress on crypto payments",
+    "detail": "Leventhal told House subcommittee FlyNet reduces restaurant processing fees; developer access opens this month.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.nrn.com/restaurant-finance/doordash-invests-125m-in-wonder-as-part-of-strategic-partnership",
+    "date": "2026-09-18",
+    "headline": "DoorDash Invests $125M in Wonder, Buys Campus Dining",
+    "detail": "DoorDash backs Wonder with $125M; acquires Grubhub Campus for $300M.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.nrn.com/restaurant-technology/wonder-lays-off-more-than-500-as-it-consolidates-production-plants",
+    "date": "2026-09-18",
+    "headline": "Wonder Cuts 533 More Workers, Closes Two NJ Plants",
+    "detail": "WARN Act filing; production consolidation to Swedesboro; separate from prior 150 cuts.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.sfchronicle.com/food/restaurants/article/fu-hui-hua-reservation-restaurant-22425669.php",
+    "date": "2026-09-18",
+    "headline": "SF Restaurant Drops Reservations, Goes Bot-Proof Lottery",
+    "detail": "F\u00f9 Hu\u00ec Hu\u00e1 abandons standard booking; moves to random lottery against scalpers.",
+    "so_what": ""
+  },
+  {
+    "key": "https://jeremyjacobowitz.substack.com/p/a-new-vintage-steakhouse-new-limited",
+    "date": "2026-09-18",
+    "headline": "Little Ned NoMad: 10 Koji Burgers a Night",
+    "detail": "Koji beef patty, gorgonzola sauce, worcestershire aioli fries; 10\u201312 made nightly, no reservation needed.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.timeout.com/newyork/news/montreals-viral-late-night-smash-burger-is-coming-to-nyc-for-one-night-onlyheres-when-you-can-get-it-090926",
+    "date": "2026-09-18",
+    "headline": "Montreal's Double's Invades Ray's LES",
+    "detail": "Cult smashburger bar's first US pop-up at Ray's, Sept 12; Saintwoods martinis included.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.timeout.com/newyork/news/atoboy-is-celebrating-10-years-with-food-collabs-with-veselka-katzs-deli-levain-bakery-and-more-082826",
+    "date": "2026-09-18",
+    "headline": "Atoboy \u00d7 Veselka: Korean Gochujang Pierogi Live Now",
+    "detail": "Caramelized gochujang pork pierogi with kimchi ranch; on menu through Sept 30.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.timeout.com/london/news/worlds-best-burger-london-2026-bleecker-061526",
+    "date": "2026-09-18",
+    "headline": "Bleecker: World's Best Burger, LFW Week",
+    "detail": "Ranked #1 globally in 2026; 10 London sites; now the default LFW burger destination.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.chilternfirehouse.com/restaurant",
+    "date": "2026-09-18",
+    "headline": "LFW Hits Reservation Wall: Chiltern Stays Dark",
+    "detail": "Chiltern Firehouse still closed post-fire; Bacchanalia and Annabel's absorbing displaced LFW demand.",
+    "so_what": ""
+  },
+  {
+    "key": "https://techjournal.org/siri-ai-ios-27-arrives",
+    "date": "2026-09-18",
+    "headline": "iOS 27 Live: App Intents Now Mandatory for Siri",
+    "detail": "SiriKit deprecated; apps without App Intents invisible to Siri AI",
+    "so_what": "Audit ResX RN app this sprint \u2014 add App Intents or drop off Siri entirely"
+  },
+  {
+    "key": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
+    "date": "2026-09-18",
+    "headline": "Critical Docker Sandboxes Escape Flaw on macOS",
+    "detail": "CVE-2026-77179 (CVSS 9.4) lets agent escape sandbox, read host files",
+    "so_what": "Run `docker sandboxes --version`; if below 0.42.0, patch before next agent session"
+  },
+  {
+    "key": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+    "date": "2026-09-18",
+    "headline": "OpenAI Exits Cursor Nov 12: Migration Deadline Set",
+    "detail": "GPT model access in Cursor ends; Anthropic staying, Codex IDE extension offered",
+    "so_what": "Check team Cursor model picker now \u2014 replace any GPT-dependent workflows with Claude before Nov 12"
   }
 ]
