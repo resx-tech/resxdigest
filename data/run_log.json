@@ -1,19 +1,5 @@
 [
   {
-    "date": "2026-08-17",
-    "timestamp": "2026-08-17T01:19:55.965715+00:00",
-    "trigger": "manual",
-    "outcome": "completed",
-    "detail": "15 blocks posted"
-  },
-  {
-    "date": "2026-08-17",
-    "timestamp": "2026-08-17T13:03:29.384120+00:00",
-    "trigger": "scheduled",
-    "outcome": "skipped",
-    "detail": "already completed today at 2026-08-17T01:19:54.810498+00:00"
-  },
-  {
     "date": "2026-08-21",
     "timestamp": "2026-08-21T01:24:24.036039+00:00",
     "trigger": "manual",
@@ -124,5 +110,12 @@
     "trigger": "scheduled",
     "outcome": "skipped",
     "detail": "already completed today at 2026-09-14T03:44:29.450922+00:00"
+  },
+  {
+    "date": "2026-09-18",
+    "timestamp": "2026-09-18T01:32:37.586300+00:00",
+    "trigger": "manual",
+    "outcome": "completed",
+    "detail": "25 blocks posted"
   }
 ]
