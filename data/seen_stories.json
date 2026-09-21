@@ -1,89 +1,5 @@
 [
   {
-    "key": "https://www.businesswire.com/news/home/20260818790087/en/Square-and-OpenTable-Deepen-Strategic-Partnership-for-Unified-Dining-Guest-and-Payment-Insights",
-    "date": "2026-08-21",
-    "headline": "Square+OpenTable unify booking, spend, guest data",
-    "detail": "Expanded preferred partnership merges reservation and transaction data on Square hardware \u2014 Aug 18.",
-    "so_what": "The reservation-POS axis is hardening into two explicit camps this week: Square with OpenTable, Toast with Resy (Digital Chits). Both integrations were announced within 24 hours of each other. The strategic signal is that POS platforms are now the de facto distribution layer for reservation guest data \u2014 restaurants on Square get OpenTable guest intelligence baked into their handheld; restaurants on Toast get Resy data the same way. An independent platform competing for the same restaurants has to answer how it connects into the POS layer, or accept that its guest data lives in a silo. The partnership covers the US, Canada, UK, Australia, Ireland, and France \u2014 this is not a US-only play."
-  },
-  {
-    "key": "https://blog.resy.com/newsroom/resy-toast-integration-digital-chits/",
-    "date": "2026-08-21",
-    "headline": "Resy launches Toast Digital Chits integration",
-    "detail": "Guestbook data \u2014 notes, visit history, occasions \u2014 now surfaces live on Toast POS handhelds during service. First two-way integration of its kind; live Aug 13.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.headforpoints.com/2026/08/18/earn-virgin-points-at-restaurants-with-squaremeal-2/",
-    "date": "2026-08-21",
-    "headline": "SquareMeal partners with Virgin Red for dining points",
-    "detail": "Virgin Points now earnable on SquareMeal bookings and registered-card spend at selected restaurants; up to 3,000 points per meal. Partnership live Aug 18.",
-    "so_what": ""
-  },
-  {
-    "key": "https://spectrumlocalnews.com/product-pages/Remembering-Dylan-Lyons/the-rush-hour/2026/08/13/new-reservation-app-allows-guests-to-order--pay-before-being-seated",
-    "date": "2026-08-21",
-    "headline": "Ready to Dine soft-launches pre-order reservation app",
-    "detail": "App lets diners choose duration, pre-order, and prepay before arriving; soft launch confirmed Aug 13 on Spectrum News NY1.",
-    "so_what": ""
-  },
-  {
-    "key": "https://restaurantindustry.co.uk/2026/08/07/tastecard-and-gourmet-society-owner-ello-group-secures-16-5m-hscb-facility-to-further-enable-growth-plans/",
-    "date": "2026-08-21",
-    "headline": "Tastecard parent Ello Group secures \u00a316.5M facility",
-    "detail": "HSBC revolving credit facility signed Aug 7; underpins growth under new owner Dragonpass, the global travel rewards platform.",
-    "so_what": ""
-  },
-  {
-    "key": "https://sports.yahoo.com/articles/roger-federer-making-return-arthur-190822693.html",
-    "date": "2026-08-21",
-    "headline": "Federer Returns to Ashe: NYC Goes Tennis-Mad",
-    "detail": "Aug 25 exhibition with Agassi, McEnroe, Roddick \u2014 lowest resale seat $238.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.forbes.com/sites/irenelevine/2026/08/05/headed-to-the-2026-us-open-bring-your-appetite/",
-    "date": "2026-08-21",
-    "headline": "COQODAQ's Double Deuce Is the In-Restaurant US Open Cocktail",
-    "detail": "Beverage director Kasin's egg-shaped ice cube riff on Honey Deuce, Flatiron, tournament-long.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-pop-ups-food-restaurants-residencies-events-london-right-now",
-    "date": "2026-08-21",
-    "headline": "Gumbs \u00d7 Roberts Carnival Collab, Sky Garden Tonight",
-    "detail": "Six courses \u2014 crab Johnny cake, 48-hour curried goat \u2014 Fenchurch, Aug 27, \u00a385.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.hrpfestivals.com/hampton-court-palace",
-    "date": "2026-08-21",
-    "headline": "Hampton Court Food Festival: 150 Producers, Bank Holiday",
-    "detail": "Aug 29\u201331, new Regina Kitchen live-chef demos with Cyrus Todiwala added for 2026.",
-    "so_what": ""
-  },
-  {
-    "key": "https://cursor.com/changelog/08-19-26",
-    "date": "2026-08-21",
-    "headline": "Cursor agents now watch PRs and Slack solo",
-    "detail": "Aug 19 changelog: cloud agents wake on events, drive PRs to CI green",
-    "so_what": "Point a cloud agent at your Node PRs overnight \u2014 no human relay needed"
-  },
-  {
-    "key": "https://ai-tldr.dev/",
-    "date": "2026-08-21",
-    "headline": "Claude Code 50% usage boost extended Aug 31",
-    "detail": "Anthropic extends elevated weekly limits for Pro, Max, Team, Enterprise",
-    "so_what": "Run heavier Claude Code sessions through Aug 31 at no extra cost \u2014 use it now"
-  },
-  {
-    "key": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-    "date": "2026-08-21",
-    "headline": "OpenAI logs agent reasoning, not just outputs",
-    "detail": "Chain-of-thought monitoring now mandatory for all tool-enabled Sol+ model runs",
-    "so_what": "Log Claude/GPT reasoning traces in your Node agent calls \u2014 not just final responses"
-  },
-  {
     "key": "https://www.nrn.com/restaurant-franchising/trending-this-week-nelson-peltz-is-reportedly-planning-an-offer-for-wendy-s",
     "date": "2026-08-24",
     "headline": "Wendy's Take-Private Bid Nears; COO Role Revived",
@@ -677,5 +593,54 @@
     "headline": "OpenAI Exits Cursor Nov 12: Migration Deadline Set",
     "detail": "GPT model access in Cursor ends; Anthropic staying, Codex IDE extension offered",
     "so_what": "Check team Cursor model picker now \u2014 replace any GPT-dependent workflows with Claude before Nov 12"
+  },
+  {
+    "key": "https://www.verdictfoodservice.com/news/quandoo-to-shut-restaurant-booking-platform-by-end-of-2026/",
+    "date": "2026-09-21",
+    "headline": "Quandoo Stops All Bookings Sept 30",
+    "detail": "Platform accepts no new reservations after Oct 1; full shutdown Dec 31.",
+    "so_what": ""
+  },
+  {
+    "key": "https://blog.resy.com/newsroom/the-right-table-changes-everything/",
+    "date": "2026-09-21",
+    "headline": "Resy Launches 'The Right Table' Brand Campaign",
+    "detail": "New campaign goes live Sept 15; Amex Resy Credit now active at select Tock venues same day.",
+    "so_what": ""
+  },
+  {
+    "key": "https://tomyumweek.com/",
+    "date": "2026-09-21",
+    "headline": "Tom Yum Week: 17 Thai Spots, 17 Artists, Live Now",
+    "detail": "Sept 16\u201330; KRU, Sala Thai, Saolea among venues; artist-in-residence format.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.thened.com/london/restaurants/electric-bar-and-diner/interstellar-bbq",
+    "date": "2026-09-21",
+    "headline": "Austin's Michelin BBQ Duo Still Packing The Ned",
+    "detail": "InterStellar \u00d7 La Barbecue; \u00a3150 tray for two; through Oct 4.",
+    "so_what": ""
+  },
+  {
+    "key": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+    "date": "2026-09-21",
+    "headline": "GPT-Live-1 API: Full-Duplex Voice at $0.05/Min",
+    "detail": "Sept 10: listens while speaking, telephony built in, backend model your choice",
+    "so_what": "Prototype a voice booking confirmation flow in RN \u2014 one weekend, real cost data"
+  },
+  {
+    "key": "https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/",
+    "date": "2026-09-21",
+    "headline": "Claude Code Projects Now Runs Parallel Cloud Threads",
+    "detail": "Sept 17 beta: one goal, Claude spawns parallel PRs across repos",
+    "so_what": "Join waitlist now \u2014 deprecate manual session juggling on next cross-repo sprint"
+  },
+  {
+    "key": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+    "date": "2026-09-21",
+    "headline": "Apollo Watcher Monitors Claude Code and Codex Actions",
+    "detail": "AI pre-screens every tool call; 93% recall on high-severity, under 1% false positives",
+    "so_what": "Install Watcher before next async agent sprint \u2014 catches data-leak and file-delete risks silently"
   }
 ]

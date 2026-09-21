@@ -382,5 +382,19 @@
     "id": "manna::LDN",
     "importance_rank": 3,
     "merged_from": []
+  },
+  {
+    "name": "Bunso",
+    "date": "opens September 2026",
+    "blurb": "Omar Shah's Filipino-Italian all-day bakery by day, pizza and pasta by night.",
+    "city": "LDN",
+    "website": "",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "source_url": "https://www.restaurantonline.co.uk/Article/2026/09/01/restaurant-radar-september-2026/",
+    "category": "watching",
+    "id": "bunso::LDN",
+    "importance_rank": 0,
+    "merged_from": []
   }
 ]
