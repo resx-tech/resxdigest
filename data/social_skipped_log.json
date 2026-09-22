@@ -1,97 +1,5 @@
 [
   {
-    "date": "2026-08-18",
-    "subject": "Soraya London",
-    "url": "https://www.hot-dinners.com/2026042315000/Gastroblog/Latest-news/soraya-london-pachamama-group-loxton-walk-marylebone-restaurant",
-    "reason": "stale_content",
-    "detail": "posted_days_ago=999 \u2014 older than the 14-day freshness window (or undated)",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-18",
-    "subject": "Hon's BBQ Hackney Wick",
-    "url": "https://www.instagram.com/honsbbq",
-    "reason": "Account URL already on sent list \u2014 deduped out",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-18",
-    "subject": "St Clement / Nick Jones hotel restaurant",
-    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/hot-right-now-london-s-hottest-restaurants",
-    "reason": "Only article URL I retrieved for this moment is already on the sent list \u2014 cannot attach a clean lead link",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-18",
-    "subject": "The Horses Clerkenwell (Pelican team)",
-    "url": "https://www.hot-dinners.com/2026081015284/Gastroblog/Latest-news/the-horses-clerkenwell-public-house-group-pub-london",
-    "reason": "September opening \u2014 too early, no post exists yet, nothing to repost today",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-18",
-    "subject": "Yo-Chi Notting Hill fro-yo",
-    "url": "https://www.hot-dinners.com/2026080315265/Gastroblog/Latest-news/yo-chi-australia-london-notting-hill-frozen-yoghurt-opening",
-    "reason": "Generic fro-yo chain opening \u2014 not distinctive enough for ResX audience, no strong visual post found",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-18",
-    "subject": "Cititour US Open honey deuce roundup",
-    "url": "https://cititour.com/NYC_News/Deuces-Wild-Spots-to-Sip-the-Honey-Deuce-in-NYC/9835",
-    "reason": "Roundup from 2025 \u2014 dates confirmed as 2025 tournament coverage, not 2026",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-20",
-    "subject": "Soraya London (Persian, from Nina/Zephyr/Lagana team)",
-    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-august-2026",
-    "reason": "Only source available is a roundup ('new London restaurants opening in August 2026') \u2014 roundup leads are automatically dropped per rules; no single-subject article or post permalink found within fetch/search budget",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-20",
-    "subject": "Bancone at Imperial Hotel Bloomsbury opening August 2026",
-    "url": "https://www.restaurantonline.co.uk/Article/2026/08/03/the-key-uk-restaurant-openings-this-august/",
-    "reason": "Only source is a roundup ('Restaurant radar: August 2026') \u2014 automatically dropped; no single-subject article or post permalink available",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-20",
-    "subject": "Standard Biergarten US Open 2026 Honey Deuce watch party",
-    "url": "https://www.standardhotels.com/new-york/happenings/us-open-2025-bg",
-    "reason": "Only URL retrieved in fetch was the 2025 event page; cannot confirm a 2026 URL exists without constructing one \u2014 dropped to avoid wrong link; incorporated into the US Open post_idea above via Time Out article",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-20",
-    "subject": "COQODAQ US Open Honey Deuce Double Deuce cocktail 2026",
-    "url": "https://www.instagram.com/coqodaq/",
-    "reason": "Already in the already-sent URLs list \u2014 deduped",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-20",
-    "subject": "Chrissy's Pizza East Village (hard-to-get after-hours pizza, Superiority Burger pop-up)",
-    "url": "https://www.tiktok.com/tag/nycfoodie",
-    "reason": "Mentioned in TikTok tag page snippet but no single-subject article or post permalink available; insufficient sourcing",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-20",
-    "subject": "Top 5 New NYC Restaurants 2026 TikTok (Ambassadors Clubhouse named)",
-    "url": "https://www.tiktok.com/discover/nyc-restaurants",
-    "reason": "TikTok discover page, not a specific post permalink; no individual post or single-subject article extracted; roundup format",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-20",
-    "subject": "London Museum Smithfield opening \u2014 Ryan Chetiyawardana bar + Robin Gill bistro",
-    "url": "https://thenudge.com/london-restaurants-opening-soon/",
-    "reason": "Future opening (Autumn 2026), not imminent enough for today; source is a roundup",
-    "source_type": "researched"
-  },
-  {
     "date": "2026-08-25",
     "subject": "Salt Hank US Open",
     "url": "https://www.instagram.com/salt_hank/",
@@ -354,6 +262,65 @@
     "subject": "AJ Records open date (Spring 2027)",
     "url": "https://www.hot-dinners.com/2026091515366/Gastroblog/Latest-news/aj-records-french-restaurant-bar-studio-hanway-place-london",
     "reason": "Included as post_idea for the announcement moment (today) \u2014 not rejected, just noting the opening itself is 2027; the news value is the announcement breaking today",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-22",
+    "subject": "Cassette Covent Garden",
+    "url": "https://www.hot-dinners.com/2026071515228/Gastroblog/Latest-news/cassette-restaurant-levan-opening-covent-garden-london",
+    "reason": "stale_content",
+    "detail": "posted_days_ago=999 \u2014 older than the 14-day freshness window (or undated)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-22",
+    "subject": "The Eighty Six NYC (Corner Store team)",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-28/exclusive-the-eighty-six-is-new-york-s-hottest-fall-2025-restaurant",
+    "reason": "Bloomberg article dated August 2025 (prior year). The 2026 opening happened ~Sept 9, 2026 (~13 days ago), but no verified Instagram post permalink found and account handle unconfirmed \u2014 too risky to ship without verified link",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-22",
+    "subject": "National Coffee Day deals (Dunkin', Starbucks, Peet's)",
+    "url": "https://thekrazycouponlady.com/tips/money/national-coffee-day-free-cheap-coffee",
+    "reason": "National Coffee Day is Sept 29 \u2014 7 days out, not today. No on-brand specialty cafe collab found; only mass-chain deals (Dunkin', Starbucks, Biggby) that are off-brand for ResX's 25-35 downtown audience. Skipped per instructions",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-22",
+    "subject": "Braai Bird Kudu team Nunhead",
+    "url": "https://www.hot-dinners.com/2026092115380/Gastroblog/Latest-news/braai-bird-kudu-rotisserie-chicken-nunhead-south-london-restaurant",
+    "reason": "Fresh (opened yesterday, Sept 21) but Nunhead is too far off the downtown/cool-neighbourhood radar for ResX's LDN audience; no verified social post or handle; weaker desire/FOMO pull than Cassette or Kid",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-22",
+    "subject": "AA Hospitality Awards 2026",
+    "url": "https://www.hot-dinners.com/2026092215383/Gastroblog/Latest-news/aa-hospitality-awards-2026-winners",
+    "reason": "Published today but trade-publication energy \u2014 awards roundup doesn't create dinner FOMO or stop-the-scroll for ResX's audience; better suited for industry insiders than 25-35 going-out crowd",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-22",
+    "subject": "Five Feet Pizza Bermondsey",
+    "url": "https://www.hot-dinners.com/2026072715248/Gastroblog/Latest-news/five-feet-pizza-opening-bermondsey-street-london",
+    "reason": "Opening this month but no confirmed date or fresh post found; article from late July is stale; no verified Instagram post or permalink",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-22",
+    "subject": "Nakimushi Dorian team Notting Hill Japanese",
+    "url": "https://www.hot-dinners.com/2026070615197/Gastroblog/Latest-news/nakimushi-dorian-notting-hill-japanese-restaurant-opening-london",
+    "reason": "Already featured as a moment (nakimushi day-one opening, dorian team's japanese two-chef townhouse, 7 sept 2026) \u2014 deduped",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-22",
+    "pinned_input": "",
+    "subject": "Kid Soho",
+    "url": "https://www.hot-dinners.com/Gastroblog/Test-drive/kid-soho-restaurant-review-london",
+    "reason": "diversity_cap",
+    "detail": "already have an item from account 'hotdinners' in this digest",
     "source_type": "researched"
   }
 ]
