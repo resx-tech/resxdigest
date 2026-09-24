@@ -322,5 +322,71 @@
     "reason": "diversity_cap",
     "detail": "already have an item from account 'hotdinners' in this digest",
     "source_type": "researched"
+  },
+  {
+    "date": "2026-09-24",
+    "subject": "Blue Note London",
+    "url": "https://thenudge.com/london-restaurants-opening-soon/",
+    "reason": "no_usable_link",
+    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-24",
+    "subject": "Pearl at The Beaumont",
+    "url": "https://www.instagram.com/thebeaumont/",
+    "reason": "no_usable_link",
+    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-24",
+    "subject": "Yes Chef NYC food festival",
+    "url": "https://www.yescheffestival.com",
+    "reason": "no_usable_link",
+    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-24",
+    "subject": "National Coffee Day Sept 29 deals",
+    "url": "https://www.nbcnewyork.com/news/national-international/national-coffee-day-deals-2026-free-coffee/6551226/",
+    "reason": "All deals are Dunkin, Eataly, Einstein Bros \u2014 chain-level, not specialty/cool enough for ResX's 25-35 downtown audience. No specific on-brand venue doing a collab or limited drop. Generic tie-in, skipped per brief.",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-24",
+    "subject": "The Eighty Six (Corner Store team, Chumley's space)",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-28/exclusive-the-eighty-six-is-new-york-s-hottest-fall-2025-restaurant",
+    "reason": "Published August 2025 \u2014 opened September 9, 2025, over a year ago. Not fresh.",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-24",
+    "subject": "Brook & Green Chiswick opening today",
+    "url": "https://thenudge.com/london-restaurants-opening-soon/",
+    "reason": "Opens today (Sept 24) but Chiswick is off-brand for ResX's downtown 25-35 audience. The Silver Birch reincarnation is more of a destination for the Chiswick crowd than the Nolita/east London types.",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-24",
+    "subject": "InterStellar BBQ x La Barbecue at The Ned",
+    "url": "https://www.timeout.com/london/news/best-new-restaurants-september-2026-083026",
+    "reason": "Month-long residency that opened Sept 4 \u2014 already 20 days in, past the on-the-way-up moment. The City location is also less on-brand than West End/East London for ResX.",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-24",
+    "subject": "Manna smashburger Marylebone",
+    "url": "https://www.thelifeofluxury.co.uk/post/best-new-london-restaurant-openings-september-2026",
+    "reason": "Walk-in only smashburger \u2014 good but no verified Instagram post or permalink found; not visually compelling enough vs. Cassette or Blue Note at this moment.",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-24",
+    "subject": "Herbie's Burgers NYC East Village opening",
+    "url": "https://diningout.com/new-york/nyc-bar-restaurant-openings-september2-2026/",
+    "reason": "Albany-upstate chain going to East Village \u2014 not exciting enough for ResX's tastemaker audience; no viral hook or visual.",
+    "source_type": "researched"
   }
 ]
