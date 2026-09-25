@@ -1,89 +1,5 @@
 [
   {
-    "key": "https://www.nrn.com/restaurant-franchising/trending-this-week-nelson-peltz-is-reportedly-planning-an-offer-for-wendy-s",
-    "date": "2026-08-24",
-    "headline": "Wendy's Take-Private Bid Nears; COO Role Revived",
-    "detail": "Peltz/Trian consortium bid expected weeks away; US president departs Aug 31.",
-    "so_what": "Flynn Group \u2014 the world's largest restaurant franchisee, operating 309 Wendy's plus Applebee's, Pizza Hut, and Taco Bell units \u2014 is reportedly a consortium member in the take-private bid. If the deal closes, a single PE-aligned ownership group gains influence over tech vendor decisions across thousands of full-service and QSR locations simultaneously. Wendy's has already closed 289 US restaurants in H1 2026 and withdrawn its full-year outlook \u2014 operators in distress or restructuring routinely re-evaluate platform contracts. The COO role revival (vacant since 2019) signals internal restructuring is accelerating regardless of whether the bid materialises. Watch which reservation/hospitality tech vendors are embedded across the Flynn Group portfolio."
-  },
-  {
-    "key": "https://www.thestreet.com/restaurants/bloomin-brands-outback-steakhouse-restaurant-closures",
-    "date": "2026-08-24",
-    "headline": "Fleming's Shrinks to 64 US Locations; Bloomin' Restructures",
-    "detail": "Bloomin' closed 9 restaurants in Q2; Fleming's down to 64 US units.",
-    "so_what": "Fleming's Prime Steakhouse is a reservation-dependent, full-service brand \u2014 exactly the venue profile where platform relationships and cover-management tools matter most. The parent's Q2 earnings (reported Aug 5, covered in trade press this week Aug 20) show continued unit reduction concentrated at Fleming's and Outback, even as comp sales recover. A portfolio company actively pruning its footprint is re-evaluating every vendor relationship at each closure. With 64 US Fleming's locations remaining \u2014 down from a larger base \u2014 the brand is contracting into a premium-only footprint where per-cover technology spend is most justified. Worth flagging to any account team covering casual-to-upscale full-service groups under PE or corporate ownership."
-  },
-  {
-    "key": "https://www.customerexperiencedive.com/news/opentable-access-hard-to-book-tables-loyalty-program/824895/",
-    "date": "2026-08-24",
-    "headline": "OpenTable adds primetime tables to Regulars Gold tier",
-    "detail": "Gold members get priority access to 500+ hard-to-book restaurants across 50 cities.",
-    "so_what": ""
-  },
-  {
-    "key": "https://commoncentsact.com/news/congressgov-senate-passes-the-common-cents-act-by-unanimous-consent",
-    "date": "2026-08-24",
-    "headline": "Common Cents Act One House Vote From Law",
-    "detail": "Senate passed Aug 7; cash rounding to nearest nickel, opt-in for restaurants.",
-    "so_what": "Both chambers have now passed matching versions of the bill. Once enacted (one more House vote required), restaurants can legally round cash transactions to the nearest nickel when exact change is unavailable \u2014 eliminating the litigation risk that has forced operators to absorb rounding losses estimated at up to $168M annually. For any venue using ResX that takes cash at point of sale, this changes the checkout flow. The NRA explicitly called it 'a win for restaurant operators.' Operationally low-urgency for digital-reservation-first venues, but relevant for any full-service partner running hybrid cash/card payment environments."
-  },
-  {
-    "key": "https://hauteliving.com/2026/08/how-new-yorks-luxury-hotels-restaurants-are-celebrating-the-us-open-2026/793312/",
-    "date": "2026-08-24",
-    "headline": "Fasano Is the US Open's Player Dining Room",
-    "detail": "Alcaraz and Sinner named regulars; Baretto downstairs for post-dinner; Sinner now withdrew, Alcaraz still in.",
-    "so_what": ""
-  },
-  {
-    "key": "https://qns.com/2026/08/us-open-culinary-lineup/",
-    "date": "2026-08-24",
-    "headline": "Cosme's Duck Carnitas Hit Flushing Meadows",
-    "detail": "Olvera's Flatiron flagship takes the former Mojito footprint; duck carnitas on-grounds, tournament-long.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.theupcoming.co.uk/2026/08/20/jenki-whisks-up-matcha-burgers-with-supernova-ahead-of-soho-bar-launch/",
-    "date": "2026-08-24",
-    "headline": "JENKI Takes Over Supernova for Bank Holiday",
-    "detail": "200 boxes/day, Aug 28\u201329 only; matcha mayo, lemonade, soft serve \u2014 teeing up JENKI's Soho opening Sept 3.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.londonxlondon.com/cotton-beach-club-ibiza-lands-on-selfridges-rooftop-for-two-nights-of-balearic-dining-at-alto-by-san-carlo/",
-    "date": "2026-08-24",
-    "headline": "Cotton Beach Club Lands on Selfridges Roof Tonight",
-    "detail": "CBC resident DJs, caviar belt, Mediterranean menu \u2014 alto \u00d7 Cotton Beach Club, Aug 29 and Sept 26.",
-    "so_what": ""
-  },
-  {
-    "key": "https://planque.co.uk/events/zen-ong-at-planque/",
-    "date": "2026-08-24",
-    "headline": "Planque Turns Five with LA Chef Zen Ong",
-    "detail": "Wagyu rendang, tuna belly, frozen dessert bars \u2014 Haggerston, Aug 30, walk-in from 2pm, no bookings.",
-    "so_what": ""
-  },
-  {
-    "key": "https://github.com/openai/codex/releases/tag/rust-v0.149.0",
-    "date": "2026-08-24",
-    "headline": "Codex CLI adds cross-session queue and dashboard",
-    "detail": "v0.149.0: codex queue sends messages to any running local or remote session",
-    "so_what": "Route backend agent status into frontend Codex session without copy-pasting \u2014 no relay needed"
-  },
-  {
-    "key": "https://openrouter.ai",
-    "date": "2026-08-24",
-    "headline": "Ox Alpha: free 1M-context reasoning model on OpenRouter",
-    "detail": "Anonymous model appeared Aug 20; zero token charge, 1,048,576-token context",
-    "so_what": "Drop entire Node service codebase in one context window for review \u2014 zero API cost today"
-  },
-  {
-    "key": "https://learn.chatgpt.com/docs/third-party/gitlab",
-    "date": "2026-08-24",
-    "headline": "Codex cloud connects to GitLab on all plans",
-    "detail": "Aug 19 beta: @codex starts tasks from GitLab issues and MR reviews",
-    "so_what": "If ResX is on GitLab, wire Codex to MRs today \u2014 free automated code review on existing plan"
-  },
-  {
     "key": "https://ir.doordash.com/news/news-details/2026/DoorDash-Releases-Second-Quarter-2026-Financial-Results/default.aspx",
     "date": "2026-08-28",
     "headline": "DoorDash Reservations: 150% QoQ Growth Confirmed",
@@ -642,5 +558,54 @@
     "headline": "Apollo Watcher Monitors Claude Code and Codex Actions",
     "detail": "AI pre-screens every tool call; 93% recall on high-severity, under 1% false positives",
     "so_what": "Install Watcher before next async agent sprint \u2014 catches data-leak and file-delete risks silently"
+  },
+  {
+    "key": "https://snagres.com/about",
+    "date": "2026-09-25",
+    "headline": "SnagNYC Rebrands to SnagRes, Adds San Francisco",
+    "detail": "Renamed in August 2026; now tracks 140+ hard-to-book restaurants across NYC and SF.",
+    "so_what": "SnagNYC was a one-city tracker for Resy/OpenTable/Tock/SevenRooms availability; it now covers SF, doubling its addressable market. This is a scraper-layer product, not a booking platform \u2014 but it's the clearest signal that third-party availability monitoring of reservation platforms is scaling geographically. If SnagRes adds booking (it currently only monitors), it becomes a direct consumer product. Worth watching for that step-change."
+  },
+  {
+    "key": "https://finance.yahoo.com/technology/ai/articles/meta-muse-ai-exploding-popularity-221158216.html",
+    "date": "2026-09-25",
+    "headline": "Meta Muse Hits #1 App Store, Books Reservations",
+    "detail": "Meta's AI agent, launched Sept 8, downloaded 2M+ times; restaurant booking is a named core feature.",
+    "so_what": "The Resy/Instinct bot story was about a VC's custom build hitting one platform. Meta Muse is a mass-market consumer product \u2014 free tier, #1 on App Store, explicitly marketed as a restaurant reservation tool \u2014 and it uses a virtual browser to interact with booking sites directly, not an approved API. That changes the scale of the problem entirely. Every reservation platform, including ResX, now faces bot-style traffic not from power users but from anyone with an iPhone. The prior digest flagged this as a policy question ResX needs an answer to before venues ask. Muse makes that timeline shorter: this is no longer a niche VC tool, it's the most-downloaded app in the country doing exactly what Resy suspended two accounts for."
+  },
+  {
+    "key": "https://www.convenience.org/stay-current/news/2026/september/17/nca-specialty-coffee-consumption-hits-record-high",
+    "date": "2026-09-25",
+    "headline": "Out-of-Home Coffee Hits Pre-Pandemic Levels, App Orders Record",
+    "detail": "NCA Fall 2026: 38% of daily coffee drinkers consume out-of-home; 40% of out-of-home buyers order via app \u2014 both records.",
+    "so_what": "This is the demand-side data point ResX should be using in venue sales conversations right now, timed to National Coffee Day (Sept 29). Specialty coffee consumption also hit a new record \u2014 48% of US adults had specialty coffee in the past day, surpassing traditional coffee for the first time. The implication for ResX: caf\u00e9 and coffee-forward venues (the category least likely to use reservation infrastructure today) are operating at or near pre-pandemic out-of-home demand, with guests increasingly conditioned to transact via app. That's the exact behavioral profile \u2014 digitally comfortable, app-native, high visit frequency \u2014 that makes a lightweight reservation or waitlist product a natural upsell. Ahead of National Coffee Day, this is a concrete, sourced hook for any outreach to specialty caf\u00e9 partners."
+  },
+  {
+    "key": "https://www.wraysearch.com/restaurant-hospitality-franchise-foodservice-insights/financials-september-2026",
+    "date": "2026-09-25",
+    "headline": "British PE Backs US Multi-Brand Restaurant Group $325M",
+    "detail": "Trimontium invests $325M in Authentic Restaurant Brands (Primanti Bros, Pollo Tropical, Tavern in the Square) for expansion.",
+    "so_what": "Trimontium is a British investment firm \u2014 this is cross-Atlantic capital backing a US casual dining group that runs full-service, reservation-relevant venues (Tavern in the Square is a sports-bar-adjacent full-service chain; Primanti Bros has table service). The $325M is explicitly for growth. PE-backed multi-brand groups at this funding stage are exactly when reservation platform contracts get standardized across the portfolio \u2014 one platform deal, many doors. The British PE angle is also a signal that London-based capital is actively deploying into US restaurant groups, which is relevant background for any BOTH-city strategy ResX is running. Comparable to the Los Tacos/TSG dynamic flagged last digest: whoever gets into the room during the expansion phase owns the relationship."
+  },
+  {
+    "key": "https://www.anthropic.com/claude-opus-5-5",
+    "date": "2026-09-25",
+    "headline": "Claude Opus 5.5 Ships: 40% Cheaper, Same Quality",
+    "detail": "Anthropic's new flagship for agentic coding, $4/$20 per M tokens.",
+    "so_what": "Swap Opus 5 to Opus 5.5 in Claude Code today \u2014 same output, 40% lower token bill."
+  },
+  {
+    "key": "https://qz.com/openai-gpt-6-sol-luna-api-price-cut-092326",
+    "date": "2026-09-25",
+    "headline": "OpenAI Cuts GPT-6 Sol and Luna Prices 50%",
+    "detail": "Permanent price drop: Sol $2/$10, Luna $0.10/$0.50 per M tokens.",
+    "so_what": "Route high-volume Node classification calls to Luna now \u2014 costs drop by half, permanently."
+  },
+  {
+    "key": "https://invertase.io/blog/react-native-firebase-v26-release",
+    "date": "2026-09-25",
+    "headline": "React Native Firebase v26 Drops Legacy Bridge",
+    "detail": "All 19 packages rewritten in TypeScript; Firestore requires New Architecture now.",
+    "so_what": "Audit your RN Firebase version this sprint \u2014 staying on v25 means no Firestore updates."
   }
 ]

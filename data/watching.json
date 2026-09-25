@@ -121,21 +121,6 @@
     "merged_from": []
   },
   {
-    "name": "Cassette",
-    "date": "opens Autumn 2026",
-    "blurb": "Levan team's Parisian bistro on Covent Garden's Maiden Lane, led by chef Essa Fakhry.",
-    "city": "LDN",
-    "website": "",
-    "instagram_handle": "@cassettelondon",
-    "instagram_url": "https://www.instagram.com/cassettelondon/",
-    "source_url": "https://www.hot-dinners.com/2026071515228/Gastroblog/Latest-news/cassette-restaurant-levan-opening-covent-garden-london",
-    "category": "watching",
-    "importance_rank": 0,
-    "merged_from": [
-      "cassette::LDN"
-    ]
-  },
-  {
     "name": "Romae",
     "date": "June 2026",
     "blurb": "West Village Argentine-Italian spot with house-made pasta, empanadas, and wood-fired steak.",
@@ -248,20 +233,6 @@
     ]
   },
   {
-    "name": "Carnegie Deli",
-    "date": "opens September 15",
-    "blurb": "Iconic NYC Jewish deli returns to Midtown after a decade, walk-in only.",
-    "city": "NYC",
-    "website": "https://www.carnegiedeli.com",
-    "instagram_handle": "@carnegiedeli",
-    "instagram_url": "https://www.instagram.com/carnegiedeli/",
-    "source_url": "https://abc7ny.com/post/nyc-icon-carnegie-deli-reopening-midtown-manhattan-september/19806998/",
-    "category": "watching",
-    "id": "carnegie deli::NYC",
-    "importance_rank": 1,
-    "merged_from": []
-  },
-  {
     "name": "Chippy's",
     "date": "opens September 2026",
     "blurb": "Counter-service fish and chips shop from the Dame team, East Village.",
@@ -343,20 +314,6 @@
     "merged_from": []
   },
   {
-    "name": "Brasserie Boulud",
-    "date": "opens September 17",
-    "blurb": "Daniel Boulud's 10,000-sq-ft modern French brasserie replaces Bar Boulud and Boulud Sud.",
-    "city": "NYC",
-    "website": "https://www.brasserieboulud.com",
-    "instagram_handle": "",
-    "instagram_url": "",
-    "source_url": "",
-    "category": "watching",
-    "id": "brasserie boulud::NYC",
-    "importance_rank": 1,
-    "merged_from": []
-  },
-  {
     "name": "148 Noble Street",
     "date": "opens September 24",
     "blurb": "Greenpoint seasonal restaurant from a New Orleans chef with stints at Estela and Chez Ma Tante.",
@@ -394,6 +351,48 @@
     "source_url": "https://www.restaurantonline.co.uk/Article/2026/09/01/restaurant-radar-september-2026/",
     "category": "watching",
     "id": "bunso::LDN",
+    "importance_rank": 0,
+    "merged_from": []
+  },
+  {
+    "name": "Mili",
+    "date": "opens late September 2026",
+    "blurb": "Former Estela chef Jorge Luis Pab\u00f3n's intimate wine-bar restaurant on the Lower East Side.",
+    "city": "NYC",
+    "website": "",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "source_url": "https://whatnow.com/new-york/restaurants/mili-to-open-permanent-lower-east-side-restaurant-this-fall/",
+    "category": "watching",
+    "id": "mili::NYC",
+    "importance_rank": 0,
+    "merged_from": []
+  },
+  {
+    "name": "Ghungroo",
+    "date": "opens October 2026",
+    "blurb": "Pan-Indian gastropub from the Lungi team, with tandoor, biryani, and Bollywood energy in Astoria.",
+    "city": "NYC",
+    "website": "",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "source_url": "https://www.theinfatuation.com/new-york/guides/nyc-fall-restaurant-openings-2026",
+    "category": "watching",
+    "id": "ghungroo::NYC",
+    "importance_rank": 0,
+    "merged_from": []
+  },
+  {
+    "name": "ENDO",
+    "date": "opens October 2026",
+    "blurb": "10-seat omakase counter; Endo Kazutoshi serving wild-caught British fish.",
+    "city": "LDN",
+    "website": "",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "source_url": "https://www.timeout.com/london/news/endo-kazutoshi-omakase-chelsea-072326",
+    "category": "watching",
+    "id": "endo::LDN",
     "importance_rank": 0,
     "merged_from": []
   }
