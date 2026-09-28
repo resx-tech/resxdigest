@@ -314,20 +314,6 @@
     "merged_from": []
   },
   {
-    "name": "148 Noble Street",
-    "date": "opens September 24",
-    "blurb": "Greenpoint seasonal restaurant from a New Orleans chef with stints at Estela and Chez Ma Tante.",
-    "city": "NYC",
-    "website": "",
-    "instagram_handle": "",
-    "instagram_url": "",
-    "source_url": "https://www.theinfatuation.com/new-york/guides/nyc-fall-restaurant-openings-2026",
-    "category": "watching",
-    "id": "148 noble street::NYC",
-    "importance_rank": 2,
-    "merged_from": []
-  },
-  {
     "name": "Manna",
     "date": "September 4",
     "blurb": "Bake Street's Feroz Gajia opens his first standalone smashburger spot in Marylebone.",
@@ -395,5 +381,18 @@
     "id": "endo::LDN",
     "importance_rank": 0,
     "merged_from": []
+  },
+  {
+    "name": "Nettle",
+    "date": "September 21",
+    "blurb": "Will Devlin's open-fire rooftop at The Conduit; lamb, venison and day-boat fish from his Kent farm.",
+    "city": "LDN",
+    "website": "",
+    "instagram_handle": "@nettle.restaurant",
+    "instagram_url": "https://www.instagram.com/nettle.restaurant/",
+    "category": "watching",
+    "importance_rank": 0,
+    "merged_from": [],
+    "id": "nettle::LDN"
   }
 ]
