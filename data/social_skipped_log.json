@@ -1,99 +1,5 @@
 [
   {
-    "date": "2026-08-25",
-    "subject": "Salt Hank US Open",
-    "url": "https://www.instagram.com/salt_hank/",
-    "reason": "stale_content",
-    "detail": "posted_days_ago=999 \u2014 older than the 14-day freshness window (or undated)",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-27",
-    "subject": "Waldorf Astoria Ballroom Tennis",
-    "url": "https://www.forbes.com/sites/katiebell/2026/08/21/the-ultimate-guide-to-the-best-us-open-grand-slam-experiences/",
-    "reason": "stale_content",
-    "detail": "posted_days_ago=999 \u2014 older than the 14-day freshness window (or undated)",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-27",
-    "subject": "US Open 2026 Food Village chefs",
-    "url": "https://qns.com/2026/08/us-open-culinary-lineup/",
-    "reason": "stale_content",
-    "detail": "posted_days_ago=999 \u2014 older than the 14-day freshness window (or undated)",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-27",
-    "subject": "Cassette Covent Garden",
-    "url": "https://www.designmynight.com/london/blog/new-restaurants-london",
-    "reason": "Opened Aug 6 \u2014 21 days ago, outside the 14-day freshness window",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-27",
-    "subject": "Cordelia's Mayfair steakhouse",
-    "url": "https://www.designmynight.com/london/blog/new-restaurants-london",
-    "reason": "Opened Aug 26 (yesterday), compelling live-fire Mayfair opening, but only source is a roundup page \u2014 per rules cannot use as lead article_url",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-27",
-    "subject": "Keepers West Village",
-    "url": "https://www.theinfatuation.com/new-york/reviews/keepers",
-    "reason": "Also Just Added to Infatuation Hit List Aug 24 \u2014 same source/moment as Frenzie; diversity rule prevents featuring both",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-27",
-    "subject": "TAQ Notting Hill (Jackson Boxer x Taqueria rebrand)",
-    "url": "https://www.designmynight.com/london/blog/new-restaurants-london",
-    "reason": "Announced Aug 17, interesting Jackson Boxer collab, but only source is a roundup \u2014 cannot use as editorial lead",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-27",
-    "subject": "Grasso Soho viral chicken parm",
-    "url": "https://www.modash.io/find-influencers/united-kingdom/london/food",
-    "reason": "307k+ view reel mentioned in influencer directory \u2014 no verified post permalink or single-subject editorial article retrievable; source is an influencer listing tool, not editorial",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-27",
-    "subject": "Waterhouse London Fields",
-    "url": "https://www.designmynight.com/london/blog/new-restaurants-london",
-    "reason": "Opened Aug 6 \u2014 21 days ago, stale by freshness rules",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-27",
-    "subject": "20 Blocks East Village sandwiches",
-    "url": "https://www.theinfatuation.com/new-york/reviews/20-blocks",
-    "reason": "Hit List Aug 24 but less visually scroll-stopping than Frenzie; sandwich shop vs. sungold pizza \u2014 Frenzie wins the slot",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-27",
-    "subject": "Cospa Ramen $9.99 Nomad",
-    "url": "https://www.theinfatuation.com/new-york/reviews/cospa-ramen",
-    "reason": "Interesting cheap-eats story but doesn't match ResX's aspirational 25-35 going-out positioning; QR menus and self-serve water don't fit the brand vibe",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-27",
-    "subject": "Sofra Bay Ridge Egyptian",
-    "url": "https://www.theinfatuation.com/new-york/guides/new-nyc-restaurants-openings",
-    "reason": "Soft opened Aug 22 (5 days ago), pharaoh pot pie is scroll-stopping, but only source is openings roundup; Bay Ridge is off-brand for ResX's downtown/aspirational positioning",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-08-27",
-    "subject": "Hon's BBQ Hackney Wick",
-    "url": "https://www.designmynight.com/london/blog/new-restaurants-london",
-    "reason": "No confirmed opening date within 14 days; listed as 'now open' with no specific recent date in source; too uncertain to verify freshness",
-    "source_type": "researched"
-  },
-  {
     "date": "2026-09-01",
     "subject": "Nakimushi, Notting Hill",
     "url": "https://www.instagram.com/nakimushirestaurant/",
@@ -387,6 +293,79 @@
     "subject": "Herbie's Burgers NYC East Village opening",
     "url": "https://diningout.com/new-york/nyc-bar-restaurant-openings-september2-2026/",
     "reason": "Albany-upstate chain going to East Village \u2014 not exciting enough for ResX's tastemaker audience; no viral hook or visual.",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-29",
+    "subject": "El Camar\u00f3n Peludo",
+    "url": "https://www.theinfatuation.com/new-york/guides/best-dishes-nyc-september-2026",
+    "reason": "no_usable_link",
+    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-29",
+    "subject": "Blue Note London",
+    "url": "https://thenudge.com/london-restaurants-opening-soon/",
+    "reason": "no_usable_link",
+    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-29",
+    "subject": "Pearl Mayfair",
+    "url": "https://thenudge.com/london-restaurants-opening-soon/",
+    "reason": "no_usable_link",
+    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-29",
+    "subject": "Cassette Covent Garden",
+    "url": "https://thenudge.com/london-restaurants-opening-soon/",
+    "reason": "already featured as a moment (cassette covent garden opening day \u2014 levan team's french bistro)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-29",
+    "subject": "Kirbee's BBQ Greenpoint",
+    "url": "https://www.theinfatuation.com/new-york/guides/best-dishes-nyc-september-2026",
+    "reason": "same source article as el camar\u00f3n peludo pick \u2014 would double-dip on infatuation content same day; also less visually stop-scroll than the carpaccio",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-29",
+    "subject": "20 Blocks Cornstar sandwich",
+    "url": "https://www.theinfatuation.com/new-york/guides/best-dishes-nyc-september-2026",
+    "reason": "same source article as top pick; the sandwich is craveable but same-source double-dip; timeliness weaker than other items; lower ranked",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-29",
+    "subject": "Nakimushi Notting Hill",
+    "url": "https://www.hot-dinners.com/Gastroblog/Test-drive/nakimushi-notting-hill-japanese-ramen-restaurant-review",
+    "reason": "already featured as a moment",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-29",
+    "subject": "Eataly NYC National Coffee Day",
+    "url": "https://www.nbcnewyork.com/news/national-international/national-coffee-day-deals-2026-free-coffee/6551226/",
+    "reason": "off-brand for resx's downtown indie audience; chain/tourist venue doesn't fit the vibe vs coffee project ny",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-29",
+    "subject": "Nettle Covent Garden rooftop",
+    "url": "https://thenudge.com/london-restaurants-opening-soon/",
+    "reason": "interesting michelin green star rooftop opening sept 22 but couldn't source a real post permalink and same-article as blue note and pearl \u2014 three items from one article is too many; lower desire-fit than pearl for resx's 25-35 crowd",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-09-29",
+    "subject": "Schnitzel Haus Oktoberfest sausage platter",
+    "url": "https://www.theinfatuation.com/new-york/guides/best-dishes-nyc-september-2026",
+    "reason": "bay ridge location too outer-borough and niche; oktoberfest angle is thin without a specific event/activation; doesn't create booking fomo for resx audience",
     "source_type": "researched"
   }
 ]
