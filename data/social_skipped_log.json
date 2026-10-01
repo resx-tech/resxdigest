@@ -367,5 +367,78 @@
     "url": "https://www.theinfatuation.com/new-york/guides/best-dishes-nyc-september-2026",
     "reason": "bay ridge location too outer-borough and niche; oktoberfest angle is thin without a specific event/activation; doesn't create booking fomo for resx audience",
     "source_type": "researched"
+  },
+  {
+    "date": "2026-10-01",
+    "subject": "October London openings",
+    "url": "https://www.timeout.com/london/news/best-new-restaurants-october-2026-100126",
+    "reason": "no_usable_link",
+    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-01",
+    "subject": "Firangi at Top Cuv\u00e9e",
+    "url": "https://www.instagram.com/firangidining/",
+    "reason": "no_usable_link",
+    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-01",
+    "subject": "Cloth Cornhill",
+    "url": "https://www.instagram.com/clothrestaurant/",
+    "reason": "no_usable_link",
+    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-01",
+    "subject": "National Taco Day NYC specials",
+    "url": "https://nationaldaycalendar.com/celebrations/national-taco-day-first-tuesday-in-october",
+    "reason": "National Taco Day is Oct 6 \u2014 5 days away \u2014 but no specific tracked or cool NYC restaurant found doing a named special or collab; only chain deals (Taco Bell, Tocaya, Chronic Tacos). Per instructions, skip generic tie-in with no specific venue post.",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-01",
+    "subject": "PAM by Karla Knowles, Clerkenwell",
+    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-october-2026",
+    "reason": "Opening date unconfirmed ('could slip to November') \u2014 too vague to post today. Karla Knowles pop-up moment already featured in previously-sent moments list.",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-01",
+    "subject": "B. Penhale Smithfield",
+    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-october-2026",
+    "reason": "Opening date unconfirmed ('October 2026') \u2014 no specific date confirmed, no real post found. Not postable today.",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-01",
+    "subject": "Dishoom Borough soft launch",
+    "url": "https://www.timeout.com/london/news/best-new-restaurants-october-2026-100126",
+    "reason": "Soft launch is Oct 12-20, not today. Worth revisiting on Oct 12 with the 50% off hook and Keralan pepper chicken exclusive dish.",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-01",
+    "subject": "Soraya Marylebone official launch",
+    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-october-2026",
+    "reason": "Lagana/Bottarga team's Persian restaurant launches officially Oct 15. Not today. Worth revisiting on launch day with a real post.",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-01",
+    "subject": "Jules Pizza Bensonhurst TikTok viral",
+    "url": "https://www.theinfatuation.com/new-york/guides/new-nyc-restaurants-openings",
+    "reason": "The Infatuation NYC openings roundup URL already sent. No standalone article or real post permalink found within remaining fetch budget. Not enough to confirm freshness of a specific post.",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-01",
+    "subject": "Cloth Cornhill duplicate",
+    "url": "https://www.timeout.com/london/news/best-new-restaurants-october-2026-100126",
+    "reason": "Cloth Cornhill appears both as a standalone repost and in the October openings carousel. Kept as standalone repost (ranked #4) to surface the opening-day hook, but source_account is the same as the carousel item \u2014 noted for dedup awareness.",
+    "source_type": "researched"
   }
 ]
