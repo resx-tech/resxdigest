@@ -1,54 +1,5 @@
 [
   {
-    "key": "https://about.wonder.com/news/details/2026/Salt-Hanks-Joins-Wonder-Bringing-its-Iconic-French-Dip-Sandwich-to-More-Diners-2026-39nzCNPADd/default.aspx",
-    "date": "2026-08-31",
-    "headline": "Wonder Acquires Salt Hank's, Third NYC Brand",
-    "detail": "Deal closed Aug 14; storefront, menu, brand transfer complete; app rollout this fall.",
-    "so_what": "Wonder \u2014 Grubhub parent, $9B valuation, pre-IPO \u2014 is systematically acquiring NYC's highest-demand walk-in concepts (Blue Ribbon Fried Chicken, Mighty Quinn's, now Salt Hank's) and converting them into delivery/pickup plays on its own app. Salt Hank's had no reservation system by design; it operated on pure walk-in demand and lines. Wonder's model removes those brands from the reservation ecosystem entirely. This is a direct drain on the pool of high-demand NYC venues that reservation platforms compete to onboard. As Wonder approaches IPO and scales this acquisition strategy, it becomes a structural competitor to reservation-first discovery \u2014 not by building a booking product, but by absorbing the venues before they ever need one."
-  },
-  {
-    "key": "https://www.globenewswire.com/news-release/2026/08/11/3342785/0/en/marginedge-secures-80-million-in-series-d-funding-to-power-the-next-generation-of-restaurant-operations.html",
-    "date": "2026-08-31",
-    "headline": "MarginEdge Raises $80M Series D",
-    "detail": "Back-office ops platform, 13,000 restaurants; funding targets AI and commercial expansion.",
-    "so_what": "MarginEdge now has $162M total and sits inside 13,000+ restaurant back offices \u2014 processing invoices, forecasting, and building AI on top of 40M+ invoices worth $28B in purchasing volume. That back-office data layer is increasingly where platform integration decisions get made: a restaurant deeply embedded in MarginEdge's accounting stack tends to standardize on whatever front-of-house tools integrate cleanly with it. As POS and reservation platforms fight to own the guest data layer, a well-funded back-office platform with AI ambitions is quietly shaping which front-of-house vendors get embedded alongside it. Worth understanding which reservation platforms already integrate with MarginEdge \u2014 and which don't."
-  },
-  {
-    "key": "https://sapro.senate.ca.gov/system/files/2026-08/hearing_results-8-3-26.pdf",
-    "date": "2026-08-31",
-    "headline": "CA AB 1640 Hits Senate Suspense File",
-    "detail": "Bill stalled in Senate Appropriations on Aug 3; timeline to Newsom now uncertain.",
-    "so_what": "The prior digest flagged AB 1640 as one committee vote from Newsom's desk. The Aug 3 Senate Appropriations hearing placed it on the suspense file \u2014 a procedural hold used for bills with significant fiscal impact. That stops the clock. California remains the last major market without a reservation anti-scalping law, and the suspense file means it may not reach Newsom before the legislative year closes. Any venue pitch or compliance narrative the team is building around a near-national legal framework should note this gap \u2014 California's 39M-person market, and Cita/Appointment Trader, are not yet covered."
-  },
-  {
-    "key": "https://coolhunting.com/culture/club-de-tennis-moet-chandon-rebuilds-its-us-open-welcome/",
-    "date": "2026-08-31",
-    "headline": "Mo\u00ebt Serve Hits 5 NYC Bars, Challenging Honey Deuce",
-    "detail": "Mo\u00ebt Ice Imp\u00e9rial in tennis-ball can, $20, at Dante West Village, Electric Lemon, Gansevoort, Hard Rock, St. Regis through Sept 13.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.thebiglead.com/taylor-fritz-olivia-jade-dating-rumors-us-open-nyc-photos/",
-    "date": "2026-08-31",
-    "headline": "Taylor Fritz + Olivia Jade Shut Down Manhattan Pre-Open",
-    "detail": "Deuxmoi posted photos of US Open No. 10 seed and Lori Loughlin's daughter out in NYC Aug 24, confirming months of dating rumors.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.8it.world/nyc/must-eats/pop-ups-drops/this-weeks-must-eat-food-popups-and-drops/",
-    "date": "2026-08-31",
-    "headline": "Lana Lagomarsini's 8-Course Tasting Menu at Fulgurances",
-    "detail": "French-technique meets Alabama roots \u2014 6 or 8 courses, Greenpoint, through Sept 4; tamarind BBQ lamb belly is the standout.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
-    "date": "2026-08-31",
-    "headline": "OpenAI Jalape\u00f1o chip beats Blackwell on inference",
-    "detail": "1.9x throughput/watt, 3.6x lower latency vs GB200; small deploy late 2026",
-    "so_what": "No action yet \u2014 but watch GPT-5.6 API pricing drop in early 2027 as Jalape\u00f1o rolls out; lock in any annual AI spend commitments before that repricing cycle hits"
-  },
-  {
     "key": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
     "date": "2026-09-04",
     "headline": "Delivery Hero board backs Uber's $15B takeover bid",
@@ -565,5 +516,61 @@
     "headline": "Foremerge Catches Parallel Agent Intent Conflicts",
     "detail": "Open-source MCP server flags semantic clashes before Claude Code and Codex write conflicting code",
     "so_what": "Install before next parallel agent sprint \u2014 stops silent overwrites Git worktrees can't detect"
+  },
+  {
+    "key": "https://www.exploretock.com/join/",
+    "date": "2026-10-02",
+    "headline": "Tock Brand Officially Retired into Resy",
+    "detail": "exploretock.com now redirects to Resy sign-up; site reads 'Tock is now part of the Resy network'",
+    "so_what": "The prior digest covered the Sept 15 Resy Credit expansion to Tock venues. The new development: the Tock consumer brand is being explicitly retired \u2014 not just merged. The operator-facing site now routes entirely through Resy. For ResX, this is the reservation market consolidating to two large consumer networks (Resy/Tock and OpenTable). Any venue currently on Tock that hasn't re-evaluated its platform mix will be evaluated again as Tock's brand disappears. That's a window."
+  },
+  {
+    "key": "https://www.nrn.com/mergers-acquisitions/fat-brands-changes-its-name",
+    "date": "2026-10-02",
+    "headline": "FAT Brands Reborn as OHG: 1,700 Locations",
+    "detail": "Post-bankruptcy rebrand to OHG Brands; 12 chains, ~1,700 units, new franchise sales push.",
+    "so_what": "A lender group bought 12 franchised restaurant chains out of FAT Brands' bankruptcy for $595M and is now operating them under a new identity (OHG Brands: Round Table Pizza, Fatburger, Johnny Rockets, Fazoli's, and others). The new owners explicitly said additional details drop in November \u2014 that's when franchise sales and platform standardization decisions typically get made. A 1,700-unit group under fresh PE ownership with no legacy platform commitments is exactly the kind of blank-slate account that gets signed in bulk. OHG's franchise registrations have also lapsed in several states, meaning they need to rebuild infrastructure fast. Reservation and waitlist tech is part of that rebuild."
+  },
+  {
+    "key": "https://finance.yahoo.com/economy/articles/opentables-inaugural-u-restaurant-impact-130000685.html",
+    "date": "2026-10-02",
+    "headline": "OpenTable Puts $80 Number on No-Shows",
+    "detail": "Inaugural U.S. Impact Report: dining up 11% YoY; no-show table for two costs $80.",
+    "so_what": "OpenTable just handed every reservation platform \u2014 including ResX \u2014 a market-ready data hook: 47% of diners say they'd cancel properly if they knew the financial cost. That's a behavior-change lever, not just a stat. If ResX isn't already surfacing no-show cost data to venues in sales conversations or building it into cancellation nudge copy, this report gives both the number and the consumer psychology to do it. OpenTable is also using this report to position itself as an industry advocate \u2014 that's a narrative play ResX should be aware of and potentially counter with its own venue-side data."
+  },
+  {
+    "key": "https://aiweekly.co/alerts/doordash-launches-imessage-text-to-order-ai-agent-and-mcp-server-for-corporate",
+    "date": "2026-10-02",
+    "headline": "DoorDash Orders Via iMessage, No App Needed",
+    "detail": "AI agent inside Apple Messages handles full checkout; 20K beta users, public waitlist open.",
+    "so_what": "DoorDash (which owns SevenRooms) just moved food ordering into the OS-native messaging layer \u2014 the same layer where Siri and App Intents live. This is the delivery side of what Meta Muse is doing on the discovery/reservation side: removing the app entirely from the transaction. If DoorDash connects this agent to SevenRooms reservation availability (not announced, but a logical next step), a diner could text 'book me dinner Saturday at 8' and get a table confirmed without ever opening a booking app. ResX should flag this internally as the architecture to watch \u2014 not the product today, but the direction."
+  },
+  {
+    "key": "https://www.prnewswire.com/news-releases/taco-bell-and-duolingo-take-national-taco-day-global-uniting-fans-around-one-word-the-world-already-speaks-taco-302895125.html",
+    "date": "2026-10-02",
+    "headline": "Taco Bell \u00d7 Duolingo Goes Global Oct. 6, NYC IRL Event",
+    "detail": "Taco Bell \u00d7 Duolingo collab launches Global Taco Day; Midtown Cantina pop-up (976 6th Ave) 3\u20134:30pm.",
+    "so_what": "National Taco Day is Oct. 6. Taco Bell is framing it as Global Taco Day for the first time \u2014 a brand moment with a physical NYC activation (Midtown Cantina, 3\u20134:30pm). For ResX, this is the cultural hook of the week: limited-time, high-demand in-person events are exactly the use case where reservation and waitlist infrastructure proves its value. Worth flagging for any venue-facing comms or social this week \u2014 and worth noting internally that brand collabs driving foot-traffic spikes are an underserved ResX product story."
+  },
+  {
+    "key": "https://tech.yahoo.com/ai/chatgpt/articles/openai-launches-dots-bubbly-agentic-171715977.html",
+    "date": "2026-10-02",
+    "headline": "OpenAI Dots: Always-On Background Agent Live",
+    "detail": "GPT-6 Astra agents run 24/7 in Slack, Teams; Pro/Business Premium now",
+    "so_what": "Spin up one Dot to watch Firebase crash reports and auto-file GitHub issues \u2014 zero extra tooling"
+  },
+  {
+    "key": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "date": "2026-10-02",
+    "headline": "Shopify Checkout Now Open to Browser Agents",
+    "detail": "WebMCP adds get_checkout, update_checkout, complete_checkout tools Sept 28",
+    "so_what": "Mirror this API pattern in ResX's booking endpoint \u2014 lets Muse/Instinct call it natively, not scrape"
+  },
+  {
+    "key": "https://www.unite.ai/anthropic-releases-claude-sonnet-5-5-at-unchanged-sonnet-5-pricing/",
+    "date": "2026-10-02",
+    "headline": "Sonnet 5.5: Same Price, 30% Cheaper Per Task",
+    "detail": "Anthropic ships faster mid-tier model; up to 30% fewer tokens used",
+    "so_what": "Swap Sonnet 5 to Sonnet 5.5 in Claude Code today \u2014 same bill, faster bug-fix loops"
   }
 ]

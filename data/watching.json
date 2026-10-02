@@ -369,20 +369,6 @@
     "merged_from": []
   },
   {
-    "name": "ENDO",
-    "date": "opens October 2026",
-    "blurb": "10-seat omakase counter; Endo Kazutoshi serving wild-caught British fish.",
-    "city": "LDN",
-    "website": "",
-    "instagram_handle": "",
-    "instagram_url": "",
-    "source_url": "https://www.timeout.com/london/news/endo-kazutoshi-omakase-chelsea-072326",
-    "category": "watching",
-    "id": "endo::LDN",
-    "importance_rank": 0,
-    "merged_from": []
-  },
-  {
     "name": "Nettle",
     "date": "September 21",
     "blurb": "Will Devlin's open-fire rooftop at The Conduit; lamb, venison and day-boat fish from his Kent farm.",
@@ -394,5 +380,33 @@
     "importance_rank": 0,
     "merged_from": [],
     "id": "nettle::LDN"
+  },
+  {
+    "name": "Da Pino",
+    "date": "opens October 7",
+    "blurb": "Puglian duo from Casa Fofo: seasonal Italian with Asian touches, Sunday DJ sets, Stokey.",
+    "city": "LDN",
+    "website": "https://www.dapinolondon.co.uk",
+    "instagram_handle": "@da_pinolondon",
+    "instagram_url": "https://www.instagram.com/da_pinolondon/",
+    "source_url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-october-2026",
+    "category": "watching",
+    "importance_rank": 0,
+    "merged_from": [],
+    "id": "da pino::LDN"
+  },
+  {
+    "name": "Lenny's",
+    "date": "opens October 27",
+    "blurb": "Cult New Haven apizza goes permanent in Covent Garden, backed by MJMK (KOL, AngloThai).",
+    "city": "LDN",
+    "website": "https://www.lennysapizza.com",
+    "instagram_handle": "@lennysapizza",
+    "instagram_url": "https://www.instagram.com/lennysapizza/",
+    "source_url": "https://www.hot-dinners.com/2026072815255/Gastroblog/Latest-news/lennys-apizza-permanent-covent-garden-pizzeria-restaurant",
+    "category": "watching",
+    "importance_rank": 0,
+    "merged_from": [],
+    "id": "lennys::LDN"
   }
 ]
