@@ -1,89 +1,5 @@
 [
   {
-    "key": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
-    "date": "2026-09-04",
-    "headline": "Delivery Hero board backs Uber's $15B takeover bid",
-    "detail": "Board formally endorsed Sept 2; deal adds Uber Eats to 99 markets if cleared.",
-    "so_what": "The July announcement is now a confirmed, board-backed deal \u2014 new this week. Delivery Hero operates major delivery brands across Europe (including Foodora, Talabat, and others with significant UK and European restaurant partner networks). If EU merger review clears the deal, Uber Eats gains restaurant relationships in 50 additional markets, creating a global delivery platform that rivals DoorDash's international ambitions. For London specifically: UK restaurant partners currently on Delivery Hero brands could find themselves on Uber Eats infrastructure within 12-18 months. That changes the discovery and ordering layer for full-service restaurants in LDN \u2014 and is the mirror image of what DoorDash/SevenRooms is building on the US side. The two largest delivery platforms are now racing to own the restaurant relationship globally, not just nationally."
-  },
-  {
-    "key": "https://restaurant.eatapp.co/blog/quandoo-is-shutting-down",
-    "date": "2026-09-04",
-    "headline": "Quandoo closes to new bookings in 26 days",
-    "detail": "Sept 30 hard cutoff for all new reservations globally; UK, DACH, Italy, Australia, Singapore venues must migrate now.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.nrn.com/restaurant-technology/uber-lays-off-10-of-company-in-reorganization",
-    "date": "2026-09-04",
-    "headline": "Uber cuts 3,300 jobs, merges restaurant delivery unit",
-    "detail": "Uber Eats restaurant, retail, direct verticals collapsed into one global team.",
-    "so_what": "Uber Eats is de-specializing its restaurant vertical \u2014 the team that managed restaurant partner relationships and product is being absorbed into a generic delivery org. A leaner, less restaurant-focused Uber Eats sharpens DoorDash/SevenRooms' competitive advantage with venues: DoorDash has a dedicated reservation product and growing restaurant-specific account infrastructure; Uber does not. For any venue currently on Uber Eats that is evaluating discovery platforms, the account support argument just got weaker on the Uber side. The layoffs \u2014 3,300 globally, the largest since 2020 \u2014 also hit the same week Wonder cut 150 Grubhub staff, signaling delivery-platform consolidation pressure is now structural, not cyclical."
-  },
-  {
-    "key": "https://www.nrn.com/restaurant-technology/wonder-lays-off-7-of-staff-in-streamlining-effort",
-    "date": "2026-09-04",
-    "headline": "Wonder cuts 150 pre-IPO, Grubhub included in scope",
-    "detail": "7% companywide cut, second Grubhub reduction under Wonder ownership.",
-    "so_what": "Wonder was previously covered here as a structural competitor \u2014 absorbing high-demand NYC walk-in brands (Blue Ribbon, Mighty Quinn's, Salt Hank's) and pulling them out of the reservation ecosystem entirely. This week's development is material: Wonder is cutting 7% of staff, including Grubhub, three months after closing a $650M raise. That combination \u2014 aggressive venue acquisition plus pre-IPO cost cutting plus repeated Grubhub headcount reduction \u2014 points to a business under margin pressure. If Wonder's IPO is delayed or downsized, its acquisition pace likely slows, and the pipeline of high-demand NYC venues being absorbed away from reservation platforms eases. Watch Marc Lore's IPO timeline statements closely; any delay is a net positive for platforms competing to onboard those venue types."
-  },
-  {
-    "key": "https://blog.resy.com/newsroom/resy-welcomes-tock-restaurants-wineries-experiences/",
-    "date": "2026-09-04",
-    "headline": "Resy Credit expands to Tock venues Sept 15",
-    "detail": "Hundreds of US Tock restaurants become Amex Resy Credit-eligible on Sept 15; partial integration, click-through still routes to Tock.",
-    "so_what": ""
-  },
-  {
-    "key": "https://restaurant.eatapp.co/blog/the-eat-app-ambl-integration",
-    "date": "2026-09-04",
-    "headline": "Ambl partners with Eat App for reservation routing",
-    "detail": "Aug 12: Eat App venues now receive Ambl last-minute bookings; managed inside Eat App dashboard, no extra device.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.eonline.com/photos/38323/us-open-2026-celebrity-sightings",
-    "date": "2026-09-04",
-    "headline": "Crane Club Pulls Serena, Gauff, Sabalenka, Fritz",
-    "detail": "Grutman \u00d7 DraftKings players' dinner Aug 27; five top seeds in one room.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.timeout.com/london/news/michelin-barbecue-ned-september-2026-081226",
-    "date": "2026-09-04",
-    "headline": "Two Michelin Texan BBQ Pitmasters Hit The Ned",
-    "detail": "InterStellar \u00d7 La Barbecue; La Barbecue's UK debut; \u00a375pp through Oct 4.",
-    "so_what": ""
-  },
-  {
-    "key": "https://resy.com/cities/new-york-ny/venues/nuyores",
-    "date": "2026-09-04",
-    "headline": "Nuyores \u00d7 Cocina Consuelo: One Night, $119",
-    "detail": "Peruvian \u00d7 Mexican 4-course collab, West Village, Sept 6 only.",
-    "so_what": ""
-  },
-  {
-    "key": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
-    "date": "2026-09-04",
-    "headline": "GitSpawn: coding agents run attacker code silently",
-    "detail": "Malicious .git/config triggers code execution in Claude Code, Codex, Cursor before any prompt.",
-    "so_what": "Inspect every external repo's .git/config before opening in Cursor or Claude Code \u2014 one unvetted clone can execute arbitrary code on your machine."
-  },
-  {
-    "key": "https://datasciencedojo.com/blog/claude-fable-5-1-performance-and-safety/",
-    "date": "2026-09-04",
-    "headline": "Anthropic Fable 5.1: 75% cheaper cache reads",
-    "detail": "Released Sept 1; cache reads drop to $0.25/M tokens.",
-    "so_what": "If ResX reruns long prompts \u2014 code review, PR analysis \u2014 swap Claude Code to Fable 5.1 today and cut those calls 45%."
-  },
-  {
-    "key": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
-    "date": "2026-09-04",
-    "headline": "GPT-6 Astra ships, API access imminent",
-    "detail": "OpenAI released GPT-6 Astra Sept 3; API access in days.",
-    "so_what": "Hold new API spend \u2014 Astra costs 2.5x GPT-5.6 Sol; benchmark against your actual Node call volumes before switching."
-  },
-  {
     "key": "https://www.eonline.com/photos/38323/us-open-2026-celebrity-sightings",
     "date": "2026-09-07",
     "headline": "Coco Gauff \u00d7 Chase Sapphire Took Over Casa Tua NYC",
@@ -572,5 +488,82 @@
     "headline": "Sonnet 5.5: Same Price, 30% Cheaper Per Task",
     "detail": "Anthropic ships faster mid-tier model; up to 30% fewer tokens used",
     "so_what": "Swap Sonnet 5 to Sonnet 5.5 in Claude Code today \u2014 same bill, faster bug-fix loops"
+  },
+  {
+    "key": "https://www.nextcard.com/articles/sapphire-reserve-exclusive-tables-changes",
+    "date": "2026-10-05",
+    "headline": "Chase/OpenTable Add 32 Restaurants, Now 436",
+    "detail": "Oct 1 update: NYC gains 8 slots; Catbird Seat, schwa added.",
+    "so_what": "The Chase Sapphire Reserve Exclusive Tables program \u2014 which locks prime-time reservations to cardholders via OpenTable \u2014 just expanded to 436 restaurants, adding 8 in NYC alone (including Quality Bistro, Zou Zou's, Lady Delilah). This is the direct competitor to Amex Resy Credit (which has 10K+ restaurants vs. Chase's 436). Every new restaurant added to Exclusive Tables is a venue that has ceded a portion of its reservation inventory to a credit card partner via OpenTable. For ResX, this is the pattern to watch: platform-card bundles are increasingly the mechanism by which reservation access gets stratified. The comparison point (Amex Resy at 10K+ vs. Chase OpenTable at 436) is a live talking point in any venue sales conversation about platform reach and cardholder exclusivity tradeoffs."
+  },
+  {
+    "key": "https://www.nrn.com/restaurant-finance/chip-city-is-shutting-down-all-its-locations",
+    "date": "2026-10-05",
+    "headline": "Chip City Shuts All 22 Locations Overnight",
+    "detail": "Danny Meyer-backed NYC cookie chain collapses Oct 1; legal dispute.",
+    "so_what": "Chip City was a PE-backed, Danny Meyer-funded (EHI took a $4M majority stake in March 2026) NYC-native food concept with 22 locations \u2014 and it folded overnight on Oct 1 amid a founder lawsuit and funding gap. The operational signal: even recently recapitalized, well-connected brands are hitting walls on consumer spending and execution. For ResX, this is a concrete data point on operator fragility right now \u2014 relevant context for any venue sales or partnership conversations, and for how ResX frames contract terms, onboarding costs, and churn risk with smaller multi-unit operators."
+  },
+  {
+    "key": "https://www.nrn.com/restaurant-labor/september-restaurant-job-growth-slows-after-august-hiring-surge",
+    "date": "2026-10-05",
+    "headline": "Restaurant Hiring Collapses to 10,800 in September",
+    "detail": "One-third of August's gain; overall economy adds just 29,000 jobs.",
+    "so_what": "The US economy nearly stalled in September (29,000 total jobs), and restaurants added only 10,800 \u2014 roughly one-third of August's 33,800, and far below September 2024's 69,000. Wage growth slowed to 3.0% YoY. This is a leading indicator for discretionary dining spend: when hiring slows and wage growth softens, reservation volume at mid-tier full-service restaurants tends to follow within 6\u20138 weeks. For ResX, this is the macro backdrop for Q4 venue conversations \u2014 operators will be more cost-sensitive, more likely to scrutinize platform fees, and more likely to cancel or defer tech contracts. It also reinforces the no-show cost narrative (OpenTable's $80/no-show figure) as a concrete ROI hook in a tighter environment."
+  },
+  {
+    "key": "https://greenpointers.com/2026/09/30/top-chef-alums-mythily-opens-in-williamsburg/",
+    "date": "2026-10-05",
+    "headline": "Mythily Opens in Williamsburg: Tamil \u00d7 French Laundry",
+    "detail": "Top Chef S21 alum Rasika Venkatesa opened Sept 30 at 129 Havemeyer St; benne dosa with jimmy nardello chutney, ras malai tres leches cake; 45 seats, Wed\u2013Sun only.",
+    "so_what": "Pop-up-to-permanent conversion that Kickstarted $114K in 41 hours \u2014 the demand signal was already proven before a single table was booked. This is the reservation infrastructure story ResX should be tracking: high-demand indie openings with a pre-built audience are exactly where waitlist and floor-management tooling pays for itself on day one. Also the cultural moment of the week for Brooklyn dining."
+  },
+  {
+    "key": "https://resy.com/cities/new-york-ny/venues/labielle",
+    "date": "2026-10-05",
+    "headline": "Michel Roux x L'Abeille: Le Gavroche Returns to NYC",
+    "detail": "Michel Roux Jr. returns to Tribeca's L'Abeille Oct 13\u201316 for a 3-night, 8-course collab with chef Mitsunobu Nagae; souffl\u00e9 Suissesse and roast pigeon with foie gras on menu.",
+    "so_what": "Second consecutive year of this annual residency format \u2014 L'Abeille is establishing a repeatable, high-demand collab calendar that sells out on Resy. The venue's own Resy page is the primary booking surface. For ResX: this is the collab-calendar model (named chef, fixed dates, limited seats) that drives repeat reservation demand and is underserved by standard reservation tools."
+  },
+  {
+    "key": "https://mayfairtimes.co.uk/2026/08/theo-randall-interview/",
+    "date": "2026-10-05",
+    "headline": "Theo Randall \u00d7 Jack Stein: Cornish Meets Italian, Park Lane",
+    "detail": "Jack Stein joins Theo Randall at Cucina Italiana (InterContinental Park Lane) Oct 15 for a 20th anniversary collab dinner; Cornish sustainable seafood meets Randall's Italian technique.",
+    "so_what": "Theo Randall is running a year-long series of anniversary collabs \u2014 a structured collab calendar at an established hotel restaurant. The Stein dinner is the highest-profile installment. Hotel restaurant collab dinners at this tier (InterContinental Park Lane) require reservation infrastructure that handles tiered pricing, event-mode booking, and guest comms separately from the regular \u00e0 la carte. A live ResX product question: does the platform handle event-type covers differently from standard reservations?"
+  },
+  {
+    "key": "http://www.londonpopups.com/",
+    "date": "2026-10-05",
+    "headline": "Ariel McQueen Month Residency at Giacco's, Highbury",
+    "detail": "CDMX-born, French-trained chef Ariel McQueen cooks Mexico City, Veracruz, and Yucat\u00e1n menus at Giacco's wine bar (N5) Tues\u2013Sun through Nov 1; booked via pub's site.",
+    "so_what": "Giacco's is running the most consistent chef-residency incubator model in north London \u2014 a new chef roughly monthly, each with their own social following and press cycle. The venue itself doesn't change; the demand driver does. This is the rotating-operator model that reservation platforms have historically underserved (the venue stays on the platform but the chef changes, breaking guest communication continuity). Worth flagging as a product edge case."
+  },
+  {
+    "key": "https://artlyst.com/frieze-week-london-art-fairs-guide-october-2026-artlyst/",
+    "date": "2026-10-05",
+    "headline": "Frieze Week London: Dining Scene's Biggest Booking Week",
+    "detail": "Frieze London opens Oct 14 (invite-only preview), public Oct 15\u201318, Regent's Park; 172 galleries, 42 countries; restaurant tables at Berners Tavern, Dovetale, and Chiltern Firehouse move in the same 48-hour window as VIP passes.",
+    "so_what": "Frieze Week is the single highest-demand reservation week of the London dining year \u2014 comparable to the US Open for NYC. The VIP preview (Oct 14) triggers a predictable surge in same-night dinner bookings at Mayfair and Marylebone venues. For ResX: this is a named, annual, date-specific demand spike that venue partners should be preparing for with waitlist infrastructure and surge-capacity tooling. If ResX isn't proactively briefing London venue partners on Frieze week demand by now, that's a missed playbook moment."
+  },
+  {
+    "key": "https://venturebeat.com/technology/openais-gpt-6-1-sol-offers-astra-like-performance-at-1-5th-price-a-new-ultrafast-tier-clocks-at-300-tokens-per-second",
+    "date": "2026-10-05",
+    "headline": "GPT-6.1 Sol: Near-Astra Coding at 80% Less",
+    "detail": "OpenAI ships near-flagship model at $2/$10 per million tokens, $0.10 cached",
+    "so_what": "Enable caching on your Node agent calls now \u2014 per-step cost drops from $0.40 to $0.02"
+  },
+  {
+    "key": "https://claude.com/blog/claude-code-mods",
+    "date": "2026-10-05",
+    "headline": "Claude Code Mods: TypeScript Middleware Inside the Agent",
+    "detail": "Anthropic ships in-process TypeScript hooks to intercept, rewrite, or block any tool call",
+    "so_what": "Write a 10-line mod to block rm -rf and force-pushes in Claude Code before next sprint"
+  },
+  {
+    "key": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+    "date": "2026-10-05",
+    "headline": "Gemini 4 Argon: 1M-Token Output, #1 on Coding Bench",
+    "detail": "Google's new frontier model scores 77.9% on DeepSWE; paid API access next in queue",
+    "so_what": "Get on paid Gemini API waitlist now \u2014 first to test Argon on large codebase migrations"
   }
 ]
