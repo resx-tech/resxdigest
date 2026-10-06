@@ -1,70 +1,5 @@
 [
   {
-    "date": "2026-09-01",
-    "subject": "Nakimushi, Notting Hill",
-    "url": "https://www.instagram.com/nakimushirestaurant/",
-    "reason": "stale_content",
-    "detail": "posted_days_ago=999 \u2014 older than the 14-day freshness window (or undated)",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-09-01",
-    "subject": "Five Feet Pizza, Bermondsey",
-    "url": "https://www.instagram.com/fivefeet.london/",
-    "reason": "stale_content",
-    "detail": "posted_days_ago=999 \u2014 older than the 14-day freshness window (or undated)",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-09-01",
-    "subject": "InterStellar BBQ x La Barbecue at The Ned",
-    "url": "https://www.timeout.com/london/news/best-new-restaurants-september-2026-083026",
-    "reason": "Only sourced from a roundup \u2014 no single-subject article URL retrieved from fetched pages; roundup URL as lead is prohibited by rules. Could not drill down to a real post permalink or verified single-subject article in remaining fetch budget.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-09-01",
-    "subject": "Cassette, Covent Garden (Levan team)",
-    "url": "https://www.hot-dinners.com/2026071515228/Gastroblog/Latest-news/cassette-restaurant-levan-opening-covent-garden-london",
-    "reason": "Opens late September \u2014 not yet open, no food posts yet. Too early to be actionable today; opening momentum hasn't started.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-09-01",
-    "subject": "KID x Miznon US Open double-feature",
-    "url": "",
-    "reason": "Dedup \u2014 both KID (LDN) and US Open food village (NYC) already featured as their own items; didn't want to double up on either moment.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-09-01",
-    "subject": "Cloth Cornhill, City of London",
-    "url": "https://www.opentable.co.uk/lists/best-new-restaurants-london",
-    "reason": "Only seen in OpenTable roundup; no single-subject article retrieved; City dining skews older and doesn't fit ResX's 25-35 downtown vibe as strongly as other candidates.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-09-01",
-    "subject": "Cordelia's Mayfair live-fire steakhouse",
-    "url": "https://www.opentable.co.uk/lists/best-new-restaurants-london",
-    "reason": "Only sourced from roundup; no single-subject article or post permalink retrieved. Not top-tier enough vs. KID to justify fetch budget.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-09-01",
-    "subject": "Le Caf\u00e9 LPM at The Lanesborough",
-    "url": "https://www.hot-dinners.com/2026063015161/Gastroblog/Latest-news/le-cafe-lpm-launches-london-lanesborough-knightsbridge",
-    "reason": "Opens Sept 9 \u2014 not yet open today. Single-subject article confirmed but no food posts live yet. Worth revisiting next week.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-09-01",
-    "subject": "Honey Deuce US Open cocktail generic",
-    "url": "",
-    "reason": "Already featured in a prior send (Wall Street Hotel Honey Deuce moment, Aug 23 wave). Generic Honey Deuce angle now saturated; specific new-vendor food angle is the fresher take.",
-    "source_type": "researched"
-  },
-  {
     "date": "2026-09-08",
     "subject": "Bar Etienne West Village",
     "url": "https://www.instagram.com/baretienne",
@@ -439,6 +374,55 @@
     "subject": "Cloth Cornhill duplicate",
     "url": "https://www.timeout.com/london/news/best-new-restaurants-october-2026-100126",
     "reason": "Cloth Cornhill appears both as a standalone repost and in the October openings carousel. Kept as standalone repost (ranked #4) to surface the opening-day hook, but source_account is the same as the carousel item \u2014 noted for dedup awareness.",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-06",
+    "subject": "Milk Burger Notting Hill",
+    "url": "https://www.hot-dinners.com/Features/Articles/coming-soon-new-restaurants-opening-in-london",
+    "reason": "only source URL is a roundup 'coming soon' guide \u2014 automatically dropped per rules; no single-subject article URL confirmed; opens today (Oct 6) but can't ship without a valid lead link",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-06",
+    "subject": "Ambassador's Clubhouse Yelp #10 of 2026",
+    "url": "https://diningout.com/new-york/plate-full-of-new-york-news-september29-2026/",
+    "reason": "mention is buried in a multi-topic news digest (roundup), not a single-subject article about the venue; no standalone editorial URL or post permalink retrieved",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-06",
+    "subject": "Dante Elizabeth Street Nolita",
+    "url": "https://www.theinfatuation.com/new-york/guides/new-nyc-restaurants-openings",
+    "reason": "Infatuation new openings guide is a roundup \u2014 cannot use as lead per rules; no single-subject article or Instagram permalink retrieved; tracked Dante venue so worth revisiting once a review or reel surfaces",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-06",
+    "subject": "Harry Styles pop-up vs. East Village cookbook shop",
+    "url": "https://diningout.com/new-york/plate-full-of-new-york-news-september29-2026/",
+    "reason": "fun NYC cultural moment but source is a multi-topic roundup; primary single-subject source (EV Grieve) not fetched; cannot verify link integrity without fetch",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-06",
+    "subject": "Da Pino Stoke Newington opening Oct 7",
+    "url": "https://www.hot-dinners.com/2026090415343/Gastroblog/Latest-news/da-pino-biancas-stoke-newington-london-italian",
+    "reason": "single-subject article confirmed but published Sept 4 \u2014 32 days old, outside the ~14-day freshness window; no recent post or review found",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-06",
+    "subject": "PAM (Karla Knowles) Farringdon opening",
+    "url": "https://www.hot-dinners.com/2026092315390/Gastroblog/Latest-news/karla-knowles-ex-kiln-chef-opening-aree-pam-restaurants",
+    "reason": "article is 13 days old and the opening date is still listed as 'October 2026 TBC' \u2014 no confirmed open date or fresh post to anchor a repost; too vague to ship today",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-06",
+    "subject": "Blue Ribbon Sushi National Sake Day flights",
+    "url": "https://diningout.com/new-york/plate-full-of-new-york-news-september29-2026/",
+    "reason": "timely (ends Oct 8) but source is a roundup; no single-subject link or post permalink retrieved",
     "source_type": "researched"
   }
 ]
