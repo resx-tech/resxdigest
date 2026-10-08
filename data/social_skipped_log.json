@@ -424,5 +424,99 @@
     "url": "https://diningout.com/new-york/plate-full-of-new-york-news-september29-2026/",
     "reason": "timely (ends Oct 8) but source is a roundup; no single-subject link or post permalink retrieved",
     "source_type": "researched"
+  },
+  {
+    "date": "2026-10-08",
+    "subject": "Quaglino's St James's",
+    "url": "https://hauteliving.com/2026/10/best-new-london-restaurants-bars-autumn-2026/798360/",
+    "reason": "no_usable_link",
+    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-08",
+    "subject": "Dishoom Borough Market",
+    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-october-2026",
+    "reason": "no_usable_link",
+    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-08",
+    "subject": "Soraya Marylebone",
+    "url": "https://hauteliving.com/2026/10/best-new-london-restaurants-bars-autumn-2026/798360/",
+    "reason": "no_usable_link",
+    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-08",
+    "subject": "148 Noble Street Greenpoint",
+    "url": "https://www.theinfatuation.com/new-york/reviews/148-noble-street",
+    "reason": "Also just added to Infatuation Hit List Oct 7 but scores lower than Cafe Charmant on momentum and desire_fit \u2014 outer Brooklyn, candlelit but less culturally buzzy than West Village; dropped to avoid two Hit List adds same day from same source account",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-08",
+    "subject": "Endo Chelsea 10-seat omakase",
+    "url": "https://www.hot-dinners.com/2026072215245/Gastroblog/Latest-news/endo-moga-restaurant-bar-chelsea-omakase-restaurant-london",
+    "reason": "Already featured as a previously sent moment ('endo kazutoshi 10-seat chelsea omakase opening day, october 1 2026') \u2014 deduped",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-08",
+    "subject": "Cloth Cornhill City of London",
+    "url": "https://www.hot-dinners.com/2025111214640/Gastroblog/Latest-news/cloth-cornhill-taking-over-simpsons-tavern-city-of-london",
+    "reason": "Already featured as a previously sent moment ('cloth cornhill opens in grade ii-listed simpsons tavern city of london oct 1 2026') \u2014 deduped",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-08",
+    "subject": "Dante Mayfair at Claridge's permanent",
+    "url": "https://hauteliving.com/2026/10/best-new-london-restaurants-bars-autumn-2026/798360/",
+    "reason": "Already featured as previously sent moment ('dante nyc takes over claridge's restaurant permanently after year-long pop-up') \u2014 deduped",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-08",
+    "subject": "Table Mercato East Village",
+    "url": "https://www.theinfatuation.com/new-york/reviews/table-mercato",
+    "reason": "On Infatuation Hit List but a sandwich counter with no seating \u2014 not visually craveable enough for stop-scroll and doesn't create the booking FOMO ResX needs; dropped",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-08",
+    "subject": "Galo Portuguese West Village",
+    "url": "https://www.theinfatuation.com/new-york/reviews/galo",
+    "reason": "Solid Hit List addition but no distinguishing viral hook today \u2014 less fresh momentum than Cafe Charmant and already a third Hit List entry from the same source account; dropped for diversity",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-08",
+    "subject": "Gregory Gourdet Maison Passerelle FiDi",
+    "url": "https://www.timeout.com/newyork/restaurants/100-best-new-york-restaurants",
+    "reason": "Roundup mention only \u2014 no single-subject article or post permalink found; source is a listicle which is automatically disqualified as a lead",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-08",
+    "subject": "Clementine Islington all-day cafe",
+    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-october-2026",
+    "reason": "Opens Oct 10 \u2014 two days out is good timing but the concept (sausage sandwiches, pies, soups) doesn't stop the scroll for ResX's going-out audience; lower desire_fit than Quaglino's or Dishoom",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-08",
+    "subject": "PAM (ex-Kiln chef Karla Knowles) Clerkenwell",
+    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-october-2026",
+    "reason": "Opening date not confirmed \u2014 'could slip to November'; insufficient certainty to post today; previously flagged as a pinned moment concept already noted in featured moments list",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-08",
+    "subject": "NYCWFF Burger Bash Pier 17 Rachael Ray",
+    "url": "https://resident.com/food-and-drink/2026/10/07/nycwff-2026-is-turning-new-york-into-one-delicious-long-weekend",
+    "reason": "Covered under the broader NYCWFF post_idea \u2014 would be a duplicate moment; Kwame Onwuachi angle scores higher for ResX's audience than Rachael Ray/Bert Kreischer Burger Bash",
+    "source_type": "researched"
   }
 ]
