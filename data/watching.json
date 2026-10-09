@@ -300,20 +300,6 @@
     "merged_from": []
   },
   {
-    "name": "Dante Elizabeth Street",
-    "date": "opens mid-September",
-    "blurb": "Dante's fourth NYC location: Negronis, martinis, and wood-fired Italian food in Nolita.",
-    "city": "NYC",
-    "website": "",
-    "instagram_handle": "",
-    "instagram_url": "",
-    "source_url": "https://www.theinfatuation.com/new-york/guides/nyc-fall-restaurant-openings-2026",
-    "category": "watching",
-    "id": "dante elizabeth street::NYC",
-    "importance_rank": 5,
-    "merged_from": []
-  },
-  {
     "name": "Manna",
     "date": "September 4",
     "blurb": "Bake Street's Feroz Gajia opens his first standalone smashburger spot in Marylebone.",
@@ -382,20 +368,6 @@
     "id": "nettle::LDN"
   },
   {
-    "name": "Da Pino",
-    "date": "opens October 7",
-    "blurb": "Puglian duo from Casa Fofo: seasonal Italian with Asian touches, Sunday DJ sets, Stokey.",
-    "city": "LDN",
-    "website": "https://www.dapinolondon.co.uk",
-    "instagram_handle": "@da_pinolondon",
-    "instagram_url": "https://www.instagram.com/da_pinolondon/",
-    "source_url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-october-2026",
-    "category": "watching",
-    "importance_rank": 0,
-    "merged_from": [],
-    "id": "da pino::LDN"
-  },
-  {
     "name": "Lenny's",
     "date": "opens October 27",
     "blurb": "Cult New Haven apizza goes permanent in Covent Garden, backed by MJMK (KOL, AngloThai).",
@@ -408,19 +380,6 @@
     "importance_rank": 0,
     "merged_from": [],
     "id": "lennys::LDN"
-  },
-  {
-    "name": "Iara",
-    "date": "October 2",
-    "blurb": "Amazon-inspired Brazilian open kitchen: picanha, cassava fries, tucupi cocktails.",
-    "city": "NYC",
-    "website": "https://iara.nyc",
-    "instagram_handle": "@iara.nyc",
-    "instagram_url": "https://www.instagram.com/iara.nyc/",
-    "category": "watching",
-    "id": "iara::NYC",
-    "importance_rank": 1,
-    "merged_from": []
   },
   {
     "name": "Ditto",
@@ -476,6 +435,19 @@
     "category": "watching",
     "id": "dishoom borough::LDN",
     "importance_rank": 5,
+    "merged_from": []
+  },
+  {
+    "name": "Cloudstreet",
+    "date": "September 2026",
+    "blurb": "Tiny walk-in-only bistro in a Victorian stable yard; daily-changing seasonal menu.",
+    "city": "LDN",
+    "website": "https://cloudstreet.london",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "category": "watching",
+    "id": "cloudstreet::LDN",
+    "importance_rank": 1,
     "merged_from": []
   }
 ]

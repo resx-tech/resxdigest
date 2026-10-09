@@ -1,47 +1,5 @@
 [
   {
-    "key": "https://www.eonline.com/photos/38323/us-open-2026-celebrity-sightings",
-    "date": "2026-09-07",
-    "headline": "Coco Gauff \u00d7 Chase Sapphire Took Over Casa Tua NYC",
-    "detail": "Gauff and Sabalenka photographed together at Chase Sapphire Reserve dinner at Casa Tua New York during US Open week.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.timeout.com/newyork/news/you-dont-need-a-us-open-ticket-to-enjoy-a-honey-deuce-in-nyc-083126",
-    "date": "2026-09-07",
-    "headline": "Unnecessary NYC Turns Honey Deuce Into Soft Serve",
-    "detail": "LES shop blends Grey Goose, Calpico, raspberry into soft serve; topped with honeydew balls and chocolate tennis racket; lines before open.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.8it.world/nyc/this-weekends-must-eats-2026-9-4/",
-    "date": "2026-09-07",
-    "headline": "Kings Co. Imperial \u00d7 Mo's General: BBQ Pork Sando Live Now",
-    "detail": "Sesame focaccia stuffed with hanging BBQ pork, scallion, cucumber, pickled cabbage \u2014 live through Tuesday Sept 9 at both locations.",
-    "so_what": ""
-  },
-  {
-    "key": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-    "date": "2026-09-07",
-    "headline": "Nvidia Buys Hugging Face for $12.9B",
-    "detail": "Deal confirmed Sept 3; closes H1 2027, Nvidia says platform stays open",
-    "so_what": "Audit any open-model HF API dependencies now before licensing terms change post-close"
-  },
-  {
-    "key": "https://dev.to/alifar/google-launches-gemini-38-flash-and-flash-cyber-with-new-api-pricing-and-access-2o2i",
-    "date": "2026-09-07",
-    "headline": "Gemini 3.8 Flash: Same Price, Better Benchmarks",
-    "detail": "Google ships Sept 2; same $0.75/M input as 3.7 Flash, beats it on every benchmark",
-    "so_what": "Swap Node API calls from 3.7 to 3.8 Flash now \u2014 price doubles Jan 1"
-  },
-  {
-    "key": "https://firebase.google.com/docs/remote-config/pricing",
-    "date": "2026-09-07",
-    "headline": "Firebase Remote Config Now Costs Money",
-    "detail": "Sept 1: 100K daily fetches free, then $0.06/10K \u2014 was unlimited forever",
-    "so_what": "Check production fetch interval in RN app today \u2014 dev defaults trigger surprise bills"
-  },
-  {
     "key": "https://www.restaurantbusinessonline.com/technology/ai-agents-can-help-diners-book-table-it-can-also-get-them-banned",
     "date": "2026-09-11",
     "headline": "Resy Bans Accounts for AI Agent Booking Attempts",
@@ -565,5 +523,75 @@
     "headline": "Gemini 4 Argon: 1M-Token Output, #1 on Coding Bench",
     "detail": "Google's new frontier model scores 77.9% on DeepSWE; paid API access next in queue",
     "so_what": "Get on paid Gemini API waitlist now \u2014 first to test Argon on large codebase migrations"
+  },
+  {
+    "key": "https://www.opentable.com/blog/press/page/opentable-and-visa/",
+    "date": "2026-10-09",
+    "headline": "OpenTable Renews Visa Partnership, Expands to Mexico/Canada",
+    "detail": "Multi-year renewal adds Visa Dining Collection to Mexico and Canada markets.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.blackbird.xyz/",
+    "date": "2026-10-09",
+    "headline": "Blackbird Relaunches Breakfast Club, NYC Coffee Pass",
+    "detail": "$60 annual membership unlocks free daily coffee at six NYC restaurants.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.verdictfoodservice.com/news/quandoo-to-shut-restaurant-booking-platform-by-end-of-2026/",
+    "date": "2026-10-09",
+    "headline": "Quandoo Consumer Services Fully Shut Down Oct 1",
+    "detail": "All bookings and consumer services ended October 1; full shutdown by Dec 31.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.nrn.com/restaurant-technology/google-maps-releases-its-first-fan-favorite-dining-lists",
+    "date": "2026-10-09",
+    "headline": "Google Maps Launches First Fan-Favorite Dining Lists",
+    "detail": "Curated by reviews and direction data for NYC and London, among 10 cities.",
+    "so_what": "Google just inserted itself into the restaurant discovery layer \u2014 for both NYC and London. The Fan-Favorite lists are built on aggregated search, direction requests, and Local Guides reviews, and they include a 'know before you go' tips section explicitly covering how to snag hard-to-get reservations. That makes Google Maps a direct upstream influence on which venues get reservation demand spikes. Any ResX venue that doesn't appear favorably in Google's organic discovery layer is already losing the pre-booking funnel to a surface that doesn't pay ResX anything. This is the same dynamic as Resy's network effect \u2014 but it's free, platform-native, and available to the 2B+ people who already have Google Maps. Venues should be briefed: Google is now a discovery competitor, not just a map."
+  },
+  {
+    "key": "https://restaurantdive.com/news/uber-eats-acquires-ezcater-2-billion/832219",
+    "date": "2026-10-09",
+    "headline": "Uber Acquires ezCater for $2.3B Cash",
+    "detail": "Uber Eats adds 140K-restaurant catering marketplace; $400+ avg order value.",
+    "so_what": "This is Uber's direct counter to DoorDash/SevenRooms. DoorDash bought SevenRooms for $1.2B and added dine-in reservations to its delivery app. Uber just bought the largest US catering marketplace \u2014 140,000 restaurants, $2.5B in annual gross bookings, average order above $400 \u2014 and is folding it into Uber Eats and Uber for Business. Catering orders are high-value, group, pre-scheduled events: exactly the use case where reservation and event management infrastructure (date, party size, pre-payment, guest comms) is most needed. If Uber connects ezCater's restaurant network to any reservation or table-management layer, it becomes a third delivery giant with a reservation-adjacent product. For ResX: this accelerates the delivery platform \u2192 reservation platform convergence that DoorDash started. The question is whether venues using ezCater will now get reservation tooling from Uber, or whether there's a gap ResX can fill before Uber builds it."
+  },
+  {
+    "key": "https://www.restaurantdive.com/news/true-food-kitchen-files-chapter-11-bankruptcy/832161/",
+    "date": "2026-10-09",
+    "headline": "True Food Kitchen Files Ch. 11, Closes 12 Locations",
+    "detail": "34 full-service locations remain open; court-supervised sale underway, no stalking horse yet.",
+    "so_what": "True Food Kitchen entered Chapter 11 with $42.1M in funded debt, closed 12 restaurants on Oct 4, and is now running a court-supervised sale with a stalking-horse deadline of Nov 30. The 34 remaining locations are full-service, sit-down, wellness-casual \u2014 exactly the segment that uses reservation infrastructure. The incoming buyer (whoever it is) will evaluate the full tech stack as part of diligence. No stalking horse is identified yet, meaning platform relationships are not locked. This is the same acquisition-window dynamic flagged for OHG Brands \u2014 a distressed brand in restructuring is the moment when platform contracts get reset. If ResX has contacts at any of the 34 open locations or the restructuring advisors, now is the window to be in the room before November 30."
+  },
+  {
+    "key": "https://hellgatenyc.com/you-wouldnt-steal-a-restaurant-reservation-ai-legal/",
+    "date": "2026-10-09",
+    "headline": "NYC Press Asks: Are AI Reservation Apps Legal?",
+    "detail": "Hell Gate NYC piece directly names Resy ban, Carbone, AI agents; Oct 5.",
+    "so_what": "Hell Gate NYC \u2014 a credible NYC local outlet \u2014 published a consumer-facing story on Oct 5 asking whether AI reservation-booking apps are legal, naming Resy's ban of an AI user who hit 4 Charles Prime Rib 'hundreds of times every hour of the day.' This is the Instinct/Resy story that prior digests flagged as a platform policy question \u2014 but it has now crossed from trade press into mainstream NYC consumer media. That shift matters: once local outlets frame the story as 'is this legal,' restaurant operators start asking their platform reps the same question. ResX needs a clear, written answer to 'what is your policy on AI agents booking through your system' before a venue partner reads this article and asks. The Meta Muse dynamic (mass-market bot traffic) makes this more urgent, not less."
+  },
+  {
+    "key": "https://www.anthropic.com/claude-haiku-5-5",
+    "date": "2026-10-09",
+    "headline": "Haiku 5.5: 75% cheaper, built for subagents",
+    "detail": "Anthropic ships small model at $0.10/M input, Oct 7",
+    "so_what": "Swap Haiku 4.5 to Haiku 5.5 in Node classification calls today \u2014 same quality, 75% lower bill"
+  },
+  {
+    "key": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+    "date": "2026-10-09",
+    "headline": "Instinct group chat books restaurants without accounts",
+    "detail": "Agent joins group threads; non-users can act on reservations",
+    "so_what": "Audit ResX booking endpoint now \u2014 Instinct can hit it from group chats, not just solo sessions"
+  },
+  {
+    "key": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+    "date": "2026-10-09",
+    "headline": "Apple locks macOS Full Disk Access, cites AI agents",
+    "detail": "OS-level permission tightened after Muse read private messages",
+    "so_what": "Audit which dev tools hold Full Disk Access on team Macs before Apple's update ships and breaks them"
   }
 ]
