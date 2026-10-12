@@ -10,16 +10,6 @@
     "cover_image_post": "https://www.instagram.com/p/DWVv7n5lbdn/"
   },
   {
-    "name": "Straker's NYC",
-    "date": "opens 2026",
-    "blurb": "TikTok-famous London chef Thomas Straker's butter-forward, British-by-Italy debut in Soho.",
-    "city": "NYC",
-    "website": "",
-    "instagram_handle": "@strakers_nyc",
-    "instagram_url": "https://www.instagram.com/strakers_nyc",
-    "cover_image_post": ""
-  },
-  {
     "name": "Ugly Baby (Williamsburg)",
     "date": "opens 2026",
     "blurb": "NYC's most-mourned Thai spot revives at a new Williamsburg address \u2014 same face-melting heat.",
@@ -60,23 +50,6 @@
     "instagram_url": "",
     "cover_image_post": "https://www.instagram.com/p/DLC3W_zxtYq/",
     "source_url": "https://www.nrn.com/independent-restaurants/chef-eyal-shani-has-opened-naked-tomato-in-miami-with-brooklyn-to-follow"
-  },
-  {
-    "name": "HUMM",
-    "date": "opens fall 2026",
-    "blurb": "Daniel Humm's 200-seat wood-fired West Village restaurant \u2014 EMP meets neighborhood brasserie.",
-    "so_what": "Humm's name guarantees instant reservation frenzy \u2014 last-minute goldmine.",
-    "city": "NYC",
-    "website": "https://www.hummnyc.com",
-    "instagram_handle": "@hummrestaurant",
-    "instagram_url": "https://www.instagram.com/hummrestaurant/",
-    "cover_image_post": "",
-    "source_url": "https://culinaryagents.com/entities/1074202-HUMM",
-    "category": "watching",
-    "importance_rank": 0,
-    "merged_from": [
-      "humm::NYC"
-    ]
   },
   {
     "name": "Bubala Covent Garden",
@@ -424,20 +397,6 @@
     "merged_from": []
   },
   {
-    "name": "Dishoom Borough",
-    "date": "opens October 12",
-    "blurb": "Dishoom's eighth London caf\u00e9 inside the Grade II Hop Exchange near Borough Market.",
-    "city": "LDN",
-    "website": "https://www.dishoom.com/borough/",
-    "instagram_handle": "@dishoom",
-    "instagram_url": "https://www.instagram.com/dishoom/",
-    "source_url": "https://www.dishoom.com/borough/",
-    "category": "watching",
-    "id": "dishoom borough::LDN",
-    "importance_rank": 5,
-    "merged_from": []
-  },
-  {
     "name": "Cloudstreet",
     "date": "September 2026",
     "blurb": "Tiny walk-in-only bistro in a Victorian stable yard; daily-changing seasonal menu.",
@@ -448,6 +407,34 @@
     "category": "watching",
     "id": "cloudstreet::LDN",
     "importance_rank": 1,
+    "merged_from": []
+  },
+  {
+    "name": "Ludico",
+    "date": "opens Fall 2026",
+    "blurb": "Beefbar team's coastal European concept in Tribeca's former Sarabeth's, with house-made pastas.",
+    "city": "NYC",
+    "website": "https://www.ludico.com",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "source_url": "https://tribecacitizen.com/2026/07/06/sneak-peek-ludico-tribeca/",
+    "category": "watching",
+    "id": "ludico::NYC",
+    "importance_rank": 0,
+    "merged_from": []
+  },
+  {
+    "name": "B. Penhale",
+    "date": "opens October 2026",
+    "blurb": "Camille team's 66-cover British-Irish restaurant in former Club Gascon site, with whole-carcass butchery and Victorian recipes.",
+    "city": "LDN",
+    "website": "",
+    "instagram_handle": "@b.penhale_smithfield",
+    "instagram_url": "https://www.instagram.com/b.penhale_smithfield/",
+    "source_url": "https://thenudge.com/b-penhale/",
+    "category": "watching",
+    "id": "b penhale::LDN",
+    "importance_rank": 0,
     "merged_from": []
   }
 ]
