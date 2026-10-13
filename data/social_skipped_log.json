@@ -1,62 +1,5 @@
 [
   {
-    "date": "2026-09-08",
-    "subject": "Bar Etienne West Village",
-    "url": "https://www.instagram.com/baretienne",
-    "reason": "no_usable_link",
-    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-09-08",
-    "subject": "Cafe Lacoste at The Plaza",
-    "url": "https://diningout.com/new-york/nyc-bar-restaurant-openings-september2-2026/",
-    "reason": "US Open tennis afternoon tea pop-up at Plaza through Sept 15 is timely but the content is brand/hotel marketing-driven \u2014 no verified IG handle from source, no real post retrieved, and the 'tennis-themed sandwiches' angle is generic rather than craveable or FOMO-worthy enough to beat the other US Open item already in the slate",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-09-08",
-    "subject": "Kirbee's Greenpoint BBQ",
-    "url": "https://diningout.com/new-york/nyc-bar-restaurant-openings-september2-2026/",
-    "reason": "Texas BBQ in Greenpoint is very fresh (Labor Day weekend opening, handle confirmed @kirbees_greenpoint_brooklyn) but smoked brisket and charro beans skews slightly off-brand for ResX's downtown 25-35 vibe and doesn't beat the West Village / London items on desire fit",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-09-08",
-    "subject": "Monkey Thief Hell's Kitchen reopening",
-    "url": "https://diningout.com/new-york/nyc-bar-restaurant-openings-september2-2026/",
-    "reason": "Pan-Asian cocktail den reopened mid-August \u2014 reopening of a closed venue is lower momentum than a new debut, and mid-August date puts it at ~3 weeks old which is borderline stale",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-09-08",
-    "subject": "Cassette (Levan team Covent Garden)",
-    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-september-2026",
-    "reason": "Opening date is 23 September \u2014 too far out to post today, no actual content to repost yet",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-09-08",
-    "subject": "Le Caf\u00e9 LPM at The Lanesborough",
-    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-september-2026",
-    "reason": "Opens 9 September \u2014 not open yet as of today, and the 'LPM in a hotel' angle is less momentum-driving than Nakimushi for the target audience",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-09-08",
-    "subject": "The Albatross City seafood pub",
-    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-september-2026",
-    "reason": "Opened Sept 7 \u2014 fresh, but a City of London seafood pub aimed at work lunches is off-brand for the creative/downtown ResX 25-35 vibe; no verified IG handle retrieved",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-09-08",
-    "subject": "Bubala Covent Garden flagship",
-    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-september-2026",
-    "reason": "Opening date not yet confirmed for this week \u2014 listed as 'September' with no specific date; no real post to surface today",
-    "source_type": "researched"
-  },
-  {
     "date": "2026-09-15",
     "subject": "Fallow x Black Bear National Burger Day reel",
     "url": "https://www.instagram.com/reels/DcT_qPJII3a/",
@@ -517,6 +460,63 @@
     "subject": "NYCWFF Burger Bash Pier 17 Rachael Ray",
     "url": "https://resident.com/food-and-drink/2026/10/07/nycwff-2026-is-turning-new-york-into-one-delicious-long-weekend",
     "reason": "Covered under the broader NYCWFF post_idea \u2014 would be a duplicate moment; Kwame Onwuachi angle scores higher for ResX's audience than Rachael Ray/Bert Kreischer Burger Bash",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-13",
+    "subject": "National Pasta Day tracked spots",
+    "url": "https://www.instagram.com/liliamitch/",
+    "reason": "no_usable_link",
+    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-13",
+    "subject": "Ambassadors Clubhouse TikTok roundup",
+    "url": "https://www.tiktok.com/discover/top-nyc-restaurants?lang=en",
+    "reason": "Appeared in a TikTok discover/roundup page \u2014 no individual post permalink retrievable, roundup format ineligible as lead",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-13",
+    "subject": "Pasta de Pasta viral $10 NYC",
+    "url": "https://www.tiktok.com/discover/nyc-food",
+    "reason": "Not a tracked venue; audience too broad/chain-adjacent for ResX's 25-35 downtown crowd; no verified fresh post permalink",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-13",
+    "subject": "Oliver's Italian National Pasta Day BOGO",
+    "url": "https://www.milehighonthecheap.com/olivers-italian-national-pasta-day-buy-one-get-one-special-greenwood-village/",
+    "reason": "Greenwood Village, Colorado \u2014 not NYC or London; completely irrelevant to ResX audience",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-13",
+    "subject": "Dalmoros Fresh Italian National Pasta Day loyalty deal",
+    "url": "https://easyeverydayrecipes.com/national-pasta-day-is-oct-17-6-restaurant-offers-to-check-before-you-go/",
+    "reason": "Generic chain deal, no NYC/LDN tracked venue connection, no specific editorial moment worth posting",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-13",
+    "subject": "NYCWFF Resident Magazine article",
+    "url": "https://resident.com/food-and-drink/2026/10/07/nycwff-2026-is-turning-new-york-into-one-delicious-long-weekend",
+    "reason": "Already in sent URL list \u2014 deduped",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-13",
+    "subject": "Bar \u00e0 Part West Village wine bar",
+    "url": "https://wheresthebuzz.substack.com/p/wheres-the-buzz-nyc-october-2026",
+    "reason": "15-seat wine bar from same article as The Astor and Hommali \u2014 would double-up on same source; The Astor scores higher on theatrical stop-scroll appeal",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-13",
+    "subject": "Caf\u00e9 Charmant West Village French brasserie",
+    "url": "https://wheresthebuzz.substack.com/p/wheres-the-buzz-nyc-october-2026",
+    "reason": "Previously featured as a moment (cafe charmant added to infatuation nyc hit list october 7 2026) \u2014 deduped on moment even though source URL is different",
     "source_type": "researched"
   }
 ]
