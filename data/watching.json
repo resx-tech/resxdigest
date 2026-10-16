@@ -41,17 +41,6 @@
     "source_url": "https://grime-square.com/2026/05/23/caroline-schiff-monday-diner-opening-bushwick/"
   },
   {
-    "name": "Naked Tomato",
-    "date": "opens late 2026",
-    "blurb": "Eyal Shani's fire-skewer, ingredient-first Israeli concept lands at Williamsburg Wharf.",
-    "city": "NYC",
-    "website": "",
-    "instagram_handle": "",
-    "instagram_url": "",
-    "cover_image_post": "https://www.instagram.com/p/DLC3W_zxtYq/",
-    "source_url": "https://www.nrn.com/independent-restaurants/chef-eyal-shani-has-opened-naked-tomato-in-miami-with-brooklyn-to-follow"
-  },
-  {
     "name": "Bubala Covent Garden",
     "date": "opens September 2026",
     "blurb": "London's cult vegetarian Middle Eastern restaurant opens biggest site yet in Theatreland.",
@@ -191,21 +180,6 @@
     ]
   },
   {
-    "name": "Cordelia's Mayfair",
-    "date": "opens Autumn 2026",
-    "blurb": "Open-fire Mayfair steakhouse: in-house dry-aged British beef, charcoal grill, agave cocktails.",
-    "city": "LDN",
-    "website": "",
-    "instagram_handle": "@cordeliasmayfair",
-    "instagram_url": "https://www.instagram.com/cordeliasmayfair/",
-    "source_url": "https://thenudge.com/cordelias/",
-    "category": "watching",
-    "importance_rank": 0,
-    "merged_from": [
-      "cordelias mayfair::LDN"
-    ]
-  },
-  {
     "name": "Chippy's",
     "date": "opens September 2026",
     "blurb": "Counter-service fish and chips shop from the Dame team, East Village.",
@@ -283,20 +257,6 @@
     "category": "watching",
     "id": "manna::LDN",
     "importance_rank": 3,
-    "merged_from": []
-  },
-  {
-    "name": "Bunso",
-    "date": "opens September 2026",
-    "blurb": "Omar Shah's Filipino-Italian all-day bakery by day, pizza and pasta by night.",
-    "city": "LDN",
-    "website": "",
-    "instagram_handle": "",
-    "instagram_url": "",
-    "source_url": "https://www.restaurantonline.co.uk/Article/2026/09/01/restaurant-radar-september-2026/",
-    "category": "watching",
-    "id": "bunso::LDN",
-    "importance_rank": 0,
     "merged_from": []
   },
   {
@@ -436,5 +396,19 @@
     "id": "b penhale::LDN",
     "importance_rank": 0,
     "merged_from": []
+  },
+  {
+    "name": "Solis Soho",
+    "date": "opens October 20",
+    "blurb": "T\u0100 T\u0100 Eatery's South American chicken-and-steak grill debuts as a standalone Kingly Street restaurant.",
+    "city": "LDN",
+    "website": "https://www.solisgrill.co.uk",
+    "instagram_handle": "@solisgrill",
+    "instagram_url": "https://www.instagram.com/solisgrill",
+    "source_url": "https://www.hot-dinners.com/2026092315386/Gastroblog/Latest-news/solis-soho-chcken-steak-tata-eatery-opening",
+    "category": "watching",
+    "importance_rank": 0,
+    "merged_from": [],
+    "id": "solis soho::LDN"
   }
 ]
