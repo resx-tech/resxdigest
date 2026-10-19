@@ -41,22 +41,6 @@
     "source_url": "https://grime-square.com/2026/05/23/caroline-schiff-monday-diner-opening-bushwick/"
   },
   {
-    "name": "Bubala Covent Garden",
-    "date": "opens September 2026",
-    "blurb": "London's cult vegetarian Middle Eastern restaurant opens biggest site yet in Theatreland.",
-    "so_what": "122-cover flagship in prime central location, always fully booked.",
-    "city": "LDN",
-    "website": "",
-    "instagram_handle": "",
-    "instagram_url": "",
-    "cover_image_post": "",
-    "source_url": "https://www.timeout.com/london/news/hyped-london-vegetarian-restaurant-bubala-is-opening-its-biggest-location-yet-052726",
-    "category": "watching",
-    "id": "bubala covent garden::LDN",
-    "importance_rank": 3,
-    "merged_from": []
-  },
-  {
     "name": "Treinta Treinta",
     "date": "July 2026",
     "blurb": "All-day mezcaleria and coffee shop in Nolita from the La Esquina team.",
@@ -410,5 +394,33 @@
     "importance_rank": 0,
     "merged_from": [],
     "id": "solis soho::LDN"
+  },
+  {
+    "name": "PAM",
+    "date": "opens November 3",
+    "blurb": "Ex-Kiln chef Karla Knowles's debut Thai restaurant in Farringdon, with live fire and British produce.",
+    "city": "LDN",
+    "website": "",
+    "instagram_handle": "@pam.restaurant",
+    "instagram_url": "https://www.instagram.com/pam.restaurant/",
+    "source_url": "",
+    "category": "watching",
+    "importance_rank": 0,
+    "merged_from": [],
+    "id": "pam::LDN"
+  },
+  {
+    "name": "ROAST Shoreditch",
+    "date": "opens October 20",
+    "blurb": "Borough Market institution's 135-cover second London site inside Virgin Hotels Shoreditch.",
+    "city": "LDN",
+    "website": "",
+    "instagram_handle": "@roast_restaurant",
+    "instagram_url": "https://www.instagram.com/roast_restaurant/",
+    "source_url": "https://www.designmynight.com/london/blog/new-restaurants-london",
+    "category": "watching",
+    "importance_rank": 0,
+    "merged_from": [],
+    "id": "roast shoreditch::LDN"
   }
 ]
