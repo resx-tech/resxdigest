@@ -1,54 +1,5 @@
 [
   {
-    "date": "2026-09-15",
-    "subject": "Fallow x Black Bear National Burger Day reel",
-    "url": "https://www.instagram.com/reels/DcT_qPJII3a/",
-    "reason": "19 days old \u2014 National Burger Day was Aug 27 (UK); post is stale beyond the 14-day freshness window",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-09-15",
-    "subject": "Coqfighter Chicken Kyiv Sandwich NBD post",
-    "url": "https://www.instagram.com/p/DcbHC0CjAcW/",
-    "reason": "19 days old \u2014 same National Burger Day Aug 27 collab; outside freshness window",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-09-15",
-    "subject": "National Cheeseburger Day Sept 18 venue specials",
-    "url": "https://burgerbeast.com/national-cheeseburger-day/",
-    "reason": "Only chain deals confirmed (Applebee's, Burger King, Smashburger, McDonald's) \u2014 none on-brand for ResX's cool indie NYC/LDN audience; no specific trackable venue special with a real post found; brief says skip generic tie-in if nothing specific",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-09-15",
-    "subject": "London Fashion Week final day dining/restaurant scene",
-    "url": "https://www.thehandbook.com/september-restaurant-openings/",
-    "reason": "Compelling cultural hook (LFW ends today Sept 15\u201316) but couldn't retrieve specific venue posts or permalinks before fetch limit; without real posts to anchor the carousel, can't build the post_idea to standard",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-09-15",
-    "subject": "Pearl at The Beaumont Mayfair opening",
-    "url": "https://www.thehandbook.com/september-restaurant-openings/",
-    "reason": "Opened yesterday (Sept 14), appealing Mayfair terrace concept \u2014 but only surfaced in a multi-restaurant roundup page (not a single-subject article) which is auto-disqualifying as a lead link; no verified Instagram account or permalink found",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-09-15",
-    "subject": "Cassette (Levan team) Covent Garden",
-    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-september-2026",
-    "reason": "Opens Sept 23 \u2014 not open yet, no posts exist, too early to surface",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-09-15",
-    "subject": "AJ Records open date (Spring 2027)",
-    "url": "https://www.hot-dinners.com/2026091515366/Gastroblog/Latest-news/aj-records-french-restaurant-bar-studio-hanway-place-london",
-    "reason": "Included as post_idea for the announcement moment (today) \u2014 not rejected, just noting the opening itself is 2027; the news value is the announcement breaking today",
-    "source_type": "researched"
-  },
-  {
     "date": "2026-09-22",
     "subject": "Cassette Covent Garden",
     "url": "https://www.hot-dinners.com/2026071515228/Gastroblog/Latest-news/cassette-restaurant-levan-opening-covent-garden-london",
@@ -517,6 +468,93 @@
     "subject": "Caf\u00e9 Charmant West Village French brasserie",
     "url": "https://wheresthebuzz.substack.com/p/wheres-the-buzz-nyc-october-2026",
     "reason": "Previously featured as a moment (cafe charmant added to infatuation nyc hit list october 7 2026) \u2014 deduped on moment even though source URL is different",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-20",
+    "subject": "Dishoom Borough soft launch",
+    "url": "https://thenudge.com/london-restaurants-opening-soon/",
+    "reason": "no_usable_link",
+    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-20",
+    "subject": "Faux NYC",
+    "url": "https://www.instagram.com/p/DdnP_vrlpT0/",
+    "reason": "stale_content",
+    "detail": "posted_days_ago=999 \u2014 older than the 14-day freshness window (or undated)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-20",
+    "subject": "Don Angie 7 Fishes Feast",
+    "url": "https://www.instagram.com/p/DehjOuIKEWK/",
+    "reason": "stale_content",
+    "detail": "posted_days_ago=999 \u2014 older than the 14-day freshness window (or undated)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-20",
+    "subject": "Solis Kingly Street Soho",
+    "url": "https://www.hot-dinners.com/2026092315386/Gastroblog/Latest-news/solis-soho-chcken-steak-tata-eatery-opening",
+    "reason": "Already in both already-sent URLs and already-featured moments lists \u2014 exact duplicate.",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-20",
+    "subject": "Straker's NYC debut",
+    "url": "https://www.yahoo.com/lifestyle/articles/london-calling-soho-hot-straker-173927651.html",
+    "reason": "Opening article dated Oct 7 (13 days ago), borderline stale on the post itself; no Instagram permalink retrieved; Lana Substack coverage today is strong but the opening moment itself is just past the 14-day window. Dropped in favour of fresher items with real permalinks.",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-20",
+    "subject": "PAM by Karla Knowles Clerkenwell",
+    "url": "https://www.hot-dinners.com/2026092315390/Gastroblog/Latest-news/karla-knowles-ex-kiln-chef-opening-aree-pam-restaurants",
+    "reason": "Karla Knowles / ex-Kiln pop-up dinners already appear in already-featured moments. The standalone restaurant opening is a new development but no confirmed open date (listed as October 2026 with a note it could slip to November) and no Instagram post retrieved.",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-20",
+    "subject": "Bubala Covent Garden Instagram permalink",
+    "url": "https://www.bubala.co.uk",
+    "reason": "Could not retrieve a verified Instagram permalink or exact profile URL from fetched pages \u2014 used article lead fallback instead. Account handle bubala_restaurant is unverified; omitted from account_url.",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-20",
+    "subject": "Romy NYC steakhouse (ex-Little Prince)",
+    "url": "https://lanafromowitz.substack.com/p/eatsleep-hot-tables-big-buckles-and",
+    "reason": "Mentioned in Lana's Substack today as a fun night out but no Instagram post permalink retrieved and opening timing unclear \u2014 not enough to build a verified opportunity.",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-20",
+    "subject": "Humm NYC (Daniel Humm casual concept)",
+    "url": "https://www.hummnyc.com/",
+    "reason": "Interesting but no post permalink retrieved, opening date unclear, and homepage URL is not an acceptable lead link.",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-20",
+    "subject": "Dishoom Borough Instagram permalink",
+    "url": "https://www.hot-dinners.com/2025102714595/Gastroblog/Latest-news/dishoom-borough-market-london-bridge-plans",
+    "reason": "Could not verify Dishoom's exact Instagram permalink for the Borough opening post \u2014 used article lead fallback. Account handle 'dishoom' is their well-known verified handle included without a permalink.",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-20",
+    "subject": "NYC Resy Hit List October 2026 new additions",
+    "url": "https://blog.resy.com/the-hit-list/nyc-restaurants/",
+    "reason": "Roundup/guide \u2014 automatically dropped per rules. New additions (Cynthia, Burmese Bites, El Camar\u00f3n Peludo) noted but not drilled into due to search limit.",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-20",
+    "subject": "Dark Magic Hour at Moxy Times Square",
+    "url": "https://nypost.com/2026/10/17/lifestyle/meet-the-new-yorkers-scaring-up-big-business-this-halloween/",
+    "reason": "Included in the Halloween bar post_idea rollup \u2014 this venue (18th floor Moxy Times Square rooftop) is a fourth option that could be added to the carousel but excluded to keep the post_idea tight and downtown-focused.",
     "source_type": "researched"
   }
 ]
