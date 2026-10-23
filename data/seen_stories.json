@@ -1,54 +1,5 @@
 [
   {
-    "key": "https://www.verdictfoodservice.com/news/quandoo-to-shut-restaurant-booking-platform-by-end-of-2026/",
-    "date": "2026-09-21",
-    "headline": "Quandoo Stops All Bookings Sept 30",
-    "detail": "Platform accepts no new reservations after Oct 1; full shutdown Dec 31.",
-    "so_what": ""
-  },
-  {
-    "key": "https://blog.resy.com/newsroom/the-right-table-changes-everything/",
-    "date": "2026-09-21",
-    "headline": "Resy Launches 'The Right Table' Brand Campaign",
-    "detail": "New campaign goes live Sept 15; Amex Resy Credit now active at select Tock venues same day.",
-    "so_what": ""
-  },
-  {
-    "key": "https://tomyumweek.com/",
-    "date": "2026-09-21",
-    "headline": "Tom Yum Week: 17 Thai Spots, 17 Artists, Live Now",
-    "detail": "Sept 16\u201330; KRU, Sala Thai, Saolea among venues; artist-in-residence format.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.thened.com/london/restaurants/electric-bar-and-diner/interstellar-bbq",
-    "date": "2026-09-21",
-    "headline": "Austin's Michelin BBQ Duo Still Packing The Ned",
-    "detail": "InterStellar \u00d7 La Barbecue; \u00a3150 tray for two; through Oct 4.",
-    "so_what": ""
-  },
-  {
-    "key": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
-    "date": "2026-09-21",
-    "headline": "GPT-Live-1 API: Full-Duplex Voice at $0.05/Min",
-    "detail": "Sept 10: listens while speaking, telephony built in, backend model your choice",
-    "so_what": "Prototype a voice booking confirmation flow in RN \u2014 one weekend, real cost data"
-  },
-  {
-    "key": "https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/",
-    "date": "2026-09-21",
-    "headline": "Claude Code Projects Now Runs Parallel Cloud Threads",
-    "detail": "Sept 17 beta: one goal, Claude spawns parallel PRs across repos",
-    "so_what": "Join waitlist now \u2014 deprecate manual session juggling on next cross-repo sprint"
-  },
-  {
-    "key": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-    "date": "2026-09-21",
-    "headline": "Apollo Watcher Monitors Claude Code and Codex Actions",
-    "detail": "AI pre-screens every tool call; 93% recall on high-severity, under 1% false positives",
-    "so_what": "Install Watcher before next async agent sprint \u2014 catches data-leak and file-delete risks silently"
-  },
-  {
     "key": "https://snagres.com/about",
     "date": "2026-09-25",
     "headline": "SnagNYC Rebrands to SnagRes, Adds San Francisco",
@@ -537,5 +488,33 @@
     "headline": "Figma Specs feeds design rules to coding agents",
     "detail": "MCP-connected Markdown doc passes brand rules to Claude Code",
     "so_what": "Connect Figma MCP to Claude Code today \u2014 RN screen gen stops ignoring your design system"
+  },
+  {
+    "key": "https://hospitalitytech.com/opentable-taps-airwallex-expand-payment-processing-deposits-and-prepaid-dining",
+    "date": "2026-10-23",
+    "headline": "OpenTable adds Airwallex as payment provider",
+    "detail": "Airwallex now live for deposits and prepaid Experiences; US/Canada first, Australia/Mexico next.",
+    "so_what": ""
+  },
+  {
+    "key": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+    "date": "2026-10-23",
+    "headline": "Microsoft: Your Own AI Agents Are Insider Threats",
+    "detail": "Defender detects 60 agent types; Claude Code and Codex explicitly named",
+    "so_what": "Restrict Claude Code Firebase access to dev/staging only \u2014 production scope is now a liability"
+  },
+  {
+    "key": "https://thenextweb.com/news/anthropic-claude-duet-ai-agent",
+    "date": "2026-10-23",
+    "headline": "Anthropic Ships Claude Duet Background Agent",
+    "detail": "Always-on agent monitors connected apps, acts only with approval",
+    "so_what": "Join waitlist now \u2014 no extra cost on Pro/Max; delegate Slack and email triage today"
+  },
+  {
+    "key": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+    "date": "2026-10-23",
+    "headline": "GPT-6 Pro Splits Tasks Across Parallel Agents",
+    "detail": "ChatGPT Pro now runs multiple subagents simultaneously on one request",
+    "so_what": "Use it this week: split release-prep research into parallel agents, cut turnaround in half"
   }
 ]
