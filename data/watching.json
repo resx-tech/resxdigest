@@ -285,20 +285,6 @@
     "id": "nettle::LDN"
   },
   {
-    "name": "Lenny's",
-    "date": "opens October 27",
-    "blurb": "Cult New Haven apizza goes permanent in Covent Garden, backed by MJMK (KOL, AngloThai).",
-    "city": "LDN",
-    "website": "https://www.lennysapizza.com",
-    "instagram_handle": "@lennysapizza",
-    "instagram_url": "https://www.instagram.com/lennysapizza/",
-    "source_url": "https://www.hot-dinners.com/2026072815255/Gastroblog/Latest-news/lennys-apizza-permanent-covent-garden-pizzeria-restaurant",
-    "category": "watching",
-    "importance_rank": 0,
-    "merged_from": [],
-    "id": "lennys::LDN"
-  },
-  {
     "name": "Ditto",
     "date": "opens October 2026",
     "blurb": "Andy Baraghani's all-day Union Square cafe: Greenmarket produce, breakfast and lunch.",
@@ -396,33 +382,6 @@
     "id": "roast shoreditch::LDN"
   },
   {
-    "name": "Buddy & Son",
-    "date": "October 26",
-    "blurb": "Gjelina alumni open a French-leaning brasserie with raw bar inside the PUBLIC Hotel.",
-    "city": "NYC",
-    "website": "https://buddyandson.co",
-    "instagram_handle": "@buddyandson",
-    "instagram_url": "https://www.instagram.com/buddyandson/",
-    "category": "watching",
-    "importance_rank": 0,
-    "merged_from": [],
-    "id": "buddy & son::NYC"
-  },
-  {
-    "name": "Talli Queen",
-    "date": "opens October 27",
-    "blurb": "Indian gastropub from Bib Gourmand chef Avi Shashidhara, tandoor and charcoal grill menu.",
-    "city": "LDN",
-    "website": "",
-    "instagram_handle": "@thetalliqueen",
-    "instagram_url": "https://www.instagram.com/thetalliqueen/",
-    "source_url": "https://www.hot-dinners.com/2026042014991/Gastroblog/Latest-news/talli-queen-indian-pub-uxbridge-road-shepherds-bush-avi-shashidhara",
-    "category": "watching",
-    "importance_rank": 0,
-    "merged_from": [],
-    "id": "talli queen::LDN"
-  },
-  {
     "name": "Koakuma",
     "date": "opens late October/November 2026",
     "blurb": "Compact Japanese counter from the Uva and Nightly's team on the Upper East Side.",
@@ -477,5 +436,19 @@
     "importance_rank": 0,
     "merged_from": [],
     "id": "romy::NYC"
+  },
+  {
+    "name": "Heard Covent Garden",
+    "date": "opens November 2026",
+    "blurb": "Two-Michelin-starred Jordan Bailey's smash burger flagship with a hidden dessert speakeasy.",
+    "city": "LDN",
+    "website": "",
+    "instagram_handle": "@heard.burger",
+    "instagram_url": "https://www.instagram.com/heard.burger/",
+    "source_url": "https://www.hot-dinners.com/2026092815397/Gastroblog/Latest-news/heard-burger-covent-garden-opening-dessert-bar",
+    "category": "watching",
+    "id": "heard covent garden::LDN",
+    "importance_rank": 1,
+    "merged_from": []
   }
 ]

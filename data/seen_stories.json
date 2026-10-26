@@ -1,54 +1,5 @@
 [
   {
-    "key": "https://snagres.com/about",
-    "date": "2026-09-25",
-    "headline": "SnagNYC Rebrands to SnagRes, Adds San Francisco",
-    "detail": "Renamed in August 2026; now tracks 140+ hard-to-book restaurants across NYC and SF.",
-    "so_what": "SnagNYC was a one-city tracker for Resy/OpenTable/Tock/SevenRooms availability; it now covers SF, doubling its addressable market. This is a scraper-layer product, not a booking platform \u2014 but it's the clearest signal that third-party availability monitoring of reservation platforms is scaling geographically. If SnagRes adds booking (it currently only monitors), it becomes a direct consumer product. Worth watching for that step-change."
-  },
-  {
-    "key": "https://finance.yahoo.com/technology/ai/articles/meta-muse-ai-exploding-popularity-221158216.html",
-    "date": "2026-09-25",
-    "headline": "Meta Muse Hits #1 App Store, Books Reservations",
-    "detail": "Meta's AI agent, launched Sept 8, downloaded 2M+ times; restaurant booking is a named core feature.",
-    "so_what": "The Resy/Instinct bot story was about a VC's custom build hitting one platform. Meta Muse is a mass-market consumer product \u2014 free tier, #1 on App Store, explicitly marketed as a restaurant reservation tool \u2014 and it uses a virtual browser to interact with booking sites directly, not an approved API. That changes the scale of the problem entirely. Every reservation platform, including ResX, now faces bot-style traffic not from power users but from anyone with an iPhone. The prior digest flagged this as a policy question ResX needs an answer to before venues ask. Muse makes that timeline shorter: this is no longer a niche VC tool, it's the most-downloaded app in the country doing exactly what Resy suspended two accounts for."
-  },
-  {
-    "key": "https://www.convenience.org/stay-current/news/2026/september/17/nca-specialty-coffee-consumption-hits-record-high",
-    "date": "2026-09-25",
-    "headline": "Out-of-Home Coffee Hits Pre-Pandemic Levels, App Orders Record",
-    "detail": "NCA Fall 2026: 38% of daily coffee drinkers consume out-of-home; 40% of out-of-home buyers order via app \u2014 both records.",
-    "so_what": "This is the demand-side data point ResX should be using in venue sales conversations right now, timed to National Coffee Day (Sept 29). Specialty coffee consumption also hit a new record \u2014 48% of US adults had specialty coffee in the past day, surpassing traditional coffee for the first time. The implication for ResX: caf\u00e9 and coffee-forward venues (the category least likely to use reservation infrastructure today) are operating at or near pre-pandemic out-of-home demand, with guests increasingly conditioned to transact via app. That's the exact behavioral profile \u2014 digitally comfortable, app-native, high visit frequency \u2014 that makes a lightweight reservation or waitlist product a natural upsell. Ahead of National Coffee Day, this is a concrete, sourced hook for any outreach to specialty caf\u00e9 partners."
-  },
-  {
-    "key": "https://www.wraysearch.com/restaurant-hospitality-franchise-foodservice-insights/financials-september-2026",
-    "date": "2026-09-25",
-    "headline": "British PE Backs US Multi-Brand Restaurant Group $325M",
-    "detail": "Trimontium invests $325M in Authentic Restaurant Brands (Primanti Bros, Pollo Tropical, Tavern in the Square) for expansion.",
-    "so_what": "Trimontium is a British investment firm \u2014 this is cross-Atlantic capital backing a US casual dining group that runs full-service, reservation-relevant venues (Tavern in the Square is a sports-bar-adjacent full-service chain; Primanti Bros has table service). The $325M is explicitly for growth. PE-backed multi-brand groups at this funding stage are exactly when reservation platform contracts get standardized across the portfolio \u2014 one platform deal, many doors. The British PE angle is also a signal that London-based capital is actively deploying into US restaurant groups, which is relevant background for any BOTH-city strategy ResX is running. Comparable to the Los Tacos/TSG dynamic flagged last digest: whoever gets into the room during the expansion phase owns the relationship."
-  },
-  {
-    "key": "https://www.anthropic.com/claude-opus-5-5",
-    "date": "2026-09-25",
-    "headline": "Claude Opus 5.5 Ships: 40% Cheaper, Same Quality",
-    "detail": "Anthropic's new flagship for agentic coding, $4/$20 per M tokens.",
-    "so_what": "Swap Opus 5 to Opus 5.5 in Claude Code today \u2014 same output, 40% lower token bill."
-  },
-  {
-    "key": "https://qz.com/openai-gpt-6-sol-luna-api-price-cut-092326",
-    "date": "2026-09-25",
-    "headline": "OpenAI Cuts GPT-6 Sol and Luna Prices 50%",
-    "detail": "Permanent price drop: Sol $2/$10, Luna $0.10/$0.50 per M tokens.",
-    "so_what": "Route high-volume Node classification calls to Luna now \u2014 costs drop by half, permanently."
-  },
-  {
-    "key": "https://invertase.io/blog/react-native-firebase-v26-release",
-    "date": "2026-09-25",
-    "headline": "React Native Firebase v26 Drops Legacy Bridge",
-    "detail": "All 19 packages rewritten in TypeScript; Firestore requires New Architecture now.",
-    "so_what": "Audit your RN Firebase version this sprint \u2014 staying on v25 means no Firestore updates."
-  },
-  {
     "key": "https://about.doordash.com/en-us/news/doordash-introduces-brand-center",
     "date": "2026-09-28",
     "headline": "DoorDash launches Brand Center retail intelligence platform",
@@ -516,5 +467,89 @@
     "headline": "GPT-6 Pro Splits Tasks Across Parallel Agents",
     "detail": "ChatGPT Pro now runs multiple subagents simultaneously on one request",
     "so_what": "Use it this week: split release-prep research into parallel agents, cut turnaround in half"
+  },
+  {
+    "key": "https://hospitalitytech.com/yelp-adds-opentable-booking-ai-assistant-deploys-voice-bots-query-restaurant-host-stands",
+    "date": "2026-10-26",
+    "headline": "Yelp embeds OpenTable booking, deploys outbound call agent",
+    "detail": "Yelp Assistant books via OpenTable; voice bot calls restaurants for wait times",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.nrn.com/restaurant-technology/olo-launches-restaurant-ordering-app-with-promise-of-lower-prices",
+    "date": "2026-10-26",
+    "headline": "Olo goes direct-to-consumer with commission-free app",
+    "detail": "250+ brands, 40M users, flat 5% fee; no restaurant commission",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.nrn.com/casual-dining/gen-korean-bbq-restaurants-will-all-be-rebranded-or-converted-under-new-ownership",
+    "date": "2026-10-26",
+    "headline": "Gen Korean \u2192 Chubby Cattle: Nov 1 first handover confirmed",
+    "detail": "12 locations transfer Nov 1; rebranding as Gen X or Chubby concepts confirmed",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.nrn.com/mergers-acquisitions/landry-s-to-acquire-most-of-fireman-hospitality-group-concepts-in-bankruptcy-auction",
+    "date": "2026-10-26",
+    "headline": "Landry's wins Fireman Group NYC bankruptcy, $22M",
+    "detail": "Caf\u00e9 Fiorello, Trattoria Dell'Arte, Bond 45 acquired; court approved",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.prnewswire.com/news-releases/heidi-klum-and-butterfinger-celebrate-25-years-of-halloween-magic-with-third-consecutive-year-as-title-sponsor-302894469.html",
+    "date": "2026-10-26",
+    "headline": "Heidi Klum \u00d7 Butterfinger Pizza at Crazy Pizza SoHo",
+    "detail": "Dessert collab live all October at 218 Lafayette; Klum is restaurant partner.",
+    "so_what": ""
+  },
+  {
+    "key": "https://resy.com/cities/new-york-ny/venues/le-chene",
+    "date": "2026-10-26",
+    "headline": "Le Ch\u00eane Four-Hands: Chef Duch\u00eane, Oct 29",
+    "detail": "West Village French-NYC spot hosts one-night guest chef collab on Resy.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.elevenmadisonpark.com/stories/sourcing-with-urbani-truffles",
+    "date": "2026-10-26",
+    "headline": "EMP \u00d7 Urbani: One-Night White Truffle Dinner, Oct 29",
+    "detail": "Daniel Humm's plant-based EMP hosts single-night truffle tasting; tickets via Resy.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.joiabattersea.co.uk/whats-on/",
+    "date": "2026-10-26",
+    "headline": "JOIA Rooftop Closes Season on Bonfire Night, Nov 7",
+    "detail": "Battersea Power Station rooftop final party: Switch Disco DJ, paella, \u00a325pp.",
+    "so_what": ""
+  },
+  {
+    "key": "https://halloween-nyc.com/",
+    "date": "2026-10-26",
+    "headline": "53rd Village Halloween Parade: Saturday Night, Oct 31",
+    "detail": "Parade on 6th Ave at 7pm; West Village restaurants and bars are booking out now.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.unite.ai/moonshot-ai-releases-kimi-k3-1-pro-first-model-in-new-k3-1-series/",
+    "date": "2026-10-26",
+    "headline": "Kimi K3.1 Pro: open-weight, 33% cheaper, top coding agent",
+    "detail": "Moonshot releases 2.8T MoE model, beats GPT-6 Astra on Terminal-Bench",
+    "so_what": "Route Node agent coding calls to K3.1 Pro on OpenRouter \u2014 same tier as Opus 5.5, 33% cheaper; open weights drop Nov 4"
+  },
+  {
+    "key": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "date": "2026-10-26",
+    "headline": "1Password for Agents: credential auth without exposing passwords",
+    "detail": "Agents request logins via digital key; user approves; password never leaves vault",
+    "so_what": "Use it now \u2014 free on existing plan; stops team agents from storing Firebase or staging credentials in chat context"
+  },
+  {
+    "key": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "date": "2026-10-26",
+    "headline": "OpenAI Decisions API now GA: 100\u2013180ms typed answers",
+    "detail": "POST /v1/decisions returns choice/probability/score; 400 questions per request, $0.10/M",
+    "so_what": "Drop into Node booking-intent classifier today \u2014 10\u00d7 faster than Responses API, output tokens free, no custom routing logic needed"
   }
 ]
