@@ -466,5 +466,76 @@
     "url": "https://diningout.com/new-york/nyc-bar-restaurant-openings-oct21-2026",
     "reason": "roundup source only; no single-subject article or IG post found; not a tracked ResX spot",
     "source_type": "researched"
+  },
+  {
+    "date": "2026-10-29",
+    "subject": "west village famous halloween",
+    "url": "https://www.instagram.com/westvillagefamous/p/DeosWcGRhJN/",
+    "reason": "no_usable_link",
+    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-29",
+    "subject": "heytea Gelato Lab+ Union Square NYC",
+    "url": "https://diningout.com/new-york/nyc-bar-restaurant-openings-oct28-2026",
+    "reason": "No verified IG permalink found; source is a roundup article (auto-drop as lead per rules); would need a single-subject article or direct post",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-29",
+    "subject": "GIUK Korean-American restaurant opens Flatiron Oct 27",
+    "url": "https://diningout.com/new-york/nyc-bar-restaurant-openings-oct28-2026",
+    "reason": "Gorgeous food visuals but only source is roundup article (auto-drop as lead); no verified IG permalink extracted",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-29",
+    "subject": "Delphine French brasserie opens NoMad today (Oct 29) in old Breslin space",
+    "url": "https://diningout.com/new-york/nyc-bar-restaurant-openings-oct28-2026",
+    "reason": "Opening day is today \u2014 very timely \u2014 but only source is roundup article (auto-drop); no single-subject article or verified IG post found",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-29",
+    "subject": "The Mandrake Dante's Inferno Halloween LDN",
+    "url": "https://foodnetwork.co.uk/articles/food-events-for-halloween-in-london",
+    "reason": "Reel shortcode Dc1GJsDoBNS suggests older post (Dc prefix = 2023-era); tasting menu already sold out so no booking utility for ResX audience; dropped",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-29",
+    "subject": "PAM by Karla Knowles Clerkenwell opening",
+    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-october-2026",
+    "reason": "Opening date unconfirmed (may slip to November); no verified post or specific new content found",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-29",
+    "subject": "Bunso Filipino pizza/bakery Kentish Town",
+    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-october-2026",
+    "reason": "Opened Oct 13 \u2014 16 days ago, outside freshness window; no verified recent post found",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-29",
+    "subject": "Sober Facts $47 Arcane Estate coffee viral TikTok",
+    "url": "https://www.complex.com/life/a/markelibert/nyc-food-reviewer-50-dollar-drink-viral",
+    "reason": "Already featured in dedup \u2014 moment listed as 'sober facts viral $47 arcane estate coffee west village tiktok october 2026'",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-29",
+    "subject": "Wagtail Surrealist Halloween Soir\u00e9e LDN",
+    "url": "https://foodnetwork.co.uk/articles/food-events-for-halloween-in-london",
+    "reason": "Included in POST_IDEA instead of as standalone repost to avoid LDN Halloween oversaturation; strong as part of carousel",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-10-29",
+    "subject": "World Vegan Day Nov 1 specific venue specials",
+    "url": null,
+    "reason": "No specific venue in NYC or London found doing a named Vegan Day special/collab/limited menu; generic tie-in avoided per instructions",
+    "source_type": "researched"
   }
 ]
