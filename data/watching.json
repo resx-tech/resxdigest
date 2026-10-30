@@ -450,5 +450,33 @@
     "id": "heard covent garden::LDN",
     "importance_rank": 1,
     "merged_from": []
+  },
+  {
+    "name": "PAM",
+    "date": "opens November 3",
+    "blurb": "Ex-Kiln head chef Karla Knowles' debut: live-fire Thai, British produce, Farringdon.",
+    "city": "LDN",
+    "website": "https://www.pamrestaurant.com",
+    "instagram_handle": "@pam.restaurant",
+    "instagram_url": "https://www.instagram.com/pam.restaurant/",
+    "source_url": "https://thenudge.com/pam/",
+    "category": "watching",
+    "id": "pam::LDN",
+    "importance_rank": 0,
+    "merged_from": []
+  },
+  {
+    "name": "Edmondo",
+    "date": "opens November 6",
+    "blurb": "Big Mamma's 200-cover 1930s Milanese Italian osteria lands in the City at Bank.",
+    "city": "LDN",
+    "website": "https://www.bigmammagroup.com/italian-restaurants/edmondo-london",
+    "instagram_handle": "@bigmamma.uk",
+    "instagram_url": "https://www.instagram.com/bigmamma.uk/",
+    "source_url": "https://www.theupcoming.co.uk/2026/09/15/big-mamma-to-bring-new-italian-osteria-edmondo-to-the-city-of-london/",
+    "category": "watching",
+    "id": "edmondo::LDN",
+    "importance_rank": 0,
+    "merged_from": []
   }
 ]

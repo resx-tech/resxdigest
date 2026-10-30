@@ -1,54 +1,5 @@
 [
   {
-    "key": "https://about.doordash.com/en-us/news/doordash-introduces-brand-center",
-    "date": "2026-09-28",
-    "headline": "DoorDash launches Brand Center retail intelligence platform",
-    "detail": "New platform gives CPG brands visibility into shelf availability, shopper behavior, catalog content, and campaign performance in one dashboard.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.postcard.inc/@infatuation/p/WTLDhM_s4DS/eleven-madison-park",
-    "date": "2026-09-28",
-    "headline": "EMP Bake It Nice: Final Saturday, Lines by 10:45am",
-    "detail": "Oct 5 is last date; plant-based Madison Square croissants, Devoti\u00f3n coffee to go; sells out in under an hour.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.caffecultureshow.com/",
-    "date": "2026-09-28",
-    "headline": "Caff\u00e8 Culture Opens Today: 3,500 Caf\u00e9 Operators, One Room",
-    "detail": "Sept 29\u201330, Business Design Centre Islington; 120+ exhibitors; lands on National Coffee Day and eve of Int'l Coffee Day.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.timeout.com/newyork/news/nyc-chefs-are-making-dinner-out-of-scraps-for-make-food-not-waste-restaurant-week-092426",
-    "date": "2026-09-28",
-    "headline": "Mill's Zero-Waste Week: Named Dishes, Real Reservations",
-    "detail": "Sept 28\u2013Oct 4; Bangkok Supper Club botan ebi toast $24; Corima 3-course zero-waste menu live.",
-    "so_what": ""
-  },
-  {
-    "key": "https://claude.com/blog/build-plugins-for-claude",
-    "date": "2026-09-28",
-    "headline": "Claude Plugin Portal Opens: Submit Any MCP Connector",
-    "detail": "Anthropic launched formal plugin submission at claude.ai/directory/manage Sept 25",
-    "so_what": "Submit ResX's availability API as one MCP connector \u2014 instant reach to Claude's 2M+ users"
-  },
-  {
-    "key": "https://github.com/Parcha-ai/agentrun",
-    "date": "2026-09-28",
-    "headline": "AgentRun: TypeScript DSL for Deterministic Agent Workflows",
-    "detail": "Parcha open-sourced Apache-2.0 TypeScript workflow interpreter Sept 23",
-    "so_what": "Replace ad-hoc Node agent glue code with inspectable workflow docs \u2014 free, zero new infra"
-  },
-  {
-    "key": "https://github.com/naw103/foremerge",
-    "date": "2026-09-28",
-    "headline": "Foremerge Catches Parallel Agent Intent Conflicts",
-    "detail": "Open-source MCP server flags semantic clashes before Claude Code and Codex write conflicting code",
-    "so_what": "Install before next parallel agent sprint \u2014 stops silent overwrites Git worktrees can't detect"
-  },
-  {
     "key": "https://www.exploretock.com/join/",
     "date": "2026-10-02",
     "headline": "Tock Brand Officially Retired into Resy",
@@ -551,5 +502,61 @@
     "headline": "OpenAI Decisions API now GA: 100\u2013180ms typed answers",
     "detail": "POST /v1/decisions returns choice/probability/score; 400 questions per request, $0.10/M",
     "so_what": "Drop into Node booking-intent classifier today \u2014 10\u00d7 faster than Responses API, output tokens free, no custom routing logic needed"
+  },
+  {
+    "key": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
+    "date": "2026-10-30",
+    "headline": "DoorDash Acquires Instacart, $17B Deal Confirmed",
+    "detail": "Definitive agreement signed Oct 29; closes end of 2027 or early 2028.",
+    "so_what": "DoorDash \u2014 already ResX's most relevant delivery-to-reservation adjacent player via DashOS and the SevenRooms integration \u2014 just agreed to acquire Instacart for $17B. The combined entity will span restaurant delivery, grocery delivery, and 150K+ merchant locations under one platform. DashPass and Instacart+ will merge into a single membership. This further consolidates DoorDash's position as a super-platform that competes for operator data and guest relationships upstream of the reservation moment. The deal also faces regulatory scrutiny (NYC DCWP already flagged it). ResX should watch whether DoorDash's operator-data ambitions accelerate post-deal and how SevenRooms is positioned within the combined stack."
+  },
+  {
+    "key": "https://www.nrn.com/independent-restaurants/tiktok-launches-must-eat-a-dining-guide-powered-by-content-creators",
+    "date": "2026-10-30",
+    "headline": "TikTok Embeds OpenTable Booking in Must Eat",
+    "detail": "TikTok's new dining guide routes reservations directly through OpenTable for select restaurants.",
+    "so_what": "TikTok Must Eat launched Oct 28 in NYC, LA, and SF \u2014 pulling from 40 million posts to surface restaurant recommendations, with OpenTable as the embedded booking layer. TikTok is explicitly positioning this as a Yelp and Google Maps competitor. For ResX: OpenTable just secured a high-intent discovery surface inside the fastest-growing restaurant-discovery platform among under-35 diners. Any venue not on OpenTable loses this booking path entirely. This also raises the stakes on where Resy sits in the discovery-to-booking funnel \u2014 TikTok did not embed Resy."
+  },
+  {
+    "key": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
+    "date": "2026-10-30",
+    "headline": "Wonder Launches $10 Virtual Restaurant Platform Pre-IPO",
+    "detail": "Wonder Create opens Nov 17; 100 Texas locations planned by end of 2027.",
+    "so_what": "Wonder \u2014 which owns Grubhub, operates 170 food-hall storefronts, and carries a $9B pre-money valuation \u2014 is launching Wonder Create on Nov 17: a $10/month subscription that lets brands and influencers spin up virtual restaurants inside Wonder's physical locations. It is also planning 100 Texas locations by end of 2027 and preparing for a potential IPO. For ResX: Wonder represents a new category of food-tech operator \u2014 vertically integrated, multi-brand, delivery-first, and now building a user-generated restaurant model. As Wonder scales, it will make centralized reservation and waitlist decisions for every brand operating inside its walls. That is a platform-level opportunity, not a venue-by-venue one, and the IPO window makes Q1 2027 the moment its tech stack gets locked."
+  },
+  {
+    "key": "https://www.nrn.com/mergers-acquisitions/dine-brands-global-swallows-a-poison-pill",
+    "date": "2026-10-30",
+    "headline": "Dine Brands Adopts Poison Pill: 1,700 Locations in Play",
+    "detail": "Applebee's/IHOP parent blocked Cobblers Cove and Arkhouse takeover bid Oct 28.",
+    "so_what": "Dine Brands (Applebee's, IHOP, Fuzzy's Taco Shop \u2014 1,700+ locations) adopted a stockholder rights plan after two investment firms accumulated nearly 20% of shares and made an offer at $39/share. If the takeover succeeds, new ownership would inherit tech vendor contracts across the entire franchised system. Applebee's and IHOP both currently run at-table and waitlist operations at franchisee discretion \u2014 a new PE owner rationalizing the stack would consolidate those decisions centrally. This is an early-watch acquisition window. Rights plan expires Oct 27, 2027, giving a 12-month window before any deal must be resolved."
+  },
+  {
+    "key": "https://resy.com/cities/new-york-ny/venues/noury",
+    "date": "2026-10-30",
+    "headline": "Noury SoHo: Halloween Highballs & Handrolls, Oct 31",
+    "detail": "The SoHo Japanese small-plates spot runs a themed Halloween format 5\u201310pm Oct 31, bookable on Resy; specific named event, not a generic party.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.fancyfeastsupperclub.com/halloween",
+    "date": "2026-10-30",
+    "headline": "Fancy Feast Supper Club's NYC Debut: Halloween at Farm to People",
+    "detail": "Leah Guadagnoli's cult Hudson Valley dinner series makes its first NYC appearance Oct 31 at Farm to People \u2014 multi-course vegetable menu in orange, black, purple; charcoal bread to pumpkin tiramisu.",
+    "so_what": ""
+  },
+  {
+    "key": "https://londontheinside.com/alexandra-palace-fireworks-festival/",
+    "date": "2026-10-30",
+    "headline": "Ally Pally Fireworks & Drone Festival: 50+ Street Food Vendors, Nov 7\u20138",
+    "detail": "Alexandra Palace's Bonfire Night weekend scales up: StrEATlife Village with 50+ food vendors, German Bier Festival in the Great Hall, drone display by Celestial (BGT runners-up), Eats Everything headlining.",
+    "so_what": ""
+  },
+  {
+    "key": "https://london-tv.co.uk/vegan-womens-club-celebrates-world-vegan-day-at-studio-gauthier/",
+    "date": "2026-10-30",
+    "headline": "Vegan Women's Club x Studio Gauthier: Five-Course World Vegan Day Dinner",
+    "detail": "Vegan caviar and vegan brie on the menu; Nov 1, 6\u201310pm at Studio Gauthier, open to non-members; Vegan Women's Club's first anniversary event, already circulating on TikTok.",
+    "so_what": ""
   }
 ]
