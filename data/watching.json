@@ -299,20 +299,6 @@
     "merged_from": []
   },
   {
-    "name": "Norte",
-    "date": "opens mid-October 2026",
-    "blurb": "Casual Flatiron sibling to Cuerno: trompo tacos, aguachiles, housemade tortillas.",
-    "city": "NYC",
-    "website": "",
-    "instagram_handle": "",
-    "instagram_url": "",
-    "source_url": "",
-    "category": "watching",
-    "id": "norte::NYC",
-    "importance_rank": 3,
-    "merged_from": []
-  },
-  {
     "name": "Kal\u00f3",
     "date": "opens October 2026",
     "blurb": "Wood-fired Greek restaurant on the Upper East Side: grilled meats, seafood, mezze.",
@@ -396,20 +382,6 @@
     "id": "koakuma::NYC"
   },
   {
-    "name": "Bar Douro Soho",
-    "date": "opens November 2",
-    "blurb": "Portuguese group Bar Douro's third site in Soho, serving rare Maronesa beef and regional wines.",
-    "city": "LDN",
-    "website": "",
-    "instagram_handle": "@bardouro",
-    "instagram_url": "https://www.instagram.com/bardouro/",
-    "source_url": "",
-    "category": "watching",
-    "importance_rank": 0,
-    "merged_from": [],
-    "id": "bar douro soho::LDN"
-  },
-  {
     "name": "Pardeh",
     "date": "opens November 18",
     "blurb": "Iranian-inspired 42-cover restaurant from ex-Drunken Butler chef Yma Apa, east London.",
@@ -476,6 +448,34 @@
     "source_url": "https://www.theupcoming.co.uk/2026/09/15/big-mamma-to-bring-new-italian-osteria-edmondo-to-the-city-of-london/",
     "category": "watching",
     "id": "edmondo::LDN",
+    "importance_rank": 0,
+    "merged_from": []
+  },
+  {
+    "name": "Bar Cosme",
+    "date": "opens November 10",
+    "blurb": "Enrique Olvera's cocktail-forward Cosme spin-off in the former Atla space, NoHo.",
+    "city": "NYC",
+    "website": "",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "source_url": "https://www.timeout.com/newyork/news/cosme-is-opening-a-brand-new-bar-in-noho-this-fall-071126",
+    "category": "watching",
+    "id": "bar cosme::NYC",
+    "importance_rank": 0,
+    "merged_from": []
+  },
+  {
+    "name": "Pari",
+    "date": "opens November 2026",
+    "blurb": "Seasonal French neo-bistro from two Carbone alumni, with a retractable glass facade, Williamsburg.",
+    "city": "NYC",
+    "website": "https://www.paribrooklyn.com",
+    "instagram_handle": "@pari.brooklyn",
+    "instagram_url": "https://www.instagram.com/pari.brooklyn",
+    "source_url": "https://www.theinfatuation.com/new-york/guides/nyc-fall-restaurant-openings-2026",
+    "category": "watching",
+    "id": "pari::NYC",
     "importance_rank": 0,
     "merged_from": []
   }

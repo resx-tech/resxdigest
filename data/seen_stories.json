@@ -1,61 +1,5 @@
 [
   {
-    "key": "https://www.exploretock.com/join/",
-    "date": "2026-10-02",
-    "headline": "Tock Brand Officially Retired into Resy",
-    "detail": "exploretock.com now redirects to Resy sign-up; site reads 'Tock is now part of the Resy network'",
-    "so_what": "The prior digest covered the Sept 15 Resy Credit expansion to Tock venues. The new development: the Tock consumer brand is being explicitly retired \u2014 not just merged. The operator-facing site now routes entirely through Resy. For ResX, this is the reservation market consolidating to two large consumer networks (Resy/Tock and OpenTable). Any venue currently on Tock that hasn't re-evaluated its platform mix will be evaluated again as Tock's brand disappears. That's a window."
-  },
-  {
-    "key": "https://www.nrn.com/mergers-acquisitions/fat-brands-changes-its-name",
-    "date": "2026-10-02",
-    "headline": "FAT Brands Reborn as OHG: 1,700 Locations",
-    "detail": "Post-bankruptcy rebrand to OHG Brands; 12 chains, ~1,700 units, new franchise sales push.",
-    "so_what": "A lender group bought 12 franchised restaurant chains out of FAT Brands' bankruptcy for $595M and is now operating them under a new identity (OHG Brands: Round Table Pizza, Fatburger, Johnny Rockets, Fazoli's, and others). The new owners explicitly said additional details drop in November \u2014 that's when franchise sales and platform standardization decisions typically get made. A 1,700-unit group under fresh PE ownership with no legacy platform commitments is exactly the kind of blank-slate account that gets signed in bulk. OHG's franchise registrations have also lapsed in several states, meaning they need to rebuild infrastructure fast. Reservation and waitlist tech is part of that rebuild."
-  },
-  {
-    "key": "https://finance.yahoo.com/economy/articles/opentables-inaugural-u-restaurant-impact-130000685.html",
-    "date": "2026-10-02",
-    "headline": "OpenTable Puts $80 Number on No-Shows",
-    "detail": "Inaugural U.S. Impact Report: dining up 11% YoY; no-show table for two costs $80.",
-    "so_what": "OpenTable just handed every reservation platform \u2014 including ResX \u2014 a market-ready data hook: 47% of diners say they'd cancel properly if they knew the financial cost. That's a behavior-change lever, not just a stat. If ResX isn't already surfacing no-show cost data to venues in sales conversations or building it into cancellation nudge copy, this report gives both the number and the consumer psychology to do it. OpenTable is also using this report to position itself as an industry advocate \u2014 that's a narrative play ResX should be aware of and potentially counter with its own venue-side data."
-  },
-  {
-    "key": "https://aiweekly.co/alerts/doordash-launches-imessage-text-to-order-ai-agent-and-mcp-server-for-corporate",
-    "date": "2026-10-02",
-    "headline": "DoorDash Orders Via iMessage, No App Needed",
-    "detail": "AI agent inside Apple Messages handles full checkout; 20K beta users, public waitlist open.",
-    "so_what": "DoorDash (which owns SevenRooms) just moved food ordering into the OS-native messaging layer \u2014 the same layer where Siri and App Intents live. This is the delivery side of what Meta Muse is doing on the discovery/reservation side: removing the app entirely from the transaction. If DoorDash connects this agent to SevenRooms reservation availability (not announced, but a logical next step), a diner could text 'book me dinner Saturday at 8' and get a table confirmed without ever opening a booking app. ResX should flag this internally as the architecture to watch \u2014 not the product today, but the direction."
-  },
-  {
-    "key": "https://www.prnewswire.com/news-releases/taco-bell-and-duolingo-take-national-taco-day-global-uniting-fans-around-one-word-the-world-already-speaks-taco-302895125.html",
-    "date": "2026-10-02",
-    "headline": "Taco Bell \u00d7 Duolingo Goes Global Oct. 6, NYC IRL Event",
-    "detail": "Taco Bell \u00d7 Duolingo collab launches Global Taco Day; Midtown Cantina pop-up (976 6th Ave) 3\u20134:30pm.",
-    "so_what": "National Taco Day is Oct. 6. Taco Bell is framing it as Global Taco Day for the first time \u2014 a brand moment with a physical NYC activation (Midtown Cantina, 3\u20134:30pm). For ResX, this is the cultural hook of the week: limited-time, high-demand in-person events are exactly the use case where reservation and waitlist infrastructure proves its value. Worth flagging for any venue-facing comms or social this week \u2014 and worth noting internally that brand collabs driving foot-traffic spikes are an underserved ResX product story."
-  },
-  {
-    "key": "https://tech.yahoo.com/ai/chatgpt/articles/openai-launches-dots-bubbly-agentic-171715977.html",
-    "date": "2026-10-02",
-    "headline": "OpenAI Dots: Always-On Background Agent Live",
-    "detail": "GPT-6 Astra agents run 24/7 in Slack, Teams; Pro/Business Premium now",
-    "so_what": "Spin up one Dot to watch Firebase crash reports and auto-file GitHub issues \u2014 zero extra tooling"
-  },
-  {
-    "key": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-    "date": "2026-10-02",
-    "headline": "Shopify Checkout Now Open to Browser Agents",
-    "detail": "WebMCP adds get_checkout, update_checkout, complete_checkout tools Sept 28",
-    "so_what": "Mirror this API pattern in ResX's booking endpoint \u2014 lets Muse/Instinct call it natively, not scrape"
-  },
-  {
-    "key": "https://www.unite.ai/anthropic-releases-claude-sonnet-5-5-at-unchanged-sonnet-5-pricing/",
-    "date": "2026-10-02",
-    "headline": "Sonnet 5.5: Same Price, 30% Cheaper Per Task",
-    "detail": "Anthropic ships faster mid-tier model; up to 30% fewer tokens used",
-    "so_what": "Swap Sonnet 5 to Sonnet 5.5 in Claude Code today \u2014 same bill, faster bug-fix loops"
-  },
-  {
     "key": "https://www.nextcard.com/articles/sapphire-reserve-exclusive-tables-changes",
     "date": "2026-10-05",
     "headline": "Chase/OpenTable Add 32 Restaurants, Now 436",
@@ -558,5 +502,82 @@
     "headline": "Vegan Women's Club x Studio Gauthier: Five-Course World Vegan Day Dinner",
     "detail": "Vegan caviar and vegan brie on the menu; Nov 1, 6\u201310pm at Studio Gauthier, open to non-members; Vegan Women's Club's first anniversary event, already circulating on TikTok.",
     "so_what": ""
+  },
+  {
+    "key": "https://www.rain.xyz/resources/blackbird-launches-flycard-a-rewards-card-for-everywhere-you-dine",
+    "date": "2026-11-02",
+    "headline": "Blackbird launches FlyCard debit card and Birdie AI agent",
+    "detail": "Visa-backed debit card earns $FLY at any restaurant; Birdie books via Resy/OpenTable.",
+    "so_what": ""
+  },
+  {
+    "key": "https://blog.resy.com/2026/10/beli-restaurants-new-york/",
+    "date": "2026-11-02",
+    "headline": "Beli partners with Resy for NYC restaurant rankings",
+    "detail": "New Resy partnership surfaces Beli's top-rated NYC restaurants with direct booking links.",
+    "so_what": ""
+  },
+  {
+    "key": "https://heat.com/news/dorsia-and-the-miami-heat-announce-the-dorsia-club-at-kaseya-center",
+    "date": "2026-11-02",
+    "headline": "Dorsia signs five-year Miami Heat partnership",
+    "detail": "Named official hospitality tech partner; The Dorsia Club opens at Kaseya Center this season.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.morningadvertiser.co.uk/Article/2026/10/22/pubs-hit-by-designmynight-booking-system-outage/",
+    "date": "2026-11-02",
+    "headline": "DesignMyNight / Access Collins outage hits UK pubs",
+    "detail": "Platform outage Oct 22 left Fuller's, Young's, Urban Pubs unable to access or take bookings.",
+    "so_what": ""
+  },
+  {
+    "key": "https://londonist.com/london/food-and-drink/bompas-parr-gastrolabe-space-house",
+    "date": "2026-11-02",
+    "headline": "Bompas & Parr's Revolving Dinner Sells Bonfire Night Views",
+    "detail": "51-seat rotating table, 14 floors up at Space House Holborn; runs Nov 3\u20138, \u00a378pp.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.londonpartyboats.co.uk/packages/ticket-details?event=bonfire-night-on-the-thames-207",
+    "date": "2026-11-02",
+    "headline": "Bonfire Night on the Thames: \u00a350 Boat Dinner, Battersea Fireworks",
+    "detail": "Onyx of London cruise, Festival Pier Nov 7, 7:15\u201310:15pm; hot buffet and DJ included.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.timeout.com/london/news/legendary-cafe-london-selfridges-collaboration-christmas-102626",
+    "date": "2026-11-02",
+    "headline": "E Pellicci Lands at Selfridges Brass Rail Through Christmas",
+    "detail": "Bethnal Green caf\u00e9's Big Bang Ciabatta and ragu pasta now on Oxford Street; live Nov 2.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.experimentalgroup.com/new-york/experimental-cocktail-club-nyc",
+    "date": "2026-11-02",
+    "headline": "Duch\u00eane Takes Over Experimental's Three NYC Bars",
+    "detail": "Le Ch\u00eane chef debuts French menus at ECC + La Compagnie Flatiron/Centre St Nov 8.",
+    "so_what": ""
+  },
+  {
+    "key": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+    "date": "2026-11-02",
+    "headline": "Codex Cloud runs tasks while laptop is off",
+    "detail": "Persistent cloud envs with your repo and dependencies; Security Cloud scans GitHub on schedule.",
+    "so_what": "Set up one Codex Cloud env with your RN/Node/Firebase repo \u2014 delegate overnight TypeScript refactors and Firebase security audits without a machine running."
+  },
+  {
+    "key": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "date": "2026-11-02",
+    "headline": "Anthropic S-1: Claude Code users spend 20\u00d7 more",
+    "detail": "SEC filing confirms Code users are Anthropic's highest-value enterprise tier.",
+    "so_what": "Add Claude Code to your Codex workflow now \u2014 Anthropic will prioritise it above all other tooling."
+  },
+  {
+    "key": "https://agent.minimax.io/tools/m3.1-flash",
+    "date": "2026-11-02",
+    "headline": "MiniMax M3.1 Flash: 70% cheaper agentic task costs",
+    "detail": "Oct 19 GA release cuts per-task cost from $0.51 to $0.22; 3\u00d7 faster inference.",
+    "so_what": "Route Node agent coding calls to M3.1 Flash via MiniMax API today \u2014 $0.15/$0.60 per million, no quality trade-off on coding tasks."
   }
 ]
