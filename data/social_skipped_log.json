@@ -456,5 +456,78 @@
     "url": "https://www.hot-dinners.com/Gastroblog/Test-drive/lunette-restaurant-review-florence-knight-st-clement-hotel",
     "reason": "Could not verify exact Instagram handle for Lunette from fetched sources \u2014 omitted account_url rather than guess. Kept article lead as it is a verified single-subject Hot Dinners test-drive.",
     "source_type": "researched"
+  },
+  {
+    "date": "2026-11-05",
+    "subject": "World's 50 Best 2026",
+    "url": "https://www.hot-dinners.com/2026110515505/Gastroblog/Latest-news/the-50-best-restaurants-world-2026-full-list-announced",
+    "reason": "no_usable_link",
+    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-05",
+    "subject": "Caf\u00e9 Gitane NYC",
+    "url": "https://diningout.com/new-york/nyc-bar-restaurant-openings-nov3-2026/",
+    "reason": "no_usable_link",
+    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-05",
+    "subject": "Elezar Mayfair",
+    "url": "https://www.hot-dinners.com/2024040213114/Gastroblog/Latest-news/new-london-restaurants-bars-opening-this-week",
+    "reason": "no_usable_link",
+    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-05",
+    "subject": "Lady Delilah NYC",
+    "url": "https://diningout.com/new-york/nyc-bar-restaurant-openings-nov3-2026/",
+    "reason": "h.wood Group supper club opening (Nov 3) is very fresh but leans Vegas-celebrity-bottle-service rather than ResX's cool-downtown-insider vibe; ranked below Caf\u00e9 Gitane for brand fit",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-05",
+    "subject": "Some Guy's House viral apartment steak",
+    "url": "https://www.dexerto.com/entertainment/viral-steak-restaurant-serves-customers-straight-out-of-their-apartment-window-3423854/",
+    "reason": "Exact moment already on the already-featured dedup list ('viral apartment-window steak pulley system going massive overnight, nov 2\u20133 2026') \u2014 dropped",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-05",
+    "subject": "Diwali / Tamarind Tribeca feast",
+    "url": "https://diningout.com/new-york/this-week-in-new-york-dining-november3-2026/",
+    "reason": "Diwali is today (great timeliness) but Tamarind Tribeca's 15-course feast starts tomorrow Nov 6, not today; angle is too generic without a visually craveable post to anchor it, and no IG permalink found",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-05",
+    "subject": "Atoboy x Katz's pastrami naengchae",
+    "url": "https://diningout.com/new-york/this-week-in-new-york-dining-november3-2026/",
+    "reason": "Genuinely interesting collab but no visual post permalink found, and running all November so no urgency today specifically; ranked below the stronger items",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-05",
+    "subject": "Lunette rooftop Florence Knight",
+    "url": "https://www.hot-dinners.com/2024040213114/Gastroblog/Latest-news/new-london-restaurants-bars-opening-this-week",
+    "reason": "Very strong opening (Thames rooftop views, Florence Knight's return) but no IG post permalink extracted; would compete with Elezar for the LDN repost slot and Elezar has stronger stop-scroll concept; dropped to avoid two LDN lead-only reposts",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-05",
+    "subject": "Edmondo Big Mamma City opening",
+    "url": "https://www.hot-dinners.com/2024040213114/Gastroblog/Latest-news/new-london-restaurants-bars-opening-this-week",
+    "reason": "Opens tomorrow Nov 6 \u2014 good momentum but Big Mamma is a known maximalist chain without the insider-cool edge ResX needs; Smokestak x Manteca is a stronger LDN story for tomorrow",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-05",
+    "subject": "Bar Douro Soho third site",
+    "url": "https://www.hot-dinners.com/2024040213114/Gastroblog/Latest-news/new-london-restaurants-bars-opening-this-week",
+    "reason": "Solid opening (Nov 4, Portuguese beef focus) but doesn't have a specific viral moment or scroll-stopping angle; no IG permalink found",
+    "source_type": "researched"
   }
 ]
