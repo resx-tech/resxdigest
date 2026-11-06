@@ -1,82 +1,5 @@
 [
   {
-    "key": "https://www.nextcard.com/articles/sapphire-reserve-exclusive-tables-changes",
-    "date": "2026-10-05",
-    "headline": "Chase/OpenTable Add 32 Restaurants, Now 436",
-    "detail": "Oct 1 update: NYC gains 8 slots; Catbird Seat, schwa added.",
-    "so_what": "The Chase Sapphire Reserve Exclusive Tables program \u2014 which locks prime-time reservations to cardholders via OpenTable \u2014 just expanded to 436 restaurants, adding 8 in NYC alone (including Quality Bistro, Zou Zou's, Lady Delilah). This is the direct competitor to Amex Resy Credit (which has 10K+ restaurants vs. Chase's 436). Every new restaurant added to Exclusive Tables is a venue that has ceded a portion of its reservation inventory to a credit card partner via OpenTable. For ResX, this is the pattern to watch: platform-card bundles are increasingly the mechanism by which reservation access gets stratified. The comparison point (Amex Resy at 10K+ vs. Chase OpenTable at 436) is a live talking point in any venue sales conversation about platform reach and cardholder exclusivity tradeoffs."
-  },
-  {
-    "key": "https://www.nrn.com/restaurant-finance/chip-city-is-shutting-down-all-its-locations",
-    "date": "2026-10-05",
-    "headline": "Chip City Shuts All 22 Locations Overnight",
-    "detail": "Danny Meyer-backed NYC cookie chain collapses Oct 1; legal dispute.",
-    "so_what": "Chip City was a PE-backed, Danny Meyer-funded (EHI took a $4M majority stake in March 2026) NYC-native food concept with 22 locations \u2014 and it folded overnight on Oct 1 amid a founder lawsuit and funding gap. The operational signal: even recently recapitalized, well-connected brands are hitting walls on consumer spending and execution. For ResX, this is a concrete data point on operator fragility right now \u2014 relevant context for any venue sales or partnership conversations, and for how ResX frames contract terms, onboarding costs, and churn risk with smaller multi-unit operators."
-  },
-  {
-    "key": "https://www.nrn.com/restaurant-labor/september-restaurant-job-growth-slows-after-august-hiring-surge",
-    "date": "2026-10-05",
-    "headline": "Restaurant Hiring Collapses to 10,800 in September",
-    "detail": "One-third of August's gain; overall economy adds just 29,000 jobs.",
-    "so_what": "The US economy nearly stalled in September (29,000 total jobs), and restaurants added only 10,800 \u2014 roughly one-third of August's 33,800, and far below September 2024's 69,000. Wage growth slowed to 3.0% YoY. This is a leading indicator for discretionary dining spend: when hiring slows and wage growth softens, reservation volume at mid-tier full-service restaurants tends to follow within 6\u20138 weeks. For ResX, this is the macro backdrop for Q4 venue conversations \u2014 operators will be more cost-sensitive, more likely to scrutinize platform fees, and more likely to cancel or defer tech contracts. It also reinforces the no-show cost narrative (OpenTable's $80/no-show figure) as a concrete ROI hook in a tighter environment."
-  },
-  {
-    "key": "https://greenpointers.com/2026/09/30/top-chef-alums-mythily-opens-in-williamsburg/",
-    "date": "2026-10-05",
-    "headline": "Mythily Opens in Williamsburg: Tamil \u00d7 French Laundry",
-    "detail": "Top Chef S21 alum Rasika Venkatesa opened Sept 30 at 129 Havemeyer St; benne dosa with jimmy nardello chutney, ras malai tres leches cake; 45 seats, Wed\u2013Sun only.",
-    "so_what": "Pop-up-to-permanent conversion that Kickstarted $114K in 41 hours \u2014 the demand signal was already proven before a single table was booked. This is the reservation infrastructure story ResX should be tracking: high-demand indie openings with a pre-built audience are exactly where waitlist and floor-management tooling pays for itself on day one. Also the cultural moment of the week for Brooklyn dining."
-  },
-  {
-    "key": "https://resy.com/cities/new-york-ny/venues/labielle",
-    "date": "2026-10-05",
-    "headline": "Michel Roux x L'Abeille: Le Gavroche Returns to NYC",
-    "detail": "Michel Roux Jr. returns to Tribeca's L'Abeille Oct 13\u201316 for a 3-night, 8-course collab with chef Mitsunobu Nagae; souffl\u00e9 Suissesse and roast pigeon with foie gras on menu.",
-    "so_what": "Second consecutive year of this annual residency format \u2014 L'Abeille is establishing a repeatable, high-demand collab calendar that sells out on Resy. The venue's own Resy page is the primary booking surface. For ResX: this is the collab-calendar model (named chef, fixed dates, limited seats) that drives repeat reservation demand and is underserved by standard reservation tools."
-  },
-  {
-    "key": "https://mayfairtimes.co.uk/2026/08/theo-randall-interview/",
-    "date": "2026-10-05",
-    "headline": "Theo Randall \u00d7 Jack Stein: Cornish Meets Italian, Park Lane",
-    "detail": "Jack Stein joins Theo Randall at Cucina Italiana (InterContinental Park Lane) Oct 15 for a 20th anniversary collab dinner; Cornish sustainable seafood meets Randall's Italian technique.",
-    "so_what": "Theo Randall is running a year-long series of anniversary collabs \u2014 a structured collab calendar at an established hotel restaurant. The Stein dinner is the highest-profile installment. Hotel restaurant collab dinners at this tier (InterContinental Park Lane) require reservation infrastructure that handles tiered pricing, event-mode booking, and guest comms separately from the regular \u00e0 la carte. A live ResX product question: does the platform handle event-type covers differently from standard reservations?"
-  },
-  {
-    "key": "http://www.londonpopups.com/",
-    "date": "2026-10-05",
-    "headline": "Ariel McQueen Month Residency at Giacco's, Highbury",
-    "detail": "CDMX-born, French-trained chef Ariel McQueen cooks Mexico City, Veracruz, and Yucat\u00e1n menus at Giacco's wine bar (N5) Tues\u2013Sun through Nov 1; booked via pub's site.",
-    "so_what": "Giacco's is running the most consistent chef-residency incubator model in north London \u2014 a new chef roughly monthly, each with their own social following and press cycle. The venue itself doesn't change; the demand driver does. This is the rotating-operator model that reservation platforms have historically underserved (the venue stays on the platform but the chef changes, breaking guest communication continuity). Worth flagging as a product edge case."
-  },
-  {
-    "key": "https://artlyst.com/frieze-week-london-art-fairs-guide-october-2026-artlyst/",
-    "date": "2026-10-05",
-    "headline": "Frieze Week London: Dining Scene's Biggest Booking Week",
-    "detail": "Frieze London opens Oct 14 (invite-only preview), public Oct 15\u201318, Regent's Park; 172 galleries, 42 countries; restaurant tables at Berners Tavern, Dovetale, and Chiltern Firehouse move in the same 48-hour window as VIP passes.",
-    "so_what": "Frieze Week is the single highest-demand reservation week of the London dining year \u2014 comparable to the US Open for NYC. The VIP preview (Oct 14) triggers a predictable surge in same-night dinner bookings at Mayfair and Marylebone venues. For ResX: this is a named, annual, date-specific demand spike that venue partners should be preparing for with waitlist infrastructure and surge-capacity tooling. If ResX isn't proactively briefing London venue partners on Frieze week demand by now, that's a missed playbook moment."
-  },
-  {
-    "key": "https://venturebeat.com/technology/openais-gpt-6-1-sol-offers-astra-like-performance-at-1-5th-price-a-new-ultrafast-tier-clocks-at-300-tokens-per-second",
-    "date": "2026-10-05",
-    "headline": "GPT-6.1 Sol: Near-Astra Coding at 80% Less",
-    "detail": "OpenAI ships near-flagship model at $2/$10 per million tokens, $0.10 cached",
-    "so_what": "Enable caching on your Node agent calls now \u2014 per-step cost drops from $0.40 to $0.02"
-  },
-  {
-    "key": "https://claude.com/blog/claude-code-mods",
-    "date": "2026-10-05",
-    "headline": "Claude Code Mods: TypeScript Middleware Inside the Agent",
-    "detail": "Anthropic ships in-process TypeScript hooks to intercept, rewrite, or block any tool call",
-    "so_what": "Write a 10-line mod to block rm -rf and force-pushes in Claude Code before next sprint"
-  },
-  {
-    "key": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-    "date": "2026-10-05",
-    "headline": "Gemini 4 Argon: 1M-Token Output, #1 on Coding Bench",
-    "detail": "Google's new frontier model scores 77.9% on DeepSWE; paid API access next in queue",
-    "so_what": "Get on paid Gemini API waitlist now \u2014 first to test Argon on large codebase migrations"
-  },
-  {
     "key": "https://www.opentable.com/blog/press/page/opentable-and-visa/",
     "date": "2026-10-09",
     "headline": "OpenTable Renews Visa Partnership, Expands to Mexico/Canada",
@@ -579,5 +502,68 @@
     "headline": "MiniMax M3.1 Flash: 70% cheaper agentic task costs",
     "detail": "Oct 19 GA release cuts per-task cost from $0.51 to $0.22; 3\u00d7 faster inference.",
     "so_what": "Route Node agent coding calls to M3.1 Flash via MiniMax API today \u2014 $0.15/$0.60 per million, no quality trade-off on coding tasks."
+  },
+  {
+    "key": "https://www.androidauthority.com/resy-partial-outage-nov-2026-3732111/",
+    "date": "2026-11-06",
+    "headline": "Resy partial outage hits all services Nov 5",
+    "detail": "Booking, search, and payments all down; company investigating, no timeline given.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.investing.com/news/sec-filings/tripadvisor-completes-700-million-sale-of-thefork-to-american-express-93CH-4991182",
+    "date": "2026-11-06",
+    "headline": "TheFork \u00d7 Amex: $700M acquisition officially closed",
+    "detail": "TripAdvisor confirmed close Nov 1; Amex nets 50,000-restaurant European footprint.",
+    "so_what": ""
+  },
+  {
+    "key": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+    "date": "2026-11-06",
+    "headline": "Zest SMS agent books via OpenTable, Resy, SevenRooms",
+    "detail": "Credit-card-linked text concierge books reservations without an app; Ohanian-backed.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.prnewswire.com/news-releases/hostie-adds-takeout-ordering-capabilities-to-its-ai-powered-virtual-concierge-302928735.html",
+    "date": "2026-11-06",
+    "headline": "Hostie adds AI takeout ordering to concierge",
+    "detail": "Voice and text takeout ordering goes live Nov 4; syncs with live menu and peak-hour demand.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.nrn.com/restaurant-technology/uber-eats-sees-little-traffic-from-ai-agents",
+    "date": "2026-11-06",
+    "headline": "Uber, DoorDash: AI agents near-zero real dining orders",
+    "detail": "Uber: 500 Eats orders, 4 rides from agents vs 320M trips Halloween week.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.cityam.com/what-to-eat-in-london-this-november-the-chef-collaborations-worth-booking/",
+    "date": "2026-11-06",
+    "headline": "AngloThai \u00d7 David Thompson: 2-Night Birthday Collab, Nov 10\u201311",
+    "detail": "Thai cuisine's first Michelin star chef cooks at Marylebone's AngloThai \u2014 45 seats per night, \u00a3165 five courses. Already sold out.",
+    "so_what": "David Thompson opened Nahm in London in 2001 \u2014 the world's first Michelin-starred Thai restaurant \u2014 and John Chantarasak worked under him at Nahm Bangkok before opening AngloThai. This is a mentor-returns-to-student reunion format, two nights only, 45 seats per night, already marked [sold out] by City AM. The cultural weight (Thompson rarely cooks in the UK) plus the intimate cap makes this the highest-prestige collab dinner in London this month. Sold-out status within days of announcement is the signal \u2014 this is what genuine reservation demand looks like for a named four-hands event."
+  },
+  {
+    "key": "https://resy.com/cities/new-york-ny/venues/crown-shy",
+    "date": "2026-11-06",
+    "headline": "Crown Shy Diwali: Tandoor Menu, Nov 6\u20137 Only",
+    "detail": "Chef Jassimran Singh's Indian curries and tandoor-baked naan replace regular menu for two nights.",
+    "so_what": "Crown Shy is running a full Diwali format \u2014 not a supplement, an entire menu replacement \u2014 across both Friday and Saturday prime service. This is a Michelin-starred room betting its busiest nights on a cultural calendar pivot. Multiple Indian restaurants (Tera Mera, Bungalow, Madam Ji Ki Shaadi, Tamarind) are running concurrent Diwali menus, signalling that Diwali is now a dining-out moment on par with Valentine's Day or NYE in NYC. ResX should track whether Diwali-specific reservations are spiking across the platform."
+  },
+  {
+    "key": "https://www.eventbrite.co.uk/e/smokestak-manteca-present-xv-blok-party-tickets-2002505923122",
+    "date": "2026-11-06",
+    "headline": "SMOKESTAK \u00d7 Manteca: XV Blok Party, Nov 7",
+    "detail": "10 years Smokestak + 5 years Manteca = one-night street party at Protein Studios, Shoreditch; \u00a315 tickets, charity proceeds.",
+    "so_what": "David Carter's two restaurants \u2014 Smokestak and Manteca \u2014 are the east London culinary institutions that the @realhousewivesofclapton and @nolitadirtbag-equivalent London crowd treats as anchors. A joint birthday party at a Shoreditch mid-point, priced at \u00a315 with a cocktail included, is designed to sell out fast and generate high social coverage. Food: OG brisket buns, wood-oven mortadella hotdogs, pig skin rag\u00f9. DJs. This is the London dining social event of the week \u2014 the format (two operators, shared space, charity angle, ticketed) is worth noting as a collab model."
+  },
+  {
+    "key": "https://diningout.com/new-york/this-week-in-new-york-dining-november3-2026",
+    "date": "2026-11-06",
+    "headline": "Atoboy \u00d7 Katz's: Pastrami Naengchae, Through Nov",
+    "detail": "Korean cold noodle dish with Katz's pastrami, rye croutons, mustard dressing \u2014 on menu now.",
+    "so_what": "This is Atoboy's 10th-anniversary collab series finale \u2014 the most socially legible pairing of the run (Katz's brand recognition is ceiling-level). A named dish with a named collab partner and a hard end date (Nov 30) is the exact format that drives reservation urgency. Watch how Resy surfaces limited-time collab dishes in discovery vs. standard menu items \u2014 this is a live test case."
   }
 ]

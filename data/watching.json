@@ -93,20 +93,6 @@
     "merged_from": []
   },
   {
-    "name": "Lunette",
-    "date": "opens September 2026",
-    "blurb": "Florence Knight's rooftop restaurant on level 11 of Nick Jones' St Clement hotel.",
-    "city": "LDN",
-    "website": "https://lunette.london",
-    "instagram_handle": "@lunette.london",
-    "instagram_url": "https://www.instagram.com/lunette.london/",
-    "source_url": "https://www.hot-dinners.com/2026060115108/Gastroblog/Latest-news/lunette-florence-knight-restaurant-london-180-thames-rooftop",
-    "category": "watching",
-    "id": "lunette::LDN",
-    "importance_rank": 4,
-    "merged_from": []
-  },
-  {
     "name": "Badshah Social",
     "date": "July 7, 2026",
     "blurb": "Indian street food restaurant in Park Slope with chaat, griddle snacks, and cocktails.",
@@ -241,20 +227,6 @@
     "category": "watching",
     "id": "manna::LDN",
     "importance_rank": 3,
-    "merged_from": []
-  },
-  {
-    "name": "Mili",
-    "date": "opens late September 2026",
-    "blurb": "Former Estela chef Jorge Luis Pab\u00f3n's intimate wine-bar restaurant on the Lower East Side.",
-    "city": "NYC",
-    "website": "",
-    "instagram_handle": "",
-    "instagram_url": "",
-    "source_url": "https://whatnow.com/new-york/restaurants/mili-to-open-permanent-lower-east-side-restaurant-this-fall/",
-    "category": "watching",
-    "id": "mili::NYC",
-    "importance_rank": 0,
     "merged_from": []
   },
   {
@@ -438,20 +410,6 @@
     "merged_from": []
   },
   {
-    "name": "Edmondo",
-    "date": "opens November 6",
-    "blurb": "Big Mamma's 200-cover 1930s Milanese Italian osteria lands in the City at Bank.",
-    "city": "LDN",
-    "website": "https://www.bigmammagroup.com/italian-restaurants/edmondo-london",
-    "instagram_handle": "@bigmamma.uk",
-    "instagram_url": "https://www.instagram.com/bigmamma.uk/",
-    "source_url": "https://www.theupcoming.co.uk/2026/09/15/big-mamma-to-bring-new-italian-osteria-edmondo-to-the-city-of-london/",
-    "category": "watching",
-    "id": "edmondo::LDN",
-    "importance_rank": 0,
-    "merged_from": []
-  },
-  {
     "name": "Bar Cosme",
     "date": "opens November 10",
     "blurb": "Enrique Olvera's cocktail-forward Cosme spin-off in the former Atla space, NoHo.",
@@ -478,5 +436,61 @@
     "id": "pari::NYC",
     "importance_rank": 0,
     "merged_from": []
+  },
+  {
+    "name": "\u0100zar",
+    "date": "opens November 7",
+    "blurb": "Michelin-kitchen chef Soroosh Golbabae's Persian street grill in Williamsburg.",
+    "city": "NYC",
+    "website": "https://azar.nyc",
+    "instagram_handle": "@azar.newyork",
+    "instagram_url": "https://www.instagram.com/azar.newyork/",
+    "source_url": "https://greenpointers.com/2026/11/05/new-persian-restaurant-azar-opening-this-weekend-in-williamsburg/",
+    "category": "watching",
+    "importance_rank": 0,
+    "merged_from": [],
+    "id": "\u0101zar::NYC"
+  },
+  {
+    "name": "Ramen Break Beats",
+    "date": "opens December 2026",
+    "blurb": "NYC outpost of Tokyo ramen shop by chef Takuro Yanase, landing on Ludlow Street.",
+    "city": "NYC",
+    "website": "",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "source_url": "",
+    "category": "watching",
+    "importance_rank": 0,
+    "merged_from": [],
+    "id": "ramen break beats::NYC"
+  },
+  {
+    "name": "Berryman's",
+    "date": "opens November 13",
+    "blurb": "Three Sheets founders' tiny walk-in Dalston bar: Cornish oysters and rotating martinis.",
+    "city": "LDN",
+    "website": "",
+    "instagram_handle": "@berrymansbar",
+    "instagram_url": "https://www.instagram.com/berrymansbar/",
+    "source_url": "https://www.hot-dinners.com/2026102115467/Gastroblog/Latest-news/berrymans-three-sheets-dalston-bar-london",
+    "category": "watching",
+    "importance_rank": 0,
+    "merged_from": [],
+    "id": "berrymans::LDN"
+  },
+  {
+    "name": "Braai Bird",
+    "date": "opens November 19",
+    "blurb": "Kudu founders return to Nunhead with wood-fired rotisserie chicken and South African sauces.",
+    "city": "LDN",
+    "website": "https://www.braaibird.com",
+    "instagram_handle": "@braaibird",
+    "instagram_url": "https://www.instagram.com/braaibird/",
+    "source_url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-november-2026",
+    "category": "watching",
+    "importance_rank": 0,
+    "merged_from": [],
+    "id": "braai bird::LDN"
   }
 ]
