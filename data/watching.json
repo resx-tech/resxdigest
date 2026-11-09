@@ -382,20 +382,6 @@
     "id": "romy::NYC"
   },
   {
-    "name": "Heard Covent Garden",
-    "date": "opens November 2026",
-    "blurb": "Two-Michelin-starred Jordan Bailey's smash burger flagship with a hidden dessert speakeasy.",
-    "city": "LDN",
-    "website": "",
-    "instagram_handle": "@heard.burger",
-    "instagram_url": "https://www.instagram.com/heard.burger/",
-    "source_url": "https://www.hot-dinners.com/2026092815397/Gastroblog/Latest-news/heard-burger-covent-garden-opening-dessert-bar",
-    "category": "watching",
-    "id": "heard covent garden::LDN",
-    "importance_rank": 1,
-    "merged_from": []
-  },
-  {
     "name": "PAM",
     "date": "opens November 3",
     "blurb": "Ex-Kiln head chef Karla Knowles' debut: live-fire Thai, British produce, Farringdon.",
@@ -438,20 +424,6 @@
     "merged_from": []
   },
   {
-    "name": "\u0100zar",
-    "date": "opens November 7",
-    "blurb": "Michelin-kitchen chef Soroosh Golbabae's Persian street grill in Williamsburg.",
-    "city": "NYC",
-    "website": "https://azar.nyc",
-    "instagram_handle": "@azar.newyork",
-    "instagram_url": "https://www.instagram.com/azar.newyork/",
-    "source_url": "https://greenpointers.com/2026/11/05/new-persian-restaurant-azar-opening-this-weekend-in-williamsburg/",
-    "category": "watching",
-    "importance_rank": 0,
-    "merged_from": [],
-    "id": "\u0101zar::NYC"
-  },
-  {
     "name": "Ramen Break Beats",
     "date": "opens December 2026",
     "blurb": "NYC outpost of Tokyo ramen shop by chef Takuro Yanase, landing on Ludlow Street.",
@@ -492,5 +464,35 @@
     "importance_rank": 0,
     "merged_from": [],
     "id": "braai bird::LDN"
+  },
+  {
+    "name": "Dragonne",
+    "date": "opens Fall 2026",
+    "blurb": "Chef Mark Chou's debut bistro: French technique with Asian inflection in the old Annisa space.",
+    "city": "NYC",
+    "website": "",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "source_url": "https://whatnow.com/new-york/restaurants/dragonne-opens-in-west-village/",
+    "category": "watching",
+    "importance_rank": 0,
+    "merged_from": [
+      "dragonne::NYC"
+    ]
+  },
+  {
+    "name": "Ralphie's",
+    "date": "opens November 23",
+    "blurb": "Tom Booton's debut solo restaurant: playful British bistro on Pimlico Road, dog menu included.",
+    "city": "LDN",
+    "website": "",
+    "instagram_handle": "@ralphieslondon",
+    "instagram_url": "https://www.instagram.com/ralphieslondon/",
+    "source_url": "https://www.hot-dinners.com/2026101515452/Gastroblog/Latest-news/tom-booton-ralphies-restaurant-belgravia-london",
+    "category": "watching",
+    "importance_rank": 0,
+    "merged_from": [
+      "ralphies::LDN"
+    ]
   }
 ]

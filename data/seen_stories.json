@@ -1,75 +1,5 @@
 [
   {
-    "key": "https://www.opentable.com/blog/press/page/opentable-and-visa/",
-    "date": "2026-10-09",
-    "headline": "OpenTable Renews Visa Partnership, Expands to Mexico/Canada",
-    "detail": "Multi-year renewal adds Visa Dining Collection to Mexico and Canada markets.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.blackbird.xyz/",
-    "date": "2026-10-09",
-    "headline": "Blackbird Relaunches Breakfast Club, NYC Coffee Pass",
-    "detail": "$60 annual membership unlocks free daily coffee at six NYC restaurants.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.verdictfoodservice.com/news/quandoo-to-shut-restaurant-booking-platform-by-end-of-2026/",
-    "date": "2026-10-09",
-    "headline": "Quandoo Consumer Services Fully Shut Down Oct 1",
-    "detail": "All bookings and consumer services ended October 1; full shutdown by Dec 31.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.nrn.com/restaurant-technology/google-maps-releases-its-first-fan-favorite-dining-lists",
-    "date": "2026-10-09",
-    "headline": "Google Maps Launches First Fan-Favorite Dining Lists",
-    "detail": "Curated by reviews and direction data for NYC and London, among 10 cities.",
-    "so_what": "Google just inserted itself into the restaurant discovery layer \u2014 for both NYC and London. The Fan-Favorite lists are built on aggregated search, direction requests, and Local Guides reviews, and they include a 'know before you go' tips section explicitly covering how to snag hard-to-get reservations. That makes Google Maps a direct upstream influence on which venues get reservation demand spikes. Any ResX venue that doesn't appear favorably in Google's organic discovery layer is already losing the pre-booking funnel to a surface that doesn't pay ResX anything. This is the same dynamic as Resy's network effect \u2014 but it's free, platform-native, and available to the 2B+ people who already have Google Maps. Venues should be briefed: Google is now a discovery competitor, not just a map."
-  },
-  {
-    "key": "https://restaurantdive.com/news/uber-eats-acquires-ezcater-2-billion/832219",
-    "date": "2026-10-09",
-    "headline": "Uber Acquires ezCater for $2.3B Cash",
-    "detail": "Uber Eats adds 140K-restaurant catering marketplace; $400+ avg order value.",
-    "so_what": "This is Uber's direct counter to DoorDash/SevenRooms. DoorDash bought SevenRooms for $1.2B and added dine-in reservations to its delivery app. Uber just bought the largest US catering marketplace \u2014 140,000 restaurants, $2.5B in annual gross bookings, average order above $400 \u2014 and is folding it into Uber Eats and Uber for Business. Catering orders are high-value, group, pre-scheduled events: exactly the use case where reservation and event management infrastructure (date, party size, pre-payment, guest comms) is most needed. If Uber connects ezCater's restaurant network to any reservation or table-management layer, it becomes a third delivery giant with a reservation-adjacent product. For ResX: this accelerates the delivery platform \u2192 reservation platform convergence that DoorDash started. The question is whether venues using ezCater will now get reservation tooling from Uber, or whether there's a gap ResX can fill before Uber builds it."
-  },
-  {
-    "key": "https://www.restaurantdive.com/news/true-food-kitchen-files-chapter-11-bankruptcy/832161/",
-    "date": "2026-10-09",
-    "headline": "True Food Kitchen Files Ch. 11, Closes 12 Locations",
-    "detail": "34 full-service locations remain open; court-supervised sale underway, no stalking horse yet.",
-    "so_what": "True Food Kitchen entered Chapter 11 with $42.1M in funded debt, closed 12 restaurants on Oct 4, and is now running a court-supervised sale with a stalking-horse deadline of Nov 30. The 34 remaining locations are full-service, sit-down, wellness-casual \u2014 exactly the segment that uses reservation infrastructure. The incoming buyer (whoever it is) will evaluate the full tech stack as part of diligence. No stalking horse is identified yet, meaning platform relationships are not locked. This is the same acquisition-window dynamic flagged for OHG Brands \u2014 a distressed brand in restructuring is the moment when platform contracts get reset. If ResX has contacts at any of the 34 open locations or the restructuring advisors, now is the window to be in the room before November 30."
-  },
-  {
-    "key": "https://hellgatenyc.com/you-wouldnt-steal-a-restaurant-reservation-ai-legal/",
-    "date": "2026-10-09",
-    "headline": "NYC Press Asks: Are AI Reservation Apps Legal?",
-    "detail": "Hell Gate NYC piece directly names Resy ban, Carbone, AI agents; Oct 5.",
-    "so_what": "Hell Gate NYC \u2014 a credible NYC local outlet \u2014 published a consumer-facing story on Oct 5 asking whether AI reservation-booking apps are legal, naming Resy's ban of an AI user who hit 4 Charles Prime Rib 'hundreds of times every hour of the day.' This is the Instinct/Resy story that prior digests flagged as a platform policy question \u2014 but it has now crossed from trade press into mainstream NYC consumer media. That shift matters: once local outlets frame the story as 'is this legal,' restaurant operators start asking their platform reps the same question. ResX needs a clear, written answer to 'what is your policy on AI agents booking through your system' before a venue partner reads this article and asks. The Meta Muse dynamic (mass-market bot traffic) makes this more urgent, not less."
-  },
-  {
-    "key": "https://www.anthropic.com/claude-haiku-5-5",
-    "date": "2026-10-09",
-    "headline": "Haiku 5.5: 75% cheaper, built for subagents",
-    "detail": "Anthropic ships small model at $0.10/M input, Oct 7",
-    "so_what": "Swap Haiku 4.5 to Haiku 5.5 in Node classification calls today \u2014 same quality, 75% lower bill"
-  },
-  {
-    "key": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-    "date": "2026-10-09",
-    "headline": "Instinct group chat books restaurants without accounts",
-    "detail": "Agent joins group threads; non-users can act on reservations",
-    "so_what": "Audit ResX booking endpoint now \u2014 Instinct can hit it from group chats, not just solo sessions"
-  },
-  {
-    "key": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-    "date": "2026-10-09",
-    "headline": "Apple locks macOS Full Disk Access, cites AI agents",
-    "detail": "OS-level permission tightened after Muse read private messages",
-    "so_what": "Audit which dev tools hold Full Disk Access on team Macs before Apple's update ships and breaks them"
-  },
-  {
     "key": "https://www.qsrmagazine.com/story/report-starbucks-exploring-takeover-of-chipotle/",
     "date": "2026-10-12",
     "headline": "Starbucks Reportedly Exploring $39B Chipotle Takeover",
@@ -565,5 +495,82 @@
     "headline": "Atoboy \u00d7 Katz's: Pastrami Naengchae, Through Nov",
     "detail": "Korean cold noodle dish with Katz's pastrami, rye croutons, mustard dressing \u2014 on menu now.",
     "so_what": "This is Atoboy's 10th-anniversary collab series finale \u2014 the most socially legible pairing of the run (Katz's brand recognition is ceiling-level). A named dish with a named collab partner and a hard end date (Nov 30) is the exact format that drives reservation urgency. Watch how Resy surfaces limited-time collab dishes in discovery vs. standard menu items \u2014 this is a live test case."
+  },
+  {
+    "key": "https://www.restaurantbusinessonline.com/technology/ai-agents-can-help-diners-book-table-it-can-also-get-them-banned",
+    "date": "2026-11-09",
+    "headline": "OpenTable integrates with Meta Muse agent",
+    "detail": "Muse books OpenTable reservations; Resy evaluates but hasn't committed",
+    "so_what": "OpenTable now has a confirmed native connector inside Meta Muse \u2014 the consumer AI agent targeting billions of users \u2014 letting Muse book tables end-to-end. Resy said only that it will 'continue to evaluate opportunities.' This is the second major AI-agent surface (after TikTok Must Eat) where OpenTable has moved faster than Resy this month. The pattern matters: if agents become a primary booking path for under-35 diners, Resy's wait-and-see posture creates a structural gap. ResX should be watching which platforms are building agent-first booking paths and how that changes where guests start their reservation journey."
+  },
+  {
+    "key": "https://www.restaurantonline.co.uk/Article/2026/11/04/claude-bosi-to-return-to-michelin-house-as-he-announces-closure-of-his-the-peninsula-london-restaurant/",
+    "date": "2026-11-09",
+    "headline": "Brooklands by Claude Bosi closes January; Michelin House project confirmed spring 2027",
+    "detail": "Two-star Peninsula London restaurant closes Jan 2027; Bosi opens new Michelin House concept spring 2027",
+    "so_what": "Brooklands by Claude Bosi \u2014 a two-Michelin-starred room that secured its stars in four months \u2014 closes in January 2027. Bosi simultaneously confirmed a new opening at Michelin House (81 Fulham Road, Chelsea) for spring 2027: a completely new concept, not a Bibendum revival. The Peninsula London will launch its own new restaurant concept in the space. This creates two high-demand reservation openings in London in the same quarter: a new Bosi concept at a prestige Chelsea address, and a hotel flagship from one of London's most visible five-star properties. Both will need to build guest databases, set reservation infrastructure, and manage launch-week demand spikes from scratch. Spring 2027 is the window to be in front of both."
+  },
+  {
+    "key": "https://www.nrn.com/restaurant-finance/mergers-acquisitions",
+    "date": "2026-11-09",
+    "headline": "Dine Brands formally rejects $39/share takeover bid",
+    "detail": "Board rejected Arkhouse/Cobblers Cove proposal Oct 29; bidders pushed back Nov 2",
+    "so_what": "Dine Brands (Applebee's, IHOP, Fuzzy's \u2014 1,700+ locations) formally rejected the $39/share acquisition proposal on October 29; the bidders responded on November 2 expressing frustration and reiterating their interest. The rights plan previously flagged as a 'poison pill' is now actively in use. The fight is not over \u2014 bidders explicitly said they believe due diligence would surface additional value. This is an active, unresolved takeover situation with a 12-month window on the rights plan. A new PE owner rationalizing the tech stack across 1,700 franchised locations would make centralized decisions about reservation, waitlist, and guest data vendors. That is a platform-level opportunity for ResX, not a venue-by-venue one."
+  },
+  {
+    "key": "https://www.restaurantdive.com/news/mcdonalds-expands-drive-thru-voice-archy-tests/873788/",
+    "date": "2026-11-09",
+    "headline": "McDonald's confirms nationwide AI drive-thru by 2027",
+    "detail": "Archy voice AI expands U.S. and Australia; 50 weekly labor hours saved per store",
+    "so_what": "McDonald's CEO confirmed this week on an earnings call that Archy \u2014 its Google-built voice AI \u2014 is expanding across U.S. and Australian drive-thrus with a nationwide completion target of 2027. The claim: 50 labor hours saved per store per week. Franchisees are skeptical on the hospitality trade-off, and 85% of consumers still prefer human interaction. This is not a reservation story, but it is the largest real-world deployment of AI as the primary guest interaction layer in the industry. If Archy works at scale, it sets the expectation that AI-mediated ordering and guest interaction is table stakes \u2014 including at the reservation moment. The franchisee skepticism is also worth watching: it's the same tension ResX will encounter selling AI-driven guest interaction to operators who are protective of hospitality."
+  },
+  {
+    "key": "https://www.rockefellercenter.com/ko-kr/events/5-acres-x-miznon-chicago-italian-beef-pita/",
+    "date": "2026-11-09",
+    "headline": "Miznon \u00d7 Baxtrom: Chicago Beef Pita, One Week",
+    "detail": "Greg Baxtrom's Italian beef pita at all NYC Miznons Nov 11\u201317, charity proceeds.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.nycforfree.co/events/15th-birthday-dominique-ansel-bakery",
+    "date": "2026-11-09",
+    "headline": "Dominique Ansel \u00d7 Russ & Daughters: Latke Bagel, 3 Days",
+    "detail": "Bakery's 15th birthday collab: laminated brioche latke, trout roe, 5\u00a2 coffee.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.restaurantonline.co.uk/Article/2026/10/27/elizabeth-haighs-mei-mei-goods-to-launch-three-month-restaurant-residency-at-john-lewis-oxford-street/",
+    "date": "2026-11-09",
+    "headline": "Mei Mei Takes Over John Lewis Oxford Street Food Hall",
+    "detail": "Elizabeth Haigh's kopitiam runs Platter 3 months; Mei Mei sauces hit 249 Waitrose Nov 9.",
+    "so_what": ""
+  },
+  {
+    "key": "https://londontheinside.com/best-food-events-in-london/",
+    "date": "2026-11-09",
+    "headline": "NYC's La Cantine Pops Up at Ellie's Bar, Dalston",
+    "detail": "Bushwick French luncheonette takes over London's coolest bar Nov 25\u201328, Thanksgiving special.",
+    "so_what": ""
+  },
+  {
+    "key": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+    "date": "2026-11-09",
+    "headline": "Conductor cloud shuts Nov 20; switch now",
+    "detail": "Meta acquired Conductor; cloud deletes data Nov 20.",
+    "so_what": "Move parallel agent workflows to Traycer (MIT, free) before Nov 13 read-only date."
+  },
+  {
+    "key": "https://zapier.com/blog/claude-duet/",
+    "date": "2026-11-09",
+    "headline": "Claude Duet free limit reset expires Nov 30",
+    "detail": "Anthropic's always-on agent in research preview; one-time limit reset available.",
+    "so_what": "Join waitlist this week \u2014 free on your existing Pro plan, limit reset gone after Nov 30."
+  },
+  {
+    "key": "https://www.honeycomb.io/blog/honeycomb-introduces-ai-sre-agents",
+    "date": "2026-11-09",
+    "headline": "Honeycomb ships SRE agents, early access open",
+    "detail": "Team Agents watch deploys and catch regressions from traces.",
+    "so_what": "Request early access today; point one agent at your Node/Firebase deploy to replace manual regression checks."
   }
 ]
