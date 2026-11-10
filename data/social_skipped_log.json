@@ -1,148 +1,5 @@
 [
   {
-    "date": "2026-10-06",
-    "subject": "Milk Burger Notting Hill",
-    "url": "https://www.hot-dinners.com/Features/Articles/coming-soon-new-restaurants-opening-in-london",
-    "reason": "only source URL is a roundup 'coming soon' guide \u2014 automatically dropped per rules; no single-subject article URL confirmed; opens today (Oct 6) but can't ship without a valid lead link",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-06",
-    "subject": "Ambassador's Clubhouse Yelp #10 of 2026",
-    "url": "https://diningout.com/new-york/plate-full-of-new-york-news-september29-2026/",
-    "reason": "mention is buried in a multi-topic news digest (roundup), not a single-subject article about the venue; no standalone editorial URL or post permalink retrieved",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-06",
-    "subject": "Dante Elizabeth Street Nolita",
-    "url": "https://www.theinfatuation.com/new-york/guides/new-nyc-restaurants-openings",
-    "reason": "Infatuation new openings guide is a roundup \u2014 cannot use as lead per rules; no single-subject article or Instagram permalink retrieved; tracked Dante venue so worth revisiting once a review or reel surfaces",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-06",
-    "subject": "Harry Styles pop-up vs. East Village cookbook shop",
-    "url": "https://diningout.com/new-york/plate-full-of-new-york-news-september29-2026/",
-    "reason": "fun NYC cultural moment but source is a multi-topic roundup; primary single-subject source (EV Grieve) not fetched; cannot verify link integrity without fetch",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-06",
-    "subject": "Da Pino Stoke Newington opening Oct 7",
-    "url": "https://www.hot-dinners.com/2026090415343/Gastroblog/Latest-news/da-pino-biancas-stoke-newington-london-italian",
-    "reason": "single-subject article confirmed but published Sept 4 \u2014 32 days old, outside the ~14-day freshness window; no recent post or review found",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-06",
-    "subject": "PAM (Karla Knowles) Farringdon opening",
-    "url": "https://www.hot-dinners.com/2026092315390/Gastroblog/Latest-news/karla-knowles-ex-kiln-chef-opening-aree-pam-restaurants",
-    "reason": "article is 13 days old and the opening date is still listed as 'October 2026 TBC' \u2014 no confirmed open date or fresh post to anchor a repost; too vague to ship today",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-06",
-    "subject": "Blue Ribbon Sushi National Sake Day flights",
-    "url": "https://diningout.com/new-york/plate-full-of-new-york-news-september29-2026/",
-    "reason": "timely (ends Oct 8) but source is a roundup; no single-subject link or post permalink retrieved",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-08",
-    "subject": "Quaglino's St James's",
-    "url": "https://hauteliving.com/2026/10/best-new-london-restaurants-bars-autumn-2026/798360/",
-    "reason": "no_usable_link",
-    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-08",
-    "subject": "Dishoom Borough Market",
-    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-october-2026",
-    "reason": "no_usable_link",
-    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-08",
-    "subject": "Soraya Marylebone",
-    "url": "https://hauteliving.com/2026/10/best-new-london-restaurants-bars-autumn-2026/798360/",
-    "reason": "no_usable_link",
-    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-08",
-    "subject": "148 Noble Street Greenpoint",
-    "url": "https://www.theinfatuation.com/new-york/reviews/148-noble-street",
-    "reason": "Also just added to Infatuation Hit List Oct 7 but scores lower than Cafe Charmant on momentum and desire_fit \u2014 outer Brooklyn, candlelit but less culturally buzzy than West Village; dropped to avoid two Hit List adds same day from same source account",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-08",
-    "subject": "Endo Chelsea 10-seat omakase",
-    "url": "https://www.hot-dinners.com/2026072215245/Gastroblog/Latest-news/endo-moga-restaurant-bar-chelsea-omakase-restaurant-london",
-    "reason": "Already featured as a previously sent moment ('endo kazutoshi 10-seat chelsea omakase opening day, october 1 2026') \u2014 deduped",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-08",
-    "subject": "Cloth Cornhill City of London",
-    "url": "https://www.hot-dinners.com/2025111214640/Gastroblog/Latest-news/cloth-cornhill-taking-over-simpsons-tavern-city-of-london",
-    "reason": "Already featured as a previously sent moment ('cloth cornhill opens in grade ii-listed simpsons tavern city of london oct 1 2026') \u2014 deduped",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-08",
-    "subject": "Dante Mayfair at Claridge's permanent",
-    "url": "https://hauteliving.com/2026/10/best-new-london-restaurants-bars-autumn-2026/798360/",
-    "reason": "Already featured as previously sent moment ('dante nyc takes over claridge's restaurant permanently after year-long pop-up') \u2014 deduped",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-08",
-    "subject": "Table Mercato East Village",
-    "url": "https://www.theinfatuation.com/new-york/reviews/table-mercato",
-    "reason": "On Infatuation Hit List but a sandwich counter with no seating \u2014 not visually craveable enough for stop-scroll and doesn't create the booking FOMO ResX needs; dropped",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-08",
-    "subject": "Galo Portuguese West Village",
-    "url": "https://www.theinfatuation.com/new-york/reviews/galo",
-    "reason": "Solid Hit List addition but no distinguishing viral hook today \u2014 less fresh momentum than Cafe Charmant and already a third Hit List entry from the same source account; dropped for diversity",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-08",
-    "subject": "Gregory Gourdet Maison Passerelle FiDi",
-    "url": "https://www.timeout.com/newyork/restaurants/100-best-new-york-restaurants",
-    "reason": "Roundup mention only \u2014 no single-subject article or post permalink found; source is a listicle which is automatically disqualified as a lead",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-08",
-    "subject": "Clementine Islington all-day cafe",
-    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-october-2026",
-    "reason": "Opens Oct 10 \u2014 two days out is good timing but the concept (sausage sandwiches, pies, soups) doesn't stop the scroll for ResX's going-out audience; lower desire_fit than Quaglino's or Dishoom",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-08",
-    "subject": "PAM (ex-Kiln chef Karla Knowles) Clerkenwell",
-    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-october-2026",
-    "reason": "Opening date not confirmed \u2014 'could slip to November'; insufficient certainty to post today; previously flagged as a pinned moment concept already noted in featured moments list",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-08",
-    "subject": "NYCWFF Burger Bash Pier 17 Rachael Ray",
-    "url": "https://resident.com/food-and-drink/2026/10/07/nycwff-2026-is-turning-new-york-into-one-delicious-long-weekend",
-    "reason": "Covered under the broader NYCWFF post_idea \u2014 would be a duplicate moment; Kwame Onwuachi angle scores higher for ResX's audience than Rachael Ray/Bert Kreischer Burger Bash",
-    "source_type": "researched"
-  },
-  {
     "date": "2026-10-13",
     "subject": "National Pasta Day tracked spots",
     "url": "https://www.instagram.com/liliamitch/",
@@ -528,6 +385,62 @@
     "subject": "Bar Douro Soho third site",
     "url": "https://www.hot-dinners.com/2024040213114/Gastroblog/Latest-news/new-london-restaurants-bars-opening-this-week",
     "reason": "Solid opening (Nov 4, Portuguese beef focus) but doesn't have a specific viral moment or scroll-stopping angle; no IG permalink found",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-10",
+    "subject": "Strakers NYC (Thomas Straker first US restaurant)",
+    "url": "https://www.instagram.com/strakers_nyc/",
+    "reason": "already-featured moment \u2014 'strakers nyc soho opening, first us outpost of london restaurant, october 10 2026' is in the dedup list",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-10",
+    "subject": "Krasshaus Williamsburg soft serve opening",
+    "url": "https://www.yahoo.com/lifestyle/articles/restaurant-openings-know-york-city-201112506.html",
+    "reason": "posted Oct 30 = 11 days ago, borderline fresh, but soft serve wave already well-trodden on ResX feed; weaker stop-scroll vs. other items",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-10",
+    "subject": "Dusty Knuckle Finsbury Park opening",
+    "url": "https://www.hot-dinners.com/2024040213114/Gastroblog/Latest-news/new-london-restaurants-bars-opening-this-week",
+    "reason": "neighbourhood bakery, strong locally but low FOMO/desire-fit for ResX's 25-35 going-out audience; no visual post permalink found",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-10",
+    "subject": "Mili LES opening (Estela chef)",
+    "url": "https://www.yahoo.com/lifestyle/articles/restaurant-openings-know-york-city-201112506.html",
+    "reason": "credible opening but no visual post found and no stop-scroll hook surfaced yet; will likely land on hit lists in a week or two",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-10",
+    "subject": "Norte NYC Flatiron Mexican steakhouse",
+    "url": "https://wheresthebuzz.substack.com/p/wheres-the-buzz-new-york-city-november",
+    "reason": "interesting but no specific viral dish or scroll-stopping reel found; account @nortenyc not yet well-established in search results",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-10",
+    "subject": "Edmondo Big Mamma City of London opening",
+    "url": "https://www.hot-dinners.com/2024040213114/Gastroblog/Latest-news/new-london-restaurants-bars-opening-this-week",
+    "reason": "Big Mamma openings are reliable content but opened last week (Nov 3-7 window) with no specific viral reel or dish post found to cite; deferred",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-10",
+    "subject": "Tattu floating restaurant Canary Wharf opening",
+    "url": "https://www.hot-dinners.com/2024040213114/Gastroblog/Latest-news/new-london-restaurants-bars-opening-this-week",
+    "reason": "opens Nov 13 not today; Canary Wharf location less aligned with ResX's east London / downtown core audience",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-10",
+    "subject": "Mixue viral Chinese beverage chain lands in NYC",
+    "url": "https://www.modash.io/find-influencers/united-states/new-york-city/food",
+    "reason": "source is an influencer marketing directory not editorial; no single-subject article or real post permalink found",
     "source_type": "researched"
   }
 ]
