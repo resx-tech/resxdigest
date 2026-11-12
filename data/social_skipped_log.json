@@ -442,5 +442,21 @@
     "url": "https://www.modash.io/find-influencers/united-states/new-york-city/food",
     "reason": "source is an influencer marketing directory not editorial; no single-subject article or real post permalink found",
     "source_type": "researched"
+  },
+  {
+    "date": "2026-11-12",
+    "subject": "St. JOHN x 40ft Brewery",
+    "url": "https://40ftbrewery.com/pages/events",
+    "reason": "no_usable_link",
+    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-12",
+    "subject": "PAM by Karla Knowles",
+    "url": "https://www.instagram.com/pam.restaurant/",
+    "reason": "no_usable_link",
+    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
   }
 ]
