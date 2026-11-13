@@ -54,19 +54,6 @@
     "merged_from": []
   },
   {
-    "name": "Vesper",
-    "date": "June 2026",
-    "blurb": "Jackson Boxer's 70-cover Exmouth Market bistro with an off-menu burger selling out in seconds.",
-    "city": "LDN",
-    "website": "",
-    "instagram_handle": "@vesper.restaurant",
-    "instagram_url": "https://www.instagram.com/vesper.restaurant/",
-    "category": "watching",
-    "id": "vesper::LDN",
-    "importance_rank": 2,
-    "merged_from": []
-  },
-  {
     "name": "Romae",
     "date": "June 2026",
     "blurb": "West Village Argentine-Italian spot with house-made pasta, empanadas, and wood-fired steak.",
@@ -396,20 +383,6 @@
     "merged_from": []
   },
   {
-    "name": "Bar Cosme",
-    "date": "opens November 10",
-    "blurb": "Enrique Olvera's cocktail-forward Cosme spin-off in the former Atla space, NoHo.",
-    "city": "NYC",
-    "website": "",
-    "instagram_handle": "",
-    "instagram_url": "",
-    "source_url": "https://www.timeout.com/newyork/news/cosme-is-opening-a-brand-new-bar-in-noho-this-fall-071126",
-    "category": "watching",
-    "id": "bar cosme::NYC",
-    "importance_rank": 0,
-    "merged_from": []
-  },
-  {
     "name": "Pari",
     "date": "opens November 2026",
     "blurb": "Seasonal French neo-bistro from two Carbone alumni, with a retractable glass facade, Williamsburg.",
@@ -436,20 +409,6 @@
     "importance_rank": 0,
     "merged_from": [],
     "id": "ramen break beats::NYC"
-  },
-  {
-    "name": "Berryman's",
-    "date": "opens November 13",
-    "blurb": "Three Sheets founders' tiny walk-in Dalston bar: Cornish oysters and rotating martinis.",
-    "city": "LDN",
-    "website": "",
-    "instagram_handle": "@berrymansbar",
-    "instagram_url": "https://www.instagram.com/berrymansbar/",
-    "source_url": "https://www.hot-dinners.com/2026102115467/Gastroblog/Latest-news/berrymans-three-sheets-dalston-bar-london",
-    "category": "watching",
-    "importance_rank": 0,
-    "merged_from": [],
-    "id": "berrymans::LDN"
   },
   {
     "name": "Braai Bird",

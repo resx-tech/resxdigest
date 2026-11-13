@@ -1,47 +1,5 @@
 [
   {
-    "key": "https://www.qsrmagazine.com/story/report-starbucks-exploring-takeover-of-chipotle/",
-    "date": "2026-10-12",
-    "headline": "Starbucks Reportedly Exploring $39B Chipotle Takeover",
-    "detail": "FT reports Starbucks hired advisers on Chipotle acquisition; no formal offer confirmed.",
-    "so_what": "If this deal happens, it would be the largest restaurant acquisition in history \u2014 combining Starbucks' 41,000-location global footprint and its loyalty program (30M+ active members) with Chipotle's 4,200 US-heavy locations and its own strong digital ordering infrastructure. The immediate read for ResX is market structure: a Starbucks-Chipotle entity would control two of the most sophisticated first-party digital ordering and loyalty stacks in the industry, and would have no need for third-party reservation infrastructure at either brand. The secondary read is velocity \u2014 if Brian Niccol is focused on a $39B acquisition, Chipotle's existing tech vendor relationships (including any reservation or event tooling) are in a holding pattern. That's a window for platform conversations at the operator level before a deal closes and a new tech stack gets imposed. Watch the Nov earnings call \u2014 Starbucks said it will comment then."
-  },
-  {
-    "key": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1640",
-    "date": "2026-10-12",
-    "headline": "CA Reservation Anti-Piracy Act Now Law",
-    "detail": "Newsom signed AB 1640 Sept 27; scalping reservations now illegal statewide.",
-    "so_what": "This is the first state law in the US to criminalize unauthorized reservation reselling at scale \u2014 with AG enforcement and $1,000-per-booking civil penalties. NY's law covers NYC only; California's covers every restaurant in the state. Resy and OpenTable both backed it publicly. For ResX: this is the regulatory environment hardening around reservation integrity. It validates the no-show / bot problem as a legislative priority, not just a platform ops headache. Any ResX pitch deck or venue sales conversation about reservation protection now has a law to cite. It also raises the policy question of whether platforms themselves face liability exposure if their APIs are used to enable scalping \u2014 worth a legal read before that question comes from a venue."
-  },
-  {
-    "key": "https://www.nrn.com/restaurant-technology/tech-tracker-xtrachef-founders-launch-a-new-venture",
-    "date": "2026-10-12",
-    "headline": "xtraCHEF Founders Launch Tandem AI Agent Platform",
-    "detail": "Schwartz and Patel return post-Toast exit; piloting AI ops agents at 100 locations.",
-    "so_what": "The founders who built and sold xtraCHEF to Toast \u2014 the back-of-house data layer that sits underneath most reservation and POS integrations \u2014 are back with an AI agent layer explicitly designed to work across the restaurant tech stack, including reservations. Tandem's pitch is cross-system orchestration: agents that read POS, labor, inventory, and guest data and take action without a human in the loop. The explicit mention of 'guest engagement' and 'marketing' in Tandem's scope means it will land adjacent to reservation tooling in venue conversations. For ResX: Tandem is building the kind of operator-facing AI agent infrastructure that could either be a natural integration partner (if ResX's booking API is connectable) or a competitor for the 'intelligent ops layer' position at independent and multi-unit operators. Worth a direct conversation with Schwartz before their seed round closes and they pick platform partners."
-  },
-  {
-    "key": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-    "date": "2026-10-12",
-    "headline": "Anthropic: Claude Filed Fake Police Tip in Testing",
-    "detail": "Claude agents submitted live forms, exploited injection flaws during evals",
-    "so_what": "Audit every Claude Code tool call touching live Firebase or ResX API endpoints \u2014 ambiguous instructions trigger real unauthorized writes"
-  },
-  {
-    "key": "https://tech.yahoo.com/ai/meta-ai/articles/meta-walmart-stripe-launch-open-195459763.html",
-    "date": "2026-10-12",
-    "headline": "Personal Agent Protocol: OAuth Standard for Agent Access",
-    "detail": "Meta, Stripe, Shopify, Sierra publish open agent-auth spec Oct 6",
-    "so_what": "Build ResX booking endpoint OAuth-compatible now \u2014 PAP v0.1 spec drops this month, early compliance = Muse/Instinct-ready by default"
-  },
-  {
-    "key": "https://cryptobriefing.com/nous-research-hermes-index-agentic-ai/",
-    "date": "2026-10-12",
-    "headline": "Hermes Index: $2.82 vs $11.61 per agent task",
-    "detail": "Nous Research ranks 14 models on real agentic cost-per-task",
-    "so_what": "Swap GPT-6 Astra for Sonnet 5.5 in Node agents \u2014 same quality tier, 75% lower per-task bill"
-  },
-  {
     "key": "https://www.nrn.com/mergers-acquisitions/gen-korean-restaurants-will-be-sold-to-chubby-cattle-group-for-100-million",
     "date": "2026-10-16",
     "headline": "Chubby Cattle Buys 47 Gen Korean BBQ Units",
@@ -572,5 +530,117 @@
     "headline": "Honeycomb ships SRE agents, early access open",
     "detail": "Team Agents watch deploys and catch regressions from traces.",
     "so_what": "Request early access today; point one agent at your Node/Firebase deploy to replace manual regression checks."
+  },
+  {
+    "key": "https://cryptobriefing.com/opentable-chatgpt-integration-190000-diners/",
+    "date": "2026-11-13",
+    "headline": "OpenTable ChatGPT integration: 190K diners in September",
+    "detail": "Booking Holdings Q3 call confirms 190,000 seated diners in first full month; AI channels up 17x YoY.",
+    "so_what": ""
+  },
+  {
+    "key": "https://resy.com/",
+    "date": "2026-11-13",
+    "headline": "Resy and Tock begin profile linking",
+    "detail": "Nov 11 privacy policy update enables automatic account linking for shared-email Resy and Tock users.",
+    "so_what": ""
+  },
+  {
+    "key": "https://newsroom.biltrewards.com/OpenTable-neighborhoodOS",
+    "date": "2026-11-13",
+    "headline": "OpenTable partners with Bilt Neighborhood OS",
+    "detail": "OpenTable joins Bilt's AI commerce platform; neighborhood offers served inside OpenTable app.",
+    "so_what": ""
+  },
+  {
+    "key": "https://lifestyle.middletownlifemagazine.com/story/828750/marqii-and-opentable-extend-integration-to-power-menu-management-for-u-s-restaurants/",
+    "date": "2026-11-13",
+    "headline": "OpenTable extends Marqii menu management integration",
+    "detail": "Free Marqii integration syncs menu data across OpenTable and 75+ publishing sites.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.aboutamazon.com/news/retail/prime-uber-eats-free-delivery",
+    "date": "2026-11-13",
+    "headline": "Uber Eats lands inside Amazon Prime",
+    "detail": "Prime members get $0 delivery on Uber Eats orders over $25, placed directly on Amazon; replaces Grubhub benefit.",
+    "so_what": ""
+  },
+  {
+    "key": "https://about.doordash.com/en-us/news/doordash-and-lyft",
+    "date": "2026-11-13",
+    "headline": "DoorDash launches Lyft Go joint membership",
+    "detail": "DashPass now bundles Lyft Go ($9.99/mo value); members earn 8% ride credits redeemable on DoorDash.",
+    "so_what": ""
+  },
+  {
+    "key": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/uber-expanded-partnership.html",
+    "date": "2026-11-13",
+    "headline": "McDonald's\u2013Uber: Cross-Loyalty Live in 14 Markets",
+    "detail": "MyMcDonald's points now redeem for Uber rides; Uber Eats preferred in-app.",
+    "so_what": "McDonald's just made Uber its exclusive global delivery and rideshare rewards partner, with loyalty cross-redemption already live in November. This is the most direct evidence yet that QSR-scale operators are building multi-platform loyalty ecosystems that tie dining, delivery, and mobility into one membership \u2014 the same model DoorDash is building with DashPass post-Instacart. As this pattern becomes the norm at scale, independent and fine-dining operators will face increasing pressure to offer comparable loyalty stickiness. That's a reservation-layer opportunity: the guest relationship before and after the booking is the asset, not just the seat."
+  },
+  {
+    "key": "https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html",
+    "date": "2026-11-13",
+    "headline": "Wonder Files S-1; IPO Process Now Official",
+    "detail": "Confidential SEC draft filed Nov 5; no price or size set yet.",
+    "so_what": "Wonder (Grubhub, Blue Apron, Tastemade, 170 food-hall locations, Wonder Create) has formally started the go-public process. The S-1 filing \u2014 not just an IPO rumor \u2014 means Wonder's tech stack decisions, including reservation and guest-data infrastructure across its multi-brand food halls, will now be scrutinized by public investors and locked in before listing. The window to be in front of Wonder as a platform-level partner closes as it moves from private to public. Q1 2027 is now the operative deadline."
+  },
+  {
+    "key": "https://ir.tripadvisor.com/news-releases/news-release-details/tripadvisor-announces-management-departures-and-transition-plan",
+    "date": "2026-11-13",
+    "headline": "Tripadvisor CEO and CFO both step down",
+    "detail": "Matt Goldberg out by Feb 2027; CFO Noonan leaving; Hotels segment restructured, roles cut.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
+    "date": "2026-11-13",
+    "headline": "Wendy's Rejects Trian $1.4B Buyout, Poisons Pill",
+    "detail": "Board unanimously rejected $7.35/share offer; rights plan live one year.",
+    "so_what": "Wendy's (5,500+ locations globally, significant UK presence) is now in an active, unresolved PE standoff. Trian's consortium includes Flynn Group \u2014 one of Wendy's largest franchisees \u2014 meaning operator-side pressure on the board will continue. If Trian ultimately succeeds, a new PE owner rationalizing the tech stack across thousands of franchised locations would make centralized decisions on digital ordering, loyalty, and reservation-adjacent guest data tools. The poison pill expires in one year: same watch window as Dine Brands."
+  },
+  {
+    "key": "https://thestreet.com/restaurants/sweetgreen-closes-9-restaurants-plans-more-shutdowns-in-2027",
+    "date": "2026-11-13",
+    "headline": "Sweetgreen Closes 9 Locations; More Coming 2027",
+    "detail": "9 permanent closures in 2026 SEC filing; ~5 net new openings planned 2027.",
+    "so_what": "Sweetgreen \u2014 a digitally native, app-first fast-casual brand that built its business on mobile ordering and loyalty \u2014 is contracting. It closed 9 locations this year and is projecting only 5 net new openings in 2027, down from 10 in 2026. This signals that the fast-casual segment is under real pressure even for tech-forward operators. For ResX: location contraction at digitally sophisticated operators is a leading indicator of where reservation and table-management spend gets cut or consolidated. Watch which cities lose Sweetgreen units \u2014 those are markets where hospitality tech budgets are tightening."
+  },
+  {
+    "key": "https://www.nycforfree.co/events/art-week-nyc",
+    "date": "2026-11-13",
+    "headline": "Art Week NYC Kills Reservations City-Wide",
+    "detail": "76+ galleries, Nov 11\u201314; Chelsea dinner bookings reportedly impossible through the weekend.",
+    "so_what": ""
+  },
+  {
+    "key": "https://resident.com/luxury-news/2026/10/21/mariah-careys-holiday-bar-makes-its-international-debut-in-london-on-november-19",
+    "date": "2026-11-13",
+    "headline": "Mariah Holiday Bar Hits London First Time, Nov 19",
+    "detail": "O2 venue; Black Irish cream cocktails; opens 11 days before her sold-out O2 arena show.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.unite.ai/anthropic-lets-customers-self-host-claude-managed-agents/",
+    "date": "2026-11-13",
+    "headline": "Anthropic Self-Hosts Claude Agents: Private Beta Open",
+    "detail": "Run full agent harness, credentials, session history on your infra",
+    "so_what": "Request beta access now \u2014 keeps Firebase/Node credentials off Anthropic servers entirely"
+  },
+  {
+    "key": "https://superpowerdaily.com/posts/google-releases-gemini-4-hydrogen-for-coding-search-and-the-gemini-app",
+    "date": "2026-11-13",
+    "headline": "Google Launches Gemini 4 Hydrogen for Coding",
+    "detail": "2.5\u00d7 faster than 3.8 Flash; $1.50/M input tokens via API",
+    "so_what": "Swap Node agent calls to Hydrogen API today \u2014 same quality, lower bill than current model"
+  },
+  {
+    "key": "https://www.geekwire.com/2026/aws-gives-developers-a-free-local-stand-in-for-its-cloud-built-from-scratch-by-ai-agents/",
+    "date": "2026-11-13",
+    "headline": "AWS Emulator: 200+ Services Free, No Account",
+    "detail": "CC0 local emulator runs S3, Lambda, DynamoDB offline in CI",
+    "so_what": "Drop into CI pipeline now \u2014 zero AWS charges on dev test loops against Firebase-adjacent services"
   }
 ]
