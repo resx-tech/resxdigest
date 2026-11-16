@@ -1,89 +1,5 @@
 [
   {
-    "key": "https://www.nrn.com/mergers-acquisitions/gen-korean-restaurants-will-be-sold-to-chubby-cattle-group-for-100-million",
-    "date": "2026-10-16",
-    "headline": "Chubby Cattle Buys 47 Gen Korean BBQ Units",
-    "detail": "Binding LOI signed Oct 14; $100M deal closes in 30 days, 4-phase 12-month conversion.",
-    "so_what": "47 full-service, high-traffic Korean BBQ locations are changing hands to a new operator (Chubby Cattle, 70+ locations across 25+ Asian dining brands) that is explicitly re-platforming the menus and converting the physical spaces over 12 months. That conversion window is when reservation and waitlist contracts get renegotiated or replaced. Chubby Cattle is well-capitalized ($500M fundraise) and growth-oriented \u2014 they own their supply chain and build their own stores. They are not a distressed buyer cutting costs; they are an operator actively scaling. This is an acquisition-window opportunity with a 30-day close and a 12-month integration calendar. Any current Gen reservation platform relationship is in play."
-  },
-  {
-    "key": "https://ir.doordash.com/news/news-details/2026/DoorDash-Introduces-DashOS-One-Platform-to-Help-Restaurants-Grow/default.aspx",
-    "date": "2026-10-16",
-    "headline": "SevenRooms: DashOS unifies delivery, reservations, loyalty",
-    "detail": "DoorDash launched DashOS Sept 30 \u2014 one platform connecting SevenRooms reservations, Marketplace orders, loyalty, and marketing across 80K+ restaurants by 2027.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.nrn.com/restaurant-technology/toast-unveils-an-array-of-new-ai-agents-for-restaurants",
-    "date": "2026-10-16",
-    "headline": "Toast Adds AI Agents for Labor, Marketing, SEO",
-    "detail": "Toast IQ Team (scheduling, forecasting) and expanded Grow (SEO, reviews, offers) launched Oct 6.",
-    "so_what": "Toast is Resy's announced POS integration partner. Its new AI agents now cover scheduling, SEO, review prompting, and personalized offers \u2014 all functions that sit adjacent to or upstream of the reservation moment. Toast IQ Grow starts at $699/month and is explicitly pitched as a demand-generation tool. As Toast expands its operator footprint (171K locations, up 22% YoY), it is quietly building a guest-engagement layer that competes for the same operator attention and budget as reservation platforms. ResX needs to know where its integration with Toast ends and where Toast's own guest tools begin \u2014 that boundary is shrinking with every IQ release."
-  },
-  {
-    "key": "https://peprofessional.com/2026/10/savory-fund-closes-oversubscribed-fund-iii-at-201-5-million/",
-    "date": "2026-10-16",
-    "headline": "Savory Fund Closes $201.5M, Eyes 8\u20139 Brands",
-    "detail": "Fund III final close Oct 13; 35% deployed across South Block, Hawkers, Zao, Bonrue.",
-    "so_what": "Savory's model is PE capital paired with a centralized operating platform \u2014 they standardize tech stack across portfolio brands. With 4 companies already in and 4\u20135 more to come, Savory will make reservation and waitlist decisions for all of them, likely in bulk. These are fast-casual and casual-dining concepts with real table-service components (Hawkers has Michelin recognition; Zao is posting 20% SSS growth). This is the kind of emerging multi-brand PE operator that gets signed on a platform deal, not location by location. Worth a direct outreach before Savory's ops team finalizes vendor selections for the next cohort."
-  },
-  {
-    "key": "https://resident.com/food-and-drink/2026/10/07/nycwff-2026-is-turning-new-york-into-one-delicious-long-weekend",
-    "date": "2026-10-16",
-    "headline": "Kwame Onwuachi + Questlove Own Pier 17 Saturday",
-    "detail": "New York After Dark Oct 17, rooftop, dishes from Kwame's favorite NYC chefs, DJ Questlove set; tied to forthcoming cookbook All Hours.",
-    "so_what": ""
-  },
-  {
-    "key": "https://tickets.nycwff.org/e/new-york-city-wine-and-food-festival-2026/tickets",
-    "date": "2026-10-16",
-    "headline": "Angie Mar \u00d7 Charlie Palmer: One Night, $430",
-    "detail": "Oct 15 collab dinner at Charlie Palmer Steak IV, Knickerbocker Hotel; French-Chinese technique meets Beard Award vet; NYCWFF exclusive.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.timeout.com/london/news/dishoom-new-restaurant-borough-opening-date-091026",
-    "date": "2026-10-16",
-    "headline": "Dishoom Borough Opens: Exclusive Keralan Pepper Chicken",
-    "detail": "Eighth London site soft-launched Oct 12 in Grade II Hop Exchange; Borough-only dish is slow-roasted Keralan pepper chicken with Malabar paratha; 50% off food through Oct 20.",
-    "so_what": ""
-  },
-  {
-    "key": "https://hip2save.com/deals/national-pasta-day/",
-    "date": "2026-10-16",
-    "headline": "Parm's Rigatoni Carbone Is 25% Off Through Saturday",
-    "detail": "National Pasta Day Oct 17: Parm Italian cuts its signature Rigatoni Carbone 25% in-restaurant (with appetizer purchase), takeout, or delivery through Oct 18.",
-    "so_what": ""
-  },
-  {
-    "key": "https://yardsalepizza.com/menu/",
-    "date": "2026-10-16",
-    "headline": "Fallow \u00d7 Yard Sale: The Pig's Head Pizza, Live Now",
-    "detail": "Fallow's own TikTok announced: braised pork cheek, friarielli, Fallow Sriracha Hot Honey, pork crackling on sourdough; \u00a317.40, all 19 Yard Sale sites through Oct 27.",
-    "so_what": ""
-  },
-  {
-    "key": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-    "date": "2026-10-16",
-    "headline": "Amex publishes open intent-auth spec for AI agents",
-    "detail": "Intent Intelligence Framework: Create Intent API scopes payment credentials before agent transacts",
-    "so_what": "Model ResX booking endpoint on Intent ID pattern now \u2014 agent-auth will be table stakes before Q2 2027"
-  },
-  {
-    "key": "https://www.helpnetsecurity.com/2026/10/12/microsoft-decision-1-model/",
-    "date": "2026-10-16",
-    "headline": "Microsoft Decision-1: $0.042/M for agent routing",
-    "detail": "Scores fixed choices with calibrated probabilities; 35\u00d7 faster than GPT-6 Sol",
-    "so_what": "Swap frontier LLM routing calls in Node agents to Decision-1 today \u2014 cut latency 35\u00d7 and cost per call to near-zero"
-  },
-  {
-    "key": "https://thenewstack.io/opencode-2-shared-service/",
-    "date": "2026-10-16",
-    "headline": "OpenCode 2.0: Embeddable SDK, TypeScript client ships",
-    "detail": "Open-source agent gets @opencode/sdk, Code Mode chains MCP tools in one JS pass",
-    "so_what": "Embed OpenCode SDK in your CI pipeline to auto-investigate failed Firebase deploys \u2014 no custom orchestration needed"
-  },
-  {
     "key": "https://www.restaurantonline.co.uk/Article/2026/10/14/wagamama-to-take-reservations-for-first-time-in-its-34-year-history/",
     "date": "2026-10-19",
     "headline": "Wagamama Adds Reservations After 34 Years",
@@ -642,5 +558,96 @@
     "headline": "AWS Emulator: 200+ Services Free, No Account",
     "detail": "CC0 local emulator runs S3, Lambda, DynamoDB offline in CI",
     "so_what": "Drop into CI pipeline now \u2014 zero AWS charges on dev test loops against Firebase-adjacent services"
+  },
+  {
+    "key": "https://www.nrn.com/restaurant-technology/chatgpt-launches-google-like-profiles-for-businesses",
+    "date": "2026-11-16",
+    "headline": "ChatGPT now hosts claimable restaurant business profiles",
+    "detail": "Restaurants claim profiles in Business Hub; ChatGPT search now 1/5 Google's volume.",
+    "so_what": "ChatGPT is now a live discovery surface \u2014 not just a booking conduit \u2014 with a Google-style profile layer restaurants can own. If ChatGPT becomes where guests start their dining search (search volume at 20% of Google's and climbing), reservation links embedded in those profiles become prime real estate. This is the same pattern as Google Business Profiles in 2015: whoever gets restaurants to link booking integrations into ChatGPT profiles early controls the conversion path."
+  },
+  {
+    "key": "https://www.restaurantbusinessonline.com/technology/ai-agents-can-help-diners-book-table-it-can-also-get-them-banned",
+    "date": "2026-11-16",
+    "headline": "AI agents booking tables \u2014 and getting banned",
+    "detail": "Platforms cracking down; some diners lose accounts for bot-assisted grabs.",
+    "so_what": "OpenTable named in the crackdown; Resy/SevenRooms cited as affected platforms. The piece frames unauthorized AI agents \u2014 not sanctioned partners like Zest or Birdie \u2014 as a growing enforcement problem. ResX needs a clear position: which agent-booking behaviors are permitted on-platform, and how does enforcement policy affect legitimate integrations the team is building or evaluating?"
+  },
+  {
+    "key": "https://finance.biggo.com/news/1fe848c9-d582-4ccf-802b-5b8533c34ca6",
+    "date": "2026-11-16",
+    "headline": "Google AI Mode adds live restaurant reservation search",
+    "detail": "Nov 6: AI Mode searches real-time availability across booking sites; Japan launch with Gurunavi, Ikyu, ebica.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.opentable.com/blog/newsroom/",
+    "date": "2026-11-16",
+    "headline": "OpenTable launches private and group dining marketplace",
+    "detail": "New hub books private rooms and large-group reservations end-to-end on OpenTable.",
+    "so_what": "OpenTable is moving into event and group dining \u2014 a segment historically managed via phone, email, and third-party tools like Tripleseat. If OpenTable captures private dining discovery and booking in-platform, it extends its data moat into high-value, high-spend occasions that are currently underserved by reservation platforms. This is directly relevant to how ResX positions its own group/event features \u2014 or partners \u2014 before OpenTable locks that category."
+  },
+  {
+    "key": "https://blog.resy.com/newsroom/resy-restaurants-claude-anthropic/",
+    "date": "2026-11-16",
+    "headline": "Resy restaurants now discoverable in Claude",
+    "detail": "Claude users explore U.S. Resy restaurants in-chat; availability shown before redirecting to Resy to book.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.restaurantbusinessonline.com/technology/blackbird-makes-its-case-cryptocurrency-restaurants",
+    "date": "2026-11-16",
+    "headline": "Blackbird opens FlyNet to third-party app builders",
+    "detail": "FlyNet blockchain network now accepts developer and restaurant custom apps; processing fees drop to ~1.5%.",
+    "so_what": ""
+  },
+  {
+    "key": "https://apps.apple.com/us/app/dorsia-members-club/id1589267208",
+    "date": "2026-11-16",
+    "headline": "Dorsia ships full app redesign, iPhone Duo optimized",
+    "detail": "v2026.11.4 (Nov 4): rebuilt table-finding UX, native support for Apple's new dual-screen iPhone Duo form factor.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.timeout.com/newyork/bars/50-best-new-york-bars",
+    "date": "2026-11-16",
+    "headline": "Sip & Guzzle's Disco Ball Drops for Espresso Martinis",
+    "detail": "Order the oversized espresso martini upstairs at Guzzle; a disco ball spins.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.timeout.com/london/news/manchester-bar-schofields-london-082926",
+    "date": "2026-11-16",
+    "headline": "Schofield's Bar Lands London: Covent Garden Is Open",
+    "detail": "UK's best cocktail bar 3 years running opens Seven Dials site this month, first outside Manchester.",
+    "so_what": ""
+  },
+  {
+    "key": "https://resident.com/food-and-drink/2026/11/13/muje-tins-collaboration-dinner-november-16-nyc",
+    "date": "2026-11-16",
+    "headline": "M\u016aJE \u00d7 TIN's: One Night, Two Seatings, Tonight",
+    "detail": "Korean tasting menu meets Shanghainese dumplings; $175pp, 5pm and 8pm seatings.",
+    "so_what": ""
+  },
+  {
+    "key": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "date": "2026-11-16",
+    "headline": "LangChain raises $300M for model-agnostic agent ops",
+    "detail": "LangSmith hits 7,000 orgs; Workday cut agent deploy time 5 months to 1 day",
+    "so_what": "Add LangSmith traces to Node agents now \u2014 catches silent failures before users do"
+  },
+  {
+    "key": "https://github.com/yc-software/qm",
+    "date": "2026-11-16",
+    "headline": "YC open-sources QM multiplayer agent harness",
+    "detail": "MIT-licensed; Slack-native; each team member gets scoped memory, sandbox, crons",
+    "so_what": "Self-host QM with your own Firebase keys \u2014 replace per-seat Claude Team spend"
+  },
+  {
+    "key": "https://blog.cloudflare.com/kitesurf-open-source/",
+    "date": "2026-11-16",
+    "headline": "Cloudflare open-sources Kitesurf agent browser",
+    "detail": "Stateless Rust/Wasm browser engine for agents; no Chromium needed",
+    "so_what": "Drop into Node agent tasks today \u2014 zero Chromium compute cost on Workers"
   }
 ]

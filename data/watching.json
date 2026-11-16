@@ -299,20 +299,6 @@
     "merged_from": []
   },
   {
-    "name": "B. Penhale",
-    "date": "opens October 2026",
-    "blurb": "Camille team's 66-cover British-Irish restaurant in former Club Gascon site, with whole-carcass butchery and Victorian recipes.",
-    "city": "LDN",
-    "website": "",
-    "instagram_handle": "@b.penhale_smithfield",
-    "instagram_url": "https://www.instagram.com/b.penhale_smithfield/",
-    "source_url": "https://thenudge.com/b-penhale/",
-    "category": "watching",
-    "id": "b penhale::LDN",
-    "importance_rank": 0,
-    "merged_from": []
-  },
-  {
     "name": "ROAST Shoreditch",
     "date": "opens October 20",
     "blurb": "Borough Market institution's 135-cover second London site inside Virgin Hotels Shoreditch.",
@@ -453,5 +439,46 @@
     "merged_from": [
       "ralphies::LDN"
     ]
+  },
+  {
+    "name": "Matane",
+    "date": "November 2026",
+    "blurb": "East Village donburi spot serving Japanese rice bowls, signature uni and ikura.",
+    "city": "NYC",
+    "website": "",
+    "instagram_handle": "@matanenyc",
+    "instagram_url": "https://www.instagram.com/matanenyc/",
+    "category": "watching",
+    "importance_rank": 0,
+    "merged_from": [],
+    "id": "matane::NYC"
+  },
+  {
+    "name": "Swaine's",
+    "date": "opens November 18",
+    "blurb": "Williamsburg Italian neighborhood restaurant with house-made pastas and hearth-fired pizzettes.",
+    "city": "NYC",
+    "website": "https://www.swainesbk.com",
+    "instagram_handle": "@swaines.bk",
+    "instagram_url": "https://www.instagram.com/swaines.bk/",
+    "source_url": "https://greenpointers.com/2026/11/12/swaines-opens-next-week-in-williamsburg-with-seasonal-italian-inspired-fare/",
+    "category": "watching",
+    "importance_rank": 0,
+    "merged_from": [],
+    "id": "swaines::NYC"
+  },
+  {
+    "name": "Cervecer\u00eda Los Primos",
+    "date": "opens November 19",
+    "blurb": "Harts Group's walk-in-only Spanish cervecer\u00eda: \u00a32.50 ca\u00f1as and bocadillos.",
+    "city": "LDN",
+    "website": "https://www.cervecerialosprimos.co.uk",
+    "instagram_handle": "@cervecerialosprimos",
+    "instagram_url": "https://www.instagram.com/cervecerialosprimos/",
+    "source_url": "https://www.hot-dinners.com/2026093015405/Gastroblog/Latest-news/los-primos-spanish-bar-borough-yards-opening",
+    "category": "watching",
+    "importance_rank": 0,
+    "merged_from": [],
+    "id": "cervecer\u00eda los primos::LDN"
   }
 ]
