@@ -1,62 +1,5 @@
 [
   {
-    "date": "2026-10-13",
-    "subject": "National Pasta Day tracked spots",
-    "url": "https://www.instagram.com/liliamitch/",
-    "reason": "no_usable_link",
-    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-13",
-    "subject": "Ambassadors Clubhouse TikTok roundup",
-    "url": "https://www.tiktok.com/discover/top-nyc-restaurants?lang=en",
-    "reason": "Appeared in a TikTok discover/roundup page \u2014 no individual post permalink retrievable, roundup format ineligible as lead",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-13",
-    "subject": "Pasta de Pasta viral $10 NYC",
-    "url": "https://www.tiktok.com/discover/nyc-food",
-    "reason": "Not a tracked venue; audience too broad/chain-adjacent for ResX's 25-35 downtown crowd; no verified fresh post permalink",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-13",
-    "subject": "Oliver's Italian National Pasta Day BOGO",
-    "url": "https://www.milehighonthecheap.com/olivers-italian-national-pasta-day-buy-one-get-one-special-greenwood-village/",
-    "reason": "Greenwood Village, Colorado \u2014 not NYC or London; completely irrelevant to ResX audience",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-13",
-    "subject": "Dalmoros Fresh Italian National Pasta Day loyalty deal",
-    "url": "https://easyeverydayrecipes.com/national-pasta-day-is-oct-17-6-restaurant-offers-to-check-before-you-go/",
-    "reason": "Generic chain deal, no NYC/LDN tracked venue connection, no specific editorial moment worth posting",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-13",
-    "subject": "NYCWFF Resident Magazine article",
-    "url": "https://resident.com/food-and-drink/2026/10/07/nycwff-2026-is-turning-new-york-into-one-delicious-long-weekend",
-    "reason": "Already in sent URL list \u2014 deduped",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-13",
-    "subject": "Bar \u00e0 Part West Village wine bar",
-    "url": "https://wheresthebuzz.substack.com/p/wheres-the-buzz-nyc-october-2026",
-    "reason": "15-seat wine bar from same article as The Astor and Hommali \u2014 would double-up on same source; The Astor scores higher on theatrical stop-scroll appeal",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-13",
-    "subject": "Caf\u00e9 Charmant West Village French brasserie",
-    "url": "https://wheresthebuzz.substack.com/p/wheres-the-buzz-nyc-october-2026",
-    "reason": "Previously featured as a moment (cafe charmant added to infatuation nyc hit list october 7 2026) \u2014 deduped on moment even though source URL is different",
-    "source_type": "researched"
-  },
-  {
     "date": "2026-10-20",
     "subject": "Dishoom Borough soft launch",
     "url": "https://thenudge.com/london-restaurants-opening-soon/",
@@ -457,6 +400,71 @@
     "url": "https://www.instagram.com/pam.restaurant/",
     "reason": "no_usable_link",
     "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-19",
+    "subject": "Mariah Carey Holiday Bar Mayfair",
+    "url": "https://thenudge.com/london-restaurants-opening-soon/",
+    "reason": "Opens today (Nov 19) in Mayfair \u2014 huge cultural moment \u2014 but the only source URL is an already-sent Nudge roundup; no single-subject article retrieved and no verified post permalink found; cannot ship without a clean link",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-19",
+    "subject": "Cervecer\u00eda Los Primos opens today Borough Yards",
+    "url": "https://www.hot-dinners.com/Features/Articles/coming-soon-new-restaurants-opening-in-london",
+    "reason": "Barrafina team opens today with free ca\u00f1a on the house \u2014 genuinely exciting \u2014 but only source is an upcoming-restaurants roundup; no single-subject article or real post permalink retrieved",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-19",
+    "subject": "Ambassadors Clubhouse NYC Infatuation #1",
+    "url": "https://takingthekids.com/this-new-york-restaurant-was-just-ranked-no-1-among-nyc-s-best-new-restaurants-of-2026-0eef0584/",
+    "reason": "Ranking moment was Nov 9 (10 days ago), source is a family travel site not credible editorial, no real post permalink retrieved; moment has peaked",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-19",
+    "subject": "Yo-Chi Notting Hill fro-yo London",
+    "url": "https://www.instagram.com/p/DcTNRrVCinJ/",
+    "reason": "Mentioned in Infatuation London piece today but opening-day post is of unknown age (likely 3+ weeks old); could not verify freshness \u2014 posted_days_ago would be 999, auto-drop",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-19",
+    "subject": "Soraya (Lagana/Bottarga team Persian opening)",
+    "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/hot-right-now-london-s-hottest-restaurants",
+    "reason": "Very buzzy (everyone wants a table, creme brulee cheesecake) but source URL is already-sent roundup; no single-subject article or verified post permalink retrieved",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-19",
+    "subject": "James Dimitri TikTok on Lenny's Apizza",
+    "url": "https://www.tiktok.com/@jamesdimitritieats/video/7702146533575232801",
+    "reason": "Lenny's permanent Covent Garden opening is an already-featured moment; dropped to avoid repeat",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-19",
+    "subject": "Vesper off-menu burger Clerkenwell",
+    "url": "https://www.theinfatuation.com/london/reviews/vesper-exmouth-market",
+    "reason": "Vesper opening already featured as 'jackson boxer vesper opening' moment; same venue, same dish \u2014 repeat",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-19",
+    "subject": "PAM live-fire Thai Farringdon",
+    "url": "https://www.hot-dinners.com/London-restaurants/Shoreditch-Clerkenwell/pam-thai-live-fire-farringdon",
+    "reason": "On Hot Dinners Hot Right Now list; Karla Knowles standalone restaurant (already featured as 'karla knowles summer pop-up dinners' moment), and no real post permalink retrieved",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-19",
+    "pinned_input": "",
+    "subject": "Infatuation London 2026 dish list",
+    "url": "https://infatuationlondon.substack.com/p/londons-most-influential-dishes-of",
+    "reason": "diversity_cap",
+    "detail": "already have an item from account 'infatuation_london' in this digest",
     "source_type": "researched"
   }
 ]
