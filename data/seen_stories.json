@@ -1,68 +1,5 @@
 [
   {
-    "key": "https://www.restaurantonline.co.uk/Article/2026/10/14/wagamama-to-take-reservations-for-first-time-in-its-34-year-history/",
-    "date": "2026-10-19",
-    "headline": "Wagamama Adds Reservations After 34 Years",
-    "detail": "169-UK-site chain joins OpenTable; same-day, any-party-size bookings now live.",
-    "so_what": "Wagamama is one of the UK's highest-footfall casual dining chains (169 UK locations, \u00a31.2B revenue). Its decision to go reservation-first \u2014 via OpenTable \u2014 signals that even walk-in-identity brands are now treating reservations as a demand and data tool, not just a fine-dining formality. The timing (ahead of festive trading) is deliberate: Wagamama is using reservations to lock in covers during peak periods. For ResX: this is a category-level shift. If Wagamama moved, every mid-market UK operator watching them will re-examine their own walk-in policy. It also means OpenTable just added a major UK brand to its footprint. Any ResX venue sales conversation in London now needs to account for Wagamama as a direct booking competitor for the same casual-dining guest."
-  },
-  {
-    "key": "https://www.restaurantonline.co.uk/Article/2026/10/06/no-show-rates-fall-year-on-year-report-finds/",
-    "date": "2026-10-19",
-    "headline": "UK No-Shows Down 6%; \u00a355.70 Average Cost",
-    "detail": "OpenTable UK report: 83% of diners know no-shows hurt restaurants; London top 10 worst.",
-    "so_what": "OpenTable just published UK-specific no-show benchmarks: 6% YoY improvement, but London remains one of the worst cities. The \u00a355.70 per-table cost figure is the UK equivalent of OpenTable's $80 US figure \u2014 a concrete ROI hook for any no-show protection product conversation with London operators. The report also found that 44% of diners would accept a deposit or card hold, and Gen Z diners are willing to pay up to \u00a358 as a deposit. For ResX: this data validates the no-show product narrative in the UK market with current numbers, and the Gen Z deposit willingness is a specific angle for venues targeting younger diners."
-  },
-  {
-    "key": "https://www.toogoodtogo.com/en-us/press",
-    "date": "2026-10-19",
-    "headline": "Too Good To Go Expands Beyond Food",
-    "detail": "Marketplace adds personal care, pet care, flowers, supplements, home goods; 8,500+ stores.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.cnbc.com/2026/10/12/starbucks-denies-chipotle-takeover.html",
-    "date": "2026-10-19",
-    "headline": "Starbucks Denies Chipotle Deal; Story Closed",
-    "detail": "Oct 12: Starbucks issued direct denial, ending $50B acquisition speculation.",
-    "so_what": "The prior digest flagged this deal as a 'watch the Nov earnings call' situation. That wait is over: Starbucks explicitly closed it on Oct 12. For ResX: the distraction scenario (Niccol focused on a $39B deal, Chipotle vendor relationships frozen) is now off the table. Chipotle's tech stack is no longer in a holding pattern due to deal uncertainty. Any ResX contact at Chipotle's tech or ops level can now be approached without the acquisition overhang. Starbucks is separately confirmed to be in turnaround mode ('Back to Starbucks'), closing underperforming stores \u2014 not a reservation-infrastructure buyer."
-  },
-  {
-    "key": "https://resy.com/cities/new-york-ny/venues/babbo-ristorante",
-    "date": "2026-10-19",
-    "headline": "Jon & Vinny's Takes Over Babbo for Two Days",
-    "detail": "LA cult Italian brings spicy fusilli and meatballs to Greenwich Village icon Oct 21\u201322; Amex GDA gets 48-hour early access on Resy.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.luna-omakase.com/",
-    "date": "2026-10-19",
-    "headline": "LUNA \u00d7 Dom P\u00e9rignon: Omakase Meets Champagne, EC2",
-    "detail": "12-seat counter inside Los Mochis pairs Chef Tanyag's 12 courses with four DP expressions including Pl\u00e9nitude 2 2008; \u00a3399pp through October.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.tokenpost.com/news/technology/33454",
-    "date": "2026-10-19",
-    "headline": "d1-ultra: #1 decision model, no output tokens",
-    "detail": "Liquid AI's multimodal classifier answers yes/no and choice in one pass",
-    "so_what": "Replace GPT calls on ResX booking-intent classification \u2014 billed input-only at $0.042/M, zero output charge"
-  },
-  {
-    "key": "https://cryptobriefing.com/deepseek-v4-1-flash-tops-code-arena/",
-    "date": "2026-10-19",
-    "headline": "DeepSeek V4.1 Flash 1017: open, MIT, cheap",
-    "detail": "New open-weight update tops Code Arena WebDev at $0.30/M tokens",
-    "so_what": "Route Node agent coding calls here \u2014 same tier as frontier models, 10\u201315\u00d7 cheaper per task"
-  },
-  {
-    "key": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-    "date": "2026-10-19",
-    "headline": "Figma Specs feeds design rules to coding agents",
-    "detail": "MCP-connected Markdown doc passes brand rules to Claude Code",
-    "so_what": "Connect Figma MCP to Claude Code today \u2014 RN screen gen stops ignoring your design system"
-  },
-  {
     "key": "https://hospitalitytech.com/opentable-taps-airwallex-expand-payment-processing-deposits-and-prepaid-dining",
     "date": "2026-10-23",
     "headline": "OpenTable adds Airwallex as payment provider",
@@ -649,5 +586,40 @@
     "headline": "Cloudflare open-sources Kitesurf agent browser",
     "detail": "Stateless Rust/Wasm browser engine for agents; no Chromium needed",
     "so_what": "Drop into Node agent tasks today \u2014 zero Chromium compute cost on Workers"
+  },
+  {
+    "key": "https://blog.resy.com/newsroom/introducing-resy-rewards/",
+    "date": "2026-11-20",
+    "headline": "Resy launches Rewards loyalty program in NYC; Tock venues included in 2027 rollout",
+    "detail": "New iOS Rewards tab pays 4x Amex Membership Rewards points per dollar at select NYC restaurants (Carne Mare, Le Crocodile, Hearth, Kiko, OPTO, Le Pavillon at launch); expands to more U.S. cities and select Tock venues in 2027, deepening Resy\u2013Tock unified rewards path.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.restaurantbusinessonline.com/technology/restaurant-loyalty-app-blackbird-launches-payment-network",
+    "date": "2026-11-20",
+    "headline": "Blackbird ships FlyCard Visa debit and Pay network",
+    "detail": "FlyCard: free Visa debit usable at any restaurant, loaded with $FLY. Blackbird Pay: 2% flat-fee card processing via NFC puck check-in.",
+    "so_what": ""
+  },
+  {
+    "key": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "date": "2026-11-20",
+    "headline": "ChatGPT Wallet: agents now complete real purchases",
+    "detail": "OpenAI launched tokenized card payments via dots agents Nov 13.",
+    "so_what": "Agents that pay are one step from agents that book \u2014 audit ResX's booking flow for agent-initiated prepayment now."
+  },
+  {
+    "key": "https://www.testingcatalog.com/openai-launches-gpt-6-2-astra-and-sol-on-chatgpt-and-apis/",
+    "date": "2026-11-20",
+    "headline": "GPT-6.2 Sol: near-Astra quality, one-fifth cost",
+    "detail": "OpenAI shipped Sol Nov 17; $2/$10 per 1M tokens, unchanged.",
+    "so_what": "Swap Node agent calls from GPT-6 Astra to gpt-6.2-sol today \u2014 same bill, meaningfully better output."
+  },
+  {
+    "key": "https://automater.ai/news/devin-bots-cognition-persistent-coding-agents/",
+    "date": "2026-11-20",
+    "headline": "Devin Bots: persistent agent runs goals for weeks",
+    "detail": "Cognition ships coordinator agent Nov 17; delegates to parallel Devin sessions.",
+    "so_what": "Assign one Bot the goal 'keep Firebase functions green' \u2014 it files tickets and merges PRs unsupervised."
   }
 ]

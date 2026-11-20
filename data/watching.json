@@ -454,31 +454,17 @@
     "id": "matane::NYC"
   },
   {
-    "name": "Swaine's",
-    "date": "opens November 18",
-    "blurb": "Williamsburg Italian neighborhood restaurant with house-made pastas and hearth-fired pizzettes.",
-    "city": "NYC",
-    "website": "https://www.swainesbk.com",
-    "instagram_handle": "@swaines.bk",
-    "instagram_url": "https://www.instagram.com/swaines.bk/",
-    "source_url": "https://greenpointers.com/2026/11/12/swaines-opens-next-week-in-williamsburg-with-seasonal-italian-inspired-fare/",
-    "category": "watching",
-    "importance_rank": 0,
-    "merged_from": [],
-    "id": "swaines::NYC"
-  },
-  {
-    "name": "Cervecer\u00eda Los Primos",
-    "date": "opens November 19",
-    "blurb": "Harts Group's walk-in-only Spanish cervecer\u00eda: \u00a32.50 ca\u00f1as and bocadillos.",
+    "name": "Osteria Panzano",
+    "date": "opens November 27",
+    "blurb": "Arjun Waney's first Italian: Tuscan open-rotisserie restaurant with cheese shop in Belgravia.",
     "city": "LDN",
-    "website": "https://www.cervecerialosprimos.co.uk",
-    "instagram_handle": "@cervecerialosprimos",
-    "instagram_url": "https://www.instagram.com/cervecerialosprimos/",
-    "source_url": "https://www.hot-dinners.com/2026093015405/Gastroblog/Latest-news/los-primos-spanish-bar-borough-yards-opening",
+    "website": "https://www.osteria-panzano.com",
+    "instagram_handle": "@osteriapanzano",
+    "instagram_url": "https://www.instagram.com/osteriapanzano",
+    "source_url": "",
     "category": "watching",
+    "id": "osteria panzano::LDN",
     "importance_rank": 0,
-    "merged_from": [],
-    "id": "cervecer\u00eda los primos::LDN"
+    "merged_from": []
   }
 ]
