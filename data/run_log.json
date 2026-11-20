@@ -1,19 +1,5 @@
 [
   {
-    "date": "2026-10-19",
-    "timestamp": "2026-10-19T01:43:24.227817+00:00",
-    "trigger": "manual",
-    "outcome": "completed",
-    "detail": "20 blocks posted"
-  },
-  {
-    "date": "2026-10-19",
-    "timestamp": "2026-10-19T18:42:04.132394+00:00",
-    "trigger": "scheduled",
-    "outcome": "skipped",
-    "detail": "already completed today at 2026-10-19T01:43:23.107905+00:00"
-  },
-  {
     "date": "2026-10-23",
     "timestamp": "2026-10-23T00:58:45.167728+00:00",
     "trigger": "manual",
@@ -124,5 +110,12 @@
     "trigger": "scheduled",
     "outcome": "skipped",
     "detail": "already completed today at 2026-11-16T00:19:23.978310+00:00"
+  },
+  {
+    "date": "2026-11-20",
+    "timestamp": "2026-11-20T04:05:49.446131+00:00",
+    "trigger": "manual",
+    "outcome": "failed",
+    "detail": "'str' object has no attribute 'get'"
   }
 ]
