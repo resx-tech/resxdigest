@@ -1,8 +1,7 @@
 {
   "date": "2026-11-23",
-  "status": "failed",
-  "run_id": "45108805010",
+  "status": "running",
+  "run_id": "45190052773",
   "trigger": "manual",
-  "failed_at": "2026-11-23T04:04:22.225649+00:00",
-  "error": "'str' object has no attribute 'get'"
+  "started_at": "2026-11-23T14:03:14.966850+00:00"
 }
