@@ -244,20 +244,6 @@
     "id": "nettle::LDN"
   },
   {
-    "name": "Ditto",
-    "date": "opens October 2026",
-    "blurb": "Andy Baraghani's all-day Union Square cafe: Greenmarket produce, breakfast and lunch.",
-    "city": "NYC",
-    "website": "",
-    "instagram_handle": "",
-    "instagram_url": "",
-    "source_url": "https://www.theinfatuation.com/new-york/guides/nyc-fall-restaurant-openings-2026",
-    "category": "watching",
-    "id": "ditto::NYC",
-    "importance_rank": 2,
-    "merged_from": []
-  },
-  {
     "name": "Kal\u00f3",
     "date": "opens October 2026",
     "blurb": "Wood-fired Greek restaurant on the Upper East Side: grilled meats, seafood, mezze.",
@@ -397,20 +383,6 @@
     "id": "ramen break beats::NYC"
   },
   {
-    "name": "Braai Bird",
-    "date": "opens November 19",
-    "blurb": "Kudu founders return to Nunhead with wood-fired rotisserie chicken and South African sauces.",
-    "city": "LDN",
-    "website": "https://www.braaibird.com",
-    "instagram_handle": "@braaibird",
-    "instagram_url": "https://www.instagram.com/braaibird/",
-    "source_url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-november-2026",
-    "category": "watching",
-    "importance_rank": 0,
-    "merged_from": [],
-    "id": "braai bird::LDN"
-  },
-  {
     "name": "Dragonne",
     "date": "opens Fall 2026",
     "blurb": "Chef Mark Chou's debut bistro: French technique with Asian inflection in the old Annisa space.",
@@ -423,21 +395,6 @@
     "importance_rank": 0,
     "merged_from": [
       "dragonne::NYC"
-    ]
-  },
-  {
-    "name": "Ralphie's",
-    "date": "opens November 23",
-    "blurb": "Tom Booton's debut solo restaurant: playful British bistro on Pimlico Road, dog menu included.",
-    "city": "LDN",
-    "website": "",
-    "instagram_handle": "@ralphieslondon",
-    "instagram_url": "https://www.instagram.com/ralphieslondon/",
-    "source_url": "https://www.hot-dinners.com/2026101515452/Gastroblog/Latest-news/tom-booton-ralphies-restaurant-belgravia-london",
-    "category": "watching",
-    "importance_rank": 0,
-    "merged_from": [
-      "ralphies::LDN"
     ]
   },
   {
@@ -465,6 +422,48 @@
     "category": "watching",
     "id": "osteria panzano::LDN",
     "importance_rank": 0,
+    "merged_from": []
+  },
+  {
+    "name": "Wright Brothers Covent Garden",
+    "date": "opens November 28",
+    "blurb": "Oyster and seafood specialist Wright Brothers takes over the old Margot site.",
+    "city": "LDN",
+    "website": "",
+    "instagram_handle": "@wrightbrosltd",
+    "instagram_url": "https://www.instagram.com/wrightbrosltd/",
+    "source_url": "https://www.hot-dinners.com/2026110415503/Gastroblog/Latest-news/wright-brothers-opening-in-covent-garden",
+    "category": "watching",
+    "id": "wright brothers covent garden::LDN",
+    "importance_rank": 1,
+    "merged_from": []
+  },
+  {
+    "name": "Homer Lobster",
+    "date": "opens December 1",
+    "blurb": "Paris cult lobster-roll specialist opens its first permanent London site in Soho.",
+    "city": "LDN",
+    "website": "",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "source_url": "https://www.hot-dinners.com/2026062615156/Gastroblog/Latest-news/homer-lobster-opening-london-soho",
+    "category": "watching",
+    "id": "homer lobster::LDN",
+    "importance_rank": 2,
+    "merged_from": []
+  },
+  {
+    "name": "Din Tai Fung King's Cross",
+    "date": "opens December 1",
+    "blurb": "Taiwanese xiao long bao chain opens its fifth London site with its first bar programme.",
+    "city": "LDN",
+    "website": "",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "source_url": "https://www.hot-dinners.com/2026090215338/Gastroblog/Latest-news/din-tai-fung-kings-cross-opening-london",
+    "category": "watching",
+    "id": "din tai fung kings cross::LDN",
+    "importance_rank": 3,
     "merged_from": []
   }
 ]

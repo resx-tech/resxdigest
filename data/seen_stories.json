@@ -1,33 +1,5 @@
 [
   {
-    "key": "https://hospitalitytech.com/opentable-taps-airwallex-expand-payment-processing-deposits-and-prepaid-dining",
-    "date": "2026-10-23",
-    "headline": "OpenTable adds Airwallex as payment provider",
-    "detail": "Airwallex now live for deposits and prepaid Experiences; US/Canada first, Australia/Mexico next.",
-    "so_what": ""
-  },
-  {
-    "key": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-    "date": "2026-10-23",
-    "headline": "Microsoft: Your Own AI Agents Are Insider Threats",
-    "detail": "Defender detects 60 agent types; Claude Code and Codex explicitly named",
-    "so_what": "Restrict Claude Code Firebase access to dev/staging only \u2014 production scope is now a liability"
-  },
-  {
-    "key": "https://thenextweb.com/news/anthropic-claude-duet-ai-agent",
-    "date": "2026-10-23",
-    "headline": "Anthropic Ships Claude Duet Background Agent",
-    "detail": "Always-on agent monitors connected apps, acts only with approval",
-    "so_what": "Join waitlist now \u2014 no extra cost on Pro/Max; delegate Slack and email triage today"
-  },
-  {
-    "key": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-    "date": "2026-10-23",
-    "headline": "GPT-6 Pro Splits Tasks Across Parallel Agents",
-    "detail": "ChatGPT Pro now runs multiple subagents simultaneously on one request",
-    "so_what": "Use it this week: split release-prep research into parallel agents, cut turnaround in half"
-  },
-  {
     "key": "https://hospitalitytech.com/yelp-adds-opentable-booking-ai-assistant-deploys-voice-bots-query-restaurant-host-stands",
     "date": "2026-10-26",
     "headline": "Yelp embeds OpenTable booking, deploys outbound call agent",
@@ -621,5 +593,89 @@
     "headline": "Devin Bots: persistent agent runs goals for weeks",
     "detail": "Cognition ships coordinator agent Nov 17; delegates to parallel Devin sessions.",
     "so_what": "Assign one Bot the goal 'keep Firebase functions green' \u2014 it files tickets and merges PRs unsupervised."
+  },
+  {
+    "key": "https://www.restaurantbusinessonline.com/technology/opentable-will-require-restaurants-make-it-their-primary-reservations-system",
+    "date": "2026-11-23",
+    "headline": "OpenTable mandates system-of-record status, April 16",
+    "detail": "New terms require restaurants to make OpenTable primary reservation system or leave.",
+    "so_what": "OpenTable is forcing a binary choice on 60,000 restaurants: make it your system of record or exit the platform. Major multi-platform groups like Wolfgang Puck Fine Dining and Altamarea are openly weighing departure. The stated rationale is blocking 'bad actors' scraping availability and guest data \u2014 the same AI-agent enforcement problem flagged in the prior digest. The practical effect: operators running OpenTable + SevenRooms (or OpenTable + Resy) in parallel must restructure or defect. This is the most significant structural lever any reservation platform has pulled in years. ResX needs a clear position on where it sits in a world where operators are being forced off multi-platform stacks \u2014 and whether that creates an opening or a constraint."
+  },
+  {
+    "key": "https://www.restaurantbusinessonline.com/technology/doj-set-review-doordash-instacart-deal-potential-antitrust-issues",
+    "date": "2026-11-23",
+    "headline": "DOJ reviews DoorDash\u2013Instacart deal; SevenRooms ownership in play",
+    "detail": "DOJ takes antitrust lead on $17B deal; $1.25B breakup fee if blocked.",
+    "so_what": "DoorDash owns SevenRooms. If DOJ review leads to forced divestitures or a blocked deal, the question of who owns SevenRooms \u2014 and what happens to its roadmap and restaurant relationships \u2014 becomes live. DOJ antitrust review doesn't mean the deal dies, but it does mean uncertainty over DoorDash's ability to integrate SevenRooms fully into the Instacart+DoorDash commerce stack. For ResX, that uncertainty is an opening: operators on SevenRooms may hesitate to deepen their DoorDash integration if regulatory outcomes are unclear. The deal is not expected to close until end of 2027 or H1 2028, so this watch window is long."
+  },
+  {
+    "key": "https://retailslop.substack.com/p/retail-around-the-world-23-november",
+    "date": "2026-11-23",
+    "headline": "Wonder explores Grubhub sale to retailers",
+    "detail": "Wonder approaching Walmart, Target, Kroger; no deal confirmed yet.",
+    "so_what": "Wonder filed its S-1 (already briefed) with Grubhub as a core asset. Now, within weeks of that filing, it's actively shopping Grubhub to major retailers \u2014 a signal that the IPO story Wonder wants to tell investors may not include last-mile delivery. If Grubhub lands at Walmart or Kroger, it becomes a retail-integrated delivery platform with enormous consumer reach, not an independent restaurant-delivery app. That changes the competitive map for every platform trying to own the dine-out occasion end-to-end. It also accelerates the Wonder S-1 timeline question: what does Wonder look like as a public company without Grubhub, and what does that mean for its reservation and guest-data infrastructure decisions before listing?"
+  },
+  {
+    "key": "https://nrn.com/restaurant-technology/doordash-pushes-back-on-ftc-pricing-inquiry-we-don-t-do-surveillance-pricing-",
+    "date": "2026-11-23",
+    "headline": "FTC probes DoorDash on personalized pricing; DoorDash pushes back",
+    "detail": "FTC surveillance pricing inquiry covers DoorDash, Uber, Instacart; DoorDash denies.",
+    "so_what": "The FTC is formally investigating whether DoorDash uses consumer data to set personalized prices. DoorDash's defense draws a line between 'surveillance pricing' and 'loyalty pricing' \u2014 a distinction that will matter for every platform that uses guest history to shape offers or availability. If regulators conclude that using behavioral data to price is anticompetitive, it sets a precedent that reaches reservation platforms too: dynamic pricing by demand tier, loyalty-tier priority booking, and guest-data-driven upsells are all in the same conceptual territory. ResX should track how DoorDash's argument holds up \u2014 the framing it uses to defend loyalty-based differentiation is likely the same framing ResX would need."
+  },
+  {
+    "key": "https://hellohellobar.com/menus/",
+    "date": "2026-11-23",
+    "headline": "Hello Hello's $14 Espresso Martini Runs All Week",
+    "detail": "Chelsea caf\u00e9-bar uses house-distilled 11th Hour coffee liqueur; happy hour 4\u20137pm daily.",
+    "so_what": ""
+  },
+  {
+    "key": "https://diningout.com/new-york/this-week-in-new-york-dining-november3-2026",
+    "date": "2026-11-23",
+    "headline": "Atoboy \u00d7 Katz's: Pastrami Naengchae, Through November",
+    "detail": "Katz's pastrami in a Korean chilled noodle dish; glass noodles, rye croutons, mustard dressing.",
+    "so_what": ""
+  },
+  {
+    "key": "https://broadsheet.com/london/articles/five-feet-pizza-bermondsey",
+    "date": "2026-11-23",
+    "headline": "Five Feet Opens Bermondsey: UK's Best Pizza Already",
+    "detail": "Legare, WatchHouse, and Dusty Knuckle trio won National Pizza Award before Nov 17 opening.",
+    "so_what": ""
+  },
+  {
+    "key": "https://fatboyzine.substack.com/p/just-a-bite-20th-november-2026",
+    "date": "2026-11-23",
+    "headline": "The Dreamery \u00d7 Casa Lawa: Sicilian Gelato, Four Days",
+    "detail": "Spent Coffee Gelato and Sicilian wines at De Beauvoir ice cream bar, Nov 26\u201329.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.8it.world/nyc/this-weekends-must-eats-2026-11-20/",
+    "date": "2026-11-23",
+    "headline": "Burrito Burrito \u00d7 Taqueria Ramirez One-Night Greenpoint",
+    "detail": "Indian-inspired tortillas meet Ramirez meats; DJs and Liga MX at Socceria, Nov 20.",
+    "so_what": ""
+  },
+  {
+    "key": "https://datanorth.ai/news/gemini-4-carbon-all-paying-developers",
+    "date": "2026-11-23",
+    "headline": "Gemini 4 Carbon API price doubles Dec 1",
+    "detail": "Carbon introductory rate ends Nov 30; doubles to $4/$20 per 1M tokens.",
+    "so_what": "Lock in Carbon API calls against Node agents before Dec 1 \u2014 same quality, half the cost."
+  },
+  {
+    "key": "https://news.cocoloop.cn/en/2026/11/replit-missions-agent-swarm/",
+    "date": "2026-11-23",
+    "headline": "Replit Missions: set goal, budget, let agents build",
+    "detail": "Agent swarm harness ships Nov 17; built internal monitoring tool in 2 days, $3K.",
+    "so_what": "Assign one bounded internal tool \u2014 e.g. a Firebase log dashboard \u2014 with hard budget and approval gates."
+  },
+  {
+    "key": "https://stripe.dev/blog",
+    "date": "2026-11-23",
+    "headline": "Stripe open-sources eval harness for coding agents",
+    "detail": "Stripe evals: 69 payment scenarios; agents pass only 29% of full criteria runs.",
+    "so_what": "Run Forge against your Node/Stripe integration now \u2014 catch agent-written payment bugs before they hit prod."
   }
 ]
