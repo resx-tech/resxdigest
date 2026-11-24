@@ -1,92 +1,5 @@
 [
   {
-    "date": "2026-10-20",
-    "subject": "Dishoom Borough soft launch",
-    "url": "https://thenudge.com/london-restaurants-opening-soon/",
-    "reason": "no_usable_link",
-    "detail": "no valid post permalink and no single-subject editorial lead (roundup/guide URLs rejected)",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-20",
-    "subject": "Faux NYC",
-    "url": "https://www.instagram.com/p/DdnP_vrlpT0/",
-    "reason": "stale_content",
-    "detail": "posted_days_ago=999 \u2014 older than the 14-day freshness window (or undated)",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-20",
-    "subject": "Don Angie 7 Fishes Feast",
-    "url": "https://www.instagram.com/p/DehjOuIKEWK/",
-    "reason": "stale_content",
-    "detail": "posted_days_ago=999 \u2014 older than the 14-day freshness window (or undated)",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-20",
-    "subject": "Solis Kingly Street Soho",
-    "url": "https://www.hot-dinners.com/2026092315386/Gastroblog/Latest-news/solis-soho-chcken-steak-tata-eatery-opening",
-    "reason": "Already in both already-sent URLs and already-featured moments lists \u2014 exact duplicate.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-20",
-    "subject": "Straker's NYC debut",
-    "url": "https://www.yahoo.com/lifestyle/articles/london-calling-soho-hot-straker-173927651.html",
-    "reason": "Opening article dated Oct 7 (13 days ago), borderline stale on the post itself; no Instagram permalink retrieved; Lana Substack coverage today is strong but the opening moment itself is just past the 14-day window. Dropped in favour of fresher items with real permalinks.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-20",
-    "subject": "PAM by Karla Knowles Clerkenwell",
-    "url": "https://www.hot-dinners.com/2026092315390/Gastroblog/Latest-news/karla-knowles-ex-kiln-chef-opening-aree-pam-restaurants",
-    "reason": "Karla Knowles / ex-Kiln pop-up dinners already appear in already-featured moments. The standalone restaurant opening is a new development but no confirmed open date (listed as October 2026 with a note it could slip to November) and no Instagram post retrieved.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-20",
-    "subject": "Bubala Covent Garden Instagram permalink",
-    "url": "https://www.bubala.co.uk",
-    "reason": "Could not retrieve a verified Instagram permalink or exact profile URL from fetched pages \u2014 used article lead fallback instead. Account handle bubala_restaurant is unverified; omitted from account_url.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-20",
-    "subject": "Romy NYC steakhouse (ex-Little Prince)",
-    "url": "https://lanafromowitz.substack.com/p/eatsleep-hot-tables-big-buckles-and",
-    "reason": "Mentioned in Lana's Substack today as a fun night out but no Instagram post permalink retrieved and opening timing unclear \u2014 not enough to build a verified opportunity.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-20",
-    "subject": "Humm NYC (Daniel Humm casual concept)",
-    "url": "https://www.hummnyc.com/",
-    "reason": "Interesting but no post permalink retrieved, opening date unclear, and homepage URL is not an acceptable lead link.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-20",
-    "subject": "Dishoom Borough Instagram permalink",
-    "url": "https://www.hot-dinners.com/2025102714595/Gastroblog/Latest-news/dishoom-borough-market-london-bridge-plans",
-    "reason": "Could not verify Dishoom's exact Instagram permalink for the Borough opening post \u2014 used article lead fallback. Account handle 'dishoom' is their well-known verified handle included without a permalink.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-20",
-    "subject": "NYC Resy Hit List October 2026 new additions",
-    "url": "https://blog.resy.com/the-hit-list/nyc-restaurants/",
-    "reason": "Roundup/guide \u2014 automatically dropped per rules. New additions (Cynthia, Burmese Bites, El Camar\u00f3n Peludo) noted but not drilled into due to search limit.",
-    "source_type": "researched"
-  },
-  {
-    "date": "2026-10-20",
-    "subject": "Dark Magic Hour at Moxy Times Square",
-    "url": "https://nypost.com/2026/10/17/lifestyle/meet-the-new-yorkers-scaring-up-big-business-this-halloween/",
-    "reason": "Included in the Halloween bar post_idea rollup \u2014 this venue (18th floor Moxy Times Square rooftop) is a fourth option that could be added to the carousel but excluded to keep the post_idea tight and downtown-focused.",
-    "source_type": "researched"
-  },
-  {
     "date": "2026-10-27",
     "subject": "Dishoom Borough opening",
     "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/new-london-restaurants-opening-in-october-2026",
@@ -465,6 +378,55 @@
     "url": "https://infatuationlondon.substack.com/p/londons-most-influential-dishes-of",
     "reason": "diversity_cap",
     "detail": "already have an item from account 'infatuation_london' in this digest",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-24",
+    "subject": "Straker NYC Soho",
+    "url": "https://wheresthebuzz.substack.com/p/wheres-the-buzz-new-york-city-november",
+    "reason": "already a featured moment in dedup list ('strakers nyc soho opening, first us outpost of london restaurant, october 10 2026') \u2014 cannot repeat",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-24",
+    "subject": "Norte NYC Flatiron Mexican steakhouse",
+    "url": "https://wheresthebuzz.substack.com/p/wheres-the-buzz-new-york-city-november",
+    "reason": "source URL already sent (in already-sent URLs list); no separate single-subject article retrieved \u2014 dropped to avoid using the same roundup URL",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-24",
+    "subject": "Osteria Panzano Belgravia (Arjun Waney)",
+    "url": "https://www.hot-dinners.com/Features/Articles/coming-soon-new-restaurants-opening-in-london",
+    "reason": "opens Nov 25 (tomorrow) not today; no post exists yet; roundup URL only \u2014 not a valid lead",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-24",
+    "subject": "B. Penhale Smithfield (Camille team)",
+    "url": "https://www.hot-dinners.com/2026091615369/Gastroblog/Latest-news/b-penhale-smithfield-farringdon-camille-team-restaurant",
+    "reason": "opened Nov 16, 8 days ago \u2014 still within 14-day window but weaker timeliness vs Ralphie's/Schofield's (both yesterday); dropped to avoid padding with a less timely item when today already has two stronger same-city leads",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-24",
+    "subject": "Thanksgiving NYC roundup guides",
+    "url": "https://roamrecs.com/guide/best-restaurants-open-thanksgiving-nyc",
+    "reason": "roundup/guide format \u2014 cannot use as lead per rules; used hauteliving single-subject instead for the Thanksgiving Eve post_idea",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-24",
+    "subject": "Dearbros omurice pop-up reopens NYC",
+    "url": "https://www.diningandcooking.com/2890738/nyc-restaurant-news-november-2026/",
+    "reason": "roundup article, no single-subject URL; moment is midtown midweek pop-up \u2014 not visually scroll-stopping enough and no post permalink found",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-24",
+    "subject": "Dusty Knuckle Finsbury Park cafe",
+    "url": "https://www.hot-dinners.com/2026060115325/Gastroblog/Latest-news/dusty-knuckle-finsbury-park-blackstock-road",
+    "reason": "opened Nov 9, 15 days ago \u2014 just outside freshness window; also a bakery cafe not a destination restaurant, weaker desire/FOMO fit for ResX",
     "source_type": "researched"
   }
 ]
