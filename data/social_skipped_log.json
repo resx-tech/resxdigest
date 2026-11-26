@@ -428,5 +428,56 @@
     "url": "https://www.hot-dinners.com/2026060115325/Gastroblog/Latest-news/dusty-knuckle-finsbury-park-blackstock-road",
     "reason": "opened Nov 9, 15 days ago \u2014 just outside freshness window; also a bakery cafe not a destination restaurant, weaker desire/FOMO fit for ResX",
     "source_type": "researched"
+  },
+  {
+    "date": "2026-11-26",
+    "subject": "Ralphie's Belgravia day 3",
+    "url": "https://www.hot-dinners.com/2026101515452/Gastroblog/Latest-news/tom-booton-ralphies-restaurant-belgravia-london",
+    "reason": "Already featured as 'day two' in the already-featured moments list \u2014 no new named development to justify a second appearance today",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-26",
+    "subject": "Osteria Panzano Belgravia opening",
+    "url": "https://www.hot-dinners.com/2026102115462/Gastroblog/Latest-news/osteria-manzano-arjun-waney-tuscan-italian-restaurant-belgravia",
+    "reason": "Opening is tomorrow (Nov 27) but the announcement article is 36 days old \u2014 no fresh post found, would report posted_days_ago 999, fails freshness test",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-26",
+    "subject": "The Poet / New London Museum opening",
+    "url": "https://www.hot-dinners.com/2026091815375/Gastroblog/Latest-news/the-poet-pub-sune-team-smithfield-london-museum",
+    "reason": "Opening Nov 30 is genuinely exciting but original announcement article is 69 days old; no fresh post permalink found within 14-day window",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-26",
+    "subject": "Mariah Carey festive pop-up bar London",
+    "url": "https://thenudge.com/london-restaurants-opening-soon/",
+    "reason": "URL already sent in prior run (in dedup list); could not drill to a fresh single-subject article or post permalink with remaining fetch budget",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-26",
+    "subject": "NYC Thanksgiving restaurant roundups",
+    "url": "https://hauteliving.com/2026/11/best-thanksgiving-dinner-nyc-2026-restaurants/803293/",
+    "reason": "'44 Best Thanksgiving Restaurants' is a roundup guide \u2014 auto-dropped per rules; no single-venue Thanksgiving special surfaced with its own fresh post permalink in budget",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-26",
+    "subject": "Wright Brothers Covent Garden opening",
+    "url": "https://www.hot-dinners.com/2026110415503/Gastroblog/Latest-news/wright-brothers-opening-in-covent-garden",
+    "reason": "Opens Nov 28 (2 days away) \u2014 genuinely exciting but no post exists yet (pre-opening), posted_days_ago 999, fails freshness test",
+    "source_type": "researched"
+  },
+  {
+    "date": "2026-11-26",
+    "pinned_input": "",
+    "subject": "Braai Bird Nunhead",
+    "url": "https://www.hot-dinners.com/2026092115380/Gastroblog/Latest-news/braai-bird-kudu-rotisserie-chicken-nunhead-south-london-restaurant",
+    "reason": "diversity_cap",
+    "detail": "already have an item from account 'hotdinners' in this digest",
+    "source_type": "researched"
   }
 ]
