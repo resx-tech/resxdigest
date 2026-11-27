@@ -411,20 +411,6 @@
     "id": "matane::NYC"
   },
   {
-    "name": "Osteria Panzano",
-    "date": "opens November 27",
-    "blurb": "Arjun Waney's first Italian: Tuscan open-rotisserie restaurant with cheese shop in Belgravia.",
-    "city": "LDN",
-    "website": "https://www.osteria-panzano.com",
-    "instagram_handle": "@osteriapanzano",
-    "instagram_url": "https://www.instagram.com/osteriapanzano",
-    "source_url": "",
-    "category": "watching",
-    "id": "osteria panzano::LDN",
-    "importance_rank": 0,
-    "merged_from": []
-  },
-  {
     "name": "Wright Brothers Covent Garden",
     "date": "opens November 28",
     "blurb": "Oyster and seafood specialist Wright Brothers takes over the old Margot site.",
@@ -465,5 +451,33 @@
     "id": "din tai fung kings cross::LDN",
     "importance_rank": 3,
     "merged_from": []
+  },
+  {
+    "name": "Coniglio's Di Napoli",
+    "date": "opens Winter 2026",
+    "blurb": "Red-sauce Italian from Lucky Charlie's owner Nino Coniglio, with coal-oven pizza and bone-in chicken parm.",
+    "city": "NYC",
+    "website": "",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "source_url": "https://greenpointers.com/2026/04/08/owner-of-williamsburg-pizza-opening-coniglios-di-napoli-in-williamsburg/",
+    "category": "watching",
+    "importance_rank": 0,
+    "merged_from": [],
+    "id": "coniglios di napoli::NYC"
+  },
+  {
+    "name": "Aba-Ra Soho",
+    "date": "opens November/December 2026",
+    "blurb": "Georgian restaurant from Brick Lane expanding to Wardour Street with a new Soho menu.",
+    "city": "LDN",
+    "website": "",
+    "instagram_handle": "",
+    "instagram_url": "",
+    "source_url": "https://www.hot-dinners.com/Features/Articles/coming-soon-new-restaurants-opening-in-london",
+    "category": "watching",
+    "importance_rank": 0,
+    "merged_from": [],
+    "id": "aba-ra soho::LDN"
   }
 ]

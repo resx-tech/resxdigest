@@ -1,89 +1,5 @@
 [
   {
-    "key": "https://hospitalitytech.com/yelp-adds-opentable-booking-ai-assistant-deploys-voice-bots-query-restaurant-host-stands",
-    "date": "2026-10-26",
-    "headline": "Yelp embeds OpenTable booking, deploys outbound call agent",
-    "detail": "Yelp Assistant books via OpenTable; voice bot calls restaurants for wait times",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.nrn.com/restaurant-technology/olo-launches-restaurant-ordering-app-with-promise-of-lower-prices",
-    "date": "2026-10-26",
-    "headline": "Olo goes direct-to-consumer with commission-free app",
-    "detail": "250+ brands, 40M users, flat 5% fee; no restaurant commission",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.nrn.com/casual-dining/gen-korean-bbq-restaurants-will-all-be-rebranded-or-converted-under-new-ownership",
-    "date": "2026-10-26",
-    "headline": "Gen Korean \u2192 Chubby Cattle: Nov 1 first handover confirmed",
-    "detail": "12 locations transfer Nov 1; rebranding as Gen X or Chubby concepts confirmed",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.nrn.com/mergers-acquisitions/landry-s-to-acquire-most-of-fireman-hospitality-group-concepts-in-bankruptcy-auction",
-    "date": "2026-10-26",
-    "headline": "Landry's wins Fireman Group NYC bankruptcy, $22M",
-    "detail": "Caf\u00e9 Fiorello, Trattoria Dell'Arte, Bond 45 acquired; court approved",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.prnewswire.com/news-releases/heidi-klum-and-butterfinger-celebrate-25-years-of-halloween-magic-with-third-consecutive-year-as-title-sponsor-302894469.html",
-    "date": "2026-10-26",
-    "headline": "Heidi Klum \u00d7 Butterfinger Pizza at Crazy Pizza SoHo",
-    "detail": "Dessert collab live all October at 218 Lafayette; Klum is restaurant partner.",
-    "so_what": ""
-  },
-  {
-    "key": "https://resy.com/cities/new-york-ny/venues/le-chene",
-    "date": "2026-10-26",
-    "headline": "Le Ch\u00eane Four-Hands: Chef Duch\u00eane, Oct 29",
-    "detail": "West Village French-NYC spot hosts one-night guest chef collab on Resy.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.elevenmadisonpark.com/stories/sourcing-with-urbani-truffles",
-    "date": "2026-10-26",
-    "headline": "EMP \u00d7 Urbani: One-Night White Truffle Dinner, Oct 29",
-    "detail": "Daniel Humm's plant-based EMP hosts single-night truffle tasting; tickets via Resy.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.joiabattersea.co.uk/whats-on/",
-    "date": "2026-10-26",
-    "headline": "JOIA Rooftop Closes Season on Bonfire Night, Nov 7",
-    "detail": "Battersea Power Station rooftop final party: Switch Disco DJ, paella, \u00a325pp.",
-    "so_what": ""
-  },
-  {
-    "key": "https://halloween-nyc.com/",
-    "date": "2026-10-26",
-    "headline": "53rd Village Halloween Parade: Saturday Night, Oct 31",
-    "detail": "Parade on 6th Ave at 7pm; West Village restaurants and bars are booking out now.",
-    "so_what": ""
-  },
-  {
-    "key": "https://www.unite.ai/moonshot-ai-releases-kimi-k3-1-pro-first-model-in-new-k3-1-series/",
-    "date": "2026-10-26",
-    "headline": "Kimi K3.1 Pro: open-weight, 33% cheaper, top coding agent",
-    "detail": "Moonshot releases 2.8T MoE model, beats GPT-6 Astra on Terminal-Bench",
-    "so_what": "Route Node agent coding calls to K3.1 Pro on OpenRouter \u2014 same tier as Opus 5.5, 33% cheaper; open weights drop Nov 4"
-  },
-  {
-    "key": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-    "date": "2026-10-26",
-    "headline": "1Password for Agents: credential auth without exposing passwords",
-    "detail": "Agents request logins via digital key; user approves; password never leaves vault",
-    "so_what": "Use it now \u2014 free on existing plan; stops team agents from storing Firebase or staging credentials in chat context"
-  },
-  {
-    "key": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "date": "2026-10-26",
-    "headline": "OpenAI Decisions API now GA: 100\u2013180ms typed answers",
-    "detail": "POST /v1/decisions returns choice/probability/score; 400 questions per request, $0.10/M",
-    "so_what": "Drop into Node booking-intent classifier today \u2014 10\u00d7 faster than Responses API, output tokens free, no custom routing logic needed"
-  },
-  {
     "key": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
     "date": "2026-10-30",
     "headline": "DoorDash Acquires Instacart, $17B Deal Confirmed",
@@ -677,5 +593,96 @@
     "headline": "Stripe open-sources eval harness for coding agents",
     "detail": "Stripe evals: 69 payment scenarios; agents pass only 29% of full criteria runs.",
     "so_what": "Run Forge against your Node/Stripe integration now \u2014 catch agent-written payment bugs before they hit prod."
+  },
+  {
+    "key": "https://www.startupdaily.net/topic/business/ordering-platform-meu-exits-to-opentable-for-450-million/",
+    "date": "2026-11-27",
+    "headline": "OpenTable acquires me&u for $450M, adding AI-native order-pay-CRM stack",
+    "detail": "Announced Nov 24; me&u runs 1M+ weekly orders across AU, NZ, UK, US with QR ordering, voice AI guest marketing, event and table management. Standalone division under OpenTable; CEO Kim Teo stays. H1 2027 close, subject to regulatory approval. Follows OpenTable's April acquisition of Canadian platform Libro \u2014 third M&A move in 12 months.",
+    "so_what": ""
+  },
+  {
+    "key": "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control/",
+    "date": "2026-11-27",
+    "headline": "Meta Muse UK launches with OpenTable as connector",
+    "detail": "Muse live Nov 24 in UK; OpenTable one of two global booking connectors at launch.",
+    "so_what": "OpenTable is now a named default booking surface inside the UK's highest-profile consumer AI agent launch of 2026. Every UK diner who uses Muse to find a table gets routed through OpenTable first. This isn't just an AI experiment \u2014 it's an exclusive distribution channel embedded in a product with M&S, Sainsbury's, and easyJet as co-launch partners. For ResX, the question is concrete: when a London diner asks Muse to book dinner, what happens to restaurants not on OpenTable? This is the Google Maps circa 2010 problem. The platform that owns the agent connector owns the first booking."
+  },
+  {
+    "key": "https://news.europawire.eu/prosus-ventures-and-dashmote-identify-opportunity-for-ai-agents-in-fragmented-restaurant-technology-market/eu-press-release/2026/11/26/11/14/06/189623/",
+    "date": "2026-11-27",
+    "headline": "Prosus Ventures signals investment in restaurant-AI connector software",
+    "detail": "Nov 26 report: 64% of bookable European restaurants have no online booking at all.",
+    "so_what": "Prosus (owner of Just Eat Takeaway) published a global reservation-fragmentation map and explicitly named AI-agent connectivity as its next investment target in restaurant tech. VC funding in the space has recovered from $1B in 2023 to $2.2B through September 2026. The report's finding that up to one-in-five bookable European restaurants is accessible only through a single platform, and 64% have no online booking, is the clearest public data yet on the size of the unseated market. For ResX, this is both a competitive signal (a well-capitalized investor is now actively funding companies solving this exact problem) and a market-size proof point for internal prioritization."
+  },
+  {
+    "key": "https://www.nrn.com/restaurant-technology/tech-tracker-opentable-to-acquire-australia-s-me-u",
+    "date": "2026-11-27",
+    "headline": "Square and SpotOn both ship operator AI agents in November",
+    "detail": "Squaremates (Nov 12) and SpotOn SAM (Nov 17): conversational guest/labor data inside POS dashboards.",
+    "so_what": "Two major POS providers launched operator-facing AI agents within five days of each other \u2014 both giving restaurant operators natural-language access to their own sales, labor, and guest data. This is the POS layer building the intelligence stack that reservation platforms could also own. If Square and SpotOn become where operators ask questions about their guest behavior, the reservation platform's CRM and analytics features become a secondary tool rather than a primary one. ResX should watch whether these agents start surfacing reservation data \u2014 if SpotOn SAM can answer 'which nights are my slowest,' the next question is 'how do I fill them,' and that's currently a reservation platform question."
+  },
+  {
+    "key": "https://abcnews.com/GMA/Food/free-pizza-night-pre-thanksgiving-food-deals/story?id=138385872",
+    "date": "2026-11-27",
+    "headline": "Blackbird runs $1M Pizza Night national campaign",
+    "detail": "FlyCard acquisition push: $25 pizza credit to new signups on Thanksgiving Eve nationwide.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.musicbusinessworldwide.com/live-experiences-platform-speakeasy-backed-by-yamahas-music-fund-raises-18-8m-series-a/",
+    "date": "2026-11-27",
+    "headline": "Speakeasy closes $18.8M Series A",
+    "detail": "VMG Technology leads; expands ticketing-reservations-payments-CRM stack to 45+ cities.",
+    "so_what": ""
+  },
+  {
+    "key": "https://pulse2.com/tasted-raises-6-5-million-and-launches-restaurant-discovery-app-in-los-angeles/",
+    "date": "2026-11-27",
+    "headline": "TASTED raises $6.5M, launches in LA",
+    "detail": "Social dining discovery app live in Westwood Village; 70+ restaurants; Tasted Card added.",
+    "so_what": ""
+  },
+  {
+    "key": "https://www.manilatimes.net/2026/11/23/tmt-newswire/plentisoft/sparqlist-sets-november-23-new-york-city-launch-for-local-discovery-and-creator-collaborations/2476206",
+    "date": "2026-11-27",
+    "headline": "SparqList launches publicly in NYC",
+    "detail": "Local discovery and creator collaboration platform; iPhone app live Nov 23 in NYC.",
+    "so_what": ""
+  },
+  {
+    "key": "https://swaggrabber.com/national-cookie-day-freebies-deals/",
+    "date": "2026-11-27",
+    "headline": "Chip City's National Cookie Day app drop: Dec 4",
+    "detail": "NYC chain's free-cookie-on-app-download offer at 45+ locations; December 4 only.",
+    "so_what": ""
+  },
+  {
+    "key": "https://globetrender.com/2026/11/26/annabels-brings-new-yorks-atomix-london-exclusive-residency/",
+    "date": "2026-11-27",
+    "headline": "Atomix brings 12-seat counter to Mayfair, Dec 19",
+    "detail": "World's #11 restaurant opens Annabel's residency with Dom P\u00e9rignon; precedes 2027 Kiji launch.",
+    "so_what": ""
+  },
+  {
+    "key": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+    "date": "2026-11-27",
+    "headline": "ShellBench: best agents fail 4 in 10 real tasks",
+    "detail": "40.3% of invoice tasks get duplicate payment recommendations from top models",
+    "so_what": "Audit any Node agent touching payments or bookings for safety checks before shipping \u2014 correctness scores alone don't surface financial errors"
+  },
+  {
+    "key": "https://aiweekly.co/alerts/cloudflare-opens-search-for-agents-at-well-knownsearch",
+    "date": "2026-11-27",
+    "headline": "Cloudflare one-toggle makes sites searchable by AI agents",
+    "detail": "/.well-known/search endpoint live Nov 25; free tier, billed Dec 1",
+    "so_what": "If ResX marketing site is on Cloudflare, flip the toggle now before Dec 1 billing \u2014 zero-cost trial window closes in days"
+  },
+  {
+    "key": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "date": "2026-11-27",
+    "headline": "Claude Ship auto-approves GitHub PRs via policy file",
+    "detail": "Three agents review, fix CI, and approve PRs on Team/Enterprise",
+    "so_what": "Enable PR Steward on one repo this sprint \u2014 cuts human review wait on AI-written TypeScript"
   }
 ]
